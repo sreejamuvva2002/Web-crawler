@@ -1,0 +1,23 @@
+# Search provider configuration. Env vars (SEARXNG_URL, TAVILY_API_KEY, ...) supply
+# credentials/endpoints; these flags decide which providers run.
+providers:
+  searxng:
+    enabled: true
+    # engines: "google,bing"   # optional comma-separated upstream engines
+    categories: general
+  ddgs:
+    enabled: false
+  tavily:
+    enabled: false
+  firecrawl:
+    enabled: false
+  mock:
+    enabled: false   # also forced on by SEARCH_MOCK=true
+
+max_results_per_query: 10
+delay_between_queries_sec: 1.0
+language: en
+
+# Stage 3 expansion caps (spec: do not run endless discovery)
+max_queries_per_iteration: 100
+max_entities_per_iteration: 30

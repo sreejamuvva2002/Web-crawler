@@ -1,0 +1,48 @@
+# Single source of truth for the wiki record vocabulary. The Pydantic models in
+# src/validation/wiki_schema.py load and enforce these values.
+
+entity_types:
+  - company
+  - facility
+  - government_program
+  - investment_announcement
+  - supplier_relationship
+  - battery_material
+  - charging_infrastructure
+  - workforce_training
+  - research_center
+  - policy_or_incentive
+
+supply_chain_categories:
+  - vehicle_manufacturing
+  - battery_cell_manufacturing
+  - battery_materials
+  - battery_recycling
+  - power_electronics
+  - thermal_management
+  - charging_infrastructure
+  - automotive_components
+  - logistics
+  - workforce_training
+  - government_support
+  - research_and_development
+  - unknown
+
+# Validation thresholds
+min_confidence_score: 0.3
+evidence_fuzzy_threshold: 85    # rapidfuzz partial_ratio fallback for grounding check
+
+# Entity grouping
+entity_cluster_threshold: 90    # token_sort_ratio for merging canonical names
+entity_review_threshold: 80     # near-misses in [80, 90) flagged needs_review
+
+# Known aliases that pure fuzzy matching cannot merge (acronyms etc.).
+# Keys are canonical names; values are lists of aliases.
+entity_aliases:
+  "Hyundai Motor Group Metaplant America":
+    - "HMGMA"
+    - "Hyundai Metaplant"
+    - "Hyundai Motor Group Metaplant"
+  "SK Battery America":
+    - "SK On"
+    - "SKBA"

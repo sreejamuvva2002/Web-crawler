@@ -1,0 +1,58 @@
+# Query templates for Stage 1 discovery. {company} / {location} / {domain} placeholders
+# are expanded against the seed CSVs by src/discovery/generate_queries.py.
+
+general_queries:
+  - '"Georgia" "electric vehicle" "supplier"'
+  - '"Georgia" "EV supplier"'
+  - '"Georgia" "battery manufacturer"'
+  - '"Georgia" "battery materials"'
+  - '"Georgia" "electric vehicle manufacturing"'
+  - '"Georgia" "automotive supplier" "EV"'
+  - '"Georgia" "Hyundai Metaplant" "supplier"'
+  - '"Georgia" "Rivian" "supplier"'
+  - '"Georgia" "Kia" "electric vehicle"'
+  - '"Georgia" "EV battery" "jobs"'
+  - '"Georgia" "EV battery" "investment"'
+  - '"Georgia" "charging infrastructure" "company"'
+  - '"Georgia" "electric mobility" "supplier"'
+  - '"Georgia" "battery recycling" "company"'
+  - '"Georgia" "cathode" "battery"'
+  - '"Georgia" "anode" "battery"'
+  - '"Georgia" "electrolyte" "battery"'
+  - '"Georgia" "copper foil" "battery"'
+
+site_query_terms:
+  # expanded as: site:{domain} <term>  for each seed domain marked use_site_queries
+  - '"electric vehicle"'
+  - '"battery"'
+  - '"Hyundai Metaplant"'
+  - '"supplier"'
+  - '"electric mobility"'
+  - '"EV"'
+  - '"jobs" "battery"'
+
+location_query_templates:
+  - '"{location}" "electric vehicle" "supplier"'
+  - '"{location}" "battery" "manufacturing"'
+  - '"{location}" "EV" "supplier"'
+  - '"{location}" "battery" "manufacturer"'
+  - '"{location}" "EV charging" "company"'
+
+company_query_templates:
+  - '"{company}" "Georgia" "electric vehicle"'
+  - '"{company}" "Georgia" "EV"'
+  - '"{company}" "Georgia" "battery"'
+  - '"{company}" "Hyundai Metaplant"'
+  - '"{company}" "Georgia" "supplier"'
+  - '"{company}" "press release" "Georgia"'
+
+# Follow-up templates used by Stage 3 expansion for newly discovered entities.
+followup_company_templates:
+  - '"{company}" "Georgia"'
+  - '"{company}" "Georgia" "EV"'
+  - '"{company}" "Georgia" "battery"'
+  - '"{company}" "supplier" "Georgia"'
+  - '"{company}" "jobs" "Georgia"'
+followup_location_templates:
+  - '"{location}" "Georgia" "EV" "supplier"'
+  - '"{location}" "battery" "manufacturing"'

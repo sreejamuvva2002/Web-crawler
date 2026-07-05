@@ -1,0 +1,8 @@
+# Qwen 235B / vLLM configuration. LLM_BASE_URL, LLM_API_KEY, QWEN_MODEL come from .env.
+temperature: 0.1
+max_tokens: 4096
+request_timeout_sec: 300        # 235B can take minutes per page
+max_retries: 2                  # instructor structured-output repair loop
+max_input_chars: 30000          # truncate page markdown before prompting
+instructor_mode: json           # vLLM-safe; tools mode needs server-side flags
+use_guided_json: true           # pass vLLM extra_body guided_json for guaranteed-valid JSON

@@ -1,0 +1,25 @@
+# core
+python-dotenv>=1.0
+PyYAML>=6.0
+pandas>=2.0
+requests>=2.31
+tenacity>=8.2
+tldextract>=5.0
+rapidfuzz>=3.0
+langdetect>=1.0.9
+
+# search providers (only SearXNG is wired by default; others behind enable flags)
+ddgs>=9.0
+tavily-python>=0.5
+firecrawl-py>=1.0
+
+# crawling
+crawl4ai>=0.6
+
+# LLM + validation
+openai>=1.50
+instructor>=1.5
+pydantic>=2.7
+
+# dev / verification
+pytest>=8.0

@@ -1,0 +1,8 @@
+# Crawl4AI stage configuration.
+max_concurrent: 5
+page_timeout_ms: 30000
+word_count_threshold: 20        # PruningContentFilter minimum block size
+save_html: true
+max_urls_to_crawl: 1000         # env MAX_URLS_TO_CRAWL overrides
+crawl_priorities: [high, medium]  # which frontier priorities get crawled by default
+allowed_content_types: ["text/html"]

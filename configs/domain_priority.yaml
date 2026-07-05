@@ -1,0 +1,66 @@
+# Domain classification for URL prioritization (Stage 2).
+# Patterns are matched as substrings of the registered domain or full host.
+# First match wins, in the order: skip -> high -> medium -> low. Unmatched -> medium.
+
+high_priority:
+  # official government / economic development / county development authorities
+  - ".gov"
+  - "georgia.org"
+  - "georgiaquickstart.org"
+  - "selectgeorgia.com"
+  - "developmentauthority"
+  - "chooseaugusta"
+  - "savannahjda.com"
+  # OEM / large-manufacturer newsrooms
+  - "hyundai.com"
+  - "hyundaimotorgroup.com"
+  - "hyundainews.com"
+  - "kia.com"
+  - "kianewscenter.com"
+  - "rivian.com"
+  - "sk.com"
+  - "skbatteryamerica.com"
+  - "prnewswire.com"
+  - "businesswire.com"
+  - "globenewswire.com"
+
+medium_priority:
+  # state / local / business press and trade publications
+  - "ajc.com"
+  - "savannahnow.com"
+  - "bizjournals.com"
+  - "gpb.org"
+  - "11alive.com"
+  - "wsbtv.com"
+  - "wtoc.com"
+  - "georgiatrend.com"
+  - "electrek.co"
+  - "insideevs.com"
+  - "utilitydive.com"
+  - "canarymedia.com"
+  - "reuters.com"
+  - "apnews.com"
+  - ".edu"
+
+low_priority:
+  - "blogspot."
+  - "wordpress."
+  - "medium.com"
+  - "substack.com"
+  - "indeed.com"
+  - "ziprecruiter.com"
+  - "glassdoor.com"
+  - "simplyhired.com"
+  - "yelp.com"
+  - "pinterest."
+
+# Never crawl; frontier rows get status=rejected (labeled, not deleted — Rule 5).
+skip_domains:
+  - "facebook.com"
+  - "instagram.com"
+  - "twitter.com"
+  - "x.com"
+  - "tiktok.com"
+  - "youtube.com"
+  - "linkedin.com"
+  - "reddit.com"

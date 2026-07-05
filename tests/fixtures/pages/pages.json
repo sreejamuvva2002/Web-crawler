@@ -1,0 +1,37 @@
+[
+  {
+    "page_id": "page_900001",
+    "source_url": "https://gov.georgia.gov/press-releases/ev-battery-materials-plant",
+    "source_title": "Governor announces $200 million EV battery materials plant",
+    "source_domain": "gov.georgia.gov",
+    "markdown_file": "page_900001.md"
+  },
+  {
+    "page_id": "page_900002",
+    "source_url": "https://www.savannahnow.com/business/ascend-elements-covington-battery-recycling",
+    "source_title": "Ascend Elements opens battery recycling facility in Covington",
+    "source_domain": "savannahnow.com",
+    "markdown_file": "page_900002.md"
+  },
+  {
+    "page_id": "page_900003",
+    "source_url": "https://www.ajc.com/news/business/ascend-elements-expansion",
+    "source_title": "Ascend Elements Inc expands Covington operations",
+    "source_domain": "ajc.com",
+    "markdown_file": "page_900003.md"
+  },
+  {
+    "page_id": "page_900004",
+    "source_url": "https://www.example.com/recipes/peach-cobbler",
+    "source_title": "Classic Georgia peach cobbler recipe",
+    "source_domain": "example.com",
+    "markdown_file": "page_900004.md"
+  },
+  {
+    "page_id": "page_900005",
+    "source_url": "https://www.example.com/news/mystery-plant",
+    "source_title": "Mystery plant announcement",
+    "source_domain": "example.com",
+    "markdown_file": "page_900005.md"
+  }
+]

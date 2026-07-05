@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+.ipynb_checkpoints/
+Chat 1.txt
+
+# pipeline outputs (regenerable)
+logs/*.log
+data/urls/*.csv
+data/urls/*.db
+data/urls/*.db-*
+data/crawled/markdown/*
+data/crawled/html/*
+data/wiki/*
+data/exports/*
+!data/input/*.csv

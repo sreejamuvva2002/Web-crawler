@@ -1,0 +1,290 @@
+---
+title: Index
+page_type: index
+---
+
+# Wiki Index
+
+*Auto-generated catalog. 227 entities · 647 facilities · 480 unique sources.*
+
+Start here: [[overview|Corpus overview]] · [[synthesis|Evolving synthesis]] · [[log|Build log]] · [[README|What this wiki is]] · [[CLAUDE|Schema & conventions]]
+
+## Concepts — supply-chain segments
+
+- [[battery-cell-manufacturing|Battery Cell Manufacturing]] — 56 entities
+- [[vehicle-manufacturing|Vehicle Manufacturing]] — 42 entities
+- [[charging-infrastructure|Charging Infrastructure]] — 41 entities
+- [[automotive-components|Automotive Components]] — 25 entities
+- [[battery-materials|Battery Materials]] — 19 entities
+- [[government-support|Government Support]] — 16 entities
+- [[unknown|Uncategorized]] — 9 entities
+- [[battery-recycling|Battery Recycling]] — 5 entities
+- [[power-electronics|Power Electronics]] — 4 entities
+- [[workforce-training|Workforce Training]] — 4 entities
+- [[research-and-development|Research & Development]] — 3 entities
+- [[thermal-management|Thermal Management]] — 2 entities
+- [[logistics|Logistics]] — 1 entities
+
+## Geography — counties
+
+- [[county-bryan-county|Bryan County]] — 24 entities
+- [[county-bartow-county|Bartow County]] — 16 entities
+- [[county-chatham-county|Chatham County]] — 8 entities
+- [[county-coweta-county|Coweta County]] — 8 entities
+- [[county-bulloch-county|Bulloch County]] — 6 entities
+- [[county-jackson-county|Jackson County]] — 5 entities
+- [[county-troup-county|Troup County]] — 4 entities
+- [[county-laurens-county|Laurens County]] — 3 entities
+- [[county-richmond-county|Richmond County]] — 3 entities
+- [[county-decatur-county|Decatur County]] — 2 entities
+- [[county-fulton-county|Fulton County]] — 2 entities
+- [[county-harris-county|Harris County]] — 2 entities
+- [[county-candler-county|Candler County]] — 2 entities
+- [[county-jasper-morgan-newton-walton-county|Jasper, Morgan, Newton, Walton County]] — 2 entities
+- [[county-newton-county|Newton County]] — 2 entities
+- [[county-effingham-county|Effingham County]] — 2 entities
+- [[county-walton-county|Walton County]] — 2 entities
+- [[county-whitfield-county|Whitfield County]] — 2 entities
+- [[county-toombs-county|Toombs County]] — 1 entities
+- [[county-henry-county|Henry County]] — 1 entities
+- [[county-gordon-county|Gordon County]] — 1 entities
+- [[county-stephens-county|Stephens County]] — 1 entities
+- [[county-liberty-county|Liberty County]] — 1 entities
+- [[county-bacon-county|Bacon County]] — 1 entities
+- [[county-morgan-newton-walton-county|Morgan, Newton, Walton County]] — 1 entities
+- [[county-clayton-county|Clayton County]] — 1 entities
+- [[county-emanuel-county|Emanuel County]] — 1 entities
+- [[county-morgan-county-walton-county|Morgan County; Walton County]] — 1 entities
+- [[county-gwinnett-county|Gwinnett County]] — 1 entities
+- [[county-fayette-county|Fayette County]] — 1 entities
+- [[county-bradley-county|Bradley County]] — 1 entities
+
+## Entities (A–Z)
+
+- [[absolics|Absolics]] — Power Electronics
+- [[addionics|Addionics]] — Battery Cell Manufacturing
+- [[ajin-georgia|Ajin Georgia]] — Automotive Components
+- [[ajin-industrial|Ajin Industrial]] — Automotive Components
+- [[alternative-fuel-corridors-on-u-s-441-and-u-s-82-georgia|Alternative Fuel Corridors on U.S. 441 and U.S. 82, Georgia]] — Charging Infrastructure
+- [[anovion-technologies|Anovion Technologies]] — Battery Materials
+- [[anovion-tecnologies|Anovion Tecnologies]] — Battery Materials
+- [[apple-inc|Apple Inc.]] — Vehicle Manufacturing
+- [[arcadia-cartersville|Arcadia Cartersville]] — Charging Infrastructure
+- [[archer-aviation|Archer Aviation]] — Vehicle Manufacturing
+- [[ascend-elements|Ascend Elements]] — Battery Recycling
+- [[aspen-aerogels|Aspen Aerogels]] — Automotive Components
+- [[atlanta-2025-ev-readiness-ordinance-25-o-1011|Atlanta 2025 EV Readiness Ordinance (25-O-1011)]] — Government Support
+- [[augusta-georgia-ev-charging-infrastructure|Augusta, Georgia EV Charging Infrastructure]] — Charging Infrastructure
+- [[bainbridge-georgia-ev-charging-stations|Bainbridge, Georgia EV Charging Stations]] — Charging Infrastructure
+- [[bartow-county-georgia|Bartow County, Georgia]] — Government Support
+- [[battery-belt|Battery Belt]] — Vehicle Manufacturing
+- [[battery-resourcers|Battery Resourcers]] — Battery Materials
+- [[battery-resourcers-now-ascend-elements|Battery Resourcers (now Ascend Elements)]] — Battery Recycling
+- [[beibei-jiang|Beibei Jiang]] — Battery Materials
+- [[blueoval-sk-joint-venture|BlueOval SK joint venture]] — Battery Cell Manufacturing
+- [[bojangles|Bojangles]] — Charging Infrastructure
+- [[bolt-energy-usa|Bolt Energy USA]] — Battery Cell Manufacturing
+- [[boring-bros|Boring Bros.]] — Charging Infrastructure
+- [[cartersville-production-location|Cartersville Production Location]] — Charging Infrastructure
+- [[cartersville-solar-panel-facility|Cartersville Solar Panel Facility]] — Uncategorized
+- [[cge-renewables|CGE Renewables]] — Uncategorized
+- [[chatham-county-unified-development-ordinance|Chatham County Unified Development Ordinance]] — Government Support
+- [[chatham-county-georgia|Chatham County, Georgia]] — Charging Infrastructure
+- [[clayco|Clayco]] — Vehicle Manufacturing
+- [[club-car|Club Car]] — Vehicle Manufacturing
+- [[commerce-georgia|Commerce, Georgia]] — Charging Infrastructure
+- [[community-benefits-agreements-cbas|Community Benefits Agreements (CBAs)]] — Government Support
+- [[corridors-of-opportunity-event|Corridors of Opportunity Event]] — Vehicle Manufacturing
+- [[coweta-county-electricity-rates|Coweta County Electricity Rates]] — Government Support
+- [[coweta-fayette-emc-drive-free-for-a-year-plug-in-electric-vehicle-program|Coweta-Fayette EMC Drive Free for A Year Plug-in Electric Vehicle Program]] — Charging Infrastructure
+- [[daesol-ausys|Daesol Ausys]] — Automotive Components
+- [[daesol-ausys-georgia|Daesol Ausys Georgia]] — Automotive Components
+- [[das-corp|DAS Corp.]] — Automotive Components
+- [[development-authority-of-bulloch-county|Development Authority of Bulloch County]] — Government Support
+- [[dongwon-autopart-technology|Dongwon Autopart Technology]] — Battery Materials
+- [[doowon-climate-control-america-inc|Doowon Climate Control America, Inc.]] — Automotive Components
+- [[duckyang-america|Duckyang America]] — Automotive Components
+- [[duckyang-industrial-co-ltd|Duckyang Industrial Co. Ltd]] — Automotive Components
+- [[duracell|Duracell]] — Battery Materials
+- [[duracell-manufacturing-llc|Duracell Manufacturing, LLC]] — Battery Cell Manufacturing
+- [[e-z-go|E-Z-GO]] — Vehicle Manufacturing
+- [[ecoplastic-corporation|Ecoplastic Corporation]] — Automotive Components
+- [[effingham-county-surface-water-treatment-plant|Effingham County Surface Water Treatment Plant]] — Vehicle Manufacturing
+- [[electric-cowboy-battery-plant|Electric Cowboy Battery Plant]] — Battery Cell Manufacturing
+- [[electric-mobility-and-innovation-alliance|Electric Mobility and Innovation Alliance]] — Government Support
+- [[enchem-america-inc|Enchem America Inc.]] — Battery Materials
+- [[enersys-suwanee-facility|EnerSys Suwanee Facility]] — Power Electronics
+- [[envirospark|EnviroSpark]] — Charging Infrastructure
+- [[envirospark-energy-solutions|EnviroSpark Energy Solutions]] — Charging Infrastructure
+- [[express-oil-change-and-tire-engineers|Express Oil Change & Tire Engineers]] — Uncategorized
+- [[fat-boys-golf-carts|Fat Boys Golf Carts]] — Battery Materials
+- [[freyr|Freyr]] — Battery Cell Manufacturing
+- [[freyr-battery|FREYR Battery]] — Battery Cell Manufacturing
+- [[gb2g-inc-also-known-as-allswell|GB2G, Inc. (also known as Allswell)]] — Workforce Training
+- [[gedia-automotive-group|GEDIA Automotive Group]] — Automotive Components
+- [[georgia-u-s-state|Georgia (U.S. state)]] — Government Support
+- [[georgia-department-of-economic-development-gdecd|Georgia Department of Economic Development (GDEcD)]] — Government Support
+- [[georgia-department-of-transportation-ev-charging-infrastructure-plan|Georgia Department of Transportation EV Charging Infrastructure Plan]] — Charging Infrastructure
+- [[georgia-electric-mobility-and-innovation-alliance|Georgia Electric Mobility and Innovation Alliance]] — Uncategorized
+- [[georgia-electric-vehicle-future-act|Georgia Electric Vehicle Future Act]] — Government Support
+- [[georgia-ev-industry-growth|Georgia EV Industry Growth]] — Government Support
+- [[georgia-green-energy-services|Georgia Green Energy Services]] — Charging Infrastructure
+- [[georgia-institute-of-technology|Georgia Institute of Technology]] — Battery Materials
+- [[georgia-manufacturing-charges-regional-battery-industry-growth-c2es-roundtable|Georgia Manufacturing Charges Regional Battery Industry Growth - C2ES Roundtable]] — Uncategorized
+- [[georgia-nevi-ev-charging-infrastructure-funding-program|Georgia NEVI EV Charging Infrastructure Funding Program]] — Charging Infrastructure
+- [[georgia-power|Georgia Power]] — Charging Infrastructure
+- [[georgia-power-company|Georgia Power Company]] — Uncategorized
+- [[georgia-quick-start|Georgia Quick Start]] — Government Support
+- [[georgia-tech-advanced-battery-center|Georgia Tech Advanced Battery Center]] — Research & Development
+- [[georgia-tech-battery-cathode-research-team|Georgia Tech Battery Cathode Research Team]] — Battery Materials
+- [[georgia-undergrounding|Georgia Undergrounding]] — Charging Infrastructure
+- [[global-imports|Global Imports]] — Automotive Components
+- [[go-station|Go-Station]] — Charging Infrastructure
+- [[greentec-recycling|Greentec Recycling]] — Battery Recycling
+- [[hanon-systems|Hanon Systems]] — Thermal Management
+- [[hanwha-qcells-epc|Hanwha Qcells EPC]] — Battery Cell Manufacturing
+- [[harper-electrical-contractors|Harper Electrical Contractors]] — Charging Infrastructure
+- [[hl-ga-battery-co|HL-GA Battery Co.]] — Battery Cell Manufacturing
+- [[hl-ga-battery-company|HL-GA Battery Company]] — Battery Cell Manufacturing
+- [[hometown-electric|Hometown Electric]] — Charging Infrastructure
+- [[hsagp-energy-llc|HSAGP Energy LLC]] — Battery Cell Manufacturing
+- [[hsbma-battery-manufacturing-america|HSBMA Battery Manufacturing America]] — Battery Cell Manufacturing
+- [[hussey-gay-bell|Hussey Gay Bell]] — Vehicle Manufacturing
+- [[hwashin-co-ltd|Hwashin Co., Ltd.]] — Automotive Components
+- [[hyatt-place-augusta|Hyatt Place Augusta]] — Charging Infrastructure
+- [[hyundai-battery-plant-georgia|Hyundai Battery Plant (Georgia)]] — Battery Cell Manufacturing
+- [[hyundai-electric-vehicle-battery-plant-metaplant|Hyundai electric vehicle battery plant (Metaplant)]] — Battery Cell Manufacturing
+- [[hyundai-electric-vehicle-factory-georgia|Hyundai Electric Vehicle Factory (Georgia)]] — Vehicle Manufacturing
+- [[hyundai-ev-assembly-plant|Hyundai EV Assembly Plant]] — Vehicle Manufacturing
+- [[hyundai-ev-manufacturing-facility|Hyundai EV Manufacturing Facility]] — Vehicle Manufacturing
+- [[hyundai-ev-plant-bryan-county|Hyundai EV Plant - Bryan County]] — Vehicle Manufacturing
+- [[hyundai-georgia-ev-plant|Hyundai Georgia EV Plant]] — Vehicle Manufacturing
+- [[hyundai-metaplant|Hyundai Metaplant]] — Vehicle Manufacturing
+- [[hyundai-mobility-training-center|Hyundai Mobility Training Center]] — Workforce Training
+- [[hyundai-mobility-training-center-of-georgia|Hyundai Mobility Training Center of Georgia]] — Workforce Training
+- [[hyundai-mobis|Hyundai Mobis]] — Power Electronics
+- [[hyundai-motor-company|Hyundai Motor Company]] — Vehicle Manufacturing
+- [[hyundai-motor-company-ev-plant-savannah-georgia|Hyundai Motor Company - EV Plant, Savannah, Georgia]] — Vehicle Manufacturing
+- [[hyundai-motor-company-georgia-ev-plant|Hyundai Motor Company Georgia EV Plant]] — Vehicle Manufacturing
+- [[hyundai-motor-group|Hyundai Motor Group]] — Vehicle Manufacturing
+- [[hyundai-motor-group-and-lg-energy-solution-battery-cell-joint-venture|Hyundai Motor Group & LG Energy Solution Battery Cell Joint Venture]] — Battery Cell Manufacturing
+- [[hyundai-motor-group-and-lg-energy-solution-battery-cell-manufacturing-joint-venture-metaplant|Hyundai Motor Group & LG Energy Solution Battery Cell Manufacturing Joint Venture (Metaplant)]] — Battery Cell Manufacturing
+- [[hyundai-motor-group-and-lg-energy-solution-joint-venture|Hyundai Motor Group & LG Energy Solution Joint Venture]] — Battery Cell Manufacturing
+- [[hyundai-motor-group-and-sk-on-battery-cell-plant|Hyundai Motor Group & SK On Battery Cell Plant]] — Battery Cell Manufacturing
+- [[hyundai-motor-group-and-sk-on-battery-manufacturing-facility|Hyundai Motor Group & SK On Battery Manufacturing Facility]] — Battery Cell Manufacturing
+- [[hyundai-motor-group-and-sk-on-battery-plant|Hyundai Motor Group & SK On Battery Plant]] — Battery Cell Manufacturing
+- [[hyundai-motor-group-and-sk-on-ev-battery-facility|Hyundai Motor Group & SK On EV Battery Facility]] — Battery Cell Manufacturing
+- [[hyundai-motor-group-and-sk-on-ev-battery-manufacturing-facility-bartow-centre|Hyundai Motor Group & SK On EV Battery Manufacturing Facility (Bartow Centre)]] — Battery Cell Manufacturing
+- [[hyundai-motor-group-and-sk-on-joint-venture|Hyundai Motor Group & SK On Joint Venture]] — Battery Cell Manufacturing
+- [[hyundai-motor-group-and-lg-energy-solution-battery-cell-manufacturing-jv|Hyundai Motor Group and LG Energy Solution Battery Cell Manufacturing JV]] — Battery Cell Manufacturing
+- [[hyundai-motor-group-and-sk-on-joint-venture-2|Hyundai Motor Group and SK On Joint Venture]] — Battery Cell Manufacturing
+- [[hyundai-motor-group-electric-vehicle-manufacturing-facility-savannah-georgia|Hyundai Motor Group Electric Vehicle Manufacturing Facility (Savannah, Georgia)]] — Vehicle Manufacturing
+- [[hyundai-motor-group-georgia-ev-and-battery-manufacturing-facility|Hyundai Motor Group Georgia EV and Battery Manufacturing Facility]] — Vehicle Manufacturing
+- [[hyundai-motor-group-metaplant-america|Hyundai Motor Group Metaplant America]] — Vehicle Manufacturing
+- [[hyundai-motor-group-metaplant-america-hmgma|Hyundai Motor Group Metaplant America (HMGMA)]] — Battery Cell Manufacturing
+- [[hyundai-motor-group-savannah-electric-vehicle-manufacturing-facility|Hyundai Motor Group Savannah Electric Vehicle Manufacturing Facility]] — Vehicle Manufacturing
+- [[hyundai-motor-group-vehicle-battery-plant|Hyundai Motor Group Vehicle Battery Plant]] — Battery Cell Manufacturing
+- [[hyundai-motor-groups-meta-plant-america|Hyundai Motor Group’s Meta Plant America]] — Battery Cell Manufacturing
+- [[hyundai-transys|Hyundai Transys]] — Automotive Components
+- [[hyundai-lg-battery-plant|Hyundai-LG Battery Plant]] — Battery Cell Manufacturing
+- [[hyundai-lg-energy|Hyundai-LG Energy]] — Battery Cell Manufacturing
+- [[hyundai-lg-energy-solution-battery-plant|Hyundai-LG Energy Solution Battery Plant]] — Battery Cell Manufacturing
+- [[hyundai-sk-on-battery-plant|Hyundai-SK On Battery Plant]] — Battery Cell Manufacturing
+- [[hyundai-sk-on-joint-venture|Hyundai-SK On Joint Venture]] — Battery Cell Manufacturing
+- [[hyundaimotor-company|HyundaiMotor Company]] — Vehicle Manufacturing
+- [[ifm-energy|IFM Energy]] — Charging Infrastructure
+- [[ionna|IONNA]] — Charging Infrastructure
+- [[jackson-county-economic-development-alliance|Jackson County Economic Development Alliance]] — Government Support
+- [[jon-ossoff|Jon Ossoff]] — Battery Cell Manufacturing
+- [[joon-georgia|Joon Georgia]] — Automotive Components
+- [[k-and-d-electric|K&D Electric]] — Charging Infrastructure
+- [[kia|Kia]] — Vehicle Manufacturing
+- [[kia-georgia|Kia Georgia]] — Vehicle Manufacturing
+- [[kia-motors|Kia Motors]] — Vehicle Manufacturing
+- [[kia-motors-manufacturing-georgia|Kia Motors Manufacturing Georgia]] — Vehicle Manufacturing
+- [[kia-sportage|Kia Sportage]] — Vehicle Manufacturing
+- [[la-regina-atlantica|La Regina Atlantica]] — Uncategorized
+- [[lagrange-georgia-ev-charging-infrastructure|LaGrange, Georgia EV Charging Infrastructure]] — Charging Infrastructure
+- [[lagrange-georgia-ev-charging-stations|LaGrange, Georgia EV Charging Stations]] — Charging Infrastructure
+- [[lg-energy-solution-and-hyundai-ev-battery-plant|LG Energy Solution & Hyundai EV Battery Plant]] — Battery Cell Manufacturing
+- [[lg-energy-solution-vertech|LG Energy Solution Vertech]] — Battery Cell Manufacturing
+- [[lotte-energy-materials-corp|Lotte Energy Materials Corp.]] — Battery Materials
+- [[lovejoy-capital-llc|Lovejoy Capital LLC]] — Charging Infrastructure
+- [[matthew-mcdowell-s-lab|Matthew McDowell's Lab]] — Battery Materials
+- [[meag-power|MEAG Power]] — Government Support
+- [[meta|Meta]] — Uncategorized
+- [[mister-sparky|Mister Sparky]] — Charging Infrastructure
+- [[mr-electric|Mr. Electric]] — Charging Infrastructure
+- [[mse-supplies|MSE Supplies]] — Battery Materials
+- [[neovolta-power-llc|NeoVolta Power, LLC]] — Battery Cell Manufacturing
+- [[nvh-korea|NVH Korea]] — Battery Cell Manufacturing
+- [[olympus-recycling|Olympus Recycling]] — Battery Materials
+- [[orbia-solvay-joint-venture|Orbia-Solvay Joint Venture]] — Battery Materials
+- [[oyakhire-lab|Oyakhire Lab]] — Research & Development
+- [[ozburn-electrical-contractors-inc|Ozburn Electrical Contractors, Inc.]] — Charging Infrastructure
+- [[pha|PHA]] — Automotive Components
+- [[porter-logistics-savannah-battery-warehouse|Porter Logistics Savannah Battery Warehouse]] — Logistics
+- [[power-solutions-inc|Power Solutions Inc.]] — Charging Infrastructure
+- [[powerworks-electric|PowerWorks Electric]] — Charging Infrastructure
+- [[prba|PRBA]] — Battery Recycling
+- [[project-phoenix|Project Phoenix]] — Battery Cell Manufacturing
+- [[proterra|Proterra]] — Vehicle Manufacturing
+- [[q-cells|Q CELLS]] — Charging Infrastructure
+- [[qcells|Qcells]] — Uncategorized
+- [[qmerit|Qmerit]] — Charging Infrastructure
+- [[racetrac|RaceTrac]] — Charging Infrastructure
+- [[reliable-heating-and-air|Reliable Heating & Air]] — Charging Infrastructure
+- [[richard-franza|Richard Franza]] — Research & Development
+- [[rivian|Rivian]] — Vehicle Manufacturing
+- [[rivian-automotive|Rivian Automotive]] — Vehicle Manufacturing
+- [[rivian-ev-manufacturing-plant|Rivian EV Manufacturing Plant]] — Vehicle Manufacturing
+- [[rivian-ev-plant-georgia|Rivian EV Plant (Georgia)]] — Vehicle Manufacturing
+- [[rivian-horizon-llc|Rivian Horizon, LLC]] — Vehicle Manufacturing
+- [[rivian-manufacturing-facility-stanton-springs-industrial-park|Rivian Manufacturing Facility - Stanton Springs Industrial Park]] — Vehicle Manufacturing
+- [[rivian-stanton-springs-ev-manufacturing-plant|Rivian Stanton Springs EV Manufacturing Plant]] — Vehicle Manufacturing
+- [[rivian-stanton-springs-ev-plant|Rivian Stanton Springs EV Plant]] — Vehicle Manufacturing
+- [[rivian-s-georgia-plant|Rivian's Georgia Plant]] — Vehicle Manufacturing
+- [[savannah-economic-development-authority|Savannah Economic Development Authority]] — Workforce Training
+- [[select-georgia|Select Georgia]] — Government Support
+- [[seohan-auto-georgia-corporation|Seohan Auto Georgia Corporation]] — Automotive Components
+- [[seojin-mobility|Seojin Mobility]] — Automotive Components
+- [[seoyon-e-hwa-mfg-savannah|Seoyon E Hwa Mfg. Savannah]] — Automotive Components
+- [[seoyon-e-hwa|Seoyon E-HWA]] — Automotive Components
+- [[sewon-america|Sewon America]] — Automotive Components
+- [[shinsung-petrochemical|Shinsung Petrochemical]] — Automotive Components
+- [[sk-battery-america|SK Battery America]] — Battery Cell Manufacturing
+- [[sk-innovation-battery|SK Innovation Battery]] — Battery Cell Manufacturing
+- [[sk-innovation-co-ltd|SK Innovation Co., Ltd.]] — Battery Cell Manufacturing
+- [[sk-innovation-georgia-battery-plant|SK Innovation Georgia Battery Plant]] — Battery Cell Manufacturing
+- [[sk-on|SK On]] — Battery Cell Manufacturing
+- [[sk-on-and-hyundai-battery-plant|SK On & Hyundai Battery Plant]] — Battery Cell Manufacturing
+- [[sk-on-and-hyundai-motor-group-battery-manufacturing-joint-venture|SK On and Hyundai Motor Group Battery Manufacturing Joint Venture]] — Battery Cell Manufacturing
+- [[sk-on-and-hyundai-motor-group-joint-venture|SK On and Hyundai Motor Group Joint Venture]] — Battery Cell Manufacturing
+- [[sk-on-battery-manufacturing-facility|SK On Battery Manufacturing Facility]] — Battery Cell Manufacturing
+- [[sk-on-hyundai-motor-group-battery-plant|SK On-Hyundai Motor Group Battery Plant]] — Battery Cell Manufacturing
+- [[smith-and-sons-electrical-services-llc|Smith & Sons Electrical Services LLC]] — Charging Infrastructure
+- [[solvay-battery-grade-pvdf-manufacturing-facility|Solvay Battery-Grade PVDF Manufacturing Facility]] — Battery Materials
+- [[solvay-specialty-polymers|Solvay Specialty Polymers]] — Battery Materials
+- [[southern-power-generators|Southern Power Generators]] — Charging Infrastructure
+- [[stanton-springs-north-ev-plant|Stanton Springs North EV Plant]] — Vehicle Manufacturing
+- [[storion-energy|Storion Energy]] — Battery Materials
+- [[stryten-energy-llc|Stryten Energy LLC]] — Battery Materials
+- [[sungeel-recycling-park-georgia-llc|SungEel Recycling Park Georgia, LLC]] — Battery Recycling
+- [[sunmax-tech|Sunmax Tech]] — Power Electronics
+- [[tanger-commerce|Tanger Commerce]] — Charging Infrastructure
+- [[teklas|TEKLAS]] — Automotive Components
+- [[the-duracell-company|The Duracell Company]] — Battery Cell Manufacturing
+- [[the-ray|The Ray]] — Charging Infrastructure
+- [[toyo-tire-north-america-manufacturing-inc|Toyo Tire North America Manufacturing Inc.]] — Automotive Components
+- [[trojan-battery-company|Trojan Battery Company]] — Battery Cell Manufacturing
+- [[troup-county-georgia|Troup County, Georgia]] — Vehicle Manufacturing
+- [[u-s-battery-manufacturing-augusta-inc|U S Battery Manufacturing Augusta Inc]] — Battery Cell Manufacturing
+- [[u-s-battery-manufacturing-co|U.S. Battery Manufacturing Co.]] — Battery Cell Manufacturing
+- [[u-s-battery-manufacturing-of-augusta|U.S. Battery Manufacturing of Augusta]] — Battery Cell Manufacturing
+- [[u-s-battery-mfg-augusta-inc|U.S. Battery Mfg. Augusta Inc.]] — Battery Cell Manufacturing
+- [[unleashing-american-energy|Unleashing American Energy]] — Government Support
+- [[vinfast|VinFast]] — Vehicle Manufacturing
+- [[volkswagen-ag|Volkswagen AG]] — Battery Cell Manufacturing
+- [[west-point-visitor-information-center-solar-powered-ev-charging-station|West Point Visitor Information Center Solar-Powered EV Charging Station]] — Charging Infrastructure
+- [[woody-industrial-co-ltd|Woody Industrial Co., Ltd.]] — Thermal Management
+- [[woory-industrial|Woory Industrial]] — Automotive Components

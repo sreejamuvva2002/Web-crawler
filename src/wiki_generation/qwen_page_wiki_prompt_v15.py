@@ -1,7 +1,7 @@
-"""Stage 5's page-level prompt - v14 (hybrid: JSON wrapper + flat fact list).
+"""Stage 5's page-level prompt - v15 (hybrid: JSON wrapper + flat fact list).
 
-v14 optimizes for *recall / no lost meaning*. Instead of forcing every fact into
-rigid sub-fields (facilities/investment/jobs/...) as v13 does, v14 keeps only a
+v15 optimizes for *recall / no lost meaning*. Instead of forcing every fact into
+rigid sub-fields (facilities/investment/jobs/...) as v13 does, v15 keeps only a
 light identity wrapper (entity name + type + category) plus one exhaustive flat
 ``facts`` list of self-contained bullet strings. Nothing gets squeezed into or
 dropped by a schema; each fact is captured verbatim with its numbers, names,
@@ -15,7 +15,15 @@ and quick recall comparison against the v13 samples.
 
 from pydantic import BaseModel, Field
 
-PAGE_WIKI_PROMPT_VERSION = "v14"
+PAGE_WIKI_PROMPT_VERSION = "v15"
+
+
+class Link(BaseModel):
+    """A URL / contact / CTA pulled OUT of the fact text and kept separately, so
+    the main facts list never contains raw links."""
+
+    url: str = ""
+    context: str = ""  # what it points to, e.g. "Careers page", "Company website"
 
 
 class FactRecord(BaseModel):
@@ -26,11 +34,15 @@ class FactRecord(BaseModel):
     entity_type: str = ""
     supply_chain_category: str = ""
     facts: list[str] = Field(default_factory=list)
+    links: list[Link] = Field(default_factory=list)
     # Provenance is stamped from the page input after generation, never trusted
-    # from the model.
+    # from the model. publication_date tells whether the info is fresh or stale;
+    # date_precision records how it was derived (e.g. url_path, meta_tag).
     source_url: str = ""
     source_title: str = ""
     source_domain: str = ""
+    publication_date: str = ""
+    date_precision: str = ""
 
 
 class FactRecordsResponse(BaseModel):
@@ -64,6 +76,12 @@ HOW TO WRITE EACH FACT:
 - Preserve names, dates, amounts, quantities, places, and qualifiers EXACTLY as stated on the page.
 - Attribute quotes and claims to who said them when the page says so.
 - Do not merge several distinct facts into one bullet; do not split one fact so it loses meaning.
+
+LINKS AND CALLS-TO-ACTION (strict):
+Never leave a raw URL, web address, email, phone number, or "visit/apply/see X for more information" call-to-action inside the facts list. Instead:
+- If a sentence contains BOTH a real fact AND a link/CTA: keep the fact in "facts" with the URL removed from the text, and record the URL in the separate "links" list with a short context. Example: source "The company is still hiring for production, quality, logistics and maintenance roles. Career information can be found at www.example.com." -> facts: "Is still hiring for production, quality, logistics and maintenance roles."; links: {"url": "www.example.com", "context": "Careers page"}.
+- If a sentence is ONLY a link/contact/CTA with no standalone fact: omit it from "facts" entirely (you may still record the URL in "links").
+- The "facts" strings must contain no URLs, email addresses, or phone numbers.
 
 Rules:
 - Return valid JSON only, matching the schema below.
@@ -102,8 +120,11 @@ Return a JSON object with a "records" array using this schema:
       "entity_type": "",
       "supply_chain_category": "",
       "facts": [
-        "First project-relevant fact, verbatim numbers and qualifiers.",
+        "First project-relevant fact, verbatim numbers and qualifiers (no URLs).",
         "Second fact ..."
+      ],
+      "links": [
+        {"url": "", "context": ""}
       ],
       "source_url": "",
       "source_title": "",

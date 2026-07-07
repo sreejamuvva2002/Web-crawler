@@ -15,17 +15,27 @@ OUT_PATH = EXPORTS_DIR / "fine_tuning_candidates.jsonl"
 
 def build_examples(entity: dict) -> list[dict]:
     name = entity.get("canonical_name", "")
-    summary = (entity.get("summary") or "").strip()
+    overview = (entity.get("overview") or "").strip()
     sources = [s.get("source_url", "") for s in entity.get("sources", []) if s.get("source_url")]
-    if not name or not summary or not sources:
+    if not name or not overview or not sources:
         return []
 
-    source_line = f" Source: {sources[0]}"
+    # Anchor every target in time so the model doesn't learn a dated announcement
+    # as a present-tense fact. currency flags how fresh that information is.
+    currency = (entity.get("currency") or "").strip()
+    pub_range = (entity.get("publication_date_range") or "").strip()
+    temporal_bits = []
+    if pub_range:
+        temporal_bits.append(f"as of {pub_range}")
+    if currency and currency != "fresh":
+        temporal_bits.append(f"currency: {currency}")
+    temporal = f" ({'; '.join(temporal_bits)})" if temporal_bits else ""
+    source_line = f"{temporal} Source: {sources[0]}"
     examples = [
         {
             "instruction": f"What does {name} do in Georgia's EV supply chain?",
             "input": "",
-            "output": summary + source_line,
+            "output": overview + source_line,
         }
     ]
     locations = entity.get("locations") or []

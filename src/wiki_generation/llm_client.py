@@ -56,8 +56,13 @@ class QwenClient:
     def generate(self, response_model, prompt: str):
         llm = self.settings.llm
         kwargs = {}
+        extra_body = {}
         if llm.get("use_guided_json", True):
-            kwargs["extra_body"] = {"guided_json": response_model.model_json_schema()}
+            extra_body["guided_json"] = response_model.model_json_schema()
+        if not llm.get("enable_thinking", True):
+            extra_body["think"] = False
+        if extra_body:
+            kwargs["extra_body"] = extra_body
         return self.client.chat.completions.create(
             model=self.model_name,
             messages=[{"role": "user", "content": prompt}],
@@ -120,13 +125,14 @@ class MockQwenClient:
             entity_type="spaceship" if bad else "company",
             entity_name=entity,
             canonical_name=entity,
-            summary=f"{entity} is involved in Georgia EV supply-chain activity per the source page.",
+            title=entity,
+            overview=f"{entity} is involved in Georgia EV supply-chain activity per the source page.",
             location="Georgia",
             state="Georgia",
             country="United States",
             ev_relevance=f"{entity} is connected to EV supply-chain activity in Georgia.",
             supply_chain_category="warp_drives" if bad else "battery_materials",
-            products_or_services=["battery materials"],
+            details="battery materials",
             source_url=source_url,
             source_title=source_title,
             source_domain=source_domain,
@@ -151,7 +157,8 @@ class MockQwenClient:
         return EntityWikiProfile(
             canonical_name=canonical,
             entity_type=entity_type_match.group(1) if entity_type_match else "company",
-            summary=f"{canonical} profile merged from {len(sources)} source record(s).",
+            title=canonical,
+            overview=f"{canonical} profile merged from {len(sources)} source record(s).",
             locations=["Georgia"],
             supply_chain_categories=["battery_materials"],
             sources=sources,

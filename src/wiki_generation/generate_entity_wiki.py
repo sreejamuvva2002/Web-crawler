@@ -12,6 +12,11 @@ from src.common.cli import build_parser
 from src.common.config import WIKI_DIR, ensure_data_dirs, load_settings
 from src.common.io_utils import append_jsonl, iter_jsonl, read_jsonl
 from src.common.logging_setup import get_logger
+from src.validation.validate_wiki_records import (
+    clean_related_organizations,
+    normalize_entity,
+    stamp_entity_currency,
+)
 from src.validation.wiki_schema import EntitySource, EntityWikiProfile
 from src.wiki_generation.llm_client import LLMError, get_llm_client
 from src.wiki_generation.qwen_entity_merge_prompt import build_merge_prompt
@@ -22,21 +27,46 @@ GROUPS_PATH = WIKI_DIR / "entity_groups.jsonl"
 ENTITIES_RAW_PATH = WIKI_DIR / "wiki_entities_raw.jsonl"
 ENTITIES_FAILED_PATH = WIKI_DIR / "wiki_entities_failed.jsonl"
 
-_STAMP_FIELDS = ("wiki_id", "page_id", "generated_by_model", "generation_date", "validation_status")
+# Stripped from the per-record merge input: pipeline stamps plus the computed
+# temporal fields (date_precision/currency/as_of). publication_date and
+# claim_status are intentionally KEPT so the model can carry them into sources.
+_STAMP_FIELDS = (
+    "wiki_id",
+    "page_id",
+    "generated_by_model",
+    "generation_date",
+    "validation_status",
+    "date_precision",
+    "currency",
+    "as_of",
+)
 
 
-def _restore_dropped_sources(profile: EntityWikiProfile, records: list[dict]) -> int:
+def _restore_and_reconcile_sources(profile: EntityWikiProfile, records: list[dict]) -> int:
+    """Restore any source the model dropped AND overwrite every source's
+    publication_date/claim_status from the authoritative page records by url —
+    provenance and dates are never trusted from the merge model."""
+    by_url = {r.get("source_url", ""): r for r in records if r.get("source_url")}
     present = {s.source_url for s in profile.sources}
+    for source in profile.sources:
+        record = by_url.get(source.source_url)
+        if record:
+            source.publication_date = (record.get("publication_date") or "").strip()
+            source.claim_status = (record.get("claim_status") or "").strip()
+            if record.get("evidence_snippets") and not source.evidence_snippets:
+                source.evidence_snippets = list(record.get("evidence_snippets") or [])
     restored = 0
-    for record in records:
-        url = record.get("source_url", "")
-        if url and url not in present:
+    for url, record in by_url.items():
+        if url not in present:
             profile.sources.append(
                 EntitySource(
                     source_url=url,
                     source_title=record.get("source_title", ""),
                     source_domain=record.get("source_domain", ""),
+                    publication_date=(record.get("publication_date") or "").strip(),
+                    claim_status=(record.get("claim_status") or "").strip(),
                     evidence_text=record.get("evidence_text", ""),
+                    evidence_snippets=list(record.get("evidence_snippets") or []),
                 )
             )
             present.add(url)
@@ -105,13 +135,17 @@ def main() -> None:
         for alias in (*group["aliases"], group["canonical_name"]):
             if alias and alias not in profile.aliases and alias != profile.canonical_name:
                 profile.aliases.append(alias)
-        restored = _restore_dropped_sources(profile, group["records"])
+        restored = _restore_and_reconcile_sources(profile, group["records"])
         if restored:
-            profile.notes = (profile.notes + " " if profile.notes else "") + (
+            profile.details = (profile.details + "; " if profile.details else "") + (
                 f"auto-restored {restored} source(s) dropped by the merge model"
             )
-
+        # Drop any related-link chrome and stamp deterministic temporal aggregates
+        # so the raw entity already carries currency/range/claim_status.
         stored = profile.model_dump()
+        clean_related_organizations(stored)
+        normalize_entity(stored, settings)
+        stamp_entity_currency(stored, settings, as_of=today)
         stored.update(
             {
                 "group_id": group["group_id"],

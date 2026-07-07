@@ -4,6 +4,7 @@
 entity_types:
   - company
   - facility
+  - joint_venture
   - government_program
   - investment_announcement
   - supplier_relationship
@@ -12,6 +13,8 @@ entity_types:
   - workforce_training
   - research_center
   - policy_or_incentive
+  - event
+  - person
 
 supply_chain_categories:
   - vehicle_manufacturing
@@ -28,8 +31,38 @@ supply_chain_categories:
   - research_and_development
   - unknown
 
+# Status of an entity/project as represented on a single source page.
+# announced / under_construction / operational are the only values a per-page
+# extraction may emit. cancelled / superseded are reserved for a later
+# cross-source reconciliation step or manual override — never from one page.
+claim_statuses:
+  - announced
+  - under_construction
+  - operational
+  - cancelled
+  - superseded
+
+# Deterministic freshness buckets computed from publication_date vs as_of (today).
+# The LLM never emits or judges these. Records with no publication_date -> undated.
+currency_buckets:
+  - fresh
+  - aging
+  - stale
+  - undated
+
+# Age thresholds (months) for the currency buckets above:
+#   age < fresh_max_months            -> fresh
+#   fresh_max_months <= age < stale_min_months -> aging
+#   age >= stale_min_months           -> stale
+staleness:
+  fresh_max_months: 12
+  stale_min_months: 24
+
 # Validation thresholds
 min_confidence_score: 0.3
+# Raw/pre-validation records are capped here: 1.0 is reserved for records that
+# have cleared validation + grounding, so an extraction alone never claims 1.0.
+max_pre_validation_confidence: 0.95
 evidence_fuzzy_threshold: 85    # rapidfuzz partial_ratio fallback for grounding check
 
 # Entity grouping

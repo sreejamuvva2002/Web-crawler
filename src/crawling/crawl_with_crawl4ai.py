@@ -14,6 +14,7 @@ from src.common.columns import CRAWL_METADATA_COLUMNS
 from src.common.config import CRAWLED_DIR, ensure_data_dirs, load_settings
 from src.common.io_utils import append_csv_dicts, read_csv_dicts
 from src.common.logging_setup import get_logger
+from src.crawling.publication_date import extract_publication_date
 from src.crawling.save_markdown import content_hash, detect_language, page_id_for, save_page
 from src.frontier.frontier_manager import Frontier
 
@@ -128,6 +129,8 @@ def main() -> None:
             "word_count": 0,
             "char_count": 0,
             "is_duplicate_content": "false",
+            "publication_date": "",
+            "date_precision": "none",
             "notes": "",
         }
 
@@ -155,6 +158,9 @@ def main() -> None:
             duplicate = digest in seen_hashes
             seen_hashes.add(digest)
             metadata = getattr(result, "metadata", None) or {}
+            pub_date, date_precision = extract_publication_date(
+                url=row["url"], metadata=metadata, html=html
+            )
             meta.update(
                 {
                     "crawl_status": "success",
@@ -167,6 +173,8 @@ def main() -> None:
                     "word_count": len(markdown.split()),
                     "char_count": len(markdown),
                     "is_duplicate_content": str(duplicate).lower(),
+                    "publication_date": pub_date,
+                    "date_precision": date_precision,
                     "notes": f"content_sha1={digest}",
                 }
             )

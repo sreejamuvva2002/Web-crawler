@@ -53,5 +53,12 @@ CRAWL_METADATA_COLUMNS = [
     "is_duplicate_content",
     "notes",
 ]
+# NOTE: publication_date / date_precision are intentionally NOT added here yet.
+# The crawl loop is live and its in-flight batch uses the 16-column schema; adding
+# columns mid-run corrupts crawl_metadata.csv. The crawler already extracts the
+# publication date (crawl_with_crawl4ai.py) but append_csv_dicts drops those keys
+# via extrasaction="ignore" until these two columns are re-added during a clean,
+# fully-stopped crawl restart. Until then, publication dates reach Stage 5 via the
+# backfill sidecar (data/crawled/publication_dates.csv).
 
 DOMAIN_SUMMARY_COLUMNS = ["domain", "url_count", "priority", "sample_titles"]

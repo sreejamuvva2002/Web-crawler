@@ -14,6 +14,11 @@ from src.common.cli import build_parser
 from src.common.config import PAGE_INPUTS_DIR, WIKI_DIR, ensure_data_dirs, load_settings
 from src.common.io_utils import append_jsonl, iter_jsonl
 from src.common.logging_setup import get_logger
+from src.validation.validate_wiki_records import (
+    clean_related_organizations,
+    normalize_record,
+    stamp_currency,
+)
 from src.validation.wiki_schema import PageRecordsResponse, PageWikiRecord, make_wiki_id
 from src.wiki_generation.llm_client import LLMError, get_llm_client
 from src.wiki_generation.qwen_page_wiki_prompt import build_prompt
@@ -61,7 +66,7 @@ def main() -> None:
         page_id = page_input["page_id"]
         try:
             response: PageRecordsResponse = client.generate(
-                PageRecordsResponse, build_prompt(page_input)
+                PageRecordsResponse, build_prompt(page_input, settings)
             )
         except Exception as exc:  # noqa: BLE001 - per-page isolation
             log.warning("page=%s generation failed: %s", page_id, exc)
@@ -91,8 +96,16 @@ def main() -> None:
             record.source_url = page_input.get("source_url", "")
             record.source_title = page_input.get("source_title", "")
             record.source_domain = page_input.get("source_domain", "")
+            # Provenance + publication date are stamped from the page input, never
+            # trusted from the model; currency is then computed deterministically.
+            record.publication_date = (page_input.get("publication_date") or "").strip()
+            record.date_precision = (page_input.get("date_precision") or "none").strip()
             record.wiki_id = make_wiki_id(record.source_url, record.entity_name, record.evidence_text)
-            records.append(record.model_dump())
+            data = record.model_dump()
+            clean_related_organizations(data)
+            normalize_record(data, settings)
+            stamp_currency(data, settings)
+            records.append(data)
 
         append_jsonl(RAW_PATH, records)
         append_jsonl(PROCESSED_PATH, [{"page_id": page_id, "record_count": len(records)}])

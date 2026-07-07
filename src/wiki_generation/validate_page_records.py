@@ -14,7 +14,12 @@ from src.common.io_utils import read_jsonl, write_jsonl
 from src.common.logging_setup import get_logger
 from src.validation.check_source_grounding import is_grounded
 from src.validation.remove_duplicate_facts import dedupe_records
-from src.validation.validate_wiki_records import validate_page_record
+from src.validation.validate_wiki_records import (
+    clean_related_organizations,
+    normalize_record,
+    stamp_currency,
+    validate_page_record,
+)
 
 log = get_logger("wiki_generation.validate_page_records", "validation.log")
 
@@ -45,6 +50,11 @@ def main() -> None:
     markdown_cache: dict[str, str] = {}
     passed, failed = [], []
     for record in records:
+        # Idempotent: retro-clean related-link chrome and (re)stamp the
+        # deterministic currency bucket for records generated before these landed.
+        clean_related_organizations(record)
+        normalize_record(record, settings)
+        stamp_currency(record, settings)
         reasons = validate_page_record(record, settings)
         if "missing_evidence" not in reasons:
             page = _page_markdown(record.get("page_id", ""), markdown_cache)

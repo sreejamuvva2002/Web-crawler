@@ -1,0 +1,12 @@
+{
+  "prompt_version": "v15",
+  "model": "qwen3.6:35b-a3b",
+  "base_url": "http://127.0.0.1:11433/v1",
+  "shard": "3/8",
+  "assigned": 3156,
+  "ran_now": 3156,
+  "records_this_run": 1190,
+  "facts_this_run": 21492,
+  "failures_this_run": 41,
+  "generated": "2026-07-08"
+}

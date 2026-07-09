@@ -1,0 +1,49 @@
+---
+title: "Novelis"
+entity_type: company
+supply_chain_category: automotive_components
+page_id: page_047428
+publication_date: 2022-05-11
+source_url: https://resource-recycling.com/recycling/2022/05/11/novelis-unveils-plans-for-2-5b-aluminum-recycling-plant/
+generated_from: v15 single-page extraction (pre Stage-6 merge)
+---
+
+# Novelis
+
+**Type:** company  ·  **Role:** automotive_components  ·  **Published:** 2022-05-11
+
+**Source:** [Novelis unveils plans for $2.5B aluminum recycling plant - Resource Recycling](https://resource-recycling.com/recycling/2022/05/11/novelis-unveils-plans-for-2-5b-aluminum-recycling-plant/)  ·  `page_047428`
+
+## Facts
+
+- Novelis announced on May 11 it will build an aluminum recycling and rolling facility in Bay Minette, Ala.
+- The facility will utilize renewable energy and have an initial production capacity of 600,000 metric tons of finished aluminum goods per year.
+- The $2.5 billion plant will be the first fully integrated aluminum mill built in the U.S. in four decades.
+- Novelis is currently the largest U.S. recycler of used beverage cans (UBCs).
+- Novelis sees strong demand from customers for flat-rolled sheet for aluminum beverage cans based on the recyclability of the metal packaging.
+- Ball Corporation is a customer for Novelis’ flat-rolled can sheet.
+- Ron Lewis, Ball’s chief operating officer for global beverage packaging, stated that decarbonizing the value chain is fundamental to creating a circular economy in the aluminum industry and that Novelis’ new plant will add domestic production of sustainable aluminum while decreasing carbon footprint.
+- Globally, Novelis can currently recycle 82 billion aluminum cans a year.
+- The Bay Minette project is expected to begin coming on-line in mid-2025.
+- The project will expand Novelis’ global recycling capacity to about 97 billion cans a year, an increase of about 18%.
+- Novelis’ annual report filed May 11 notes the Atlanta-based company is experiencing greater demand for can sheet partly because beverage brands are moving from plastic and glass to aluminum packaging.
+- Reasons for the shift include recyclability, ease of drink filling, shipping efficiency, metal’s gas and light barrier properties and more.
+- Over half the capacity of the new facility will be used to produce aluminum beverage can sheet for North American markets.
+- Because of the alloys in them, UBCs are most often recycled into new cans, as opposed to automotive or construction materials.
+- The remainder of the plant’s capacity will produce aluminum sheet for automakers, which are increasingly using the material to reduce weight and improve fuel efficiency.
+- Novelis’ recycled content during the 2022 fiscal year averaged 57%, down from 61% during the prior fiscal year, largely due to reduced scrap inputs impacted by supply chain disruption and logistical challenges.
+- In terms of weight of recovered metal, Novelis purchased or tolled over 2.2 million tons of recycled metal during the 2022 fiscal year.
+- Novelis has been working to develop circular economies for aluminum through state and federal public policies, as well as through partnerships with customers and other stakeholders on new approaches that encourage and incentivize U.S. consumers to recycle more often.
+- In November, Novelis backed a Can Manufacturers Institute (CRI) announcement that the industry would fund lobbyists to push lawmakers to support container deposit laws.
+- Other stakeholders behind the campaign are aluminum sheet suppliers Constellium, Kaiser Aluminum and Tri-Arrows Aluminum, and beverage can manufacturers Ardagh Metal Packaging, Canpack, Crown Holdings and Envases.
+- Steve Fisher, president and CEO of Novelis, noted the greenfield development in Bay Minette, which is not far from the city of Mobile on the Gulf Coast, will be capable of future expansion beyond 600,000 metric tons of production capacity.
+- The plant aims to be carbon neutral for Scope 1 and Scope 2 greenhouse gas emissions.
+- Environmental features include being primarily powered by renewable energy, using recycled water, diverting waste from landfill, utilizing rail transportation, and employing technologies such as artificial intelligence, augmented reality and robotics.
+- The plant is expected to create up to 1,000 jobs.
+- Site work is now under way, with commissioning expected to start in mid-2025.
+- Novelis already has recycling operations at 15 of its plants globally and runs seven recycling operations in the U.S. that re-melt post-consumer aluminum and recycled process material, mostly derived from UBCs and automotive scrap.
+- The largest North American end market for Novelis’ products is beverage can sheet.
+- Novelis recently announced a $130 million project to boost recycling capabilities at its Oswego, N.Y. plant.
+- Novelis announced plans to build a $365 million recycling facility in Guthrie, Ky. focused on recycled aluminum scrap generated by the production of automotive components.
+- Novelis is a subsidiary of Hindalco Industries Limited, a metals company owned by Mumbai, India-based conglomerate Aditya Birla Group.
+- The 2022 fiscal year report noted that Novelis shipped a total of 4.08 million metric tons of product and tallied net sales of $17.1 billion last year, up 6% and 40%, respectively, from the year before.

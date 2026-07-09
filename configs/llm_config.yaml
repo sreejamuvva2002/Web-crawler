@@ -1,6 +1,6 @@
 # Qwen 235B / vLLM configuration. LLM_BASE_URL, LLM_API_KEY, QWEN_MODEL come from .env.
 temperature: 0.1
-max_tokens: 16384
+max_tokens: 32768
 request_timeout_sec: 300        # 235B can take minutes per page
 max_retries: 2                  # instructor structured-output repair loop
 max_input_chars: 30000          # truncate page markdown before prompting

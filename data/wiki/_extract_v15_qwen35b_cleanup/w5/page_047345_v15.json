@@ -1,0 +1,69 @@
+[
+  {
+    "entity_name": "Novelis Inc.",
+    "canonical_name": "Novelis Inc.",
+    "entity_type": "company",
+    "supply_chain_category": "battery_materials",
+    "facts": [
+      "Novelis Inc. is a leading sustainable aluminum solutions provider and the world leader in aluminum rolling and recycling.",
+      "Q4 FY2025 net income attributable to common shareholders was $294 million, up 77% YoY.",
+      "Q4 FY2025 adjusted EBITDA was $473 million, down 8% YoY but up 29% QoQ.",
+      "Q4 FY2025 rolled product shipments were 957 kilotonnes, up 1% YoY.",
+      "Full FY2025 net income attributable to common shareholders was $683 million, up 14% YoY.",
+      "Full FY2025 adjusted EBITDA was $1.8 billion, down 4% YoY.",
+      "Full FY2025 rolled product shipments were 3,757 kilotonnes, up 2% YoY.",
+      "Novelis maintained the recycled content of its products at 63% in fiscal 2025.",
+      "Q4 FY2025 net sales increased 13% to $4.6 billion, driven by higher average aluminum prices and a 1% increase in total rolled product shipments.",
+      "Higher demand for beverage packaging, aerospace, and specialty products was partially offset by lower automotive shipments in Q4 FY2025.",
+      "Full FY2025 net sales increased 6% to $17.1 billion, driven by higher average aluminum prices and a 2% increase in total flat rolled product shipments.",
+      "The increase in full year shipments is mainly due to record high beverage packaging shipments and higher shipments for aerospace products, partially offset by lower shipments of specialties and automotive products.",
+      "Fiscal 2025 net cash flow provided by operating activities was $1.0 billion compared to $1.3 billion in the prior fiscal year.",
+      "Adjusted Free Cash Flow was an outflow of $737 million in fiscal 2025 compared to a prior year period outflow of $75 million.",
+      "Fiscal year 2025 capital expenditures totaled $1.7 billion, reflecting planned increases in strategic, sustainability-focused capital investment projects supporting increased long-term customer demand.",
+      "In January 2025, Novelis issued $750 million in senior unsecured notes due January 2030, primarily used to repay outstanding borrowings under its ABL revolver.",
+      "In March 2025, the company borrowed $1.25 billion of term loans maturing in March 2032, primarily used to repay previously issued term loans due in 2026 and 2028.",
+      "The company had a net leverage ratio of 2.9x at the end of Q4 FY2025.",
+      "Total liquidity stood at $2.8 billion as of March 31, 2025, consisting of $1.0 billion in cash and cash equivalents and $1.7 billion in availability under committed credit facilities.",
+      "Novelis is a subsidiary of Hindalco Industries Limited, an industry leader in aluminum and copper, and the metals flagship company of the Aditya Birla Group, a multinational conglomerate based in Mumbai.",
+      "Novelis' ambition is to be the leading provider of low-carbon, sustainable aluminum solutions and to achieve a fully circular economy by partnering with suppliers and customers in aerospace, automotive, beverage packaging, and specialties industries throughout North America, Europe, Asia, and South America.",
+      "Restructuring and impairment expenses for the twelve months ended March 31, 2025 include $21 million related to the closure of the Buckhannon, West Virginia plant.",
+      "Steve Fisher is president and CEO of Novelis Inc.",
+      "Dev Ahuja is executive vice president and CFO of Novelis Inc.",
+      "Adjusted EBITDA per tonne shipped was $494 in Q4 FY2025 (down 9% YoY) and $480 for full FY2025 (down 6% YoY).",
+      "Net income excluding special items was $262 million in Q4 FY2025 (up 46% YoY) and $764 million for full FY2025 (up 11% YoY).",
+      "Novelis is working on implementing actions and technologies to expand scrap input types to mitigate scrap cost challenges.",
+      "Novelis is highly focused on optimizing its cost structure and increasing operational efficiency to drive continuing margin improvements."
+    ],
+    "links": [
+      {
+        "url": "novelis.com/investors",
+        "context": "Investor relations page"
+      },
+      {
+        "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=Q4tFEHr6",
+        "context": "Live webcast for Q4 FY2025 earnings"
+      },
+      {
+        "url": "http://services.incommconferencing.com/DiamondPassRegistration/register?confirmationNumber=13753396&linkSecurityString=1df1a26f6c",
+        "context": "Telephone registration for earnings call"
+      },
+      {
+        "url": "novelis.com",
+        "context": "Company website"
+      },
+      {
+        "url": "https://www.prnewswire.com/news-releases/novelis-reports-fourth-quarter-and-full-fiscal-year-2025-results-302452258.html",
+        "context": "Original press release multimedia"
+      }
+    ],
+    "source_url": "https://investors.novelis.com/news-events/press-releases/detail/1393/novelis-reports-fourth-quarter-and-full-fiscal-year-2025-results",
+    "source_title": "Novelis Reports Fourth Quarter and Full Fiscal Year 2025 Results :: Novelis Inc.",
+    "source_domain": "novelis.com",
+    "publication_date": "2025-05-12",
+    "date_precision": "body_dateline",
+    "page_id": "page_047345",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

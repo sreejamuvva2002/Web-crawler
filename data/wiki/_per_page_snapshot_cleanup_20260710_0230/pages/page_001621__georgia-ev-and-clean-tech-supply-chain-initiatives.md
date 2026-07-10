@@ -1,0 +1,47 @@
+---
+title: "Georgia EV and Clean-Tech Supply Chain Initiatives"
+entity_type: investment_announcement
+supply_chain_category: government_support
+page_id: page_001621
+publication_date: 2025-02-21
+source_url: https://acecomments.mu.nu/?post=413757
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Georgia EV and Clean-Tech Supply Chain Initiatives
+
+**Type:** investment_announcement  ·  **Role:** government_support  ·  **Published:** 2025-02-21
+
+**Source:** [THE MORNING RANT: Taxpayer-Subsidized “Clean Tech” Ventures in Support of the “EV Transition” Are Starting to Fold](https://acecomments.mu.nu/?post=413757)  ·  `page_001621`
+
+## Facts
+
+- Early in the Biden administration, an EV bubble reached its apex with Southern Republican governors seeking to establish EV plants and supplier networks in Dixie.
+- Under Governor Brian Kemp (R), Georgia became ground zero for the EV hype, with Kemp described as more committed to the EV agenda than any other governor.
+- The Biden administration steered significant government money to EV-adjacent promoters, shifting company focus from revenue to securing grants, incentives, and loans.
+- Aspen Aerogels announced plans in early 2022 to build a massive plant near Savannah that would employ 250 people and produce thermal barriers to suppress EV fires.
+- Construction on the Aspen Aerogels plant was cancelled after the company ceased work on the partially built factory, jeopardizing the promised 250 jobs.
+- Governor Kemp and Georgia leaders provided taxpayer dollars to incentivize Aspen Aerogels to build the plant for an industry that did not yet exist.
+- Aspen Aerogels never turned a profit over four full years, accumulating losses of $187 million, with its stock down 85% from its 2021 peak.
+- Aspen Aerogels executives announced during an investor call that construction on the 500,000-square-foot factory near Register (about 12 miles outside Statesboro) is indefinitely halted.
+- The Aspen Aerogels factory broke ground and received approval for a $671 million federal loan last fall as part of a flurry of clean tech financing approved in the waning months of the Biden administration.
+- Freyr Battery scrapped its multi-billion dollar plant plans that were intended to employ 700 Georgians.
+- In a 2024 interview, Freyr Battery's CEO stated the company’s purpose is to decarbonize transportation and storage systems by making sustainable batteries.
+- The planned Freyr factory would have built batteries to store renewable electricity and release it later, and would have been the second-largest battery factory worldwide when announced in 2023.
+- Freyr Battery, a startup founded in 2018, never began construction on its 368-acre site.
+- The Georgia Department of Economic Development conveyed a $7 million grant to Freyr Battery to purchase a site in Newnan, about 35 miles southwest of Atlanta.
+- Department spokesperson Jessica Atwell stated the state and company are working together to ensure the grant money is repaid expeditiously.
+- Freyr Battery lost $83 million through the first three quarters of its current fiscal year and combined losses of $173 million over the previous two full years.
+- Freyr Battery's stock price collapsed by 85% since its peak in 2022.
+- Rivian's Georgia plant, which was supposed to begin building electric vehicles by 2024, remains an empty field.
+- Rivian continues to receive financial support from the Biden administration and Volkswagen but has no path to profitability, reporting a $4.7 billion loss for fiscal year end 2024 compared to a $5.4 billion loss the prior year.
+- Rivian's annual sales have plateaued at approximately 50,000 units, aided by Biden-era tax incentives that are likely ending soon.
+- Rivian's existing plant in Normal, IL has a capacity of over 200,000 units per year, making it impossible for the empty Georgia field to produce the promised 400,000 vehicles per year.
+- Governor Kemp provided Rivian with over a billion dollars in incentives back in 2021.
+- Rivian's stock is down 92% from its peak.
+- Novonix, located in Tennessee, received significant hype and taxpayer money as a promised graphite supplier for the EV manufacturing industry.
+- Novonix's website states it is developing innovative technologies and materials for the EV and energy storage industries, with full production now targeted for 2028.
+- Novonix claims to have a proprietary synthetic graphite process currently scaling commercial production while simultaneously requesting property tax incentives and announcing major layoffs.
+- Novonix leaders asked the Chattanooga City Council to support a $54 million net tax incentive deal while laying off about a fifth of its Chattanooga-area employees.
+- Novonix lost $28 million through the first two quarters of its current fiscal year after losing $46 million in the previous full year, with its stock collapsing 94% since peaking after its 2022 public offering.
+- Novonix's CPA warned that financial conditions give rise to material uncertainty casting significant doubt over the company's ability to continue as a going concern.

@@ -1,0 +1,49 @@
+---
+title: "Continental AG"
+entity_type: company
+supply_chain_category: automotive_components
+page_id: page_018650
+publication_date: 1871-10-08
+source_url: https://en.wikipedia.org/wiki/Continental_AG
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Continental AG
+
+**Type:** company  ·  **Role:** automotive_components  ·  **Published:** 1871-10-08
+
+**Source:** [Continental AG - Wikipedia](https://en.wikipedia.org/wiki/Continental_AG)  ·  `page_018650`
+
+## Facts
+
+- Continental AG is a German multinational manufacturing company headquartered in Hanover, Lower Saxony.
+- Following the spin-off of its automotive technology division as Aumovio in 2025, Continental now focuses on two core businesses: Tires and ContiTech (rubber and thermoplastic products for industrial customers).
+- The divisions Chassis and Safety, Powertrain, Interior and ADAS belonged to the Automotive segment, which was spun off as Vitesco (2021) and Aumovio (2025).
+- ContiTech is earmarked for sale in 2026.
+- Continental sells tires for automobiles, motorcycles, and bicycles worldwide under the Continental brand.
+- Continental also produces and sells other brands with more select distribution, such as Viking, General Tire (U.S./Canada), Gislaved Tires (Canada, Spain, Nordic Markets), Semperit Tyres, Barum to serve EU and Russia, Uniroyal (Europe), Sportiva, Mabor and Matador.
+- Continental's customers include all major automobile, truck and bus producers, such as Volkswagen, Mercedes-Benz Group, BharatBenz, Ford, Volvo, Iveco, Schmitz, Koegel, Freightliner Trucks, BMW, General Motors, Toyota, Honda, Renault, Stellantis (ex-PSA) and Porsche.
+- The headquarters for North and South American tire divisions is located in the Charlotte metropolitan area at Lancaster County, South Carolina, United States (with a Fort Mill, South Carolina mailing address).
+- In 2011, Continental Tire the Americas announced that it would build a plant in Sumter, South Carolina.
+- The Sumter, South Carolina plant will cost about US$500million and employ 1,600 workers by 2020.
+- In February 2016, Continental Tire the Americas announced that it would build a Commercial Tire plant in Clinton, Mississippi.
+- The Clinton, Mississippi plant will have an investment totaling approximately US$1.4billion and employ 2,500 people when the plant reaches full capacity in the next decade.
+- In October 2016, Continental Tire the Americas purchased Hoosier Racing Tire.
+- Continental has a research and development arm in Silicon Valley where the company focuses on developing technologies supporting autonomous driving vehicles.
+- In April 2016, Continental AG together with Honda's U.S. subsidiary, were honored with the 2016 Automotive News PACE Innovation Partnership Award for the Bidirectional Long Range Communications (BLRC) System.
+- The BLRC Radio Frequency Device helps the car user to operate a remote control key fob from more than half a kilometer away, to start the engine and climate control function, while receiving feedback from the vehicle.
+- The Radio Frequency System, powered by a single standard coin cell, and an innovative vehicle-mounted RF transceiver, was developed together by Honda and Continental, and was debuted on the Acura MDX in 2013 and was quickly followed by the Acura TLX and Acura RLX in 2014.
+- In 2015, Continental AG was honored with two PACE Awards for its Bare Die High-Density-Interconnect (BD-HDI) Printed Circuit Board Substrate Technology for Transmission Electronics and its Multi-application Unified Sensor Element (MUSE).
+- In 2018, Continental won a PACE Award for its Digital Micromirror Head-Up Display technology.
+- Along with Audi, Continental also received an Innovation Partnership Award for their Safety Domain Control Unit (SDCU).
+- In 2020, Continental won an inaugural PACEpilot award for its Virtual A-Pillar technology that helps to eliminate forward blind spots.
+- On 1 January 2026 Christian Kötz was appointed CEO of Continental AG, succeeding Nikolai Setzer (who served until 31 December 2025).
+- In August 2025 Roland Welzbacher was appointed CFO of Continental AG.
+- In February 2026 Continental completed the sale of its OESL business unit.
+- The sale of ContiTech is planned for 2026.
+- Continental Tire entered the North American tire industry with its 1987 purchase of General Tire from GenCorp, Inc., forming Continental General Tire Corp.
+- In 2006, Continental announced that it would cease tire production in Charlotte and close its tire production plant in Mayfield, Kentucky.
+- Continental AG has acquired the American rubber company Veyance Technologies, Inc. based in Fairlawn, Ohio.
+- Veyance will be integrated into the company's ContiTech division, and will serve as the regional home office for ContiTech in North America.
+- The Brazilian antitrust authority Council for Economic Defence (CADE) made it official on 29 January 2015 that the total transition was US$1.6billion.
+- Continental will divest Veyance's NAFTA air springs business in Mexico and its Brazilian steel-cord belting business in response to antitrust concerns, employing about 600 people work in those operations.

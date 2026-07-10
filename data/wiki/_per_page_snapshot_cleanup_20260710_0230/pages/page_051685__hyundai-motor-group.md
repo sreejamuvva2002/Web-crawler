@@ -1,0 +1,99 @@
+---
+title: "Hyundai Motor Group"
+entity_type: company
+supply_chain_category: vehicle_manufacturing
+page_id: page_051685
+publication_date: 2024-04-14
+source_url: https://dickstormprobizblog.org/2024/04/14/am-i-missing-something-on-evs-here-is-an-update-on-hyundais-meta-plant-commitment-to-evs-and-hydrogen-vehicles/
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Hyundai Motor Group
+
+**Type:** company  ·  **Role:** vehicle_manufacturing  ·  **Published:** 2024-04-14
+
+**Source:** [Am I Missing Something on EV’s? Here is an Update on Hyundai’s Meta Plant Commitment to EV’s and Hydrogen Vehicles | Dick Storm's Thoughts on Energy, Education, Economic Prosperity & Environmental Blog](https://dickstormprobizblog.org/2024/04/14/am-i-missing-something-on-evs-here-is-an-update-on-hyundais-meta-plant-commitment-to-evs-and-hydrogen-vehicles/)  ·  `page_051685`
+
+## Facts
+
+- Professor Juanita (Babet) Villena-Alvarez taught a two-part USCB-OLLI course titled “THE KOREAN WAVE 2024 – CHANGING DEMOGRAPHICS OF THE LOWCOUNTRY” covering Hyundai's growth from its founding in 1967.
+- Hyundai has made massive investments in southeast Georgia, located about an hour's drive from Hilton Head.
+- The course aimed to inform and educate local citizens on cultural changes and infrastructure challenges accompanying rapid growth.
+- Georgia Power’s Plant Vogtle is a completed nuclear generating plant located within 100 miles of the Hyundai Motor Group (HMG) Metaplant.
+- Plant Vogtle is now the largest nuclear generating plant in the U.S.
+- Governor Brian Kemp stated that Georgia broke ground on the largest project in state history in a single year.
+- Georgia landed multiple suppliers across the state for Hyundai’s Metaplant.
+- LGES was welcomed to Bryan County.
+- Governor Kemp stated the goal is to make Georgia the e-mobility capital of the nation.
+- Governor Kemp noted major investments provide paychecks, improved schools, and infrastructure to Georgians.
+- Governor Kemp thanked Hyundai Motor Group and LGES for recognizing Georgia as the No. 1 state for business.
+- Hyundai Motor Group (HMG) is a division of the larger Hyundai conglomerate.
+- South Korean firms including Samsung, LG, and SK Battery have invested over $200 billion in plants in the U.S.
+- Hyundai manufactures Hyundai, Kia, and Genesis automobiles.
+- The Hyundai conglomerate also produces steel and shipping equipment.
+- Over 8,100 jobs will be created by HMG in Georgia, with over 14,300 total including supply-chain providers of components.
+- The Panamax capable Port of Savannah will be enlarged with additional new Ship to Shore Cranes.
+- Savannah is already one of the busiest ports in the U.S.
+- The Talmadge Bridge over the Savannah River will be raised to accommodate Panamax Ships.
+- Hyundai is now the #3 world auto manufacturer, after Toyota and VW.
+- HMG plans to build 500,000 vehicles/year at the new GA MetaPlant.
+- BMW produced 412,000 vehicles in 2022 as a comparison point mentioned by the professor.
+- The Hyundai Meta Plant covers almost 3,000 acres off of I-16.
+- Hyundai is partnering with Georgia Tech to collaborate on the use of Hydrogen for future Hydrogen Fuel Cell Vehicles.
+- In August 2023, Hyundai pulled out of China.
+- Hyundai was founded in 1967 by Chung Ju Yung.
+- Founder Chung Ju Yung was born in North Korea.
+- Hyundai Metaplant production line start is scheduled for late 2024.
+- In 2022, Hyundai announced a $5.5 billion investment.
+- Hyundai’s Georgia Meta Plant has a total valuation of $7.6 billion.
+- A February 2024 Georgia Governor press release provided updates on the Hyundai Meta Plant and associated industries.
+- As of February 18, 2024, Hyundai Motor Group solidified its position as the No. 3 automaker in the world.
+- In September 2023, Georgia Tech and Hyundai signed an agreement to collaborate on hydrogen sustainable mobility and workforce development.
+- In February 2023, LA Times reported on competition between Hyundai and Tesla regarding EVs and the IRA.
+- In March 2023, SK Battery and Hyundai announced a joint battery plant in Bartow, GA, to create 3,500 jobs plus an additional $5 billion investment.
+- A June 2023 Atlanta Business Journal update covered the Hyundai Savannah plant and Genesis cars EVs.
+- In April 2023, the Port of Savannah added four heavy lift, ship to shore cranes.
+- In August 2023, the Port received its first shipment for the Metaplant.
+- A January 2023 plan moved forward to raise the Talmadge Bridge clearance and replace cables for larger Panamax ships.
+- In July 2023, The Street reported on Hyundai's competition with Tesla and debuted a Model S Plaid competitor.
+- In August 2023, Bloomberg reported on Hyundai unloading its China assembly plant for $225 million.
+- In July 2023, St. Joseph’s Candler opened a medical center near the new Hyundai Metaplant in Georgia.
+- Hyundai Motor Group and Savannah Technical College signed a memorandum of understanding for a training partnership.
+- Total related investments for the project now stand at $12 billion.
+- Samsung announced plans to invest $200 billion in the U.S.
+- In January 2024, Automotive News reported on Hyundai unloading its China assembly plant.
+- Georgia Power's 2023 IRP was revised in April 2024 to show increased growth of electricity demand.
+
+## Links
+
+- https://www.prnewswire.com/news-releases/hyundai-announces-new-production-start-date-at-metaplant-america-during-hyundai-day-in-georgia-302071754.html — PR on Hyundai Metaplant Start of Production
+- https://www.bryancountynews.com/news/hyundai-metaplant-start-production-line-late-2024/ — Bryan County Business News article on late 2024 production start
+- https://www.reuters.com/business/autos-transportation/hyundai-launch-55-bln-us-ev-plant-new-law-dims-sales-outlook-2022-10-25/ — Reuters article on 2022 $5.5 billion investment announcement
+- https://en.wikipedia.org/wiki/Hyundai_Motor_Group — Hyundai Motor Group Wikipedia page
+- https://www.ajc.com/politics/first-look-what-hyundais-76b-ev-metaplant-will-look-like/GHD2DTB46NCS7JHGK5WTQO6GTY/ — AJC Politics article on $7.6 billion Meta Plant
+- https://www.ajc.com/politics/first-look-what-hyundais-76b-ev-metaplant-will-look-like/GHD2DTB46NCS7JHGK5WTQO6GTY/ — Georgia Governor Press Release Feb 2024 update
+- https://koreajoongangdaily.joins.com/news/2024-02-18/business/industry/Hyundai-Motor-Group-solidifies-position-as-No3-automaker-in-world/1983455 — Korea Business News article on Hyundai becoming #3 automaker
+- https://techtransfercentral.com/2023/09/26/georgia-tech-and-hyundai-to-collaborate-on-hydrogen-sustainable-mobility-and-workforce-development/ — Georgia Tech and Hyundai collaboration on hydrogen vehicles
+- https://www.latimes.com/business/story/2023-02-28/hyundai-kia-ev-ira-biden-ioniq — LA Times article on Hyundai and Tesla competition
+- https://www.globalatlanta.com/sk-hyundai-joint-battery-plant-in-bartow-to-hit-5b-filing-shows/ — Global Atlanta Business News on SK Battery and Hyundai partnership
+- https://www.bizjournals.com/atlanta/news/2023/06/02/hyundai-savannah-plant-genesis-cars-ev.html — Atlanta Business Journal update on Hyundai Plant
+- https://www.ttnews.com/articles/port-savannah-four-cranes — Port of Savannah adds four heavy lift cranes
+- https://www.savannahnow.com/story/business/automotive/2023/08/14/hyundai-georgia-ports-authority-celebrate-for-shipment-for-meteplant/70588197007/ — Port receives first shipment for Metaplant
+- https://www.wtoc.com/2023/01/23/plan-moving-forward-raise-clearance-replace-cables-talmadge-bridge/ — Plan to raise Talmadge Bridge
+- https://www.thestreet.com/electric-vehicles/tesla-rival-hyundai-debuts-model-s-plaid-competitor — The Street article on Hyundai competition with Tesla
+- https://www.georgiapower.com/company/energy-industry/generating-plants/plant-vogtle.html — Georgia Power’s Plant Vogtle info
+- https://www.bloomberg.com/news/articles/2023-08-23/china-s-bustling-car-market-is-a-rare-black-mark-on-hyundai-s-blockbuster-year#xj4y7vzkg — Bloomberg article on Hyundai pulling out of China
+- https://www.wtoc.com/2023/07/10/st-josephscandler-opening-medical-center-new-hyundai-metaplant/ — Hospital for Hyundai Metaplant GA
+- https://www.wsav.com/video/hyundai-partners-with-local-colleges-to-expand-student-opportunities/8975182/ — Partners with Local Colleges
+- https://www.savannahtribune.com/articles/hyundai-motor-group-metaplant-america-savannah-technical-college-sign-memorandum-of-understanding-for-training-partnership/ — Hyundai Partnering with workforce training
+- https://www.hyundai.news/eu/articles/press-releases/georgia-tech-and-hyundai-sign-mou-for-future-mobility-collaboration.html — Total Related Investments Now at $12 Billion
+- https://businessintexas.com/wp-content/uploads/2023/02/SouthKorea-Profile-2023Jan.pdf — Texas Investments by Korean companies
+- https://www.businesskorea.co.kr/news/articleView.html?idxno=97177 — Samsung to invest $200 Billion in U.S.
+- https://www.autonews.com/china/hyundai-unloads-china-assembly-plant-225-million#:~:text=Hyundai%20Motor%20Co.’s%20China,listed%20for%20sale%20in%20August. — Automotive News on Hyundai Pulling Out of China
+- https://dickstormprobizblog.org/2024/04/09/the-reality-of-electrifying-everything-and-the-primary-energy-required-to-generate-the-electricity/ — The Reality of Electrifying Everything article
+- https://www.youtube.com/watch?v=YYk2HJtkQCA — Full History of Hyundai and Mr. Chung YouTube video
+- https://www.youtube.com/watch?v=5tTLaZ4j8Ws — Business Chronicles YouTube history video
+- https://www.iea.org/countries/korea — Korea Energy Profile by IEA
+- https://twitter.com/JunkScience/status/1765738887568097719/photo — Georgia Electricity Demand growing faster than expected Twitter feed
+- https://americaspower.org/wp-content/uploads/2024/02/Quanta-Final-Feb-2024-3.pdf — Quanta Technology Study Report on Power Generation Shortages
+- https://www.georgiapower.com/content/dam/georgia-power/pdfs/company-pdfs/2023-irp-update-main-document.pdf — Georgia Power IRP Revised 2023

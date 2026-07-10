@@ -1,0 +1,42 @@
+v15 test: 40 assigned, 0 already done, 40 to run | model=qwen3.6:35b-a3b | base_url=http://127.0.0.1:11430/v1 | out=data/wiki/_extract_v15_qwen35b_cleanup/w0
+  page_000190: Rivian Automotive [pub 2025-09-16] -> 52 facts, 11 links
+  page_000380: E2 Battery/Storage Manufacturing Directory [pub ?] -> 52 facts, 0 links
+  page_000676: Atlanta, Georgia Gas Stations [pub ?] -> 365 facts, 0 links
+  page_000927: Electric Vehicle (EV) And Battery Manufacturing in the Great Lakes Region [pub ?] -> 54 facts, 1 links
+  page_001209: Hyundai Motor Group Metaplant America [pub 2024-08-20] -> 35 facts, 0 links
+  page_002492: Global Metal Stamping Market [pub 2025-11-19] -> 39 facts, 4 links
+  page_002719: Honda Motor Co., Ltd. [pub 2023-03-31] -> 23 facts, 0 links
+  page_002915: [] (no relevant record)
+  page_002919: [] (no relevant record)
+  page_003385: [] (no relevant record)
+  page_003389: [] (no relevant record)
+  page_005025: Utah Alternative Fuels Laws and Incentives Program [pub ?] -> 92 facts, 16 links
+  page_008102: [] (no relevant record)
+  page_008900: Honda [pub ?] -> 68 facts, 41 links
+  page_012102: Forsyth County, Georgia [pub ?] -> 11 facts, 1 links
+  page_012729: EV Battery & Charging News Roundup [pub 2024-05-19] -> 79 facts, 0 links
+  page_012838: [] (no relevant record)
+  page_013127: Southern Business and Development Magazine [pub ?] -> 105 facts, 3 links
+  page_015284: EV Battery Polyurethane Foam Market [pub ?] -> 153 facts, 0 links
+  page_015429: [] (no relevant record)
+  page_015885: Yazaki North America [pub ?] -> 19 facts, 1 links
+  page_018694: General Motors [pub ?] -> 31 facts, 0 links
+  page_019001: Good Jobs First Subsidy Tracker - Georgia [pub ?] -> 101 facts, 0 links
+  page_020238: Kia Sorento [pub ?] -> 6 facts, 0 links
+  page_028387: [] (no relevant record)
+  page_028586: [] (no relevant record)
+  page_028595: [] (no relevant record)
+  page_028650: [] (no relevant record)
+  page_029457: DOE CMEI eXCHANGE Teaming Partners Program [pub ?] -> 102 facts, 2 links
+  page_045939: [] (no relevant record)
+  page_047248: Rome (city), Georgia [pub 1834-12-20] -> 9 facts, 0 links
+  page_051685: Hyundai Motor Group [pub 2024-04-14] -> 47 facts, 31 links
+  page_052070: Solar powered electric vehicle charging system: a comprehensive review [pub ?] -> 40 facts, 0 links
+  page_052758: Aspen Aerogels [pub 2026-04-20] -> 16 facts, 0 links
+  page_053044: U.S. Primary and Downstream Aluminum Industry [pub 2018-03-08] -> 19 facts, 0 links
+  page_053109: Macon–Bibb County [pub 2014-01-01] -> 7 facts, 0 links
+  page_053516: Mercedes-Benz Group AG [pub 1926-06-28] -> 48 facts, 0 links
+  page_054721: [] (no relevant record)
+  page_060361: [] (no relevant record)
+  page_060385: Global and United States Battery Energy Storage Systems Market [pub 2025-12-09] -> 67 facts, 0 links
+Done: 26 records, 1640 facts, 0 failures this run -> data/wiki/_extract_v15_qwen35b_cleanup/w0/all_records_v15.jsonl

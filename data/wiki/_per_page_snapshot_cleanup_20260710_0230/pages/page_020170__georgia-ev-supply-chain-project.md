@@ -1,0 +1,69 @@
+---
+title: "Georgia EV Supply Chain Project"
+entity_type: investment_announcement
+supply_chain_category: automotive_components
+page_id: page_020170
+publication_date: 
+source_url: https://sb-d.com/news/article/641
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Georgia EV Supply Chain Project
+
+**Type:** investment_announcement  ·  **Role:** automotive_components  ·  **Published:** ?
+
+**Source:** [December 2018 | Southern Business and Development](https://sb-d.com/news/article/641)  ·  `page_020170`
+
+## Facts
+
+- SK Innovation is investing $1.67 billion in a new lithium-ion battery plant in Jackson County, Ga.
+- The batteries produced at the SK Innovation facility are used in hybrid electric vehicles.
+- The SK Innovation project will create 2,000 jobs.
+- Japan-based Toyo Tire is investing $138 million in its tire plant in Bartow County, Ga.
+- Toyo Tire will add 150 jobs to increase the total workforce at the Georgia plant to 2,100.
+- The Toyo Tire expansion adds capacity to produce over 13 million passenger car tires per year.
+- Mazda Toyota Manufacturing USA broke ground on November 16, 2018, for a $1.6 billion automotive assembly plant in Huntsville, Ala., and Limestone County.
+- The Mazda Toyota Manufacturing plant will house 4,000 employees across two production lines.
+- One line at the Mazda Toyota facility will assemble the Toyota Corolla model.
+- The second line at the Mazda Toyota facility will build a new Mazda crossover SUV.
+- BMW has started production of the X7 Sports Activity Vehicle at its Spartanburg County, S.C., plant.
+- The BMW X7 is assembled on the same line as the X5 and X6 models.
+- BMW originally announced a $1 billion investment for its Spartanburg County plant in 2014.
+- BMW constructed a new 1.2 million-square-foot body shop at its South Carolina facility that houses over 2,000 new robots.
+- The BMW Spartanburg plant produces approximately 1,400 vehicles per day.
+- Seventy percent of the vehicles produced at the BMW South Carolina plant are exported to over 140 global markets.
+- BMW is considering building a second engine plant in North America to support its largest worldwide facility in Spartanburg County, S.C.
+- BMW currently imports its engines from Europe to its U.S. plant and has been discussing a new domestic engine plant for several years.
+- Volvo is reducing hiring at its $1.1 billion assembly plant in Berkeley County, S.C., due to President Trump's trade war with China.
+- Volvo selected South Carolina in 2015 for its first U.S. plant, which opened for full production of the S60 sedan in the summer.
+- Volvo had planned to hire 1,500 employees by the end of the year and up to 4,000 when starting a second line for an SUV.
+- Volvo global CEO Hakan Samuelsson announced the hiring reduction at the South Carolina plant.
+- Hyundai CEO Wonhee Lee stated the automaker may soon make a significant investment in its Montgomery, Ala., plant.
+- Hyundai is considering adding two additional production lines to its Alabama facility: one for an SUV and one for a new pickup truck.
+- The Hyundai Alabama plant currently assembles two sedans and one SUV.
+- New Flyer of America cut the ribbon on a $25 million renovation and expansion of its Anniston, Ala., factory.
+- The New Flyer expansion is the culmination of $50 million in facility improvements over the past two years.
+- The expanded New Flyer plant now employs 750 workers.
+- New Flyer manufactures battery-electric transit buses at its Alabama facility.
+- India-based auto supplier Sundaram-Clayton Limited is expanding its campus in Ridgeville, S.C., near Charleston.
+- Sundaram-Clayton manufactures aluminum casting products for Mercedes-Benz Vans and is investing $40 million while hiring 100 workers.
+- Swedish auto supplier Gnotec Group is investing $5.9 million to open its first U.S. plant in Orangeburg County, S.C.
+- The Gnotec facility will create 78 jobs specializing in the engineering and manufacturing of metal components for automotive and commercial vehicles’ body-in-white and chassis structures.
+- Automotive supplier Truform Manufacturing is investing approximately $14 million to expand its operations in Dickson, Tenn.
+- Truform Manufacturing plans to create nearly 90 jobs over the next five years at its Tennessee facility.
+- Auto supplier Hwashin America Corp is expanding its Greenville, Ala., manufacturing operation with a $26 million investment in new equipment and 50 new jobs.
+- Hwashin America produces body components for Hyundai’s Alabama auto assembly plant and has been in expansion mode since arriving in Butler County in 2003.
+- Nissan’s Smyrna factory was approved for $158 million in upgrades to continue hiring for a workforce of 8,400 and improve the plant.
+- The automaker obtained authorization from the Rutherford County Industrial Development Board in November for two bonds totaling $158.1 million for upgrades including new machinery and equipment.
+- The Tennessee Valley Authority contracted with First Solar and NextEra Energy Resources to construct the largest solar installations ever built in Tennessee and Alabama.
+- The TVA solar farms will power Facebook’s new $750 million data center in Huntsville, Ala., with 100 percent renewable energy.
+- First Solar will erect a 227-megawatt solar farm in Colbert County, Ala.
+- NextEra Energy Resources will build a 150-megawatt solar farm in Lincoln County, Tenn.
+- Facebook required all of its electricity to be generated from renewable sources as a condition for locating its data center in Alabama.
+- Florida-based NextEra Energy Resources is looking to invest $75 million in a large solar farm project in Houston County, Ala.
+- The Houston County Commission approved a 10-year property tax abatement for 1,000 acres for the NextEra Energy solar project.
+- If completed as planned, the NextEra Energy Alabama solar farm will be finished in 2021.
+- Exports of South Carolina-made BMWs continue to drop due to tariffs, prompting plans to move more SUV production to China.
+- BMW already manufactures the X3 at its China plant and might move production of the X5 model there as well.
+- In October, BMW exported 13,702 vehicles from its South Carolina plant through the Port of Charleston, marking a 16 percent drop from the previous year and the fourth consecutive monthly decline.
+- BMW officials publicly stated that the U.S.-China trade war will cost the company $344 million this year.

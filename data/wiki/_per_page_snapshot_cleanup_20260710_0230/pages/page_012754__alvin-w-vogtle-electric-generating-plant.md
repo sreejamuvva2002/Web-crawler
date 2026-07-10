@@ -1,0 +1,109 @@
+---
+title: "Alvin W. Vogtle Electric Generating Plant"
+entity_type: facility
+supply_chain_category: unknown
+page_id: page_012754
+publication_date: 
+source_url: https://en.wikipedia.org/wiki/Vogtle_Electric_Generating_Plant
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Alvin W. Vogtle Electric Generating Plant
+
+**Type:** facility  ·  **Role:** unknown  ·  **Published:** ?
+
+**Source:** [Vogtle Electric Generating Plant - Wikipedia](https://en.wikipedia.org/wiki/Vogtle_Electric_Generating_Plant)  ·  `page_012754`
+
+## Facts
+
+- The official name of the facility is the Alvin W. Vogtle Electric Generating Plant.
+- The plant is located in Burke County, Georgia, near Waynesboro.
+- The facility status is operational.
+- Construction for Units 1–2 began on August 1, 1976.
+- Construction for Unit 3 began on March 12, 2013.
+- Construction for Unit 4 began on November 19, 2013.
+- Unit 1 was commissioned on June 1, 1987.
+- Unit 2 was commissioned on May 20, 1989.
+- Unit 3 was commissioned on July 31, 2023.
+- Unit 4 was commissioned on April 29, 2024.
+- Construction costs for Units 1–2 were $8.87 billion in 1989 USD, equivalent to $19.5 billion in 2024 dollars.
+- Construction costs for Units 3–4 are $36.8 billion.
+- Georgia Power owns a 45.7% interest in the plant.
+- Oglethorpe Power Corporation owns a 30% interest in the plant.
+- MEAG owns a 22.7% interest in the plant.
+- Dalton Utilities owns a 1.6% interest in the plant.
+- Southern Nuclear operates the facility.
+- The reactor type is a pressurized water reactor (PWR).
+- Westinghouse is the reactor supplier.
+- The plant utilizes four natural draft cooling towers.
+- The Savannah River serves as the plant's cooling source.
+- Thermal capacity for Units 1–2 is 2 × 3626 MWth.
+- Thermal capacity for Units 3–4 is 2 × 3400 MWth.
+- Unit 1 has a power generation capacity of 1 × 1150 MWe.
+- Unit 2 has a power generation capacity of 1 × 1152 MWe.
+- Units 3 and 4 each have a power generation capacity of 1 × 1117 MWe.
+- The plant's total nameplate capacity is 4536 MWe.
+- The capacity factor was 95.09% in 2017 and 91.25% over its lifetime.
+- The annual net output reached 33,871 GWh in 2024.
+- With Units 3 & 4 operational as of 2025, it is the largest nuclear power plant in the United States.
+- It is the only nuclear plant in the country with four reactors.
+- The plant is named after former Alabama Power and Southern Company board chairman Alvin Vogtle.
+- Units 1 and 2 utilize Westinghouse 4-loop PWRs paired with General Electric steam turbines and electric generators.
+- Each of Units 1 & 2 has a gross electricity generation capacity of 1,215 MW, for a combined capacity of 2,430 MW.
+- The twin natural-draft cooling towers are 548 ft (167 m) tall.
+- Four smaller mechanical draft cooling towers provide nuclear service cooling water to safety and auxiliary components.
+- The Nuclear Regulatory Commission renewed licenses for Units 1 & 2 in 2009 for an additional 20 years, extending to January 16, 2047 for Unit 1 and September 2, 2049 for Unit 2.
+- Capital investment for Units 1–2 jumped from an estimated $660 million to $8.87 billion during construction.
+- Preliminary construction for two additional units utilizing Westinghouse AP1000 reactors began in 2009.
+- The two new cooling towers for Units 3 & 4 are nearly 600 ft (180 m) tall.
+- Certified construction and capital costs for Units 3–4 were originally $14 billion in a 2017 report, later increasing to $34 billion by 2023.
+- Westinghouse Electric Company filed for Chapter 11 bankruptcy in March 2017 due to losses from nuclear construction projects.
+- Southern Nuclear took over construction from Westinghouse on July 31, 2017.
+- Bechtel was selected as the day-to-day construction manager on August 31, 2017.
+- President Barack Obama announced $8.33 billion in federal loan guarantees toward construction costs on February 16, 2010.
+- Georgia Power's share of the expected building cost for the two new reactors was around $6.1 billion.
+- The Department of Energy approved a $6.5 billion loan guarantee for Georgia Power and Oglethorpe Power Corp. in February 2014.
+- Further federal loan guarantees of $3.7 billion were provided in March 2019, bringing total federal loan guarantees to $12 billion.
+- The Georgia Public Service Commission approved continuation of construction on December 21, 2017, with conditions reducing recoverable costs from ratepayers.
+- A scheduled monthly consumer rate increase of $3.78 was expected after first power following the GPSC approval.
+- The February 2018 Vogtle Construction Monitoring Report approved November 2021 and November 2022 as target in-service dates for Units 3 & 4.
+- A $2.3 billion increase in costs was recognized in August 2018, bringing the total estimated cost to about $25 billion including financing costs.
+- In September 2018, Georgia Power agreed to pay an additional proportion of completion costs for smaller project partners if costs exceeded $9.2 billion.
+- Unit 3 began commercial operations on July 31, 2023, marking the first new nuclear reactor in the United States in 7 years.
+- As of FY 2024 Q3, Georgia Power's net capital costs incurred for Units 3-4 were $10.65 billion total, with an additional estimated $83 million in completion costs.
+- This cost figure is inclusive of $1.2 billion not shared with other owners, net of ~$1.9 billion received from Toshiba in settlement and customer refunds.
+- Georgia Power's 45.7% ownership implies a total capitalized construction cost of $23.76 billion for Units 3-4.
+- Non-capitalized financing charges (interest) totaled $3.53 billion by Georgia Power, recovered via ratepayer surcharges before completion.
+- In 2008, reactors 1 and 2 were increased in power by 1.7% via an Appendix K uprate.
+- The NRC approved Vogtle's License Amendment Request in March 2008 to increase reactor power output through more accurate feedwater flow measurement.
+- Unit 1 was uprated during its Spring 2008 refueling outage, and Unit 2 during the Fall 2008 outage.
+- A loss of electrical power incident occurred on March 20, 1990, when a truck backed into a support column in the 230kV switchyard.
+- Plant operators declared a site area emergency at 9:40 a.m., downgraded to an alert at 10:15 a.m., and terminated it at 1:47 p.m. after power restoration.
+- The electrical fault also affected Unit 2, causing breakers to trip and leading to a full load rejection, turbine trip, and reactor scram.
+- Southern Nuclear formally applied for an Early Site Permit for two additional units in August 2006.
+- An application for a Combined Construction and Operating License was submitted in March 2008.
+- Georgia Power Company reached a contract agreement for two AP1000 reactors designed by Westinghouse, owned by Toshiba, in April 2008.
+- Westinghouse partnered with the Shaw Group and its Stone & Webster division to manage the project.
+- The contract received approval from the Georgia Public Service Commission in March 2009.
+- The NRC issued an Early Site Permit and Limited Work Authorization in August 2009.
+- A 19th revision for AP1000 Design Certification was written in December 2011 following the Fukushima accident, requiring a complete redesign of the containment building.
+- The NRC approved the construction license for the two proposed AP1000 reactors in February 2012.
+- NRC Chairman Gregory Jaczko cast the lone dissenting vote citing safety concerns from Fukushima.
+- Environmental and anti-nuclear groups sued to stop the expansion project one week after the license was received, but the lawsuit was rejected by the Washington D.C. Circuit Court of Appeals on July 11, 2012.
+- Construction contractor Shaw was purchased by Chicago Bridge & Iron Company (CB&I) in February 2013.
+- CB&I exited the project due to delays and cost overruns in early 2015, leading Westinghouse to take direct control and hire Fluor.
+- Southern Company and Westinghouse added Bechtel to the project in 2016 to share construction management responsibilities.
+- A three-month delay to completion was announced in October 2021, pushing Unit 3 to Q3 2022 and Unit 4 to Q2 2023.
+- In August 2022, a further delay pushed Unit 3 to Q1 2023 and Unit 4 to Q4 2023, with costs expected to rise over $30 billion.
+- Vogtle Unit 3 began loading nuclear fuel on October 14, 2022.
+- During start-up testing in February 2023, the plant's cooling system suffered unexpected vibrations, delaying regular service to May or June 2023.
+- Vogtle Unit 3 reached criticality for the first time on March 6, 2023, connected to the grid on April 1, and entered commercial operation on July 31.
+- Georgia Power announced Unit 4 completed hot functional testing on May 2, 2023.
+- Fuel loading began for Unit 4 on August 18, 2023, with 264 fuel elements.
+- A reactor coolant pump motor fault in Unit 4 in October 2023 delayed its in-service date to Q1 2024.
+- Cooling system vibrations found later pushed the in-service date to Q2 2024.
+- Vogtle Unit 4 reached criticality on February 14, 2024, connected to the grid on March 1, and entered commercial operation on April 29.
+- The NRC defines two emergency planning zones: a 10-mile plume exposure pathway zone and a 50-mile ingestion pathway zone.
+- In 2010, the population within 10 miles was 5,845, and within 50 miles was 726,640.
+- Cities within 50 miles include Augusta, located 26 miles from the city center.
+- The NRC estimated the annual risk of an earthquake causing core damage at 1 in 140,845 per year based on an August 2010 study.

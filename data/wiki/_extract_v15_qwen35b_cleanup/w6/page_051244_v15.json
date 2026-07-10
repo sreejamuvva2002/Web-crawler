@@ -1,0 +1,27 @@
+[
+  {
+    "entity_name": "Gordon County, Georgia",
+    "canonical_name": "Gordon County, Georgia",
+    "entity_type": "facility",
+    "supply_chain_category": "logistics",
+    "facts": [
+      "In addition to service industries, the economy of Gordon County is rooted in manufacturing and both heavy and light industry.",
+      "Mohawk Industries, a leading manufacturer of flooring, is headquartered in Gordon County.",
+      "Shaw Industries has a significant presence in Gordon County.",
+      "Beaulieu International Group has a significant presence in Gordon County.",
+      "LG Chem has a significant presence in Gordon County.",
+      "Kobelco Construction Machinery America - a division of Kobe Steel - has a significant presence in Gordon County.",
+      "Gordon County has the most interstate exits out of all of the counties in Georgia, because of its location in the middle of Interstate 75."
+    ],
+    "links": [],
+    "source_url": "https://en.wikipedia.org/wiki/Gordon_County,_Georgia",
+    "source_title": "Gordon County, Georgia - Wikipedia",
+    "source_domain": "wikipedia.org",
+    "publication_date": "",
+    "date_precision": "none",
+    "page_id": "page_051244",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

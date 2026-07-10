@@ -1,0 +1,86 @@
+---
+title: "SK Innovation"
+entity_type: company
+supply_chain_category: battery_cell_manufacturing
+page_id: page_008056
+publication_date: 2020-08-28
+source_url: https://www.globalatlanta.com/sk-battery-installs-immigration-checks-amid-criticism-of-hiring-practices-at-korean-owned-plant/
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# SK Innovation
+
+**Type:** company  ·  **Role:** battery_cell_manufacturing  ·  **Published:** 2020-08-28
+
+**Source:** [SK Battery Installs Immigration Checks Amid Criticism of Hiring Practices at Korean-Owned Plant - Global Atlanta](https://www.globalatlanta.com/sk-battery-installs-immigration-checks-amid-criticism-of-hiring-practices-at-korean-owned-plant/)  ·  `page_008056`
+
+## Facts
+
+- SK Innovation is implementing new immigration compliance measures at its $2.6 billion battery plant project in Jackson County, Georgia.
+- Growing evidence suggests foreign workers are displacing American workers during the plant's construction.
+- SK Innovation instituted daily document checks on Thursday to verify worker authorization.
+- U.S. Representative Doug Collins requested an investigation by ICE into the company's hiring practices a week prior.
+- In an August 19 letter, Rep. Collins cited concerns about Korean workers being imported to build the plant amid rising COVID-19 job losses in Georgia.
+- Rep. Collins sent a second letter on Thursday to the heads of ICE and U.S. Customs Border Protection (CBP).
+- The congressman reported that over 30 single-family homes were being rented to house Korean laborers, potentially violating local occupancy rules.
+- Local officials and constituents informed Rep. Collins that approximately 200 workers, seemingly all Korean, were receiving welding training at a defunct chicken farm five miles from the plant site.
+- Rep. Collins cited rumors that American building inspectors found job site work insufficient and failed welds on mechanical systems due to improper procedures.
+- Rep. Collins urged the U.S. government to suspend visas for SK's direct employees until contractor hiring practices are corrected.
+- In two May incidents at Hartsfield-Jackson Atlanta International Airport, customs officials blocked 33 arriving Korean workers destined for the plant.
+- Customs officials also rescinded Electronic System for Travel Authorization (ESTA) clearance for an additional 25 Korean workers.
+- CBP accused the detained workers of using fraudulent employment letters and belonging to a criminal network trying to take American jobs.
+- Due to a lack of daily flights to Seoul, detained workers were sent to a Lovejoy detention center before deportation, with the first 12 held for multiple days.
+- SK Innovation maintains that site worker hiring is the responsibility of its contractors.
+- SK Innovation stated that over 1,000 American workers have been employed at the construction site to date.
+- SK Innovation established a security checkpoint on Thursday barring anyone without clear U.S. work authorization from entering the site.
+- SK Battery America (SKBA) stated it will impose severe sanctions, including potential contractor termination, for policy violations.
+- SKBA will conduct ongoing inspections to ensure contractor compliance with applicable laws.
+- Local residents and union leaders expressed grievances over the Korean workforce presence while local tradespeople faced unemployment or underemployment.
+- A Fox 5 news crew documented Korean workers traveling to rented homes, implying violations of immigration laws.
+- Subcontractors featured in the Fox 5 video include Korea-based firms KapJin and Younchang, which supply clean-room, power-generation, and HVAC systems to SK Innovation globally.
+- SK Innovation told the Korea Times it is importing workers with experience from high-tech battery plants, such as its facility in Hungary.
+- The company cited a tight construction timeline and existing battery supply agreements with Volkswagen and Ford for the U.S. market.
+- Some contractor workers may qualify for legal exceptions to U.S. foreign labor prohibitions.
+- The Visa Waiver Program allows citizens of 38 countries (including Korea) to visit the U.S. for up to 90 days without a visa.
+- Under the program, business activities like prospect meetings and supervision are permitted, but skilled/unskilled labor is forbidden.
+- Exceptions allow foreign commercial workers to install, repair, or maintain equipment purchased overseas if included in the sales contract.
+- The program arguably permits foreign workers to enter the U.S. to train Americans on operating or maintaining such machinery.
+- SK Innovation declined to identify its contractors or provide further comment on the situation.
+- CBP declined to disclose which companies provided fraudulent employment letters or name the denied workers.
+- Immigration attorney Teri Simmons noted that Southeast manufacturing facilities often purchase specialized machinery (CNC machines, conveyors, robotics) from foreign suppliers.
+- Simmons stated CBP in Atlanta is typically fair-minded and business-minded regarding immigration law application.
+- Simmons confirmed that technicians frequently travel legally under the Visa Waiver Program to install equipment.
+- CBP reported that the detained Korean workers intended to be paid $6,000 to $7,000 for two to three months of work at the Commerce, Georgia plant site.
+- This pay rate raised concerns among officials that foreign labor would undercut U.S. wages.
+- German automakers previously faced similar criticism when contractors brought workers via ESTA and B1 visas to build plants in Alabama and South Carolina.
+- Contractors for Tesla and Volvo have also been accused of similar visa misuse, as documented by CBS News.
+- Simmons recommended that all inbound foreign companies thoroughly study U.S. immigration requirements to avoid compliance issues.
+- Workers seeking Visa Waiver exceptions must provide documentation like overseas purchase contracts and clearly explain their supervisory or installer roles.
+- Pandemic-related travel bans shut down consulates and embassies, hindering business travelers from applying for national interest exceptions.
+- President Trump issued a June proclamation barring non-immigrant visas (L-1 and J-1) through the end of 2020.
+- Korean Deputy Consul General Kwangsuk Lee reported that Consul General Young-jun Kim is urging Korean companies to prioritize U.S. immigration compliance for sustainable investment prospects.
+- SK Battery's project is part of a wave of Korean investment in Georgia since Kia Motors established operations there in 2007.
+- The project received an incentives package worth $300.3 million, adding sensitivity to the immigration controversy.
+- Jackson County Area Chamber of Commerce Director John Scott clarified that the incentives only apply to Phase 1 ($1.67 billion investment, 2,000 jobs), not Phase 2 ($940 million, 600 jobs).
+- Incentives do not apply during construction; $53 million in state job tax credits will be distributed only after 2,000 permanent American jobs are created over five and a half years.
+- Most other tax credits are available to all Georgia companies based on spending in areas like research and development.
+- The largest incentive component involved land costs, including a $28.2 million purchase with interest and $102 million in tax relief over two decades, effectively making the land free.
+- Jackson County retains title to the land and all installed equipment for 20 years.
+- Approximately $160 million is expected to be generated for local schools from the site, which previously generated almost no tax revenue.
+- John Scott noted that most of the $300 million in incentives would not exist if SK had chosen another state.
+- If SK leaves or shuts down early, it must repay the entire cost of the land.
+- John Scott reported no knowledge of the welding operation cited by Rep. Collins and noted constant communication with SK, which denies inappropriate worker entry.
+- Scott characterized the issue as an isolated incident and highlighted positive spillover effects for local neighborhoods and restaurants.
+- SK has already spent millions with local contractors in Jackson County and across the U.S., spending heavily with U.S. citizens regardless of ancestry.
+- Scott explained that bringing over Korean workers is necessary due to the highly technical nature of lithium-ion battery equipment and potential trade secrets like machine settings.
+- SK Innovation faces patent violation accusations from rival LG Chem, with an initial International Trade Commission (ITC) determination issued in February.
+- A Seoul court ruled in favor of LG Chem in a civil suit challenging LG's U.S. actions, with the ITC scheduled to issue a final ruling in October.
+- SK Innovation maintains that plant construction remains on schedule despite legal disputes.
+- The Georgia Department of Economic Development (GDEcD) is actively recruiting Korean investment but expects full compliance with employment laws without exception.
+- GDEcD noted that similar rumors occurred during Kia's plant construction a decade ago, yet Kia has since built highly-rated vehicles and created tens of thousands of jobs in West Georgia.
+- SK Battery has donated over $500,000 to Georgia educational programs and coronavirus response initiatives.
+- Electrolyte recycler Enchem plans to build a $63 million plant near the SK facility.
+- Additional SK suppliers and unrelated Korean prospects are considering Jackson County following awareness of Georgia's investment climate.
+- Governor Brian Kemp traveled to Korea last summer to meet with SK and other potential investors.
+- Georgia shifted economic development resources from China outreach to target Korean firms during an opportune recruitment window.
+- Korean mattress manufacturer Zinus announced on August 18 plans for a $108 million factory and distribution center in McDonough, creating 804 jobs.

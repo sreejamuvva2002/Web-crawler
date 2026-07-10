@@ -1,0 +1,54 @@
+[
+  {
+    "entity_name": "Aspen Aerogels Inc",
+    "canonical_name": "Aspen Aerogels Inc",
+    "entity_type": "company",
+    "supply_chain_category": "thermal_management",
+    "facts": [
+      "Aspen Aerogels reported Q1 2025 revenue of $78.7 million, a 17% year-over-year decline that fell short of the $82.74 million forecast.",
+      "The company posted a Q1 2025 EPS of -$0.06, missing the forecasted -$0.05, with net income of -$301,200 (-$3.67 per diluted share).",
+      "Gross profit for Q1 2025 was $22.8 million, down 35% from the previous year, with EV thermal barrier gross margins at 23% against a 35% target.",
+      "Adjusted EBITDA for Q1 2025 was $4.9 million, supported by an adjusted OpEx run rate of $25.8 million.",
+      "Aspen Aerogels holds a cash position of $192 million and reduced debt by over $20 million in Q1, including $13.2 million toward its revolving credit facility and $6.5 million to MidCap.",
+      "Total debt on facilities stood at $141.8 million at the end of Q1 2025.",
+      "The company provided a Q2 2025 revenue outlook of $70 to $80 million, with adjusted EBITDA expected between breakeven and $7 million.",
+      "Aspen Aerogels is targeting a revenue breakeven point for adjusted EBITDA at approximately $245 million and aims to achieve $90 million in adjusted EBITDA at $360 million in revenue.",
+      "Q1 2025 CapEx was $13 million, with $7.7 million allocated to remaining obligations for Plant 2 and the remainder for equipment in Mexico and Rhode Island linked to future EV thermal barrier launches.",
+      "The company expects to spend up to an additional $20 million to finish demobilizing its Georgia facility and close out remaining open obligations.",
+      "Aspen Aerogels is selling equipment from its Statesboro, Georgia site to selected buyers before holding an auction, with the plant available for purchase through a broker.",
+      "Q4 2024 included a $286.6 million impairment of Plant 2 assets in Statesboro, Georgia, and $9.8 million in restructuring and financing expenses linked to the plan.",
+      "EV thermal barrier revenue fell 25% year-over-year to $48.9 million in Q1 2025 as demand aligns with lower vehicle production schedules at key customers.",
+      "The company secured a major pyrofin award from GM for a next generation prismatic EV platform, following recent awards from Mercedes Benz and Volvo Trucks.",
+      "Energy Industrial business revenue increased 2% year-over-year to $29.8 million in Q1 2025, with the company targeting full-year revenue approximating last year's $145.9 million.",
+      "Aspen Aerogels has operations on both sides of U.S.-China trade lines and caps its total 2025 tariff exposure on raw materials to less than $4.5 million, potentially under $1 million by switching silanes and batting sourcing to U.S. suppliers.",
+      "Energy Industrial products are included in Annex II, exempting them from additional duties levied on imports announced on April 2, keeping total tariffs/duties at about 50% versus roughly 174% for non-exempt products.",
+      "Finished thermal barrier parts fabricated in Mexico are USMCA compliant and currently exempt from tariffs, utilizing a maquila setup to avoid trade duties or value added taxes.",
+      "The company is proactively addressing potential tariff risks through pricing strategies and working with its external manufacturing facility (EMF) to lower product costs.",
+      "CEO Don Young stated that electrification through this decade will be a major driver for both the thermal barrier and energy industrial businesses.",
+      "CFO Ricardo Rodriguez noted the company is on a path to put adjusted EBITDA on the green line, targeting at least $20 million in annualized adjusted EBITDA on revenues as low as $250 million.",
+      "New OEM awards tied to realistic growth expectations are expected to drive over $200 million in additional revenue by 2027, with EV thermal barrier segment potential reaching over $700 million in 2027.",
+      "The company's stock dropped 25.48% in premarket trading following the earnings release, falling to $4.24 per share near its 52-week low of $4.8.",
+      "Management will host one-on-one investor meetings on Wednesday, May 21 at the B. Riley Securities 25th Annual Investor Conference.",
+      "Fixed cost reductions were implemented in mid-February 2025 to streamline the company and lower the revenue level required for positive adjusted EBITDA performance.",
+      "The EV thermal barrier business faces pressures from evolving battery pack designs, declining content per vehicle, and smaller battery pack size mixes affecting revenue streams.",
+      "Aspen Aerogels maintains a maquila setup in Mexico that enables temporary inventory imports, value addition, and duty-free exports to customers for vehicle or battery pack assembly.",
+      "The company's aerogel manufacturing plant is located in East Providence, Rhode Island, with raw material sourcing optimized across Asia, Europe, and the United States.",
+      "Analysts from Barclays, Craig Hallum, and Oppenheimer participated in the earnings call to inquire about the Georgia facility monetization strategy and tariff impacts."
+    ],
+    "links": [
+      {
+        "url": "www.aerogel.com",
+        "context": "Investors section for press release and slide deck"
+      }
+    ],
+    "source_url": "https://www.investing.com/news/transcripts/earnings-call-transcript-aspen-aerogels-q1-2025-results-miss-expectations-93CH-4033009",
+    "source_title": "Earnings call transcript: Aspen Aerogels’ Q1 2025 results miss expectations By Investing.com",
+    "source_domain": "investing.com",
+    "publication_date": "2026-04-20",
+    "date_precision": "body_dateline",
+    "page_id": "page_052720",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

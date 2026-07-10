@@ -1,0 +1,24 @@
+[
+  {
+    "entity_name": "SK Innovation/SK On Georgia Battery Facility",
+    "canonical_name": "SK Innovation Battery Complex / Hyundai-SK On Joint Venture",
+    "entity_type": "joint_venture",
+    "supply_chain_category": "battery_cell_manufacturing",
+    "facts": [
+      "SK Innovation operates a massive Li-ion battery complex in Georgia.",
+      "The facility strategically serves Hyundai, Kia, and Ford.",
+      "Projected output for the Georgia battery complex is 25+ GWh by 2026.",
+      "Hyundai and SK On are forming a joint venture in Georgia to supply U.S.-assembled EVs."
+    ],
+    "links": [],
+    "source_url": "https://www.strategicmarketresearch.com/blogs/battery-industry-statistics",
+    "source_title": "Battery Industry Statistics 2024",
+    "source_domain": "strategicmarketresearch.com",
+    "publication_date": "",
+    "date_precision": "none",
+    "page_id": "page_060371",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

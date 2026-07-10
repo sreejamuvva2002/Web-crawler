@@ -1,0 +1,42 @@
+v15 test: 40 assigned, 0 already done, 40 to run | model=qwen3.6:35b-a3b | base_url=http://127.0.0.1:11432/v1 | out=data/wiki/_extract_v15_qwen35b_cleanup/w2
+  page_000737: FAILED - The output is incomplete due to a max_tokens length limit.
+  page_000843: Critical Minerals Institute Funding Master Table [pub 2026-02-11] -> 79 facts, 21 links
+  page_000879: USA Battery Manufacturing Sector Overview [pub 2025-08-18] -> 72 facts, 0 links
+  page_001534: Georgia Electric Vehicle Supply Chain [pub ?] -> 100 facts, 0 links
+  page_001539: Syensqo [pub ?] -> 44 facts, 1 links
+  page_002452: Mativ Holdings, Inc. [pub 2025-05-07] -> 25 facts, 2 links
+  page_002592: Qualified Plug-in Electric Drive Motor Vehicle Credit (IRC 30D) [pub 2022-08-17] -> 62 facts, 1 links
+  page_003034: [] (no relevant record)
+  page_003150: [] (no relevant record)
+  page_003204: [] (no relevant record)
+  page_004404: U.S. Department of Energy Advanced Materials and Manufacturing Technologies Office [pub 2026-06-30] -> 32 facts, 1 links
+  page_005459: State of Georgia [pub 2027-01-01] -> 79 facts, 43 links
+  page_006111: U.S. Department of Energy Hydrogen and Fuel Cell Technologies Office [pub 2026-06-30] -> 40 facts, 0 links
+  page_008746: Top 24 Automotive Manufacturing Companies in the US [pub ?] -> 23 facts, 0 links
+  page_008927: Honda EV Hub [pub 2025-02-03] -> 59 facts, 0 links
+  page_012065: [] (no relevant record)
+  page_013090: [] (no relevant record)
+  page_013301: [] (no relevant record)
+  page_013381: [] (no relevant record)
+  page_016244: ZF Gainesville LLC [pub ?] -> 69 facts, 0 links
+  page_016865: Archer Aviation [pub ?] -> 74 facts, 1 links
+  page_017550: U.S. Electricity Market and Grid Infrastructure Trends [pub 2025-11-05] -> 18 facts, 0 links
+  page_019286: Denkai America Inc. [pub 2026-07-06] -> 18 facts, 0 links
+  page_020311: [] (no relevant record)
+  page_028411: [] (no relevant record)
+  page_028571: [] (no relevant record)
+  page_028891: Novelis Inc. [pub 2025-11-04] -> 8 facts, 3 links
+  page_029429: [] (no relevant record)
+  page_029747: NIFCO INC. [pub ?] -> 23 facts, 0 links
+  page_045941: [] (no relevant record)
+  page_047051: Murata Electronics North America, Inc. [pub ?] -> 13 facts, 0 links
+  page_047543: Novelis Innovation Hub at Georgia Tech [pub 2025-09-24] -> 42 facts, 1 links
+  page_050505: Stryten Energy LLC [pub 2026-06-23] -> 60 facts, 2 links
+  page_052965: Central Georgia Economic Region [pub 2017-04-02] -> 80 facts, 0 links
+  page_055012: FREYR Battery, Inc. [pub ?] -> 29 facts, 5 links
+  page_055932: HWASHIN CO., LTD [pub ?] -> 43 facts, 0 links
+  page_056594: KUMHO TIRE CO., INC. [pub ?] -> 10 facts, 0 links
+  page_057208: Linde + Wiemann [pub ?] -> 20 facts, 0 links
+  page_057216: LINDE + WIEMANN Group [pub ?] -> 15 facts, 0 links
+  page_060697: Electric vehicle [pub ?] -> 20 facts, 0 links
+Done: 27 records, 1157 facts, 1 failures this run -> data/wiki/_extract_v15_qwen35b_cleanup/w2/all_records_v15.jsonl

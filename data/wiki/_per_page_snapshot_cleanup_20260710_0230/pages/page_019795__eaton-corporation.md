@@ -1,0 +1,58 @@
+---
+title: "Eaton Corporation"
+entity_type: company
+supply_chain_category: automotive_components
+page_id: page_019795
+publication_date: 
+source_url: https://www.eaton.com/us/en-us/company/news-insights/news-releases/2024.html
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Eaton Corporation
+
+**Type:** company  ·  **Role:** automotive_components  ·  **Published:** ?
+
+**Source:** [2024](https://www.eaton.com/us/en-us/company/news-insights/news-releases/2024.html)  ·  `page_019795`
+
+## Facts
+
+- On 12/11/2024, Eaton named Pete Denk president and chief operating officer of the Industrial Sector, and Antonio Galvao president of Mobility.
+- On 11/21/2024, Eaton launched an energy storage system to accelerate decarbonization and electrification for commercial and industrial customers across North America.
+- On 11/14/2024, Eaton and Treehouse formed a strategic collaboration to accelerate mass adoption of EV charging and electrification in U.S. homes.
+- On 10/23/2024, Eaton will help modernize infrastructure for Miami’s Metromover.
+- On 10/22/2024, Eaton released online savings calculator and educational tools to help homeowners and electricians embrace home electrification.
+- On 10/15/2024, Eaton introduced aftermarket Endurant automated manual transmission clutch and flywheel kits.
+- On 10/03/2024, Eaton collaborated with Lunar Energy to maximize the functionality of residential energy storage and solar installations.
+- On 10/02/2024, Eaton's battery configuration switch provides EV charging flexibility.
+- On 09/12/2024, Eaton expanded its commercial vehicle transmission portfolio across the powertrain spectrum.
+- On 09/10/2024, Eaton will showcase technologies for hydrogen-powered commercial vehicles at IAA Transportation 2024.
+- On 09/09/2024, Eaton launched a collaboration with Tesla at RE+ 24 to streamline new and retrofit home energy storage deployments.
+- On 09/05/2024, Eaton will showcase its comprehensive commercial vehicle clutch portfolio at Automechanika Frankfurt.
+- On 09/04/2024, Eaton streamlined residential solar and energy storage installations with new industry-first smart breakers and a home energy management system.
+- On 09/04/2024, Eaton's plant in Cleveland, Tennessee achieved Lighthouse status.
+- On 09/03/2024, Eaton will showcase innovative aftermarket solutions for the growing electrified vehicle market at Automechanika Frankfurt.
+- On 08/20/2024, Eaton helped Dallas Fort Worth International Airport build a new electric Central Utility Plant and accelerate progress toward net zero carbon emissions.
+- On 08/12/2024, Eaton named Paulo Ruiz president and COO effective September 2, 2024; Ruiz will succeed Craig Arnold as CEO on June 1, 2025.
+- On 06/26/2024, Eaton advanced clean energy projects powering its global operations in the next two years.
+- On 06/20/2024, Eaton helped the University of Notre Dame build a new EV charging network.
+- On 06/11/2024, Eaton's innovative safety solutions help accelerate the electrified vehicle transition.
+- On 05/30/2024, Eaton expanded U.S. industry education to accelerate fleet electrification.
+- On 05/20/2024, Eaton introduced higher power fuses for electrified commercial vehicles.
+- On 05/16/2024 and 04/23/2024, Eaton’s Mobility Group was chosen to supply electromechanical variable valve actuation technology to Great Wall Motor.
+- On 05/09/2024, Eaton cut the ribbon on a new Dominican Republic manufacturing site, increasing the supply of fuses for EVs, data centers and renewable energy systems.
+- On 05/07/2024, Eaton advanced more resilient, sustainable electricity in New York City with energy storage projects valued at more than $7 million.
+- On 05/06/2024, Eaton received the 2024 Automotive News PACEpilot recognition for its 4-speed electrified vehicle transmission.
+- On 05/03/2024, Eaton highlighted cybersecurity education and skilled workforce training programs at the White House Cyber Workforce event.
+- On 04/25/2024, Eaton was awarded $26.6M in federal tax credits supporting U.S. manufacturing and workforce training programs advancing clean energy projects.
+- On 04/02/2024, Eaton completed a first-of-its-kind clean energy project in Puerto Rico to power manufacturing and support the regional power grid.
+- On 03/26/2024, Eaton accelerated its shift to electrified fleets with new DC fast chargers.
+- On 03/14/2024, Eaton introduced a next-generation fuel tank isolation valve for hybrid electric vehicles.
+- On 03/06/2024, Eaton’s EV chargers met California’s CTEP requirements for charging and billing transparency to boost driver confidence.
+- On 02/28/2024, Eaton introduced three new power take-off applications and hydraulic control valves at the Work Truck Show.
+- On 02/20/2024, Eaton made it easier and faster to add EV charging at commercial buildings, multifamily homes and public charging locations.
+- On 02/13/2024, an Eaton engineer was elected to the Board of Trustees for the Gear Research Institute at Penn State University.
+- On 02/12/2024, Eaton broke ground on a new manufacturing facility in the Dominican Republic, increasing supply of fuses vital to the global energy transition and electrification.
+- On 02/12/2024, Eaton modernized its manufacturing footprint with two new smart factories.
+- On 01/16/2024, Eaton added a remanufactured Advantage line of clutches to its portfolio.
+- On 01/03/2024, Eaton brought focus to a clean energy future at CES 2024.
+- Eaton will supply an innovative ELocker differential system to a leading electrified vehicle manufacturer.

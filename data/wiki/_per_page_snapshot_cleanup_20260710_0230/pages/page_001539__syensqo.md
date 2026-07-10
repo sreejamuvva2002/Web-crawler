@@ -1,0 +1,66 @@
+---
+title: "Syensqo"
+entity_type: company
+supply_chain_category: battery_materials
+page_id: page_001539
+publication_date: 
+source_url: https://www.compositesworld.com/suppliers/solvay-composite-materials
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Syensqo
+
+**Type:** company  ·  **Role:** battery_materials  ·  **Published:** ?
+
+**Source:** [Syensqo Suppliers Showroom | CompositesWorld](https://www.compositesworld.com/suppliers/solvay-composite-materials)  ·  `page_001539`
+
+## Facts
+
+- Syensqo is located at 4500 McGinnis Ferry Road, Alpharetta, GA 30005-3914 US.
+- The company contact number is 770-772-8200.
+- Syensqo, previously part of the Solvay Group, is a global leader in advanced lightweight composite and polymer materials serving the aerospace, automotive, electronics, and high-performance industries.
+- The company has a heritage of 160 years of technological innovation combining material design and process engineering expertise.
+- Syensqo's comprehensive product portfolio includes thermoset and thermoplastic prepregs, adhesives, surfacing films, resin and compound systems, carbon fibers, and tooling solutions.
+- The company is committed to driving innovation and sustainability by developing next-generation materials that optimize efficiency and reduce environmental impact.
+- Syensqo supplies adhesive bonding, automotive body panels & substructures, aerospace fuselage/wing, carbon fiber composite, epoxy, glass fiber, and other composites materials.
+- Syensqo introduces orange-colored grades for critical EV components using fiberglass-reinforced Amodel PPA HFFR-4133 OR resin to meet e-mobility high-voltage safety standards.
+- Solvay releases SolvaLite grade to mitigate BEV thermal runaway, a fast-curing epoxy prepreg that outperforms aluminum and discontinuous fiber composites in UL 2596 flammability tests.
+- Solvay launches Xencor XTreme for battery thermal runaway protection, a long glass fiber-reinforced PPA solution produced with partially bio-based content.
+- Solvay features Xydar polymer for high-heat EV battery module insulation, specifically the Xydar LCP G-330 HH glass-filled liquid crystal polymer grade.
+- Syensqo supports Vertical Aerospace VX4 industrialization plan through an advanced composite supply agreement to advance safer, cleaner, and scalable electric air mobility.
+- Vertical Aerospace achieves two-way piloted transition flight for its eVTOL prototype, with a planned commercial aircraft launch in 2028.
+- Vertical announces Valo commercial eVTOL aircraft with 2028 EIS plans, built on the VX4 prototype and supported by companies like Syensqo.
+- Syensqo and Bell join forces to industrialize composite part manufacture, leveraging Syensqo’s DDF technology and Cycom EP2750 fast-cure prepreg.
+- Solvay becomes Beta Technologies material supplier for AAM, providing lightweight composite materials for electric CTOL and VTOL aircraft.
+- AZL announces follow-up projects on electromobility casings and thermal runaway, encouraging interested companies to join consortia before a Sept. 11th kick-off.
+- Syensqo Cycom EP2190 epoxy prepreg has been added to the NCAMP database to lower adoption barriers and shorten customer design timelines for aerospace, defense, and AAM qualification.
+- Four Syensqo innovations are recognized at the 2025 SPE Automotive Awards for fiber-reinforced polymers, specialty compounds, and bio-based PPA materials.
+- Mercedes-AMG Petronas F1 Team debuts bio-based carbon fiber on W16 rear wheel shields developed using Syensqo resin with 30% bio-based materials.
+- The AAMMC aerospace tech hub earns $50 million in federal funding and private commitments to establish a Pacific Northwest test bed for aerospace composite materials, with partners including Syensqo.
+- ASCEND program completion marks the end of a 4-year, £39.6 million initiative charting progress in high-rate production, Industry 4.0, and sustainable composites manufacturing for auto and aerospace.
+- Plyable secures $3.2 million investment to advance custom composite marketplace solution, backed by Solvay Ventures and Maven Capital Partners.
+- Trillium awarded DOE funding for bio-based acrylonitrile demonstration plant, with project partners including Solvay, Koch Modular, and Matric.
+- Syensqo advances circular carbon fiber composite recycling partnership with Fairmat through a multiyear agreement to reintroduce EOL waste from its German facility into the aerospace, space, and automotive supply chain.
+- Syensqo and Vartega advance carbon fiber circularity by progressing a closed-loop model that converts dry carbon fiber and prepreg waste into EasyFeed Bundles.
+- Solvay carbon footprint tool accelerates GHG reduction efforts by enabling quick calculation of product carbon footprints starting with Novecare sites.
+- Syensqo Heanor site in U.K. achieves ISCC Plus accreditation, adding to nine other Syensqo sites offering renewable, recycled, or mass balanced ReGen composite material.
+- Composites sustainability wins include EcoVadis and CDP awards, water stewardship, and GHG reduction efforts led by companies like Syensqo.
+- CW Tech Days: Composites in advanced air mobility event is scheduled for Dec. 7th from 11 a.m. to 3:30 p.m. to discuss industry challenges and market demands.
+- JEC World 2026 Innovation Award finalists have been revealed, with 11 winners to be announced at the JEC Premiere on Jan. 12 in Paris.
+- People in composites September 2025 notes new appointments or leadership transitions at Gill Corp., Gurit, Syensqo, Carbitex, GE Aerospace, and the University of Southern Queensland.
+- Solvay and Syensqo revealed as new company names, with Solvay splitting its business so the composite materials segment assumes the Syensqo name.
+- Solvay opens new Application Development Laboratory in China to respond to growing customer demand for tailored high-performance materials.
+- Solvay partners with iCOMAT for tow steering technology to accelerate commercialization of rapid tape shearing technology for high-volume composite part production.
+- Solvay expands range of FusePly covalent bonding for composite structures, offering optimized bond reliability and high part performance at 250°F to 350°F.
+- Mass, cost, and durability improvements are being pursued for EV battery enclosures as composite materials suppliers work to meet automaker and battery module producer needs.
+- Composites end markets report highlights opportunities in batteries and fuel cells as EV growth drives demand for composites in battery enclosures and components.
+- Solvay-NIAR Manufacturing Innovation Center opens as a partnership dedicated to enabling increased efficiencies and performance in aviation through advances in composites technologies.
+- CAMX 2022 exhibit preview highlights fast-curing epoxy surfacing film SolvaLite SF200 generating smooth surface and Class-A finish for composite automotive applications.
+- Solvay launches LTM 350 low-temperature composite tooling prepreg, a carbon fiber epoxy prepreg setting new standards in cost-efficient composite tooling with fast layup and cure cycles.
+- Thermoplastic composites welding advances help various technologies approach TRL 6 for lighter weight, lower cost airframes.
+- High-performance, high-detail continuous 3D-printed carbon fiber parts are built by Mantis Composites specifically toward design, printing, and postprocessing of aerospace and defense parts since 2014.
+- Plant tour covers National Institute for Aviation Research in Wichita, Kan., U.S., located at Wichita State University in the heart of American aerospace manufacturing.
+
+## Links
+
+- syensqo.com — Company website

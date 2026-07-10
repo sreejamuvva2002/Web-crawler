@@ -1,0 +1,58 @@
+---
+title: "U.S. Department of Energy Hydrogen and Fuel Cell Technologies Office"
+entity_type: government_program
+supply_chain_category: government_support
+page_id: page_006111
+publication_date: 2026-06-30
+source_url: https://www.energy.gov/eere/fuelcells/hydrogen-and-fuel-cell-technologies-office-closed-funding-opportunities
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# U.S. Department of Energy Hydrogen and Fuel Cell Technologies Office
+
+**Type:** government_program  ·  **Role:** government_support  ·  **Published:** 2026-06-30
+
+**Source:** [Hydrogen and Fuel Cell Technologies Office Closed Funding Opportunities | Department of Energy](https://www.energy.gov/eere/fuelcells/hydrogen-and-fuel-cell-technologies-office-closed-funding-opportunities)  ·  `page_006111`
+
+## Facts
+
+- Since 2003, the DOE has awarded funding to support research, development, demonstration, and deployment of hydrogen and fuel cell technologies.
+- FY 2025 opportunity titled Advanced Hydrogen and Fuel Cell Technologies to Drive National Goals (Solicitation: DE-FOA-0003439).
+- FY 2024 opportunity titled Hydrogen and Fuel Cell Technologies Office Funding Opportunity Announcement to Advance the National Hydrogen Strategy (Solicitation: DE-FOA-0003213).
+- FY 2023 opportunity under the Infrastructure Investment and Jobs Act focused on Hydrogen Electrolysis, Manufacturing, and Recycling (Solicitation: DE-FOA-0002922).
+- FY 2022 opportunity supported the Hydrogen Shot and a University Research Consortium on Grid Resilience (Solicitation: DE-FOA-0002792).
+- FY 2021 included the H2@Scale CRADA Call, SuperTruck 3, and Fiscal Year 2021 Hydrogen and Fuel Cells R&D.
+- FY 2020 opportunity was the New Markets Funding Opportunity Announcement (Solicitation: DE-FOA-0002229).
+- FY 2019 included H2@Scale and a Commercial Trucks and Off-Road Applications FOA covering Natural Gas, Hydrogen, Biopower, and Electrification Technologies (Solicitation: DE-FOA-0002044).
+- FY 2018 opportunity was the FY18 Hydrogen and Fuel Cell R&D FOA (Solicitation: DE-FOA-0001874).
+- FY 2017 opportunity was the Annual Funding Opportunity Announcement (Solicitation: DE-FOA-0001647).
+- FY 2016 projects selected for negotiation included City of San Francisco, Strategic Analysis, Inc., 3M Company, United Technologies Research Center (UTRC), Vanderbilt University, General Motors, Argonne National Laboratory, Pennsylvania State University, University of Hawaii, Manoa, University of Missouri, St. Louis, Ceramatec Inc., Fuel Cell Energy, Inc., Giner, Inc., Greenway Energy, LLC, Sandia National Laboratories, and Vencore Services and Solutions.
+- FY 2015 projects selected included Oregon State University, 3M Company, General Motors LLC, National Renewable Energy Laboratory, Illinois Institute of Technology, Ivys Inc., Automated Dynamics, Electricore, Inc., US Hybrid Corporation, and The City of Ithaca.
+- FY 2014 Fuel Cell Technologies Incubator projects selected included Proton Energy Systems, Advent Technologies, Inc., Giner, Inc., Versa Power Systems, University of New Mexico, University of California, Irvine, University of Delaware, Northeastern University, Gas Technology Institute, Center for Transportation and the Environment, and Virginia Tech.
+- FY 2014 Energy Supply Chain and Manufacturing Competitiveness Analysis projects selected included Ohio Fuel Cell Coalition, James Madison University, and GLWN/Westside Industrial Retention and Expansion Network and Subsidiary.
+- FY 2013 Medium Duty Trucks, Roof-top Backup Power, and Advanced Hydrogen Refueling Components projects selected Center for Transportation and the Environment, FedEx Express, Air Products and Chemicals, Inc., and Sprint.
+- FY 2013 Hydrogen Storage R&D projects selected Materia Inc., PPG Industries, Inc., Sandia National Laboratories, Lawrence Livermore National Laboratory, Ardica Technologies, Inc., HRL Laboratories, LLC, University of Michigan, Texas A&M University, California Institute of Technology, and Ames Laboratory.
+- FY 2013 Hydrogen Production R&D projects selected FuelCell Energy Inc., Pacific Northwest National Laboratory, National Renewable Energy Laboratory, University of Hawaii, Sandia National Laboratories, and University of Colorado.
+- FY 2013 Hydrogen Delivery projects selected Southwest Research Institute, Nuvera Fuel Cells, Inc., Oak Ridge National Laboratory, and Wiretough Cylinders LLC.
+- FY 2012 Hydrogen Pathway Analyses project selected Strategic Analysis, Inc.
+- FY 2012 Fuel Cell Powered Airport Ground Support Equipment Deployment project selected Plug Power.
+- FY 2012 Validation of Hydrogen Refueling Station Performance projects selected Gas Technology Institute, Proton Energy Systems, California Air Resources Board, and California State University Los Angeles University Auxiliary Services, Inc.
+- FY 2012 Light-Duty Fuel Cell Electric Vehicle Validation Data projects selected Hyundai America Technical Center, Inc., Mercedes-Benz Research and Development, North America, Inc., General Motors LLC, and Electricore, Inc.
+- FY 2011 R&D of Fuel Cells for Stationary and Transportation Applications projects selected 3M and Eaton Corporation.
+- FY 2011 R&D for Hydrogen Storage projects selected Pacific Northwest National Laboratory, HRL Laboratories, LLC, Lawrence Berkeley National Laboratory, and University of Oregon.
+- FY 2011 Fuel Cell and Hydrogen Storage System Cost Analyses projects selected Directed Technologies, Inc., Lawrence Berkeley National Laboratory, and Battelle Memorial Institute.
+- FY 2010 opportunity covered Liquid Carrier Technology for Hydrogen Storage or Delivery.
+- FY 2009 DOE awarded $113 million to fund 28 projects to advance fuel cell technology development.
+- FY 2008 Hydrogen Storage Engineering Center of Excellence (CoE) research focused on onboard vehicular hydrogen storage systems for driving ranges greater than 300 miles while meeting packaging, safety, cost, and performance requirements; lead was Savannah River National Laboratories with partners including United Technologies Research Center, Pacific Northwest National Laboratory, Los Alamos National Laboratory, National Renewable Energy Laboratory, Jet Propulsion Laboratory, General Motors Corporation, Ford Motor Company, Oregon State University, and Lincoln Composites.
+- FY 2008 Recovery Act provided $41.9 million in American Recovery and Reinvestment Act funding for 13 projects to deploy fuel cell technology in emergency backup power, material handling, and stationary applications.
+- FY 2008 H-Prize solicitation aimed to identify an Administering Entity to competitively award cash prizes for hydrogen energy technologies; selected project was Hydrogen Education Foundation.
+- FY 2008 Hydrogen Education Development projects included Clean Energy States Alliance, Connecticut Center for Advanced Technology/Connecticut Hydrogen and Fuel Cell Coalition, Houston Advanced Research Center/Texas Hydrogen Coalition, Ohio Fuel Cell Coalition, South Carolina Hydrogen Fuel Cell Alliance, Technology Transition Corporation, Virginia Department of Mines, Minerals & Energy, Carolina Tractor & Equipment Company, California State University, Los Angeles, Humboldt State University, Michigan Technological University, University of Central Florida, and University of North Dakota.
+- FY 2008 Manufacturing R&D projects selected in 2008 included General Motors Corporation, Ballard Material Products, Inc., Rensselaer Polytechnic Institute, W.L. Gore & Associates, UltraCell Corporation, and Quantum Fuel Systems Technologies Worldwide, Inc.
+- FY 2007 Research and Development for Hydrogen Production and Delivery projects selected in 2008 included Concepts ETI, Mohawk Innovative Technologies, Lawrence Livermore National Laboratory, Lincoln Composites, Praxair, Prometheus Energy, Giner Electrochemical Systems, LLC, and Avalence.
+- FY 2006 High-Temperature, Low-Relative Humidity Polymer-Type Membranes projects received up to $19 million in federal funding over five years; partners included Colorado School of Mines, Pennsylvania State University, Virginia Tech, Giner Electrochemical Systems, University of Tennessee, Case Western Reserve University, FuelCell Energy, Clemson University, GE Global Research, Arizona State University, and University of Central Florida.
+- FY 2006 Lab Call for Onboard Vehicular Hydrogen Storage projects selected Argonne National Laboratory and Sandia National Laboratories.
+- FY 2005 Hydrogen Production and Delivery Research funded over $75 million in projects supporting the President's Hydrogen Initiative across categories like solar electrochemical water splitting, electrolyzers, biomass separation technologies, and delivery technologies, involving 36 lead organizations and over 80 teaming organizations.
+- FY 2004 Grand Challenge Hydrogen Storage Centers of Excellence established three centers at NREL, Los Alamos National Laboratory, and Sandia National Laboratories with a DOE share of $150 million over 5 years and approximately $20 million private cost share.
+- FY 2004 Vehicle and Infrastructure Learning Demonstrations funded five demonstrations with an expected DOE share of $190 million over 5 years and approximately $190 million private cost share.
+- FY 2004 Portable Power, Auxiliary Power Units, and R&D for Off-Road Fuel Cell Applications award had a DOE share of $13 million over 3 years with approximately $10 million private cost share.
+- FY 2003 Advanced Hydrogen Fuel Cell Research in July 2003 selected 13 firms and educational institutions in 12 states for $75 million in cost-shared awards, combined with earlier awards to 11 firms and universities in eight states for $21 million.

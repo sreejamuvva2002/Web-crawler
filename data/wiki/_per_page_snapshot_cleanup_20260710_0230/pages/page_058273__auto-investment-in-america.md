@@ -1,0 +1,121 @@
+---
+title: "Auto Investment in America"
+entity_type: investment_announcement
+supply_chain_category: automotive_components
+page_id: page_058273
+publication_date: 
+source_url: https://autoinvestment.org/
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Auto Investment in America
+
+**Type:** investment_announcement  ·  **Role:** automotive_components  ·  **Published:** ?
+
+**Source:** [Auto Investment in America](https://autoinvestment.org/)  ·  `page_058273`
+
+## Facts
+
+- $5,500,000 Toyota Industries Compressor Parts America Expansion in Pendergrass, GA Announced October 2020 27 new jobs
+- $9,800,000 Subaru of America Expansion in Aurora, CO Announced August 2020 64 new jobs
+- $21,300,000 UGN Expansion in Monroe, OH Announced August 2020 80 new jobs
+- $6,300,000 Unipres Alabama Expansion in Steele, AL Announced August 2020 10 new jobs
+- $20,000,000 Marlli New Facility in Bowling Green, OH Announced June 2020 75 new jobs
+- $10,000,000 Toyota Motor North America New Facility in Phoenix, AZ Announced June 2020 61 new jobs
+- $15,400,000 Yajima New Facility in West Lafayette, IN Announced May 2020 127 new jobs
+- $17,000,000 Hayashi Telempu North America Expansion in Jasper, AL Announced March 2020 19 new jobs
+- $28,300,000 Suzuki Motor Rnew Facility in Panama City, FL Announced March 2020 130 new jobs
+- $158,000,000 Subaru of Indiana Automotive Expansion in Lafayette, IN Announced February 2020 350 new jobs
+- $13,100,000 Isuzu Motors America New Facility in Wixom, MI Announced February 2020 55 new jobs
+- $38,000,000 NHK Seating of America New Facility in Frankfort, IN Announced February 2020 100 new jobs
+- $58,000,000 NTN Driveshaft Expansion in Anderson, IN Announced February 2020 140 new jobs
+- $700,000,000 Toyota Motor Manufacturing Indiana Expansion in Princeton, IN Announced January 2020 150 new jobs
+- $35,100,000 Toyoda Gosei Expansion in San Antonio, TX Announced November 2019
+- $17,000,000 Toyoda Gosei Expansion in Perryville, MO Announced November 2019
+- $8,200,000 Toyoda Gosei Expansion in Lebanon, KY Announced November 2019
+- $60,000,000 Nippon Paint USA New Facility in Chattanooga, TN Announced September 2019 150 new jobs
+- $4,200,000 Honda Retooling in "Greensburg, IN", Announced September 2019 34 new jobs
+- $391,000,000 Toyota Investment in San Antonio, TX Announced September 2019
+- $400,000,000 Aisin AW New Facility in Cibolo, TX Announced September 2019 900 new jobs
+- $60,000,000 VUTEQ Retooling in Huntsville, AL Announced August 2019 200 new jobs
+- $40,000,000 "Hino Motors Mfg, USA" Expansion in Mineral Wells, VA Announced August 2019 250 new jobs
+- $110,000,000 Central Motor Wheel of America Expansion in Paris, TX Announced July 2019 145 new jobs
+- $3,800,000 C&A Tool Engineering Minbea Mitsumi Inc. Expansion in Churubusco, IN Announced June 2019 15 new jobs
+- $3,000,000 Sanoh New Facility in Huntsville, AL Announced June 2019 34 new jobs
+- $62,000,000 Toyota Expansion in Troy, MO Announced May 2019
+- $220,000,000 Y-tec Keylex Toyotetsu New Facility in Huntsville, AL Announced May 2019 650 new jobs
+- $31,000,000 Toyota Boshoku Expansion in Jackson , TN Announced May 2019 130 new jobs
+- $100,000,000 Hitachi Expansion in Monroe, GA Announced May 2019 100 new jobs
+- $50,000,000 Toyota Boshoku New Facility in Athens, AL Announced April 2019 400 new jobs
+- $111,000,000 Toyota Expansion in Buffalo, WV Announced March 2019 123 new jobs
+- $238,000,000 Toyota Expansion in Georgetown, KY Announced March 2019
+- $9,500,000 Denso Products and Services Americas New Facility in Jeffersonville, IN Announced March 2019 50 new jobs
+- $50,000,000 Toyota Expansion in Jackson , TN Announced March 2019 13 new jobs
+- $288,000,000 Toyota Expansion in Huntsville, AL Announced March 2019 450 new jobs
+- $100,000,000 Auto Parts Mfg Mississippi Retooling in Guntown, MS Announced October 2018 50 new jobs
+- $5,100,000 Alpine Electronics of America Expansion in Auburn Hills, MI Announced September 2018 100 new jobs
+- $10,000,000 Toyota New Facility in Blue Springs, MS Announced September 2018 400 new jobs
+- $51,000,000 FANUC New Facility in Rochester Hills, MI Announced August 2018 100 new jobs
+- $170,000,000 Nissan Expansion in "Smyrna, TN and Canton", MS Announced August 2018
+- $3,500,000 DENSO Air Systems Expansion in Frankfort, KY Announced August 2018 45 new jobs
+- $21,000,000 Nissei Plastic Machinery America Inc New Facility in San Antonio, TX Announced July 2018 25 new jobs
+- $17,050,000 Toyota Expansion in Troy , MO Announced July 2018
+- $54,800,000 Honda Expansion in Lincoln, AL Announced July 2018
+- $3,000,000 "Weastec, Inc." Expansion in Columbus, OH Announced June 2018 20 new jobs
+- $37,000,000 TOPY America Inc Retooling in Frankfort, KY Announced June 2018
+- $54,000,000 Honda Retooling in East Liberty, OH Announced May 2018
+- $32,500,000 Honda Retooling in Greensburg, IN Announced May 2018
+- $29,000,000 Honda Retooling in Russells Point , OH Announced May 2018
+- $170,000,000 Toyota Retooling in Blue Springs, MS Announced April 2018 400 new jobs
+- $73,000,000 Topre America Expansion in Springfield, OH Announced March 2018 204 new jobs
+- $190,000,000 DENSO Expansion in Athens, TN Announced February 2018 320 new jobs
+- $320,000,000 Teijin Carbon Fibers New Facility in Greenwood, SC Announced November 2017 300 new jobs
+- $1,000,000,000 DENSO Expansion in Marysville, TN Announced October 2017 1000 new jobs
+- $4,000,000 TPAM New Facility in Toledo, OH Announced October 2017 30 new jobs
+- $220,000,000 Honda Retooling in Marysville, OH Announced September 2017
+- $4,200,000 Subaru Expansion in Lafayette, IN Announced September 2017
+- $6,300,000 Contec Americas Inc. New Facility in Melbourne, FL Announced September 2017
+- $9,700,000 "Takahata Precision Tennessee, Inc. " Expansion in Helenwood, TN Announced September 2017 81 new jobs
+- $10,000,000 Sumitomo Machinery Corporation of America Expansion in Chesapeake, VA Announced September 2017 26 new jobs
+- $11,000,000 TG Fluid Systems Expansion in Brighton , MI Announced September 2017 35 new jobs
+- $11,400,000 Togo North America New Facility in Portland, TN Announced September 2017 58 new jobs
+- $47,000,000 Honda Retooling in Anna, OH Announced September 2017
+- $14,500,000 Toyota Retooling in Jackson , TN Announced August 2017
+- $35,800,000 U.S. Tsubaki Automotive Expansion in Portland, TN Announced August 2017 70 new jobs
+- $2,700,000 Murakami Mfg. Expansion in Campbellsville, KY Announced August 2017
+- $8,000,000 Kimura Foundry America New Facility in Shelbyville, IN Announced August 2017 20 new jobs
+- $12,000,000 Nachi New Facility in Novi, MI Announced August 2017 36 new jobs
+- $13,000,000 Keihin Carolina System Technology Expansion in Tarboro , NC Announced August 2017 42 new jobs
+- $13,700,000 Miyake Forging North America Corp. New Facility in Surgoinsville, TN Announced August 2017 60 new jobs
+- $16,100,000 Plastic Trim International Expansion in Baldwin Twp/Tawas City, MI Announced August 2017 210 new jobs
+- $56,900,000 Fukai Toyotetsu Indiana Corporation Expansion in Jamestown, IN Announced July 2017 103 new jobs
+- $61,000,000 Autoliv-Nissin Brake Systems New Facility in Findley, OH Announced July 2017 250 new jobs
+- $16,330,000 Calsonic Kansei North America Expansion in Madison, MS Announced July 2017 98 new jobs
+- $26,000,000 Wynright Corporation New Facility in Hobart, IN Announced July 2017 582 new jobs
+- $40,000,000 Bridgestone Americas Expansion in Warren County, TN Announced June 2017
+- $40,000,000 Hirotec Corp. New Facility in Fayetteville, TN Announced December 2018 100 new jobs
+- $85,000,000 Honda Retooling in East Liberty, OH Announced May 2017
+- $72,000,000 Nisshinbo Automotive Mfg Inc. (NAMI) Expansion in Covington, GA Announced September 2018 100 new jobs
+- $38,200,000 Topre America Expansion in Smyrna, TN Announced April 2017 35 new jobs
+- $100,000,000 "Hino Motors Mfg, USA" New Facility in Mineral Wells, VA Announced February 2018 250 new jobs
+- $106,000,000 Toyota Retooling in Huntsville, AL Announced April 2017
+- $75,000,000 DENSO Expansion in Southfield, MI Announced April 2017 120 new jobs
+- $80,000,000 Topre America Expansion in Cullman, AL Announced April 2017 98 new jobs
+- $124,000,000 Honda New Facility in East Liberty, OH Announced April 2017
+- $100,000,000 Honda Expansion in Tallapoosa, GA Announced March 2017
+- $13,900,000 Fukoku America Expansion in Laurens, SC Announced March 2017 65 new jobs
+- $85,000,000 Honda Expansion in Lincoln, AL Announced March 2017
+- $7,500,000 TG Automotive Sealing Kentucky LLC Expansion in Frankfort, KY Announced March 2017
+- $49,000,000 Honda Retooling in Russells Point, OH Announced March 2017
+- $115,300,000 Toyota Retooling in Buffalo, WV Announced March 2017
+- $120,960,000 Toyota Expansion in Georgetown, KY Announced March 2017
+- $140,000,000 Subaru Expansion in Lafayette, IN Announced March 2017
+- $110,000,000 Daikyo Nishikawa New Facility in Huntsville, AL Announced May 2019 380 new jobs
+- $138,000,000 Toyo Tire North America New Facility in Cartersville, GA Announced March 2017 150 new jobs
+- $600,000,000 Toyota Retooling in Princeton, IN Announced January 2017 400 new jobs
+- $42,500,000 Fuel Cell System Mfg LLC (GM-Honda JV) Expansion in Brownstown Township, MI Announced January 2017 50 new jobs
+- $1,330,000,000 Toyota Expansion in Georgetown, KY Announced January 2017
+- $1,600,000,000 Toyota-Mazda JV New Facility in Huntsville, AL Announced January 2018 4000 new jobs
+- $46,500,000 Topre America New Facility in Springfield, OH Announced November 2016 20 new jobs
+- $9,200,000 Tsuchiya Group NA New Facility in Bloomington , IN Announced November 2016 18 new jobs
+- $600,000,000 Teijin Carbon Fibers New Facility in Greenwood, SC Announced November 2016 220 new jobs

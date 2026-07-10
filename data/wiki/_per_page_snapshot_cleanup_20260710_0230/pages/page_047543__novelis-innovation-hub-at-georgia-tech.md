@@ -1,0 +1,64 @@
+---
+title: "Novelis Innovation Hub at Georgia Tech"
+entity_type: research_center
+supply_chain_category: research_and_development
+page_id: page_047543
+publication_date: 2025-09-24
+source_url: https://research.gatech.edu/novelis/news-events
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Novelis Innovation Hub at Georgia Tech
+
+**Type:** research_center  ·  **Role:** research_and_development  ·  **Published:** 2025-09-24
+
+**Source:** [Novelis News & Events | Research](https://research.gatech.edu/novelis/news-events)  ·  `page_047543`
+
+## Facts
+
+- Novelis and Georgia Tech have partnered since 2019 through the Novelis Innovation Hub at Georgia Tech to advance research and business opportunities in aluminum manufacturing.
+- The Novelis Global Research and Technology Center (NGRTC) is located in Kennesaw, GA.
+- On September 24, 2025, the 2025 Novelis Scholars Day was held from 8 am to 3 pm at the NGRTC in Kennesaw, GA.
+- At the September 24, 2025 event, Novelis Graduate and Undergraduate Scholars presented research projects on topics including converting CO2 to multi-carbon chemicals, redox mechanisms in lithium-ion batteries, sustainable energy utilization, predictive modeling for streaming data, defect control in bimetallic wire-arc DED structures, quality control in composite manufacturing, causal models for cascading failures in distributed manufacturing networks, low-temperature lithium-ion batteries, and fatigue prediction of 316 stainless steel.
+- The September 24, 2025 Scholars Day was hosted by Dr. Sazol Das (R&D Leader) and Dr. Vinicius Silva (Senior Director, Regional R&D) at Novelis.
+- Georgia Tech leadership at the September 24, 2025 event was represented by Professor Shreyes Melkote, Executive Director of the Novelis Innovation Hub at Georgia Tech.
+- Opening remarks for the September 24, 2025 event were delivered by Dr. Silva, Professor Melkote, and Dr. Das.
+- Novelis scientists and engineers attended the September 24, 2025 event in person and virtually, followed by a networking lunch and guided tours of Novelis research laboratories and pilot-scale production facilities.
+- On March 27, 2025, the Novelis Innovation Hub at Georgia Tech organized its annual Novelis Industry Day event at Georgia Tech as a hybrid gathering.
+- The March 27, 2025 Industry Day was co-hosted by Dr. Shreyes Melkote and Ms. Tina Kosmicki (Head of Process Innovation for Manufacturing Excellence at Novelis).
+- Over 45 Novelis scientists and engineers, along with Georgia Tech faculty and students, participated in the March 27, 2025 Industry Day.
+- Dr. Melkote welcomed participants on behalf of Dr. Julia Kubanek (Vice President of Interdisciplinary Research at Georgia Tech) and highlighted 2024 Hub achievements while introducing the 2025 Novelis Scholars.
+- Mr. John Bachner (Sr. R&D Director for Americas at Novelis) presented on Novelis' 3X30 sustainability goals during the March 27, 2025 event.
+- The March 27, 2025 Industry Day format included presentations by Novelis technical leads on technology development needs and by Georgia Tech faculty on sponsored research projects in energy management, next-generation renewable energy devices, and heat exchanger design.
+- Georgia Tech researchers presented new capabilities in roll-to-roll manufacturing at the AMPF, as well as hot rolling and robotic forging.
+- On October 29, 2024, the third Novelis Scholars Day was held from 8 am to 3 pm at the NGRTC in Kennesaw, GA.
+- At the October 29, 2024 event, scholars presented research on grid technologies, augmented reality in manufacturing, corrosion behavior of AL 7050 alloys, wire arc directed energy deposition, computational alloy design, amine-based sorbents for direct air capture, Bayesian materials design, polar optoelectronics, low-temperature batteries, perovskite crystallinity, and solid oxide cell electrode materials.
+- The October 29, 2024 Scholars Day was hosted by Ms. Tina Kosmicki (Senior Manager of R&D Ecosystems) and Dr. Raj Gopalaswamy (Global Technology Director of New Domains at Novelis).
+- Mr. John Bachner joined the October 29, 2024 event for student presentations, followed by a networking lunch and tours of Novelis research laboratories and a beverage can pilot manufacturing facility.
+- Novelis and Georgia Tech co-hosted the 19th International Conference on Aluminum Alloys (ICAA19) at Georgia Tech's campus for four days.
+- ICAA19 attracted over 300 participants from 19 countries, featuring 12 symposia topics and over 250 technical presentations focused on sustainability, future mobility, and next-generation manufacturing.
+- Keynote addresses at ICAA19 were delivered by leaders from the Aluminum Association, Airbus, and Coca-Cola, with Novelis CTO Philippe Meyer and Georgia Tech EVP for Research Chaouki Abdallah headlining the event.
+- The ICAA19 conference marked the fifth anniversary of the Novelis Innovation Hub at Georgia Tech, which has been active since 2019.
+- On February 29, 2024, the Novelis Innovation Hub successfully conducted its Industry Day event in-person and virtually at the Georgia Tech Manufacturing Institute (GTMI).
+- The February 29, 2024 Industry Day focused on reviewing progress and outcomes of basic and applied research projects funded by Novelis through the Innovation Hub in 2023.
+- Opening remarks for the February 29, 2024 event were delivered by Dr. Julia Kubanek (GT) and Dr. Philippe Meyer (Novelis CTO), followed by a sustainability goals overview by Dr. Raj Gopalaswamy.
+- Georgia Tech faculty at the February 29, 2024 event presented research on advanced battery materials, heat exchanger design, sustainable manufacturing, aluminum in renewable energy, high throughput testing, and molten metal flow behavior in casting.
+- Ms. Tina Kosmicki highlighted internship and co-op opportunities at Novelis for Georgia Tech students during the February 29, 2024 event.
+- Discussions at the February 29, 2024 event covered joint technical workshops, AMPF research infrastructure, and plans to organize ICAA19 in 2024 and the International Deep Drawing Research Group (IDDRG) conference in 2028.
+- On September 28, 2023, the second Novelis Scholars Day was held from 8 am to 3 pm at the NGRTC in Kennesaw, GA, featuring seven graduate and four undergraduate scholars.
+- Scholar presentations at the September 28, 2023 event covered energy justice, continuum mechanics, perovskites for solar cells, thermal desalination, catalytic interfaces, wire arc additive manufacturing geometry control, pro-environmental behaviors, Ti-glycerol hybrids for fuel cells, and the urban heat island effect.
+- The September 28, 2023 event was hosted by Ms. Tina Kosmicki and Dr. Raj Gopalaswamy, with attendees including Dr. Jim Fekete (Director of R&D for North Americas) and Georgia Tech faculty Professors Shreyes Melkote and Juan-Pablo Correa-Baena.
+- In October 2023, Novelis donated a Bruker S2 Ranger XRF system to Georgia Tech's Materials Innovation and Learning Laboratory (MILL) for undergraduate and graduate research projects and lab courses.
+- A Georgia Tech research team led by Professor Matthew McDowell is using aluminum foil to create batteries with higher energy density and greater stability, a project that began as a collaboration between GT and Novelis through the Innovation Hub and was detailed in Nature Communications.
+- The Novelis Scholars program selected seven graduate and four undergraduate scholars for the 2022-2023 academic year, following an inaugural group of six graduate students selected from 34 nominations for the 2021-2022 academic year.
+- ICAA19 was scheduled for June 23 to 27, 2024, in Atlanta, with a call for abstracts in June 2023, an abstract deadline in November 2023, and a final program in December 2023.
+- On June 8, 2023, the Novelis Innovation Hub organized an AI Applications Workshop at Georgia Tech to identify synergies in AI/ML for manufacturing systems modeling, materials informatics, digital twins, and model-based system engineering.
+- The June 8, 2023 workshop brought together over 50 Novelis scientists and engineers with GT faculty and scholars to develop collaborative proposals and statements of work.
+- On February 2, 2023, a hybrid Industry Day at Georgia Tech reviewed 2022 funded research projects covering advanced battery materials, sustainable engineering modeling, energy management analytics, new alloy development, high throughput testing, casting fundamentals, and aluminum surface functionalization.
+- On September 27, 2022, the first Novelis Scholars Day was held from 9 am to 3 pm at the NGRTC in Kennesaw, GA, where six inaugural graduate scholars presented on ammonia production, perovskite deposition, NiTi shape memory alloys, AM 7050 alloys, fault diagnosis, and microstructure analysis.
+- On March 31, 2022, Novelis representatives Dr. Raj Gopalaswamy, Dr. Sarmistha Das, Suzanne Haupt, and Cullen Pearson participated in the WiMSE Connect and Dine event at the Academy of Medicine in midtown Atlanta.
+- On August 30, 2021, a leadership meeting was held at Georgia Tech featuring Novelis CEO Steve Fisher and SVP/CTO Philippe Meyer alongside GT President Cabrera, EVP Chaouki Abdallah, and VP Julia Kubanek.
+
+## Links
+
+- https://icaa19.org/ — ICAA19 conference website

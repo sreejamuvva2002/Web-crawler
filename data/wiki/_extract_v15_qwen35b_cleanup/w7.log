@@ -1,0 +1,41 @@
+v15 test: 39 assigned, 0 already done, 39 to run | model=qwen3.6:35b-a3b | base_url=http://127.0.0.1:11433/v1 | out=data/wiki/_extract_v15_qwen35b_cleanup/w7
+  page_000824: MEAG Power [pub ?] -> 41 facts, 0 links
+  page_000993: Hyundai Motor Group Metaplant America [pub ?] -> 164 facts, 0 links
+  page_002239: [] (no relevant record)
+  page_002649: [] (no relevant record)
+  page_002652: [] (no relevant record)
+  page_002721: Honda Motor Co., Ltd. [pub 2024-03-31] -> 26 facts, 0 links
+  page_003048: [] (no relevant record)
+  page_003051: [] (no relevant record)
+  page_003420: ArcelorMittal [pub 2026-02-26] -> 25 facts, 4 links
+  page_007782: Duckyang Ind [pub ?] -> 37 facts, 1 links
+  page_008424: Hitachi Automotive Systems Americas [pub ?] -> 18 facts, 0 links
+  page_011059: [] (no relevant record)
+  page_012218: [] (no relevant record)
+  page_012499: Georgia Department of Economic Development (GDEcD) and State Grant Programs [pub ?] -> 19 facts, 8 links
+  page_012742: [] (no relevant record)
+  page_015045: [] (no relevant record)
+  page_015122: [] (no relevant record)
+  page_015134: [] (no relevant record)
+  page_017671: [] (no relevant record)
+  page_018596: Georgia WARN Act Filings [pub 2026-07-06] -> 190 facts, 0 links
+  page_018614: [] (no relevant record)
+  page_020308: [] (no relevant record)
+  page_028383: [] (no relevant record)
+  page_028468: [] (no relevant record)
+  page_028577: [] (no relevant record)
+  page_028767: [] (no relevant record)
+  page_045520: [] (no relevant record)
+  page_046715: Rivian [pub ?] -> 7 facts, 0 links
+  page_046790: Mobis Alabama, LLC [pub ?] -> 26 facts, 2 links
+  page_047723: Georgia Contract Manufacturing Sector [pub ?] -> 38 facts, 23 links
+  page_052016: Top 23 Metal Fabrication Companies in Georgia [pub ?] -> 62 facts, 23 links
+  page_052720: Aspen Aerogels Inc [pub 2026-04-20] -> 29 facts, 1 links
+  page_052899: Blue Bird Corporation [pub 2026-05-06] -> 59 facts, 10 links
+  page_052953: Blue Bird Corporation [pub ?] -> 55 facts, 0 links
+  page_053112: 2024 CiCi Awards for Community Impact [pub ?] -> 23 facts, 0 links
+  page_059069: Rivian Automotive, Inc. [pub ?] -> 99 facts, 0 links
+  page_059213: Saft America Inc., Div Transportation Division [pub ?] -> 28 facts, 0 links
+  page_060371: SK Innovation Battery Complex / Hyundai-SK On Joint Venture [pub ?] -> 4 facts, 0 links
+  page_060527: National Electric Vehicle Infrastructure Formula Program [pub ?] -> 95 facts, 10 links
+Done: 20 records, 1045 facts, 0 failures this run -> data/wiki/_extract_v15_qwen35b_cleanup/w7/all_records_v15.jsonl

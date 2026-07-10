@@ -1,0 +1,84 @@
+---
+title: "Southern Auto Corridor - Summer 2016"
+entity_type: investment_announcement
+supply_chain_category: vehicle_manufacturing
+page_id: page_053837
+publication_date: 
+source_url: https://sb-d.com/magazine/article/southern-auto-corridor-summer-2016
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Southern Auto Corridor - Summer 2016
+
+**Type:** investment_announcement  ·  **Role:** vehicle_manufacturing  ·  **Published:** ?
+
+**Source:** [Southern Auto Corridor - Summer 2016 | Southern Business and Development](https://sb-d.com/magazine/article/southern-auto-corridor-summer-2016)  ·  `page_053837`
+
+## Facts
+
+- Auto industry in Alabama contributes about 10 percent of the state’s gross state product, according to Auburn University at Montgomery economist M. Keivan Deravi.
+- More than $18 billion has been pumped into Alabama from the state’s automotive industry, which includes three major assembly plants and many large suppliers and engine manufacturers.
+- In the last year, parts suppliers in Alabama announced projects worth $924 million in investments and more than 2,500 jobs.
+- Toyota’s engine plant in Huntsville marks its 15th anniversary, celebrated in August.
+- The Huntsville facility is the only Toyota engine plant worldwide that produces V-8, V-6, and 4-cylinder engines under one roof.
+- The plant houses about 1,350 workers in more than 1 million square feet of space.
+- Toyota has invested nearly $1 billion in the Huntsville plant, which produces almost 3,000 engines a day.
+- TVA certified a 1,252-acre megasite in Huntsville, Limestone County, Ala., meeting criteria including interstate access and rail service.
+- TVA has certified several megasites over the past 12 years, with five sites securing large tenants such as Volkswagen in Chattanooga.
+- Hyundai began mass production of the Santa Fe SUV at its Montgomery plant in the summer.
+- The Santa Fe model was previously manufactured at the Kia plant in West Point, Ga.
+- The Santa Fe joins the Sonata and Elantra sedan models at the Alabama assembly plant.
+- German supplier Gerhardi Kunststofftechnik announced in the summer it will build a new facility in Montgomery with a $37.9 million investment generating 235 new jobs.
+- Fehrer Automotive is investing $12 million in its Gadsden plant, adding more than 150 jobs and a new hot cure foaming line for foam products for Mercedes-Benz, Volkswagen, and Ford.
+- Korean parts supplier Seohan, which supplies Hyundai and Kia, is adding jobs in Auburn with a $9.5 million investment in new equipment; no firm job count was provided at the time of writing.
+- Lear Operations is expanding its Vance plant to make seats for the Mercedes C-Class, GLE, and GLS SUVs, creating 500 jobs.
+- Germany-based Eissmann Automotive is investing $14.5 million in its Pell City facility, building a new 130,000-square-foot addition for a production line that will house 200 workers; the company supplies Mercedes, Audi, VW, Porsche, and Tesla.
+- Mercedes-Benz is relocating its New Jersey engineering division to Jacksonville, where it also operates a 500,000-square-foot facility at the International Trade Port containing Southern region sales operations and a parts distribution center; the new unit will create 50 jobs.
+- Chinese tire manufacturer Sentury Tire Americas selected a site near LaGrange, Ga., for its first U.S. manufacturing plant after narrowing its search to the Memphis Regional Megasite in Haywood County, Tenn., and the LaGrange site.
+- The Sentury LaGrange project is valued at $500 million, will generate 600 jobs initially, and could see investment rise to as much as $1 billion.
+- German manufacturer Nesper International broke ground recently on a $1.5 million expansion at its LaGrange facility to manufacture plastic and hybrid parts, creating 12 jobs.
+- Germany-based Voestalpine Automotive Body Parts will spend $50 million to expand operations in Bartow County, creating 150 jobs; it currently operates a 100-employee plant about six miles north of Cartersville making metal car body parts.
+- Toyota’s Georgetown, Ky. plant tied with the Lexus facility in Kyushu, Japan for the fewest manufacturing defects worldwide according to J.D. Power.
+- Toyota has been assembling Lexus models in Kentucky, the only place outside Japan, for more than a year.
+- The Toyota Camry built in Georgetown, Ky., was named the most American-made car by Cars.com’s 2016 American-made index, which ranks cars based on the highest percentage of domestic parts used in assembly.
+- Toyota celebrated 30 years of car assembly in Georgetown, Ky. during the summer quarter; the plant has produced over 10 million cars in that time, houses 8,000 workers, and carries a $1.9 billion payroll in Kentucky.
+- India-based Rane Ltd., a manufacturer of high-pressure aluminum steering and compressor components, is investing $5.8 million in new equipment and tooling at its Russellville, Ky. plant.
+- American Howa Kentucky is investing over $7 million in its Bowling Green plant, creating 44 new jobs paying an average of $18 per hour.
+- Sumitomo Electric Wiring Systems will open a fifth Kentucky plant in Franklin, moving into an existing 65,000-square-foot facility that will house 145 workers.
+- Japan-based Kobelco Aluminum Products & Extrusions, a subsidiary of Kobe Steel, began construction over the summer on a new Bowling Green facility to make aluminum bumper beams and frames for the automotive industry.
+- Dr. Schneider Automotive Systems opened an expanded plant in Russell Springs, Ky., doubling its workforce to 300; the company makes vent systems for automakers and has spent $43 million on the facility since announcing it in August 2013.
+- Lowndes County, Miss., is now home to a third TVA-certified megasite, the Infinity Megasite, located west of the Golden Triangle Regional Airport near Columbus, Miss., alongside the Lowndes County and Crossroads Megasites.
+- The 1,144-acre Mississippi megasite features 100 megawatts of electricity, major water capacity, and is community-owned.
+- Mississippi State’s National Strategic Planning and Analysis Research Center reported Nissan’s Canton plant contributed $2.9 billion in direct and indirect measures, up from $2.5 billion in 2013, with local and state tax revenue rising from $180 million in 2013 to $300 million last year.
+- The 1,800-acre Chatham-Siler City Advanced Manufacturing Site received certification from the North Carolina Department of Commerce’s certified sites program, meaning most engineering and infrastructure work is complete and it is shovel-ready; it is the largest certified site in North Carolina.
+- The Greensboro-Randolph Megasite was certified by KPMG after passing a lengthy infrastructure and site readiness evaluation; the 1,480-acre Randolph County site is located about 30 miles south of Greensboro.
+- Japanese tire maker Yokohama Tire is consolidating its research and development to International Business Park in Concord, N.C., with a $2.7 million project creating 56 jobs.
+- Volvo exported over 170,000 cars last year from its Gothenburg, Sweden plant, doubling exports over the last year; this surge indicates brand recovery and bodes well for Volvo’s new plant in Berkeley County, S.C.
+- In late summer, Volvo posted its first job openings for the new $500 million Berkeley County plant; the site received 24,000 visits in two days before crashing on the third day due to high traffic.
+- Mercedes-Benz Vans broke ground in the summer quarter on a new $500 million van plant in North Charleston, S.C., located next to a facility where Mercedes reassembles Sprinter vans imported disassembled from Germany to avoid high duties.
+- The new 1 million-square-foot Mercedes-Benz Vans facility will house 1,300 workers when completed.
+- Honda is expanding its ATV and SxS vehicle plant in Florence County, S.C., with a $45 million project creating 250 new jobs.
+- Yanfeng Automotive Interiors, the world’s largest supplier of automotive interiors, is making a $71 million investment in a new Laurens County, S.C. plant to supply interior components to the nearby BMW plant, creating 35 initial jobs.
+- Chinese auto supplier JGBR is locating a new plant in Colleton County, S.C., investing $7 million in a Walterboro facility and hiring 65 workers to manufacture steel balls and ball bearings for the automotive industry.
+- Brose North America signed a lease on a 77,000-square-foot manufacturing facility in Spartanburg, S.C., with a $6 million investment creating more than 60 new jobs to produce door systems and cooling air supply control systems for automotive customers.
+- Michigan-based International Mold Corp. is building a new plant in Greer, S.C., to supply floor molding and rim tooling equipment to the nearby BMW plant, creating 110 jobs.
+- Germany’s Evonik Industries will invest $129.4 million to build a Berkeley County, S.C. plant producing chemicals used in tire manufacturing; more tires are made in South Carolina than any other state, and Evonik will hire about 50 workers.
+- Michigan-based Tower International announced in the summer it will invest $75 million to establish its first South Carolina plant in Fountain Inn to produce metal components and assemblies.
+- Pure Power Technologies is expanding its Blythewood, S.C. operations with a $15 million project creating 79 new jobs in Richland County; the company makes new and re-manufactured diesel fuel injectors for automakers.
+- Auto parts manufacturer BASF is investing up to $60 million at its Seneca, S.C. plant to upgrade equipment for producing a new product used in heavy diesel engines.
+- Volkswagen AG is spending hundreds of millions of dollars and adding half a million square feet of factory space at its Chattanooga, Tenn. assembly plant to produce a second vehicle, a seven-seat SUV, while hiring 2,000 additional workers.
+- VW officials in Wolfsburg, Germany are allowing the company’s U.S. unit (headquartered in Virginia) to name the new SUV, requesting a distinct American name that fits the region; exported SUVs from Chattanooga will assume a different name.
+- The 1.5 million-square-foot Hankook Tire plant in Clarksville, Tenn., is nearing completion as an $800 million project housing up to 1,800 workers at full production with a capacity of 16,000 tires a day; the South Korean company also moved its North American headquarters to nearby Nashville.
+- Bridgestone is adding 450 jobs in Nashville and signed a decade-long office lease in Antioch, in addition to 1,700 employees moving into the company’s new headquarters being built in Nashville’s SoBro community.
+- Tennessee Gov. Bill Haslam stated in the summer quarter he has strong hopes that Volkswagen’s Chattanooga plant will receive some or all of $2 billion for zero-emissions technology from VW’s settlement with car owners, states, and the federal government following the diesel emissions scandal.
+- As part of the settlement, VW agreed to a $2.7 billion environmental remediation fund, a $2 billion investment in U.S. zero-emission vehicle initiatives, and will pay approximately $15 billion total.
+- Clean air and ride performance products manufacturer Tenneco is locating a new plant in Spring Hill, Tenn., to serve the local GM plant, expected to create 175 jobs over three years.
+- Japanese auto parts supplier Denso Manufacturing Tennessee broke ground on a $400 million expansion of its Maryville, Tenn. plant, adding space and 500 new jobs; the company makes parts for several automakers including Nissan in Tennessee.
+- Chattanooga Seating Systems, a joint venture of Magna Seating and Hollingsworth Logistics that manufactures and supplies seats for Volkswagen Chattanooga, will invest $5.4 million to expand its Hamilton County facility, creating 190 jobs.
+- Automotive parts supplier TBDN is investing $18.8 million in its Jackson, Tenn. facility; the joint venture between DENSO and Toyota Boshoku makes oil and air filters and filter housings and will create 35 new jobs in Madison County.
+- Telos Global will invest $32 million in a new Caryville, Tenn. plant, creating 63 new jobs.
+- Spanish parts supplier Gestamp is expanding its Chattanooga plant to make parts for Volkswagen’s new SUV, calling for 115 new workers.
+- Eurotranciatura USA, a joint venture between Japan-based Kuroda Precision Industries and Italy-based Euro Group S.p.A., is expanding in Paris, Tenn., with an investment of almost $13 million creating 170 new jobs to produce steel lamination products for generators and electric motors.
+- Toyota is relocating its entire headquarters from Torrance, Calif., to Plano, Texas, with up to 4,000 employees potentially moving; the primary driver is overall costs, particularly housing, with average Torrance homes in the low $700,000s versus high $200,000s in Plano.
+- The Greater Sacramento Area Economic Council is now targeting companies relocating to Dallas-Fort Worth and Austin from California as an alternative to Texas, pitching that Sacramento operating costs are similar to those in Texas.
+- Barcelona-based car parts manufacturer Sanjo Corte Fina will locate its North American headquarters and plant in Virginia Beach, Va., serving as a supplier to Stihl and automotive suppliers with a $17.5 million project creating 85 jobs.

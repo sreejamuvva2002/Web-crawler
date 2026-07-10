@@ -1,0 +1,383 @@
+---
+title: "Atlanta, Georgia Gas Stations"
+entity_type: charging_infrastructure
+supply_chain_category: charging_infrastructure
+page_id: page_000676
+publication_date: 
+source_url: https://www.allgasstations.com/GA/Atlanta/
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Atlanta, Georgia Gas Stations
+
+**Type:** charging_infrastructure  ·  **Role:** charging_infrastructure  ·  **Published:** ?
+
+**Source:** [Atlanta, Georgia Gas Stations](https://www.allgasstations.com/GA/Atlanta/)  ·  `page_000676`
+
+## Facts
+
+- 05 Buckhead Parking Garage - Tesla Destination [EV Charging] located at 3242 Peachtree Rd NE Atlanta, GA 30305.
+- 10 GlenLake [EV Charging] located at 10 Glenlake Parkway Atlanta, GA 30328.
+- 100 Ashford Center North [EV Charging] located at 100 Ashford Center North Atlanta, GA 30338.
+- 100 CVP [EV Charging] located at 3330 Cumberland Boulevard Southeast Atlanta, GA 30339.
+- 100 Peachtree - Forsyth Parking Deck [EV Charging] located at 123 Fairlie St NW Atlanta, GA 30303.
+- 100 Peachtree Building [EV Charging] located at 100 Peachtree Street NW, Suite 1810 Atlanta, GA 30303.
+- 1000 Spalding [EV Charging] located at 1000 Spalding Drive Atlanta, GA 30350.
+- 1015 BOULEVARD P2 RESIDENTIAL [EV Charging] located at 1019 Boulevard SE Atlanta, GA 30312.
+- 1015 BOULEVARD RETAIL PARKING [EV Charging] located at 1015 Boulevard SE Atlanta, GA 30312.
+- 1050 Brickworks [EV Charging] located at 1050 Marietta Street NorthWest Atlanta, GA 30318.
+- 1075 Peachtree [EV Charging] located at 1075 Peachtree St NE Atlanta, GA 30309.
+- 120EVCHARGER OFF NETWORK1 located at 120 Ottley Dr NE Atlanta, GA 30324.
+- 1389 Chattahoochee Ave [EV Charging] located at 1389 Chattahoochee Ave NW Atlanta, GA 30318.
+- 14th Street Shell located at 1184 Spring Street Northwest Atlanta, GA 30309.
+- 150 Ottley [EV Charging] located at 150 Ottley Dr NE Atlanta, GA 30324.
+- 161 Peachtree Center Avenue Northeast [EV Charging] located at 161 Peachtree Center Ave NE Atlanta, GA 30303.
+- 1st Emissions located at 5027 Winters Chapel Road Atlanta, GA 30360.
+- 1st Floor Parking Deck [EV Charging] located at 841 Killian Street Southeast Atlanta, GA 30312.
+- 200 Central Parking Deck R+R [EV Charging] located at 200 Central Ave SW Atlanta, GA 30303.
+- 200 RIVERWOOD STATION 4 [EV Charging] located at 3250 Walton Riverwood Ln SE Atlanta, GA 30339.
+- 2050 Morningside [EV Charging] located at 2050 Cheshire Bridge Road NE Atlanta GA 30324 Atlanta, GA 30324.
+- 2300 Wildwood Center [EV Charging] located at 2300 Windy Ridge Pkwy SE Atlanta, GA 30339.
+- 250WILLIAMS STATION 1 [EV Charging] located at 250 Williams St NW Atlanta, GA 30303.
+- 2827 Peachtree [EV Charging] located at 2827 Peachtree Rd. NW. Atlanta, GA 30305.
+- 2827 Peachtree Rd. Garage (Garden Hills) [EV Charging] located at 2827 Peachtree Rd. Atlanta, GA 30305.
+- 3 Glenlake [EV Charging] located at 3 Glenlake Parkway Atlanta, GA 30328.
+- 3065 Akers Mill [EV Charging] located at 3065 Akers Mill Road Southeast Atlanta, GA 30339.
+- 3445 PEACHTREE1 3445 EV1 [EV Charging] located at 3445 Peachtree Rd NE Atlanta, GA 30326.
+- 3625 Overton Park [EV Charging] located at 3625 Cumberland Blvd. Suite 210 Atlanta, GA 30339.
+- 3M/Atlanta [EV Charging] located at 3700 Atlanta Industrial Pkwy, NW Atlanta, GA 30331.
+- 4300 Wildwood [EV Charging] located at 4300 Wildwood Parkway Atlanta, GA 30339.
+- 456FSA FS456-2 [EV Charging] located at 456 Flat Shoals Ave SE Atlanta, GA 30316.
+- 456FSA FS456-2 [EV Charging] located at 462 Flat Shoals Ave SE Atlanta, GA 30316.
+- 456FSA FS456-3 [EV Charging] located at 456 Flat Shoals Avenue Southeast Atlanta, GA 30316.
+- 464 Bishop Street NW station location [EV Charging] located at 464 Bishop Street NW Atlanta, GA 30318.
+- 4TH FLOOR NORTH STATION 1 [EV Charging] located at 297 East Paces Ferry Rd NE Atlanta, GA 30305.
+- 514 FLAT SHOALS MARBUT-EVCS 3 [EV Charging] located at 512 Flat Shoals Ave SE Atlanta, GA 30316.
+- 667 Auburn Junction Krog District [EV Charging] located at 667 Auburn Ave NE Atlanta, GA 30312.
+- 7000 PARKWAY 1 [EV Charging] located at 7000 Central Pkwy Atlanta, GA 30328.
+- 715 715 STATION 1 [EV Charging] located at 715 peachtree street Atlanta, GA 30308.
+- 715PTREE STATION 1 [EV Charging] located at 715 Peachtree St NE Atlanta, GA 30308.
+- 725 Ponce [EV Charging] located at 725 Ponce De Leon Avenue Northeast Atlanta, GA 30306.
+- 754 MIDTOWN 2 [EV Charging] located at 759 West Peachtree St NW Atlanta, GA 30308.
+- 788 West Midtown [EV Charging] located at 788 W Marietta St NW Atlanta, GA 30318.
+- 915 Glenwood station location [EV Charging] located at 915 Glenwood Avenue Atlanta, GA 30316.
+- A All Limousines Services located at 2856 Highland Park Drive Southwest Atlanta, GA 30303.
+- A S Food & Beverage Inc located at 2353 Cheshire Bridge Road North Atlanta, GA 30324.
+- AAA - PIEDMONT PIEDMONT EV2 [EV Charging] located at 1968 Peachtree Rd Atlanta, GA 30309.
+- AAA - PIEDMONT PIEDMONT EV3 [EV Charging] located at 1968 Peachtree Rd NW Atlanta, GA 30309.
+- AAA Car Care Plus [EV Charging] located at 4410 Roswell Rd NE Atlanta, GA 30342.
+- AAA Car Care Plus [EV Charging] located at 2161 Lavista Rd NE Atlanta, GA 30329.
+- AAA PARKING EV-01 [EV Charging] located at 1105 W Peachtree St NW Atlanta, GA 30309.
+- AAA PARKING EV-4-01A [EV Charging] located at 1105 W Peachtree St NE Atlanta, GA 30309.
+- AAA PARKING EV-43 [EV Charging] located at 1100 W Peachtree St NW Atlanta, GA 30309.
+- AAA PARKING EV-6-19 [EV Charging] located at 1105 W Peachtree St NW 1105 West Peachtree , Atlanta, GA 30309.
+- Abernathy Ralph David located at 1685 Ralph David Abernath Atlanta, GA 30310.
+- Abrams Fixtures [EV Charging] located at 565 Northside Dr SW Atlanta, GA 30310.
+- Ace Xpress Food Mart located at 1739 Mrtn Lthr Kng Jr Drive # J Atlanta, GA 30314.
+- Adley City Springs Apartments [EV Charging] located at 6075 Roswell Road Atlanta, GA 30328.
+- ADP - Atlanta [EV Charging] located at 5680 New Northside Dr NW Atlanta, GA 30328.
+- AGNA Enterprises Inc located at 1362 Boulevard Southeast Atlanta, GA 30315.
+- Akers Mill Food Mart located at 2243 Akers Mill Road Southeast Atlanta, GA 30339.
+- Alkaloid Networks [EV Charging] located at 691 John Wesley Dobbs Avenue NE Atlanta, GA 30312.
+- ALLIANCE CENTER ONE ALLIANCE #4 [EV Charging] located at 3500 Lenox Rd Atlanta, GA 30326.
+- ALLIANCE CENTER TWO ALLIANCE #1 [EV Charging] located at 3560 Lenox Road Atlanta, GA 30326.
+- ALLIANCE CENTER TWO ALLIANCE #2 [EV Charging] located at 3560 Lenox Rd NE Atlanta, GA 30326.
+- Allora Eastland [EV Charging] located at 1296 Moreland Avenue Southeast Atlanta, GA 30316.
+- Aloft Atlanta Downtown Hotel - Tesla Destination [EV Charging] located at 300 Spring St NW Atlanta, GA 30308.
+- AMBFO [EV Charging] located at 3223 Howell Mill Rd NW Atlanta, GA 30327.
+- AMC Camp Creek 14 [EV Charging] located at 3760 Princeton Lakes Pkwy Atlanta, GA 30331.
+- AMLI Arts Center [EV Charging] located at 1240 W Peachtree St NW Atlanta, GA 30309.
+- AMLI Brookhaven [EV Charging] located at 1400 Lake Hearn Dr NE Atlanta, GA 30319.
+- AMLI Buckhead [EV Charging] located at 3450 Roxboro Rd NE Atlanta, GA 30326.
+- AMLI Flatiron [EV Charging] located at 3480 Lakeside Dr NE Atlanta, GA 30326.
+- AMLI Lenox [EV Charging] located at 3478 Lakeside Dr NE Atlanta, GA 30326.
+- AMLI Old 4th Ward [EV Charging] located at 525 Glen Iris Dr NE Atlanta, GA 30308.
+- AMLI Parkside [EV Charging] located at 660 Ralph McGill Blvd NE Atlanta, GA 30312.
+- AMLI Piedmont Heights [EV Charging] located at 2323 Piedmont Rd NE Atlanta, GA 30324.
+- AMLI Ponce Park [EV Charging] located at 641 N Ave NE Atlanta, GA 30308.
+- AMLI Westside [EV Charging] located at 1084 Howell Mill Rd NW Atlanta, GA 30318.
+- Amoco Georgetown Food Shop located at 4485 Chamblee Dunwoody Road Atlanta, GA 30338.
+- Amoco N Peachtree located at 4368 North Peachtree Road Atlanta, GA 30338.
+- Amoco Oil Company - Doraville Terminal Office located at 6430 New Peachtree Road Atlanta, GA 30340.
+- Angela Lee's Food Store located at 2374 Briarcliff Road Northeast Atlanta, GA 30329.
+- Ansley Mall [EV Charging] located at 1544 Piedmont Ave NE Atlanta, GA 30324.
+- Anthem on Ashley [EV Charging] located at 720 Ralph McGill Blvd NE Atlanta, GA 30312.
+- ARKOFSALVATION EV STATION 01 located at 344 Pavillion St SE Atlanta, GA 30315.
+- ARMHC STATION 2 (R) [EV Charging] located at 2580 Briarcliff Road Northeast Atlanta, GA 30329.
+- Armour Yards - 251 Armour [EV Charging] located at 251 Armour Dr Atlanta, GA 30324.
+- Armour Yards - 255 Ottley [EV Charging] located at 255 Ottley Dr Atlanta, GA 30324.
+- Armour Yards -165 Ottley [EV Charging] located at 165 Ottley Dr Atlanta, GA 30324.
+- Armour Yards-225 Ottley [EV Charging] located at 225 Ottley Dr Atlanta, GA 30324.
+- Aspire 1050 Lenox Park [EV Charging] located at 1050 Lenox Park Blvd. NE Atlanta, GA 30319.
+- Aspire Perimeter location [EV Charging] located at 5385 Peachtree Dunwoody Road Atlanta, GA 30342.
+- ASSURANT - ATL STATION 1 [EV Charging] located at 260 Interstate N Cir SE Atlanta, GA 30339.
+- Atl-Forty Five Parking Deck [EV Charging] located at 1470 Spring Street NW Atlanta, GA 30309.
+- Atlanta Airport Marriott Gateway - Tesla Destination [EV Charging] located at 2020 Convention Center Concourse Atlanta, GA 30337.
+- Atlanta City Hall Mayor Dickens [EV Charging] located at 55 Trinity Ave SW Atlanta, GA 30303.
+- ATLANTA FALCONS AMBFO [EV Charging] located at 3223 Howell Mill Road Northwest Atlanta, GA 30327.
+- ATLANTA FALCONS CONGRESS CENTER [EV Charging] located at 164 Northside Dr NW Atlanta, GA 30314.
+- ATLANTA FALCONS MITCHELL ST [EV Charging] located at 68 Mitchell St SW Atlanta, GA 30303.
+- ATLANTA FALCONS TRINITY AVE [EV Charging] located at 104 Trinity Ave SW Atlanta, GA 30303.
+- Atlanta Food Mart located at 2261 Cascade Road Southwest Atlanta, GA 30311.
+- Atlanta Housing John Wesley Dobbs Parking Deck [EV Charging] located at 230 John Wesley Dobbs Ave NE Atlanta, GA 30303.
+- Atlanta Marriott Buckhead Hotel & Conference Center - Tesla Destination [EV Charging] located at 3405 Lenox Rd NE Atlanta, GA 30326.
+- Atlanta Street Chevron located at 689 Atlanta Street Atlanta, GA 30303.
+- Atlanta Tech Park [EV Charging] located at 107 Technology Pkwy Atlanta, GA 30092.
+- ATLANTA VA MEDI FT. MCPHERSON [EV Charging] located at 1701 Hardee Ave SW Atlanta, GA 30310.
+- Atlanta Zoo [EV Charging] located at 800 Cherokee Ave Atlanta, GA 30315.
+- Atlanta Zoo Parking Deck Swap [EV Charging] located at 759 Blvd SE Atlanta, GA 30312.
+- Atlanta, GA [EV Charging] located at 2860 Cumberland Mall SE Atlanta, GA 30339.
+- Atlantic Aviation PDK - Tesla Destination [EV Charging] located at 2040 Airport Rd Atlanta, GA 30341.
+- Atlantic Residential [EV Charging] located at 3500 Lennox Rd NE Atlanta, GA 30326.
+- Atlantic Residential [EV Charging] located at 3500 Lenox Road Suite 1250 Atlanta, GA 30326.
+- Atlantic Station - Tesla Supercharger [EV Charging] located at 1380 Atlantic Drive NW Atlanta, GA 30363.
+- Atlantic Station Parking Deck QC [EV Charging] located at 264 19th St NW Atlanta, GA 30363.
+- ATLANTIC STN 1684LF 1685RT [EV Charging] located at 261 19th St NW Atlanta, GA 30363.
+- B P Oil Company located at 5664 Memorial Hambrick Atlanta, GA 30303.
+- Banjee Enterprise located at 1841 Peeler Road Atlanta, GA 30338.
+- Bank of America Plaza [EV Charging] located at 600 Peachtree Street Northeast Atlanta, GA 30308.
+- BASE CAMP OFF NETWORK1 located at 1280 West Peachtree Street Northwest Atlanta, GA 30309.
+- BEACON STATION 2 located at 1035 Grant St SE Atlanta, GA 30315.
+- Beets Petroleum Inc located at 3255 Mlk J Atlanta, GA 30311.
+- Bellamy Executive Park [EV Charging] located at 50 Executive Park South Atlanta, GA 30329.
+- Ben Lynch Pure Service Station located at 2716 Mlk J Atlanta, GA 30311.
+- Big Green Egg - Tesla Destination [EV Charging] located at 3786 DeKalb Technology Pkwy Atlanta, GA 30340.
+- BMI Holdings - Moreland Ave. [EV Charging] located at 1341 Moreland Ave SE Atlanta, GA 30316.
+- BMW GLOBAL OFF NETWORK1 located at 500 Interstate N Pkwy SE Atlanta, GA 30339.
+- Bobby Jones Golf Course [EV Charging] located at 2205 Northside Dr NW Atlanta, GA 30305.
+- BOUNDARY STATION 1 [EV Charging] located at 1389 W Peachtree St NW Atlanta, GA 30309.
+- BOUNDARY STATION 2 [EV Charging] located at 1401 W Peachtree St NE Atlanta, GA 30309.
+- BOUNDARY STATION 3 [EV Charging] located at 1409 Peachtree Rd NW Atlanta, GA 30309.
+- Bp Products located at 2371 Glenwood Avenue Southeast Atlanta, GA 30317.
+- Bp Products North America located at 5418 Chamblee Dunwoody Road Atlanta, GA 30338.
+- BP Products North America Inc located at 8360 Broadmoor Road Willoughby, OH 44094.
+- Bp Products Of North America located at 2320 Cheshire Bridge Road North Atlanta, GA 30324.
+- Brookhave [EV Charging] located at 1690 NE Expressway NE Atlanta, GA 30329.
+- Brookhaven Atlanta GA [EV Charging] located at 1690 Northeast Expressway Northeast Atlanta, GA 30329.
+- Brookhaven Dental [EV Charging] located at 1407 Dresden Dr Atlanta, GA 30319.
+- BROOKHAVEN PS BHAVEN1 [EV Charging] located at 2719 Buford Highway Northeast Atlanta, GA 30324.
+- Brookhaven, Atlanta GA [EV Charging] located at 1690 NE Expy NE Atlanta, GA 30329.
+- BROOKLEIGH FLAT PARKING GARAGE [EV Charging] located at 3450 Blair Cir NE Atlanta, GA 30319.
+- Buckhead Exxon located at 2901 Peachtree Road Northeast Atlanta, GA 30305.
+- Buckhead Garage located at 2965 Peachtree Road Northeast Atlanta, GA 30305.
+- BUCKHEAD STATION 1 [EV Charging] located at 3300 Roswell Rd Atlanta, GA 30305.
+- C180 CETEC [EV Charging] located at 1030 Fayetteville Rd SE Atlanta, GA 30316.
+- C180 CHRIS 180 CCC [EV Charging] located at 1017 Fayetteville Rd SE Atlanta, GA 30316.
+- Camden Buckhead [EV Charging] located at 3300 Roswell Rd NE Atlanta, GA 30305.
+- Camden Buckhead Square [EV Charging] located at 3097 Maple Dr NE Atlanta, GA 30305.
+- Camp Chevron Service Station located at 1475 Carroll Drive Northwest Atlanta, GA 30318.
+- Campbellton Amoco located at 2111 Campbellton Road Southwest Atlanta, GA 30311.
+- Campbellton Road Chevron located at 4485 Campbellton Road Southwest Atlanta, GA 30331.
+- Candy's Texaco located at 2800 Century Parkway Northeast Atlanta, GA 30345.
+- CARBICE CARBICE 1 [EV Charging] located at 1050 White St SW Atlanta, GA 30310.
+- Cardsouth Solutions Inc located at 9 Dunwoody Park Suite 116 Atlanta, GA 30338.
+- CARNEGIE GARAGE CARNEGIE 2 [EV Charging] located at 150 Carnegie Way NW Atlanta, GA 30303.
+- Carr Service Station & Grocery located at 6109 Riverdale Atlanta, GA 30349.
+- CDC ROEV02 [EV Charging] located at 1600 Clifton Rd Atlanta, GA 30329.
+- CENTURY PLACE CHARGEPOINT2 [EV Charging] located at 3105 Clairmont Rd Atlanta, GA 30329.
+- Century Springs Park, LLC [EV Charging] located at 6100 Lake Forest Drive Atlanta, GA 30328.
+- CFA SUPPORT N.DECK P4 #1 located at 5200 Buffington Rd Atlanta, GA 30349.
+- CHAMBLEE CITY 5300 PEACHTREE [EV Charging] located at 5300 Peachtree Road Atlanta, GA 30341.
+- CHAMBLEE CITY MARTA 2 [EV Charging] located at 5200 New Peachtree Road Atlanta, GA 30341.
+- Chamblee Shell located at 5404 Peachtree Industrial Atlanta, GA 30341.
+- CHARGEPOINTDEMO SPATCO DEMO [EV Charging] located at 285 Andrew Young International Blvd NW Atlanta, GA 30303.
+- Chase Bank - 4241 Roswell Rd [EV Charging] located at 4241 Roswell Rd NE Atlanta, GA 30342.
+- CHASTAIN CHASTAIN EV 3 [EV Charging] located at 225 Franklin Rd Atlanta, GA 30342.
+- Cheshire Square [EV Charging] located at 2345 Cheshire Bridge Rd NE Atlanta, GA 30324.
+- Chevron [E85] located at 2755 Clairmont Rd Atlanta, GA 30329.
+- Chevron [E85] located at 4249 Dunwoody Club Dr Atlanta, GA 30350.
+- Chevron Food Mart located at 2195 Monroe Drive Northeast Atlanta, GA 30324.
+- Chevron Park and Food located at 372 Moreland Avenue Northeast Atlanta, GA 30307.
+- Chevron Standard [E85] located at 1025 N Highland Ave NE Atlanta, GA 30306.
+- Chevron Usa Inc - Terminal located at 4026 Winters Chapel Road Atlanta, GA 30360.
+- Children's at Egleston Hospital [EV Charging] located at 1405 Clifton Rd NE Atlanta, GA 30329.
+- CHOA AB-1 [EV Charging] located at 1687 Tullie Cir Atlanta, GA 30329.
+- CHOA ASHRAE LOT [EV Charging] located at 2226 N Druid Hills Rd NE Atlanta, GA 30329.
+- CHOA ASHRAE LOT [EV Charging] located at 1571 N.E. Expressway Atlanta, GA 30329.
+- CHOA CAP LEVEL 3 [EV Charging] located at 1400 Tullie Rd NE Atlanta, GA 30329.
+- CHOA CAP LEVEL 3 [EV Charging] located at 2174 N Druid Hills Rd NE Atlanta, GA 30329.
+- CHOA CHARGER 01 [EV Charging] located at 1605 I - 85 Frontage Rd Atlanta, GA 30329.
+- CHOA CUP LOT [EV Charging] located at 1749 Tullie Cir NE Atlanta, GA 30329.
+- CHOA CUP LOT [EV Charging] located at 2220 N. Druid Hills Rd Atlanta, GA 30329.
+- CHOA F1-1 [EV Charging] located at 1655 Tullie Cir NE Atlanta, GA 30329.
+- CHOA F1-2 [EV Charging] located at 1680 Tullie Cir Atlanta, GA 30329.
+- CHOA F1-3 [EV Charging] located at 1658 Executive Park Ln NE Atlanta, GA 30329.
+- CHOA F1-4 [EV Charging] located at 2228 N Druid Hills Rd NE Atlanta, GA 30329.
+- CHOA F2-4 VISITORS [EV Charging] located at 2220 North Druid Hills Rd. Atlanta, GA 30329 Atlanta, GA 30329.
+- CHOA SDL-2 [EV Charging] located at 2220 N Druid Hills Rd Atlanta, GA 30329.
+- CHOA STAFF DECK L1-4 [EV Charging] located at 2220 N Druid Hills Rd NE Atlanta, GA 30329.
+- CHOA STAFF DECK L2-2 [EV Charging] located at 2228 N Druid Hills Rd Atlanta, GA 30329.
+- CHOA STAFF DECK L3-4 [EV Charging] located at 1754 Tullie Cir NE Atlanta, GA 30329.
+- CHOA STAFF DECK L4-2 [EV Charging] located at 1758 Tullie Cir NE Atlanta, GA 30329.
+- CHOA SUP SUP CHARGER 01 [EV Charging] located at 1575 Northeast Expy Atlanta, GA 30329.
+- CHOA SUP SUP CHARGER 05 [EV Charging] located at 1911 Cliff Valley Way NE Atlanta, GA 30329.
+- CHOA SUP SUP CHARGER 05 [EV Charging] located at 1575 NE Expy NE Atlanta, GA 30329.
+- CHOA VISITORS F1-2 [EV Charging] located at 5455 Meridian Mark Road Atlanta, GA 30342.
+- CHOA VISITORS F1-2 [EV Charging] located at 2220 N. Druid Hills Rd. Atlanta, GA 30329.
+- CHOA VISITORS F3-3 [EV Charging] located at 2220 N Druid Hills Rd. Atlanta, GA 30329.
+- CHOA VISITORS F4-2 [EV Charging] located at 2220 North Druid Hills Road Northeast Atlanta, GA 30329.
+- Citgo located at 1163 Metropolitan Parkway Southwest Atlanta, GA 30310.
+- Citgo Corporation located at 309 Park Lane Lake Bluff, IL 60044.
+- Citgo Food Mart located at 1991 Marietta Boulevard Northwest Atlanta, GA 30318.
+- City Administration [EV Charging] located at 4715 Frederick Drive, SW, Atlanta, GA 30336 Atlanta, GA 30336.
+- City Hall Building [EV Charging] located at 5440 Fulton Industrial Blvd SW Atlanta, GA 30336.
+- CITY HALL-EP CUSTOMER CARE 2 [EV Charging] located at 2791 E point Atlanta, GA 30214.
+- CITY HEIGHTS STATION #1 [EV Charging] located at 383 Ralph McGill Blvd NE Atlanta, GA 30312.
+- CITY-BROOKHAVEN 2665 BUFORD HWY [EV Charging] located at 2665 Buford Highway Northeast Atlanta, GA 30324.
+- CITY-BROOKHAVEN ASHFORD [EV Charging] located at 3384 Ashford Park Ct Atlanta, GA 30319.
+- CITY-BROOKHAVEN BLACKBURN 1 [EV Charging] located at 3400 Donaldson Dr NE Atlanta, GA 30319.
+- CITY-BROOKHAVEN BLACKBURN 2 [EV Charging] located at 3517 Ashford Dunwoody Rd NE Atlanta, GA 30319.
+- CITY-BROOKHAVEN BRIARWOOD [EV Charging] located at 2235 Briarwood Way NE Atlanta, GA 30329.
+- CITY-BROOKHAVEN LYNWOOD POOL [EV Charging] located at 3360 Osborne Rd NE Atlanta, GA 30319.
+- CITY-BROOKHAVEN OFF NETWORK1 [EV Charging] located at 2568 Skyland Trail NE Atlanta, GA 30319.
+- CITY-BROOKHAVEN STAFF 2 [EV Charging] located at 3995 Peachtree Rd NE Atlanta, GA 30319.
+- CITY-BROOKHAVEN TRACK SOUTH [EV Charging] located at 4001 Peachtree Rd NE Atlanta, GA 30319.
+- Clean Energy - Atlanta Fulton Industrial Park [CNG] located at 5955 Bakers Ferry Rd SW Atlanta, GA 30336.
+- Cleveland Texaco located at 757 Cleveland Avenue Southwest Atlanta, GA 30315.
+- Cls&bpi Inc located at 1331 Wesley Parkway Northwest Atlanta, GA 30327.
+- College Park Chevron located at 4285 Roosevelt Highway Atlanta, GA 30349.
+- Colliers International - Tesla Destination [EV Charging] located at 100 Crescent Centre Pkwy Atlanta, GA 30084.
+- Concourse Five & Six Deck [EV Charging] located at 5 Concourse Parkway Atlanta, GA 30328.
+- Conley Gas Station located at 825 Conley Road Southeast Atlanta, GA 30354.
+- Corporate Blvd [EV Charging] located at 2126 Defoors Ferry Rd NW Atlanta, GA 30318.
+- Cortland at Phipps Plaza [EV Charging] located at 707 Park Ave NE Atlanta, GA 30326.
+- Cortland at Phipps Plaza [EV Charging] located at 707 Park Avenue Northeast Atlanta, GA 30342.
+- Courtland Grand Hotel [EV Charging] located at 165 Courtland St NE Atlanta, GA 30303.
+- Courtyard by Marriott Atlanta/Vinings - Tesla Destination [EV Charging] located at 2829 Overlook Pkwy Atlanta, GA 30339.
+- COUSINS 3344 P6 #2 [EV Charging] located at 3344 Peachtree Rd NE Atlanta, GA 30305.
+- COUSINS 3348 P6 #2 [EV Charging] located at 3348 Peachtree Rd NE Atlanta, GA 30326.
+- COUSINS COUSINS 3350 P1 [EV Charging] located at 3344 Peachtree Rd NE Atlanta, GA 30326.
+- CP EV STATION 4 [EV Charging] located at 1886 Harvard Ave Atlanta, GA 30337.
+- CP EV STATION HARVARD AVE 2 [EV Charging] located at 1886 Harvard Avenue Atlanta, GA 30337.
+- Crossroads Amoco located at 2095 Metropolitan Parkway Southwest Atlanta, GA 30315.
+- CROWNE POINTE 1050 CROWN PT 2 [EV Charging] located at 1050 Crown Pointe Pkwy Atlanta, GA 30338.
+- Cumberland Center 4 [EV Charging] located at 3225 Cumberland Blvd. Atlanta, GA 30339.
+- Cumberland Center II [EV Charging] located at 3100 Cumberland Blvd, Suite 1060 Atlanta, GA 30339.
+- Cumberland Mall [EV Charging] located at 2860 Cumberland Mall Atlanta, GA 30339.
+- CURRY HONDA ATL STATION 1 [EV Charging] located at 5456 Peachtree Industrial Blvd Atlanta, GA 30341.
+- Cushman & Wakefield - Station R Apartments [EV Charging] located at 144 Moreland Avenue Northeast (Station R Apartments) Atlanta, GA 30307.
+- DAC [EV Charging] located at 2965 Flowers Road South Atlanta, GA 30341.
+- Davidson Parkway Exxon located at 7347 Davidson Parkway Atlanta, GA 30303.
+- DeKalb Peachtree Airport [EV Charging] located at 2000 Airport Rd Atlanta, GA 30341.
+- DELTA AIR LINES A2 CHARGER #10 [EV Charging] located at 3450 Main St Atlanta, GA 30337.
+- DELTA AIR LINES DELTA DFP 1 [EV Charging] located at 3980 Tradeport Blvd Atlanta, GA 30354.
+- DELTA AIR LINES DELTA TOC #6 [EV Charging] located at M H Jackson Service Rd Atlanta, GA 30354.
+- DELTA AIR LINES DNTC 4 [EV Charging] located at 990 Toffie Terrace Atlanta, GA 30354.
+- DELTA AIR LINES GO CHARGER 12 [EV Charging] located at Hartsfield Dr SW Atlanta, GA 30354.
+- DELTA AIR LINES GO SW FENCE 20 [EV Charging] located at 1030 DELTA BLVD Atlanta, GA 30354.
+- DELTA AIR LINES GSE #3 [EV Charging] located at 2100B central cargo circle Atlanta, GA 30354.
+- DELTA AIR LINES GSE #3 [EV Charging] located at 2100B Central Cargo Cir Atlanta, GA 30354.
+- DELTA AIR LINES MIDFIELD #3 [EV Charging] located at 1000 Toffie Terrace Atlanta, GA 30354.
+- DELTA AIR LINES RESERVATIONS #2 [EV Charging] located at 700 south central ave Atlanta, GA 30354.
+- DELTA AIR LINES TOC CHARGER 05 [EV Charging] located at 1775 M H Jackson Service Rd Atlanta, GA 30354.
+- DELTA AIR LINES TOC1 WEST 05 [EV Charging] located at 1775 M H Jackson Service Road Atlanta, GA 30354.
+- Diamond J located at 105 McDonough Boulevard Southeast Atlanta, GA 30315.
+- Dorsey Alston Realtors [EV Charging] located at 100 W. Paces Ferry Road Atlanta, GA 30305.
+- Druid Pointe Parking Lot [EV Charging] located at 2751 Buford Hwy Atlanta, GA 30324.
+- Druid Pointe Parking Lot [EV Charging] located at 2751 Buford Highway Northeast Atlanta, GA 30324.
+- Dunwoody Chevron located at 5465 Chamblee Dunwoody Road Atlanta, GA 30338.
+- Dunwoody Express Inc located at 8340 Roswell Road Atlanta, GA 30350.
+- Dunwoody Exxon Food Mart located at 4401 Chamblee Dunwoody Road Atlanta, GA 30341.
+- E-Z Serve Convenience Stores Inc located at 3390 Buford Highway Northeast Atlanta, GA 30329.
+- East Point Food Mart located at 3289 Washington Road Atlanta, GA 30344.
+- Eclipse Buckhead Public Garage - Tesla Destination [EV Charging] located at 250 Pharr Rd NE Atlanta, GA 30305.
+- EDGE BELTLINE STATION 01 [EV Charging] located at 679 Edgewood Ave NE Atlanta, GA 30307.
+- EDGE BELTLINE STATION 02 [EV Charging] located at 679 Edgewood Ave SE Atlanta, GA 30307.
+- ELDENGALLERIA ELDEN 2 [EV Charging] located at 800 Galleria Pkwy SE Atlanta, GA 30339.
+- Electric Owl Holdings [EV Charging] located at 3963 Redan Rd Atlanta, GA 30083.
+- Embry Hills Chevron located at 3530 Chamblee Tucker Road Atlanta, GA 30341.
+- Emmi Midtown MQs [EV Charging] located at 1405 Spring Street Northwest Atlanta, GA 30309.
+- Emory Clinic at Executive Park [EV Charging] located at 12 Executive Park Dr NE Atlanta, GA 30329.
+- Emory Clinic at Executive Park [EV Charging] located at 21 Ortho Lane Atlanta, GA 30329.
+- Emory Conference Center Hotel - Tesla Destination [EV Charging] located at 1615 E Clifton Rd NE Atlanta, GA 30307.
+- EMORY ONE EMORY 3 [EV Charging] located at 4 Executive Park E Atlanta, GA 30329.
+- EMORY ONE EMORY 6 [EV Charging] located at 2235 N Druid Hills Rd NE Atlanta, GA 30329.
+- EMORY ONE EMORY 7 [EV Charging] located at 4 Executive Park Dr NE Atlanta, GA 30329.
+- EMORY UNIV BKSTORE DC CHGR [EV Charging] located at 1390 Oxford Road Atlanta, GA 30307.
+- EMORY UNIV CPE250 [EV Charging] located at 201 Dowman Dr Atlanta, GA 30307.
+- EMORY UNIV PEAVINE EV1 [EV Charging] located at 29 Eagle Row Atlanta, GA 30306.
+- EMORY UNIV WSHCAB [EV Charging] located at 1631 Eagle Row Atlanta, GA 30329.
+- ENTRA WEST END STATION1 LEVEL1 [EV Charging] located at 451 Lee st sw Atlanta, GA 30310.
+- ENTRA WEST END STATION1 LEVEL1 [EV Charging] located at 565 Hank Aaron Dr SW Atlanta, GA 30312.
+- Exchange at Orange Park [EV Charging] located at 3300 Northeast Expressway Atlanta, GA 30341.
+- Executive Park Chevron located at 2911 Buford Highway Northeast Atlanta, GA 30329.
+- Exxon [E85] located at 1815 M.L.K. Jr Dr SW Atlanta, GA 30310.
+- Exxon - GasXpress [E85] located at 202 Candler Rd Atlanta, GA 30317.
+- FASTPARK ATLANTA 3 [EV Charging] located at 211 Charles W Grant Pkwy Atlanta, GA 30354.
+- FASTPARK DC CHARGER 1 [EV Charging] located at 251 Charles W Grant Pkwy Atlanta, GA 30354.
+- FASTPARK DC CHARGER ATL located at Fast Park & Relax Airport Parking 251 Charles Atlanta, GA 30354.
+- Felder G Frank located at 1080 Donald Lee Hollowell Atlanta, GA 30318.
+- Flat Shoals Texaco located at 2000 Flat Shoals Road Southeast Atlanta, GA 30316.
+- Fort McPherson Service Station Manager located at 368 McGee Street Atlanta, GA 30330.
+- Four Seasons Hotel Atlanta - Tesla Destination [EV Charging] located at 75 Fourteenth St NE Atlanta, GA 30309.
+- Fourth Ward Series 6 P2 [EV Charging] located at 505 N Angier Ave NE Atlanta, GA 30305.
+- Fulton County Animal Shelter [EV Charging] located at 1251 Fulton Industrial Boulevard Northwest Atlanta, GA 30336.
+- FULTON COUNTY METROLIBRARY1-2 [EV Charging] located at 1332 Metropolitan Parkway Southwest Atlanta, GA 30310.
+- FULTON COUNTY METROLIBRARY3-4 [EV Charging] located at 1332 Metropolitan Pkwy SW Atlanta, GA 30310.
+- FULTON COUNTY METROLIBRARY5-6 [EV Charging] located at 581 Manford Rd SW Atlanta, GA 30310.
+- GA TECH AREA 6 #1 [EV Charging] located at 55 5th Street NW Atlanta, GA 30308.
+- GA TECH CURRAN 2 [EV Charging] located at 875 Curran St NW Atlanta, GA 30318.
+- GA TECH E81 #1 [EV Charging] located at 81 4th St NW Atlanta, GA 30308.
+- GA TECH W02 #2 [EV Charging] located at 353 Ferst Drive Northwest Atlanta, GA 30318.
+- GA TECH W22 #10 [EV Charging] located at 925 Dalney Street NW Atlanta, GA 30318.
+- GA TECH W23 #1 [EV Charging] located at 352 Peachtree Pl NW Atlanta, GA 30318.
+- GABBROOK1 NORTH LVL2 [EV Charging] located at 2895-2907 Hermance Dr NE Atlanta, GA 30319.
+- GABBROOK1 OFF NETWORK1 [EV Charging] located at 4420 Hermance Dr NE Atlanta, GA 30319.
+- GABBROOK1 OFF NETWORK1 [EV Charging] located at 2851 Hermance Dr NE Atlanta, GA 30319.
+- GABLES BUCKHEAD TAGB LVL1 1W [EV Charging] located at 514 East Paces Ferry Rd NE Atlanta, GA 30305.
+- GABLES BUCKHEAD TAGB LVL1 2S 3S [EV Charging] located at 3092 Piedmont Rd NE Atlanta, GA 30305.
+- GABLES EMORY EV STATION 02 [EV Charging] located at Emory Point Dr Atlanta, GA 30329.
+- GABLES EMORY EV STATION 02 [EV Charging] located at 1540 Avenue Place Atlanta, GA 30329.
+- Gables Midtown [EV Charging] located at 1925 Monroe Drive Atlanta, GA 30324.
+- Galleria 100 [EV Charging] located at 100 Galleria Parkway Suite 200 Atlanta, GA 30339.
+- Galleria 100 [EV Charging] located at 100 Galleria Parkway Suite 200 Atlanta, GA 30339.
+- Galleria 200 [EV Charging] located at 200 Galleria Parkway Atlanta, GA 30339.
+- Galleria 300 [EV Charging] located at 300 Galleria Parkway Atlanta, GA 30339.
+- Galleria 400 [EV Charging] located at 400 Galleria Parkway Atlanta, GA 30339.
+- Galleria 600 [EV Charging] located at 600 Galleria Parkway Southeast Atlanta, GA 30339.
+- Gallery - Residents [EV Charging] located at 2795 Peachtree Rd NE Atlanta, GA 30305.
+- GARAGE CC4000 POLESTAR [EV Charging] located at 950 Battery Ave Atlanta, GA 30339.
+- Gas Express #116 located at 2794 Clairmont Road Northeast Atlanta, GA 30329.
+- GDCA DCA 2 [EV Charging] located at 60 Executive Park South Northeast Atlanta, GA 30329.
+- GE Campus [EV Charging] located at 4200 Wildwood Pkwy Atlanta, GA 30339.
+- GENESIS ATL #1 GEN ALT #2 [EV Charging] located at 5917 Peachtree Rd Atlanta, GA 30341.
+- GENESIS ATL #1 GEN ALT #2 [EV Charging] located at 5917 Peachtree Blvd Atlanta, GA 30341.
+- Georgia Avenue Amoco located at 180 Ralph David Abernath Atlanta, GA 30312.
+- Georgia Gas Distributors Inc [LPG] located at 1475 Old Chattahoochee Ave Atlanta, GA 30318.
+- GEORGIA POWER BRAVES DC [EV Charging] located at 655 Battery Avenue Southeast Atlanta, GA 30339.
+- GEORGIA POWER BRAVES DC [EV Charging] located at 655 Battery Ave SE Atlanta, GA 30339.
+- GEORGIA POWER BROOKHAVEN DC1 [EV Charging] located at 3339 Buford Hwy NE Atlanta, GA 30329.
+- GEORGIA POWER ENVISION L21 [EV Charging] located at 1560 Metropolitan Pkwy SW Atlanta, GA 30310.
+- GEORGIA POWER GPC CORP HQ1 DC [EV Charging] located at 241 Ralph McGill Blvd NE Atlanta, GA 30308.
+- Georgia Power Main Office - Tesla Destination [EV Charging] located at 241 Ralph McGill Blvd Atlanta, GA 30308.
+- GEORGIA POWER MOROSGO DC [EV Charging] located at 2447 Morosgo Way NE Atlanta, GA 30324.
+- GEORGIA POWER MOROSGO DC [EV Charging] located at 2452 Morosgo Way NE Atlanta, GA 30324.
+- GEORGIA POWER MOROSGO L2 [EV Charging] located at 2430 Morosgo Way NE Atlanta, GA 30324.
+- GEORGIA POWER N SHALLOW L2 [EV Charging] located at 4404 N Shallowford Rd Atlanta, GA 30338.
+- GEORGIA POWER REMOV KROG L2 [EV Charging] located at 752 Dixie Ave NE Atlanta, GA 30307.
+- GEORGIA POWER SHALLOWFORD EXP [EV Charging] located at 4404 North Shallowford Road Atlanta, GA 30338.
+- GEORGIA POWER SUNTRUST L2 1 [EV Charging] located at 655 Battery Ave SE Delta Deck Surface Lot Atlanta, GA 30339.
+- GEORGIA POWER VININGS DC1 [EV Charging] located at 4300 Paces Ferry Rd SE Atlanta, GA 30339.
+- GEORGIA POWER VININGS L2 [EV Charging] located at 4300 Paces Ferry Rd Atlanta, GA 30339.
+- GEORGIA STATE CPE250 2 [EV Charging] located at 100 Auburn Avenue Northeast Atlanta, GA 30303.
+- GEORGIA STATE GSU LAW [EV Charging] located at 85 Park Pl NE Atlanta, GA 30303.
+- GEORGIA STATE GSU-G DECK EV1 [EV Charging] located at 52 Courtland St SE Atlanta, GA 30303.
+- GEORGIA STATE GSU-M DECK [EV Charging] located at 11-33 Auditorium Pl SE Atlanta, GA 30303.
+- GEORGIA STATE GSU-M DECK 2 [EV Charging] located at Piedmont Ave SE Atlanta, GA 30303.
+- GEORGIA STATE GSU-W LOT [EV Charging] located at 100 Auburn Ave Atlanta, GA 30312.
+- GEORGIA STATE STATION 2 [EV Charging] located at 455 Capitol Avenue Southeast Atlanta, GA 30312.
+- Glencastle [EV Charging] located at 750 Glenwood Ave Atlanta, GA 30316.
+- GLENPOINT GLENRIDGE 100 [EV Charging] located at 100 Glenridge Point Pkwy Atlanta, GA 30342.
+- Glenwood Foodmart located at 2315 Glenwood Avenue Southeast Atlanta, GA 30316.
+- Global Imports BMW [EV Charging] located at 500 Interstate North Parkway Atlanta, GA 30339.
+- GO BRAVES ORANGE EV LEV2 [EV Charging] located at 1800 Windy Ridge Pkwy SE Atlanta, GA 30339.
+- GO BRAVES PLAZA EV LEV 2 [EV Charging] located at 75 Circle Pkwy Atlanta, GA 30339.
+- GO BRAVES PURPLE DECK EV2 [EV Charging] located at 925 Battery Ave SE Atlanta, GA 30339.
+- GO BRAVES RED PARKING EV1 [EV Charging] located at 553 Circle 75 Pkwy Atlanta, GA 30339.
+- GO BRAVES RED PARKING EV1 [EV Charging] located at 553 Circle 75 Pkwy Level 1 Atlanta, GA 30339.
+- GO BRAVES RED PARKING EV2 [EV Charging] located at 553 Circle 75 Pkwy Level 2 Atlanta, GA 30339.
+- GO BRAVES RED PARKING EV3 [EV Charging] located at 553 Circle 75 Pkwy Level 3 Atlanta, GA 30339.
+- GO BRAVES RED PARKING EV4 [EV Charging] located at 553 Circle 75 Pkwy Level 4 Atlanta, GA 30339.
+- GO BRAVES RED PARKING EV5 [EV Charging] located at 553 Circle 75 Pkwy Level 5 Atlanta, GA 30339.
+- GO BRAVES RED PARKING EV6 [EV Charging] located at 553 Circle 75 Pkwy Level 6 Atlanta, GA 30339.
+- GO BRAVES RED PARKING EV7 [EV Charging] located at 553 Cir

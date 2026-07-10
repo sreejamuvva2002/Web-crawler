@@ -1,0 +1,84 @@
+---
+title: "Rivian Automotive"
+entity_type: company
+supply_chain_category: vehicle_manufacturing
+page_id: page_000190
+publication_date: 2025-09-16
+source_url: https://georgia.org/rivian
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Rivian Automotive
+
+**Type:** company  ·  **Role:** vehicle_manufacturing  ·  **Published:** 2025-09-16
+
+**Source:** [Rivian | Georgia](https://georgia.org/rivian)  ·  `page_000190`
+
+## Facts
+
+- On September 16, 2025, Rivian Founder and CEO RJ Scaringe and Georgia Governor Brian Kemp were joined by company, state, and local officials to break ground at the company’s manufacturing site at Stanton Springs North.
+- The $5 billion investment is expected to create 7,500 long-term jobs by 2030.
+- Rivian plans to produce its midsize R2 SUV and R3 crossover at the campus located outside of Social Circle, near the I-20 corridor east of Atlanta.
+- The first phase of facility construction is expected to begin in 2026, with the start of customer vehicle production anticipated in 2028.
+- Once the second phase of construction is complete, an annual production capacity of up to 400,000 vehicles is expected at the facility.
+- Rivian is actively working to ensure that both the construction process and future facility meet the company’s high standards of conservation and sustainability for a cleaner, wilder future.
+- Employing modern construction techniques and advanced environmental management, the nearly 2,000-acre site is elegantly integrated with the surrounding environment.
+- Recreational trails for employees and customers, including a Rivian experience trail, are planned at the campus.
+- Governor Brian P. Kemp and Atlanta Mayor Andre Dickens announced on July 17, 2025, that Rivian will establish its new East Coast Headquarters in Atlanta.
+- The EV leader’s new office space at Junction Krog District on the Atlanta BeltLine will bring 500 new jobs to the heart of the city, complementing its state-of-the-art manufacturing facility under construction in Stanton Springs North.
+- At the Grand Opening of its Spaces location near the Beltline at Ponce City Market on October 20, 2023, Rivian showcased its progress on its future Georgia manufacturing facility and upcoming milestones.
+- The new spaces location will give visitors the opportunity to connect with the Rivian brand, get up-close with its electric adventure vehicles, and learn more about the company’s plans in the Peach State.
+- Rivian has also opened a new Spaces location at Avalon in Alpharetta where visitors can see its R1S SUV and R1T truck.
+- Rivian has also opened an office in Covington, Georgia, a short drive from its future factory, and continues to grow its local presence, as well as support functions designed to ensure a timely and innovative construction process.
+- In Georgia, Rivian’s Adventure network of charging stations are powered by 100% renewable energy, and chargers provide up to 140 miles of range in 20 minutes for R1T and R1S.
+- Rivian’s Waypoints Level 2 chargers, also powered by 100% renewable energy, are located near popular destinations to allow for charging while exploring Georgia.
+- Rivian’s charging station map is updated as new stations come online.
+- In partnership with the Technical College System of Georgia, Rivian has welcomed the newest class of 26 to the Rivian Technical Trades Program for Stanton Springs North, Georgia.
+- The program provides students with an accelerated 16-week foundational training program.
+- After completing an instructional course, students receive on-the-job training and learn skills from professionals in the company’s manufacturing facility in Normal, Illinois, before returning to Georgia to deploy their expertise after graduation.
+- Additionally, Rivian has announced an additional apprenticeship program, recruiting an initial group to support future industrial maintenance needs at its Georgia facility through a 24-month, in-depth training period.
+- Program tuition will be covered by the State of Georgia’s HOPE Grants, with incremental expenses (textbooks, materials, etc.) paid for by Rivian.
+- Throughout the program duration, all participants will be paid employees as maintenance technicians for Rivian.
+- In-person learning is accelerated for 24 weeks, after which all apprentices will travel to Rivian’s plant in Normal for 12-18 months of on-the-job training, a requirement of the apprenticeship program.
+- Construction is expected to begin in 2026.
+- “We’re excited to build our next plant in Georgia and inspired by the state’s innovative spirit. The growing EV ecosystem that continues to take root here is the perfect environment to scale our business and launch new products that are grounded in our mission to preserve this world for generations to come.” – CEO & Founder RJ Scaringe, Rivian
+- Just under 2,000 acres at the site formerly known as the East Atlanta Megasite, represented by the Joint Development Authority of Jasper, Morgan, Newton, and Walton Counties.
+- STANTON SPRINGS NORTH Rivian’s just under 2,000-acre carbon-conscious campus includes abundant natural space at Stanton Springs North east of Atlanta, in Morgan and Walton counties.
+- Rivian’s strategic location on the I-20 corridor will enable the company to access resources and speed its products to market.
+- Rivian cited Georgia as a sustainable place to do business, with carefully dedicated siting for minimal environmental impact, ample sunshine, and other necessary assets for success.
+- Georgia’s large workforce is educated, diverse, and keenly interested in technology.
+- Their openness to technology companies and their unique manufacturing, sales, and logistics needs was cited as a “game-changer” for the company.
+- Georgia is well-placed as a logistics and distribution hub, and Rivian has said this site allows them to scale rapidly, while maintaining their high standards for their facilities and products.
+- The following statements were issued on December 16, 2021, as part of the announcement:
+- Governor Brian P. Kemp stated: “Rivian’s investment – the single largest in state history – represents the future of automotive manufacturing and establishes the leading role the Peach State will play in this booming industry for generations to come. Our Georgia Quick Start workforce training resources, world-class higher education institutions, and statewide logistics infrastructure assets are prepared to meet Rivian’s production and R&D needs. As one of the world’s most dynamic, innovative companies, Rivian’s exciting announcement begins a new chapter for Georgia, and we are honored to welcome them to the Peach State!"
+- Georgia Department of Economic Development Commissioner Pat Wilson stated: “For Rivian, sustainability doesn’t stop with just making EVs. It is carried throughout their work, going so far as to carefully plan construction efforts at the site to preserve and protect the beauty and uniqueness of their new home. Georgia is proud to become part of their story. Rivian will be an outstanding corporate citizen and community partner, and we look forward to a strong future together as the jobs and investment they create will change lives and accelerate Georgia’s sustainable and electrified future."
+- Shane Short, on behalf of the economic development arm of the Joint Development Authority (JDA) of Jasper, Morgan, Newton, and Walton Counties stated: “We are more than excited that Rivian has selected Stanton Springs and Georgia for their manufacturing facility, which will create tremendous job opportunities for our communities for generations to come.”
+- In response to a February 18, 2022, letter from the Joint Development Authority (JDA) of Jasper, Morgan, Newton, and Walton Counties, Georgia Department of Economic Development (GDEcD) Commissioner Pat Wilson issued a response letter and a statement regarding the State of Georgia’s leadership in the Rivian Automotive project with a commitment to continuously work with city and county governments to ensure that every concern is heard and every question answered.
+- The state’s commitment related to the Rivian site included putting processes put into place to allow area residents and stakeholders a strong voice in the planning process.
+- Four committees have been established in Workforce Development; Local Business Engagement; Site Design and Environmental; and Quality of Life, which includes Civic Engagement, Public Benefits, and Land Conservation.
+- The State of Georgia has also agreed to ensure that this project follows locally required standards pertaining to water quality, groundwater recharge and runoff, and all local environmental ordinances.
+- These requirements will be built into the overarching agreement between the State of Georgia, the JDA, and Rivian.
+- Additionally, conserving buffers, wildlife habitat, and outdoor recreation around the site is a high priority for local partners.
+- GDEcD is ready and willing to partner with local conservation organizations and area elected officials in pursuing this goal.
+- These committees are staffed by a cross section of state experts, local county representatives, and include members from the private sector and local civic organizations, as well as from Rivian.
+- Committees were announced on March 14, 2022: Planning Committees Announced for Generational Rivian Project
+- Following Rivian’s announced pause in construction in early 2024, the below documents detail actions planned to maintain, secure, and ensure environmental compliance in agreement with the JDA and State.
+- Leading up to the start of vertical construction, activity at the site will continue with the contracted construction company, which will maintain a constant presence there.
+- The Georgia Department of Economic Development, in conjunction with the Joint Development Authority of Jasper County, Morgan County, Newton County, and Walton County (JDA), took the next steps to ensure the protection of the environment is at the forefront of the Stanton Springs North Rivian site development, by submitting a Clean Water Act Section 404 permit application with the U.S. Army Corps of Engineers on April 29, 2022.
+- The Section 404 permit was approved on December 27, 2022, following review by the U.S. Army Corps of Engineers, the U.S. Environmental Protection Agency, U.S. Fish and Wildlife Service, the Georgia Department of Natural Resources-Environmental Protection Division, Georgia Department of Natural Resources-Wildlife Resources Division, and the Georgia Historic Preservation Division.
+- Each of these steps for site development is standard with any major public or private construction process.
+- On May 2, 2022, the Georgia Department of Economic Development (GDEcD), in partnership with the Joint Development Authority (JDA) of Jasper County, Morgan County, Newton County, and Walton County, announced that the Economic Development Agreement has been signed by the JDA, the State of Georgia, and Rivian to move forward on the company’s $5 billion Georgia project, which will create 7,500 jobs with a $56,000 average job wage at a carbon-conscious campus at Stanton Springs North.
+
+## Links
+
+- georgia@rivian.com — Project RFIs, RFPs listing, and supply chain outreach inquiries
+- www.rivian.com/careers — Open job postings in Georgia
+- georgia@rivian.com — Specific employment inquiries
+- www.proudlymadeingeorgia.com/work-at-rivian — Open job postings in Georgia
+- georgia@rivian.com — Specific employment inquiries
+- Stanton Springs JDA — Additional site studies and reports, along with local developments related to the project
+- U.S. Clean Water Act Section 404 Permit Approved for Rivian Project — Learn more about permit approval
+- Rivian Agreement Basics — Learn more about agreement basics
+- Economic Development Agreement — Read the complete agreement
+- Amended Economic Development Agreement — Read the complete amended agreement
+- Original Rivian Offer Letter (Dec. 2021) — Original offer letter

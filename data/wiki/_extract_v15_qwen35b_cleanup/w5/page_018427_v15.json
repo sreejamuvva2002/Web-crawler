@@ -1,0 +1,52 @@
+[
+  {
+    "entity_name": "Club Car",
+    "canonical_name": "Club Car",
+    "entity_type": "company",
+    "supply_chain_category": "vehicle_manufacturing",
+    "facts": [
+      "Craig Scanlon appointed CEO of Club Car (June 9).",
+      "Club Car leads U.S. PTV makers to Capitol Hill for a trade enforcement push ahead of an ITC ruling (June 2).",
+      "Commerce Department issues preliminary affirmative antidumping duty determination (Mar. 13).",
+      "Club Car CEO announces plans to retire (Mar. 10).",
+      "Club Car fights back against surging Chinese imports (Oct. 24).",
+      "Engineering recruitment featured by Auburn University (Feb. 27).",
+      "Club Car Urban vehicles deployed at the University of Georgia (Feb. 13).",
+      "Club Car preparing to expand into a new Appling facility (Oct. 13).",
+      "Solar energy powers Club Car's 2023 Ryder Cup fleet (Sept. 26).",
+      "Club Car completes acquisition of Garia (June 1).",
+      "Club Car breaks ground for a new distribution center in Columbia County (Mar. 17).",
+      "Club Car announces a new warehouse in Columbia County (Jan. 10).",
+      "Club Car introduces Lithium Ion Golf Car Technology at BTME (January 22).",
+      "Club Car unveils Lithium Ion technology at the PGA Merchandise Show (January 17).",
+      "The Practice Club at Jones Creek and iHeart Media Augusta team up for a Women’s Golf Benefit (May 14).",
+      "Club Car Championship at The Landings Golf & Athletic Club announces record-setting donations (May 13).",
+      "Club Car launches new U.S. street legal utility vehicle (Mar. 29).",
+      "Club Car launches CRU neighborhood electric vehicle (Mar. 8).",
+      "Celtic Manor Resort goes electric with Club Car (Nov. 1).",
+      "Club Car launches grant program to encourage campus sustainability efforts (July 24).",
+      "Onward gets new 6-passenger and high-performance lithium options (June 27).",
+      "Club Car's Tempo Li-Ion earns Golf Digest honors (April 24).",
+      "\"Club Car for a Cause\" tees up annual contest to benefit The First Tee in Augusta (April 8)."
+    ],
+    "links": [
+      {
+        "url": "Media@ClubCar.com",
+        "context": "Media inquiries contact"
+      },
+      {
+        "url": "ClubCarMarketingTeam@ClubCar.com",
+        "context": "Marketing inquiries contact"
+      }
+    ],
+    "source_url": "https://www.clubcar.com/en-us/our-company/news",
+    "source_title": "Club Car Newsroom | Latest Company News & Updates",
+    "source_domain": "clubcar.com",
+    "publication_date": "",
+    "date_precision": "none",
+    "page_id": "page_018427",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

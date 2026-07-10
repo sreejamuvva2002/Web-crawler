@@ -1,0 +1,208 @@
+---
+title: "Georgia WARN Act Filings"
+entity_type: government_program
+supply_chain_category: workforce_training
+page_id: page_018596
+publication_date: 2026-07-06
+source_url: https://warnact.io/state-georgia
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Georgia WARN Act Filings
+
+**Type:** government_program  ·  **Role:** workforce_training  ·  **Published:** 2026-07-06
+
+**Source:** [Georgia Layoffs 2026 - WARN Act Filings | WARNact](https://warnact.io/state-georgia)  ·  `page_018596`
+
+## Facts
+
+- Georgia has recorded 173 WARN filings over the past 24 months, affecting 26,363 workers across 152 companies.
+- The most active filer is Americold Logistics with 9 filings.
+- Most filings are concentrated in Atlanta, Duluth, and Alpharetta.
+- Of these, 96 involved facility closures and 77 were layoff events.
+- Filing dates range from Jul 18, 2024 through Jun 29, 2026.
+- Employers provided an average of 56 days notice before the effective date.
+- Filings in the most recent quarter were lower than the prior quarter, with 17 compared to 33.
+- If your employer filed a WARN notice in Georgia, you are entitled to 60 days advance written notice before your last day.
+- During the notice period, you remain employed with regular pay and benefits.
+- If your employer gave less than 60 days notice, you may be entitled to back pay and benefits for each day of the shortfall.
+- Review your COBRA options to continue health coverage for up to 18 months.
+- Ask specifically about Rapid Response services, which are designed for WARN-affected workers.
+- Employers with 100 or more employees must give 60 days written notice before mass layoffs or plant closings.
+- Free career counseling, resume help, job search assistance, and retraining programs through CareerOneStop.
+- America's Job Centers offer free career counseling, resume help, job search assistance, and retraining vouchers for WARN-affected workers.
+- Georgia follows the federal WARN Act with no additional state-level requirements.
+- All data on this page is sourced from official filings published by the Georgia Dept of Labor.
+- Conduent in Not Provided/Florham Park, NJ announced a Layoff affecting 70 workers, effective 2026-08-28, filed on 2026-06-29.
+- Americold Logistics in Atlanta, GA announced a Closure affecting 69 workers, effective 2026-08-31, filed on 2026-06-23.
+- SMBC in Not Provided/New York, NY announced a Layoff affecting 3 workers, effective 2026-08-03, filed on 2026-06-05.
+- SDH Services East in Atlanta, GA announced a Layoff affecting 70 workers, effective 2026-08-08, filed on 2026-06-01.
+- Constellium Automotive USA in Plymouth, MI announced a Layoff affecting 57 workers, effective 2026-08-01, filed on 2026-06-01.
+- Spirit Airlines in Atlanta, GA announced a Closure affecting 653 workers, effective 2026-05-02, filed on 2026-05-29.
+- Americold Logistics in Atlanta, GA announced a Closure affecting 69 workers, effective 2026-07-31, filed on 2026-05-29.
+- Ideal US Talent Systems Worker OpCo in Bloomington, MN announced a Layoff affecting 687 workers, effective 2026-07-01, filed on 2026-05-29.
+- Inalfa Roof Systems in Acworth, GA announced a Layoff affecting 127 workers, effective 2026-07-17, filed on 2026-05-19.
+- Bitcoin Depot Operating in Sandy Springs, GA announced a Closure affecting 109 workers, effective 2026-07-17, filed on 2026-05-18.
+- Jacuzzi in Valdosta, GA announced a Closure affecting 110 workers, effective 2026-07-11, filed on 2026-05-12.
+- Milliken in Nicholls, GA announced a Closure affecting 81 workers, effective 2026-07-10, filed on 2026-05-05.
+- MarketSource in Alpharetta, GA announced a Layoff affecting 51 workers, effective 2026-06-30, filed on 2026-05-05.
+- Bridgestone Golf in Covington, GA announced a Closure affecting 84 workers, effective 2026-06-30, filed on 2026-05-01.
+- Skf USA in Flowery Branch, GA announced a Layoff affecting 40 workers, effective 2026-06-26, filed on 2026-04-23.
+- SDH Education East in Young Harris, GA announced a Closure affecting 74 workers, effective 2026-05-29, filed on 2026-04-09.
+- Tri-Starr Management Services in Franklin, IN announced a Closure affecting 15 workers, effective 2026-06-06, filed on 2026-04-01.
+- Parsec in Austell, GA announced a Closure affecting 179 workers, effective 2026-05-01, filed on 2026-03-31.
+- Accenture in Atlanta, GA announced a Layoff affecting 54 workers, effective 2026-06-08, filed on 2026-03-31.
+- Thrive SMP in Stone Mountain, GA announced a Closure affecting 497 workers, effective 2026-06-01, filed on 2026-03-31.
+- Astemo Americas in Tallapoosa, GA announced a Closure affecting 60 workers, effective 2026-04-03, filed on 2026-03-27.
+- The Hillshire Brands in Rome, GA announced a Closure affecting 168 workers, effective 2026-05-31, filed on 2026-03-26.
+- C2 Technologies in McLean, VA announced a Layoff affecting 1 worker, effective 2026-03-06, filed on 2026-03-11.
+- Kpr Us in Augusta, GA announced a Closure affecting 213 workers, effective 2026-05-15, filed on 2026-03-11.
+- SK Battery America in Commerce, GA announced a Layoff affecting 958 workers, effective 2026-05-06, filed on 2026-03-06.
+- MarketSource in Alpharetta, GA announced a Layoff affecting 57 workers, effective 2026-02-26, filed on 2026-02-26.
+- IPIC Theaters in Boca Raton, FL announced a Closure affecting 163 workers, effective 2026-04-28, filed on 2026-02-25.
+- Main Street Sports Group in Atlanta, GA announced a Closure affecting 74 workers, effective 2026-04-14, filed on 2026-02-16.
+- ION Media Networks in Atlanta, GA announced a Layoff affecting 53 workers, effective 2026-04-10, filed on 2026-02-16.
+- Impact Outsourcing Solutions VI in Griffin, GA announced a Closure affecting 76 workers, effective 2026-04-13, filed on 2026-02-13.
+- Moove Cars Mobility Usa in East Point, GA announced a Closure affecting 83 workers, effective 2026-04-10, filed on 2026-02-10.
+- WWL Vehicle Services Americas in Brunswick, GA announced a Layoff affecting 65 workers, effective 2026-04-10, filed on 2026-02-09.
+- Gmri in Duluth, GA announced a Closure affecting 78 workers, effective 2026-04-05, filed on 2026-02-05.
+- SMBC in Not Provided/New York, NY announced a Layoff affecting 3 workers, effective 2026-03-10, filed on 2026-02-05.
+- Tessera Therapeutics in Somerville, MA announced a Layoff affecting 1 worker, effective 2026-03-08, filed on 2026-02-05.
+- Big Tex Trailer Manufacturing in Cordele, GA announced a Closure affecting 100 workers, effective 2026-01-16, filed on 2026-02-05.
+- Aludyne in Columbus, GA announced a Closure affecting 341 workers, effective 2026-01-01, filed on 2026-02-05.
+- Liberty Dental Plan in Tustin, CA announced a Layoff affecting 1 worker, effective 2026-04-06, filed on 2026-02-05.
+- KIPP Atlanta Schools in Atlanta, GA announced a Closure affecting 122 workers, effective 2026-06-30, filed on 2026-02-04.
+- TLC of Georgia in Cincinnati, OH announced a Closure affecting 78 workers, effective 2026-04-04, filed on 2026-01-31.
+- Continental Tire the Americas, LLC's in Barnesville, GA announced a Closure affecting 235 workers, effective 2026-03-31, filed on 2026-01-30.
+- TelaForce in Atlanta, GA announced a Layoff affecting 73 workers, effective 2026-03-20, filed on 2026-01-28.
+- S&S Activewear in Bolingbrook, IL announced a Closure affecting 114 workers, effective 2025-12-04, filed on 2026-01-28.
+- Zeco Systems in Los Angeles, CA announced a Layoff affecting 3 workers, effective 2025-10-31, filed on 2026-01-28.
+- Kuehne & Nagel in Locust Grove, GA announced a Closure affecting 153 workers, effective 2026-04-01, filed on 2026-01-28.
+- Home Depot in Atlanta, GA announced a Layoff affecting 797 workers, effective 2026-03-31, filed on 2026-01-28.
+- Waddington North America a Novolex entity in Bremen, GA announced a Closure affecting 49 workers, effective 2026-03-31, filed on 2026-01-28.
+- TTEC in Austin, TX announced a Layoff affecting 169 workers, effective 2026-03-31, filed on 2026-01-26.
+- GXO Logistics in Lithia Springs, GA announced a Closure affecting 85 workers, effective 2026-03-31, filed on 2026-01-20.
+- Chemours in Patterson, GA announced a Layoff affecting 54 workers, effective 2026-03-06, filed on 2026-01-05.
+- Coca-Cola in Atlanta, GA announced a Layoff affecting 75 workers, effective 2025-02-28, filed on 2025-12-30.
+- Gainesville Jaycees Vocational Rehabilitation Center in Gainesville, GA announced a Closure affecting 19 workers, effective 2026-02-27, filed on 2025-12-22.
+- Railcrew Xpress in North Kansas City, MO announced a Closure affecting 55 workers, effective 2026-02-27, filed on 2025-12-22.
+- Comprehensive Logistics in Crandall, GA announced a Closure affecting 105 workers, effective 2026-03-07, filed on 2025-12-17.
+- QuadGraphics in Sussex, WI announced a Closure affecting 241 workers, effective 2025-12-19, filed on 2025-12-16.
+- Urology Center of Columbus in Columbus, GA announced a Closure affecting 32 workers, effective 2025-12-05, filed on 2025-11-26.
+- SDH Services East in Augusta, GA announced a Layoff affecting 67 workers, effective 2026-01-31, filed on 2025-11-14.
+- SDH Services East in Savannah, GA announced a Layoff affecting 120 workers, effective 2026-01-31, filed on 2025-11-14.
+- CoStar Group in Atlanta, GA announced a Layoff affecting 3 workers, effective 2026-01-12, filed on 2025-11-11.
+- Lehigh Technologies in Tucker, GA announced a Closure affecting 55 workers, effective 2026-02-02, filed on 2025-11-10.
+- Smurfit WestRock in Atlanta, GA announced a Layoff affecting 55 workers, effective 2026-01-05, filed on 2025-11-10.
+- General Motors in Roswell, GA announced a Closure affecting 325 workers, effective 2025-12-12, filed on 2025-11-10.
+- SimplyIOA in Longwood, FL announced a Layoff affecting 65 workers, effective 2025-12-02, filed on 2025-11-10.
+- Baker & Taylor in Commerce, GA announced a Closure affecting 289 workers, effective 2025-10-06, filed on 2025-11-10.
+- West Fraser in Augusta, GA announced a Closure affecting 130 workers, effective 2026-01-05, filed on 2025-11-06.
+- Integrated Health Resources in Atlanta, GA announced a Closure affecting 107 workers, effective 2025-12-31, filed on 2025-10-31.
+- The William Carter in Atlanta, GA announced a Layoff affecting 189 workers, effective 2025-12-31, filed on 2025-10-30.
+- Mannington Mills in Salem, NJ announced a Closure affecting 211 workers, effective 2025-12-27, filed on 2025-10-29.
+- Saddle Creek Logistics Services in Lakeland, FL announced a Layoff affecting 128 workers, effective 2026-01-10, filed on 2025-10-27.
+- RATP Dev USA in Augusta, GA announced a Closure affecting 80 workers, effective 2025-12-31, filed on 2025-10-22.
+- Comcast in Atlanta, GA announced a Layoff affecting 240 workers, effective 2025-12-31, filed on 2025-10-15.
+- Nichiha USA in Johns Creek, GA announced a Layoff affecting 171 workers, effective 2025-12-06, filed on 2025-10-09.
+- Augusta Sportswear in Grovetown, GA announced a Closure affecting 93 workers, effective 2025-12-19, filed on 2025-10-07.
+- CoStar Realty Realty Information in Atlanta, GA announced a Layoff affecting 6 workers, effective 2025-12-01, filed on 2025-10-02.
+- Americold Logistics in Atlanta, GA announced a Layoff affecting 4 workers, effective 2025-12-01, filed on 2025-10-02.
+- Spirit Airlines in Dania Beach, FL announced a Layoff affecting 334 workers, effective 2025-12-01, filed on 2025-09-24.
+- Global Resource International/ Alleset in Peachtree Corners, GA announced a Closure affecting 41 workers, effective 2025-11-14, filed on 2025-09-09.
+- Country Home Bakers in Atlanta, GA announced a Closure affecting 164 workers, effective 2025-10-27, filed on 2025-08-28.
+- Americold Logistics in Atlanta, GA announced a Layoff affecting 3 workers, effective 2025-10-28, filed on 2025-08-28.
+- APL Logistics Warehouse Management Services in Scottsdale, AZ announced a Closure affecting 118 workers, effective 2025-10-31, filed on 2025-08-27.
+- J.B. Hunt Transport in Lithonia, GA announced a Closure affecting 74 workers, effective 2025-10-27, filed on 2025-08-26.
+- Hormel Foods in Tucker, GA announced a Layoff affecting 135 workers, effective 2025-10-26, filed on 2025-08-25.
+- International Paper in Savannah, GA announced a Closure affecting 101 workers, effective 2025-10-20, filed on 2025-08-21.
+- International Paper in Savannah, GA announced a Closure affecting 691 workers, effective 2025-10-20, filed on 2025-08-21.
+- Newport Timber in Riceboro, GA announced a Closure affecting 13 workers, effective 2025-10-20, filed on 2025-08-21.
+- RB Lumber in Riceboro, GA announced a Closure affecting 68 workers, effective 2025-10-20, filed on 2025-08-21.
+- Interstate Paper in Riceboro, GA announced a Closure affecting 220 workers, effective 2025-10-20, filed on 2025-08-21.
+- FreshRealm in Lancaster, TX announced a Closure affecting 75 workers, effective 2025-10-14, filed on 2025-08-15.
+- Soli Organic in Harrisonburg, VA announced a Closure affecting 128 workers, effective 2025-10-15, filed on 2025-08-15.
+- Kinder Morgan in Houston, TX announced a Closure affecting 42 workers, effective 2025-10-17, filed on 2025-08-14.
+- United Surface Solutions in Chatsworth, GA announced a Closure affecting 112 workers, effective 2025-10-12, filed on 2025-08-14.
+- Block in Oakland, CA announced a Layoff affecting 4 workers, effective 2025-10-13, filed on 2025-08-12.
+- Americold Logistics in Atlanta, GA announced a Layoff affecting 5 workers, effective 2025-10-06, filed on 2025-08-07.
+- Unifi Aviation in Atlanta, GA announced a Closure affecting 379 workers, effective 2025-09-30, filed on 2025-08-05.
+- Americold Logistics in Atlanta, GA announced a Layoff affecting 12 workers, effective 2025-09-30, filed on 2025-07-31.
+- Community Development Institute Head Start in Thomson, GA announced a Closure affecting 77 workers, effective 2025-09-30, filed on 2025-07-30.
+- Yamaha Motor Manufacturing in Newnan, GA announced a Layoff affecting 160 workers, effective 2025-10-04, filed on 2025-07-30.
+- Americold Logistics in Atlanta, GA announced a Layoff affecting 36 workers, effective 2025-09-16, filed on 2025-07-18.
+- Backyard PlayNation in Canton, GA announced a Closure affecting 66 workers, effective 2025-09-17, filed on 2025-07-16.
+- Quality Built in Fort Lauderdale, FL announced a Layoff affecting 4 workers, effective 2025-07-03, filed on 2025-07-14.
+- Whitepath Fab Tech in Ellijay, GA announced a Layoff affecting 42 workers, effective 2025-09-11, filed on 2025-07-14.
+- GSC Transport in Savannah, GA announced a Closure affecting 4 workers, effective 2025-07-10, filed on 2025-07-10.
+- Hyatt in Atlanta, GA announced a Closure affecting 102 workers, effective 2025-07-01, filed on 2025-07-03.
+- Americold Logistics in Atlanta, GA announced a Layoff affecting 110 workers, effective 2025-09-05, filed on 2025-07-03.
+- Pourlessoins in Atlanta, GA announced a Layoff affecting 8 workers, effective 2025-08-31, filed on 2025-07-02.
+- Kelly Services in Troy, MI announced a Closure affecting 973 workers, effective 2025-06-27, filed on 2025-06-30.
+- IG Design Group Americas in Atlanta, GA announced a Closure affecting 53 workers, effective 2025-08-26, filed on 2025-06-27.
+- BLST Operating in Eden Prairie, MN announced a Layoff affecting 160 workers, effective 2025-08-22, filed on 2025-06-23.
+- Wellpath in Marietta, GA announced a Closure affecting 68 workers, effective 2025-08-01, filed on 2025-06-23.
+- Target in Minneapolis, MN announced a Closure affecting 62 workers, effective 2025-08-15, filed on 2025-06-12.
+- TransAxle in Forest Park, GA announced a Closure affecting 209 workers, effective 2025-07-15, filed on 2025-05-23.
+- NexTraq in Atlanta, GA announced a Layoff affecting 39 workers, effective 2025-07-20, filed on 2025-05-21.
+- FedEx in Warrendale, PA announced a Layoff affecting 383 workers, effective 2025-07-14, filed on 2025-05-16.
+- WIOSS Atlanta in Forest Park, GA announced a Layoff affecting 53 workers, effective 2025-07-19, filed on 2025-05-15.
+- Georgia-Pacific in Atlanta, GA announced a Closure affecting 535 workers, effective 2025-08-01, filed on 2025-05-14.
+- Atco Rubber Products in Cartersville, GA announced a Closure affecting 124 workers, effective 2025-07-01, filed on 2025-05-02.
+- CoStar Realty Information in Arlington, VA announced a Layoff affecting 84 workers, effective 2025-06-30, filed on 2025-04-18.
+- Davis Express in Starke, FL announced a Closure affecting 163 workers, effective 2025-06-15, filed on 2025-04-16.
+- United States Cellular in Chicago, IL announced a Layoff affecting 4,100 workers, effective 2025-06-02, filed on 2025-04-07.
+- Piedmont Athens Regional Medical Center in Athens, GA announced a Layoff affecting 95 workers, effective 2025-06-02, filed on 2025-04-02.
+- Saddle Creek Logistics Services in Lakeland, FL announced a Layoff affecting 73 workers, effective 2025-06-01, filed on 2025-04-02.
+- Block in Atlanta, GA announced a Layoff affecting 49 workers, effective 2025-05-24, filed on 2025-03-25.
+- Essendant in Deerfield, IL announced a Closure affecting 64 workers, effective 2025-05-23, filed on 2025-03-20.
+- Danimer Scientific Holdings in Bainbridge, GA announced a Closure affecting 82 workers, effective 2025-03-14, filed on 2025-03-14.
+- National Distribution Centers in Fairburn, GA announced a Closure affecting 90 workers, effective 2025-04-19, filed on 2025-03-11.
+- Greif in Austell, GA announced a Closure affecting 61 workers, effective 2025-04-10, filed on 2025-03-11.
+- Archway Marketing Services in Newnan, GA announced a Layoff affecting 60 workers, effective 2025-03-31, filed on 2025-03-05.
+- Macy's in Duluth, GA announced a Closure affecting 62 workers, effective 2025-03-18, filed on 2025-03-05.
+- Harvest Sherwood Food Distributors in Atlanta, GA announced a Layoff affecting 113 workers, effective 2025-02-18, filed on 2025-03-04.
+- Bailey Street Bakery in Atlanta, GA announced a Closure affecting 176 workers, effective 2025-04-16, filed on 2025-03-04.
+- Animal Supply in Grand Prairie, TX announced a Layoff affecting 57 workers, effective 2025-02-07, filed on 2025-03-04.
+- Rent Group in Atlanta, GA announced a Layoff affecting 56 workers, effective 2025-04-25, filed on 2025-02-24.
+- American Anesthesiology of Georgia in Sunrise, FL announced a Layoff affecting 224 workers, effective 2025-04-30, filed on 2025-02-20.
+- Integrated Health Resources in Atlanta, GA announced a Closure affecting 105 workers, effective 2025-03-25, filed on 2025-02-06.
+- Radial in King of Prussia, PA announced a Closure affecting 164 workers, effective 2025-04-05, filed on 2025-02-04.
+- Hi-Rez Studios in Alpharetta, GA announced a Layoff affecting 69 workers, effective 2025-04-07, filed on 2025-02-04.
+- Exel in Union City, GA announced a Closure affecting 614 workers, effective 2025-04-06, filed on 2025-02-03.
+- Rambo in Dallas, GA announced a Closure affecting 135 workers, effective 2025-01-31, filed on 2025-01-29.
+- Networx Systems in Atlanta, GA announced a Layoff affecting 51 workers, effective 2025-03-23, filed on 2025-01-24.
+- Packaging Corporation of America in Lake Forest, IL announced a Closure affecting 103 workers, effective 2025-03-11, filed on 2025-01-09.
+- Agco in Duluth, GA announced a Closure affecting 3 workers, effective 2025-02-01, filed on 2025-01-07.
+- D&A Consulting Services in Richmond, VA announced a Layoff affecting 22 workers, effective 2025-02-19, filed on 2024-12-30.
+- Dwarf House Group in College Park, GA announced a Closure affecting 111 workers, effective 2025-02-28, filed on 2024-12-03.
+- Agco in Duluth, GA announced a Closure affecting 2 workers, effective 2025-02-01, filed on 2024-12-03.
+- Vander-Bend Manufacturing in San Jose, CA announced a Closure affecting 38 workers, effective 2024-11-22, filed on 2024-11-23.
+- WIOSS Atlanta in Forest Park, GA announced a Layoff affecting 139 workers, effective 2025-02-03, filed on 2024-11-20.
+- Universal Protection Service in Atlanta, GA announced a Layoff affecting 51 workers, effective 2025-01-09, filed on 2024-11-07.
+- Omni in Chickasha, OK announced a Closure affecting 129 workers, effective 2024-12-31, filed on 2024-11-05.
+- BPA Facility Services in Dallas, TX announced a Layoff affecting 61 workers, effective 2024-12-31, filed on 2024-11-01.
+- CJ Logistics America in Des Plaines, IL announced a Closure affecting 275 workers, effective 2025-01-06, filed on 2024-10-31.
+- Forest River in Elkhart, IN announced a Closure affecting 114 workers, effective 2024-10-31, filed on 2024-10-31.
+- Scripps News in Atlanta, GA announced a Layoff affecting 118 workers, effective 2024-11-15, filed on 2024-10-29.
+- Americold Logistics in Pooler, GA announced a Closure affecting 58 workers, effective 2024-12-31, filed on 2024-10-24.
+- Multi-Color in Brunswick, GA announced a Closure affecting 40 workers, effective 2024-11-01, filed on 2024-10-18.
+- Customized Distribution Services in Atlanta, GA announced a Closure affecting 165 workers, effective 2024-12-08, filed on 2024-10-09.
+- Kaleo in Richmond, VA announced a Closure affecting 1 worker, effective 2024-11-30, filed on 2024-09-30.
+- Medzed in Atlanta, GA announced a Closure affecting 43 workers, effective 2024-12-01, filed on 2024-09-30.
+- Genpact US Services in Sandy Springs, GA announced a Layoff affecting 45 workers, effective 2024-11-30, filed on 2024-09-26.
+- Shaw Industries Group in Dalton, GA announced a Closure affecting 281 workers, effective 2024-11-25, filed on 2024-09-24.
+- Conn Appliances in LaGrange, GA announced a Closure affecting 62 workers, effective 2024-10-31, filed on 2024-09-23.
+- Sculpted Contours in Alpharetta, GA announced a Layoff affecting 3 workers, effective 2024-09-19, filed on 2024-09-18.
+- Panera in Fenton, MO announced a Layoff affecting 86 workers, effective 2024-11-15, filed on 2024-09-16.
+- Lost Boys Interactive in Madison, WI announced a Layoff affecting 139 workers, effective 2024-09-09, filed on 2024-09-10.
+- BGDC Trans Atlanta in Forest Park, GA announced a Layoff affecting 284 workers, effective 2024-11-10, filed on 2024-09-09.
+- ABM in Sugar Land, TX announced a Closure affecting 353 workers, effective 2024-11-01, filed on 2024-08-30.
+- WestRock in Duluth, GA announced a Layoff affecting 9 workers, effective 2024-10-18, filed on 2024-08-28.
+- Interfor in Peachtree City, GA announced a Layoff affecting 93 workers, effective 2024-08-19, filed on 2024-08-19.
+- BPA Facility Services in Dallas, TX announced a Closure affecting 60 workers, effective 2024-09-30, filed on 2024-08-08.
+- Omni in Chickasha, OK announced a Closure affecting 125 workers, effective 2024-09-30, filed on 2024-08-08.
+- Kliklok in Decatur, GA announced a Closure affecting 89 workers, effective 2024-09-27, filed on 2024-07-22.
+- Geodis in Brentwood, TN announced a Layoff affecting 68 workers, effective 2024-09-19, filed on 2024-07-22.
+- Advanced Pro Services in Atlanta, GA announced a Layoff affecting 65 workers, effective 2024-09-02, filed on 2024-07-18.
+- Pitney Bowes in Stamford, CT announced a Layoff affecting 3 workers, effective 2024-09-17, filed on 2024-07-18.

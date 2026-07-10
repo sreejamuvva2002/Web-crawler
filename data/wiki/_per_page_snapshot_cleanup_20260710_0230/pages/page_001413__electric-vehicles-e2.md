@@ -1,0 +1,207 @@
+---
+title: "Electric Vehicles | E2"
+entity_type: event
+supply_chain_category: unknown
+page_id: page_001413
+publication_date: 
+source_url: https://e2.org/announcements/sectors/ev/
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Electric Vehicles | E2
+
+**Type:** event  ·  **Role:** unknown  ·  **Published:** ?
+
+**Source:** [Electric Vehicles | E2](https://e2.org/announcements/sectors/ev/)  ·  `page_001413`
+
+## Facts
+
+- Gov. Whitmer announced 200 new high-paying, high-tech jobs coming to Novi for Scout Motors.
+- Scout Motors investment is $11 Million.
+- An unspecified company announced 450 jobs with an $810 Million investment.
+- An unspecified company announced 185 jobs with a $13.8 Million investment.
+- Tesla supplier Simon NA Corp. is opening a plant at Brooks, joining a growing South Side automotive manufacturing hub in San Antonio, Texas.
+- Toyota Industries is expanding its Georgia presence, creating 250 new jobs in Pendergrass, Georgia.
+- Toyota Industries investment for the Pendergrass expansion is $69 Million.
+- An unspecified company announced 400 jobs with a $500 Million investment.
+- NEO Industries is expanding its manufacturing operation in Beaver Dam, Kentucky, with a $12.4 Million investment.
+- NEO Industries will create 20 jobs.
+- An unspecified company announced 100 jobs with a $24 Million investment.
+- An unspecified company announced 460 jobs with a $176 Million investment.
+- Toyota is supercharging its North Carolina battery plant in Liberty with a new $8 Billion investment.
+- The Toyota North Carolina plant expansion will create 3,000 jobs.
+- Gov. Cooper announced that global battery component supplier Epsilon Advanced Materials selected Brunswick County, North Carolina, for its first U.S. plant.
+- Epsilon Advanced Materials will create 500 jobs in Brunswick County, North Carolina.
+- An unspecified company announced 240 jobs.
+- Gestamp plans to invest $69.5 Million for upgrades at its South Charleston stamping plant in West Virginia.
+- Gestamp's South Charleston plant upgrades will create 100 jobs.
+- An unspecified company announced 400 jobs.
+- Toyota and LG Energy Solution announced a $3 Billion investment in a West Michigan battery plant in Holland, Michigan.
+- Taiwanese automotive component supplier Hota is opening a facility in Santa Teresa, New Mexico.
+- Hota will create 350 jobs in Santa Teresa, New Mexico.
+- Hota investment for the New Mexico facility is $99 Million.
+- Governor Whitmer secured a $63 Million investment for Battle Creek by DENSO during an economic development mission in Japan.
+- DENSO investment is located in Battle Creek, Michigan.
+- Gov. Pritzker and Gotion announced a new $2 Billion electric vehicle battery gigafactory in Kankakee County.
+- Gotion facility will be located in Manteno, Illinois.
+- The Gotion gigafactory will create 2,600 jobs.
+- Hyundai Motor Group and LG Energy Solution are to invest an additional $2 Billion in Bryan County, Georgia.
+- The Hyundai and LGES investment in Bryan County will create 400 jobs.
+- Automotive supplier Daesol Ausys Georgia is investing $72 Million in Harris County, Georgia.
+- Daesol Ausys Georgia's West Point facility will create 140 jobs.
+- EV company Harbinger Motors signed a lease with Rexford in SoCal.
+- Harbinger Motors facility in Garden Grove, California, will create 160 jobs.
+- Stellantis invested in CTR to strengthen low emissions U.S. lithium production.
+- Stellantis investment is located in Imperial County, California.
+- Governor Ivey announced that auto parts maker Shinwa plans an $114 Million Alabama expansion.
+- Shinwa's Auburn, Alabama expansion will create 50 jobs.
+- John Deere Electric Powertrain is investing $69 Million for its North American headquarters and new battery production operations in Kernersville, North Carolina.
+- John Deere's Kernersville facility will create 50 jobs.
+- An unspecified company announced 600 jobs with a $170 Million investment.
+- Electric vehicle component supplier Junchuang North America plans to add 120 jobs and invest $21 Million in its Fort Worth plant.
+- Bollinger Motors received a $3M grant to expand Michigan facilities and add jobs.
+- Bollinger Motors facility in Livonia, Michigan, has a total of 237 jobs and $44 Million total investment.
+- Bollinger Motors facility in Oak Park, Michigan, has a total of 237 jobs and $44 Million total investment.
+- An unspecified company announced 250 jobs.
+- An unspecified company announced 750 jobs.
+- An unspecified company announced 300 jobs.
+- An unspecified company announced a $200 Million investment.
+- Cenntro Electric Group announced a new assembly plant in Ontario, California.
+- An unspecified company announced 167 jobs with a $153 Million investment.
+- Enchem America Inc. is locating U.S. manufacturing operations in Brownsville, Tennessee.
+- Enchem America Inc. will create 190 jobs and invest $152.2 Million.
+- An unspecified company announced 160 jobs with a $72 Million investment.
+- An unspecified company announced a $50 Million investment.
+- Woory is opening an EV parts manufacturing and R&D facility in Laurens County, Georgia.
+- Woory Industrial Co. facility in Dublin, Georgia, will create 130 jobs with an $18 Million investment.
+- A company plans to invest $54 Million with a new manufacturing facility in Mt. Vernon, Illinois, creating more than 60 jobs.
+- Manner Polymers is the company investing $54 Million in Mt. Vernon, Illinois.
+- Gov. Kemp announced that automotive supplier Hanon Systems will create 160 new jobs in Bulloch County, Georgia.
+- Hanon Systems facility will be located in Statesboro, Georgia, with a $40 Million investment.
+- Italian tech company alpitronic Americas LLC is creating 300 jobs in Mecklenburg County as its new U.S. headquarters for EV charging operations.
+- alpitronic Americas LLC facility in Charlotte, North Carolina, has an investment of $18.3 Million.
+- Governor Cooper announced 205 new jobs as EV charging company Atom Power expands in Mecklenburg County.
+- Atom Power facility in Huntersville, North Carolina, has an investment of $4.2 Million.
+- An unspecified company announced 100 jobs with a $20 Million investment and capacity of 13,000 U/Y.
+- A $10M Rivian remanufacturing facility will create 218 jobs in Shepherdsville, Kentucky.
+- Bosch is acquiring TSI Semiconductors, injecting $1.5 Billion to meet SiC chip demand for EVs.
+- Bosch investment is located in Roseville.
+- An unspecified company announced 180 jobs with a $72 Million investment.
+- Ucore is investing $75 Million to establish a rare earth metals manufacturing facility in Alexandria.
+- Ucore North America facility will create 100 jobs.
+- An unspecified company announced 186 jobs with a $20.6 Million investment.
+- An unspecified company announced 500 jobs with a $100 Million investment.
+- Arizona county approved a solar-powered cobalt sulfate production facility for EVelution Energy.
+- EVelution Energy facility is in Yma County, Arizona.
+- EVelution Energy will create 360 jobs with a $200 Million investment.
+- EVelution Energy capacity is 28.4 MW | 7,000 T/Y.
+- Korean battery giant LG announced a huge expansion of plans for a battery factory in Queen Creek, Arizona.
+- LG Energy Solution investment is $1.8 Billion.
+- Cirba Solutions is building a world-class EV battery materials facility in Columbia, South Carolina.
+- Cirba Solutions will create 300 jobs with a $300 Million investment.
+- Cirba Solutions capacity will be metals to power 500K EV/Y.
+- Albemarle Corporation is investing $1.3 Billion in a South Carolina lithium processing facility.
+- Albemarle facility is in Chester County, South Carolina.
+- Albemarle will create 300 jobs with a capacity of 50,000 MT/Y.
+- An unspecified company announced 642 jobs with a $1.5 Billion investment.
+- The Shyft Group invested in a Michigan facility to support Blue Arc EV production.
+- Shyft Group facility is in Charlotte, Michigan, with a $16 Million investment and capacity of 3,000 EV/Y.
+- An unspecified company announced 402 jobs with a $67 Million investment.
+- Scout Motors selected Richland County, South Carolina, for its production site.
+- Scout Motors plans to create 4,000 jobs with a $2 Billion investment and capacity of 200,000 EV/Y.
+- An unspecified company announced 265 jobs with a $155 Million investment.
+- EV battery supplier Dongwha Electrolyte is opening a $70 million plant in Clarksville, Tennessee.
+- Dongwha Elecrolyte USA will create 68 jobs.
+- Li-Cycle was awarded a $375M loan for its Rochester facility.
+- Li-Cycle facility in Rochester, New York, will create 1,270 jobs with a capacity of 90,000 T/Y.
+- Duke Energy is mobilizing a first-of-its-kind microgrid-integrated fleet electrification center.
+- Duke Energy facility is in Mount Holly, North Carolina.
+- An unspecified company announced 740 jobs with a $300 Million investment.
+- Tritium is adding 250+ Tennessee jobs and was recognized for safe and sustainable workplace at its U.S. factory.
+- Tritium facility is in Lebanon, Tennessee.
+- Ford is building a $3.5B battery plant at Marshall mega site.
+- Ford | Contemporary Amperex Technology facility is in Marshall, Michigan.
+- The Ford battery plant will create 2,500 jobs with a capacity of 35 GWh.
+- EV charger manufacturer Kempower doubled its jobs commitment in Durham to now 601.
+- Kempower, Inc. facility is in Durham County, North Carolina, with an investment of $41.2 Million.
+- Gov. Kemp announced that Seoyon E-HWA joins a growing list of Hyundai suppliers, nearly doubling Georgia employment.
+- Seoyon E-HWA facility is in Bloomingdale, Georgia, creating 740 jobs with a $76 Million investment.
+- Cabot Corp. plans to invest in U.S. conductive carbon additives capacity for electric vehicle Li-ion battery applications.
+- Cabot Corporation facility is in Pampa, Texas, creating 75 jobs with a $75 Million investment and capacity of 15,000 MT/Y.
+- LioChem e-Materials LLC will invest over $104 M and create 141 full-time jobs in Simpson County.
+- LioChem e-Materials LLC facility is in Franklin, Kentucky.
+- Tesla is building a $3.6 billion battery and electric semi truck manufacturing facility in Northern Nevada.
+- Tesla facility is in Sparks, Nevada, creating 3,000 jobs.
+- An unspecified company announced a $250 Million investment.
+- An unspecified company announced an $8 Million investment.
+- An unspecified company announced a $56 Million investment.
+- Pune’s Quench Chargers is setting to power the American EV industry with a new manufacturing facility.
+- Quench Chargers facility is in Shelton, Connecticut.
+- An unspecified company announced a $717 Million investment.
+- StoreDot expanded globally with the opening of a CA innovation hub to accelerate development of semi-solid state batteries.
+- StoreDot facility is in Irvine, California.
+- Gov. Kemp announced that longtime Kia and HMG supplier Ecoplastics Corporation will build a manufacturing facility in Bulloch County.
+- Ecoplastics Corporation facility is in Register, Georgia, creating 456 jobs with a $205 Million investment.
+- An unspecified company announced 150 jobs with a $15 Million investment.
+- Cirba Solutions secured over $200M investment to grow closed loop EV battery recycling & materials production.
+- Cirba Solutions facility is in Lancaster, Ohio, creating 150 jobs with a capacity of 200,000 BATS/YR.
+- An unspecified company announced 100 jobs.
+- Redwood Materials joined the electric vehicle and battery trek to South Carolina.
+- Redwood Materials facility is in Ridgefield, South Carolina, creating 1,500 jobs with a $3.5 Billion investment and capacity of 100 GWh.
+- Lear Corp. plans a $112M expansion in SE Mich., Traverse City to grow EV components.
+- Lear Corp. facility is in Traverse City, Michigan, with a total investment of $112.5 Million.
+- An unspecified company announced 75 jobs with a $75 Million investment.
+- Lear Corp. plans a $112M expansion in SE Mich., Macomb County to grow EV components.
+- Lear Corp. facility is in Macomb County, Michigan, with a total investment of $112.5 Million.
+- Lear Corp. plans a $112M expansion in SE Mich., Independence Township to grow EV components.
+- Lear Corp. facility is in Independence Township, Michigan, with a total investment of $112.5 Million.
+- Hyundai Motor Group and SK On are to build an EV battery facility in Bartow County, Georgia.
+- Hyundai | SK On facility will create 3,500 jobs with a $4 Billion investment.
+- An unspecified company announced 150 jobs with a $341 Million investment.
+- An unspecified company announced 1,170 jobs with an $810 Million investment.
+- Spring Hill battery cell manufacturer Ultium Cells is investing $275M more and adding 400 jobs.
+- Ultium Cells facility is in Spring Hill, Tennessee.
+- Redwood Materials plans a $1.1 Billion investment to expand its battery facility in Nevada.
+- Redwood Materials facility is in Storey County, Nevada, creating 450 jobs.
+- An unspecified company announced 1,500 jobs with a $926 Million investment.
+- An unspecified company announced 860 jobs with a $3.2 Billion investment.
+- An unspecified company announced a $45 Million investment.
+- SK Signet is creating up to 183 jobs for an EV fast charger manufacturing facility in Plano, Texas.
+- Canoo is expanding to Oklahoma City with an electric vehicle manufacturing plant.
+- Canoo facility is in Oklahoma City, Oklahoma, creating 500 jobs with a capacity of 20,000 EV/Y.
+- Auto parts manufacturer Magna is creating more than 1,500 jobs in Michigan with 3 expansions.
+- Magna facility is in Shelby Township, Michigan, creating 155 jobs with a $96 Million investment.
+- An auto parts manufacturer is planning a $317M investment in Georgia to supply Hyundai EV plant.
+- Joon Georgia, Inc. facility is in Statesboro, Georgia, creating 630 jobs.
+- An unspecified company announced a capacity of 3200 MWh.
+- Governor Ivey announced that Hyundai Mobis plans an EV battery module plant in Montgomery, creating 400 jobs.
+- Hyundai facility is in Montgomery, Alabama, with a $205 Million investment.
+- Bosch is set to invest $260 Million and create 350 jobs in South Carolina.
+- Bosch facility is in Charleston, South Carolina.
+- An unspecified company announced 920 jobs with a $426 Million investment.
+- An unspecified company announced a $1 Billion investment.
+- An unspecified company announced a $700 Million investment.
+- Gov. DeWine announced that Honda will invest in Ohio for electric vehicle production and a new battery plant.
+- Honda facility is in Anna, Ohio, creating 327 jobs with a total investment of $700 Million.
+- An unspecified company announced 2,200 jobs with a $3.5 Billion investment.
+- Gotion facility in Big Rapids will lead the way in electric vehicle manufacturing.
+- Gotion facility is in Green Charter Township, Michigan, creating 2,300 jobs with a $2.36 Billion investment and capacity of 200,000 T/Y.
+- ONE (Our Next Energy) announced a $1.6 Billion investment in a 20 GWh Michigan cell factory beginning LFP production in 2024.
+- Our Next Energy facility is in Van Buren Township, Michigan, creating 2,112 jobs with a capacity of 200,000 EV Battery Packs / Y.
+- Cumberland City will have the next Daejin Advanced Materials USA Inc. operation.
+- Daejin Advanced Manufacturing facility is in Cumberland City, Tennessee, creating 83 jobs with a $10.2 Million investment.
+- An unspecified company announced a $760 Million investment.
+- Northborough firm Aspen Aerogels will open a Marlborough research facility for electric vehicle technology.
+- Aspen Aerogels facility is in Marlborough, Massachusetts, creating 75 jobs.
+- State and GM announced a $491 million expansion of Marion GM operations for electric vehicle production.
+- GM facility is in Marion, Indiana.
+- A new factory in South Carolina will make up to 10,000 EV chargers a year.
+- ABB E-Mobility facility is in Columbia, South Carolina, with an investment of $4 Million and capacity of 10,000 Chargers / Y.
+- Governor Cooper announced that Wolfspeed selected North Carolina for a 445 acre manufacturing campus.
+- Wolfspeed facility is in Siler City, North Carolina, creating 1,800 jobs with a $5 Billion investment.
+- Toyota announced a $2.5 Billion expansion of its North Carolina plant with 350 additional jobs and BEV battery capacity.
+- Toyota facility is in Liberty, North Carolina.
+- Nanomaterials manufacturer Advanced Nano Projects will invest $50 Million in a facility to supply the EV market.
+- Advanced Nano Projects facility is in Elizabethtown, Kentucky, creating 93 jobs.
+- Factorial Energy is opening a new solid-state EV battery development and manufacturing facility.
+- Factorial Energy facility is in Methuen, Massachusetts, creating 166 jobs with a $45 Million investment.

@@ -1,0 +1,37 @@
+[
+  {
+    "entity_name": "Hyundai Motor Group",
+    "canonical_name": "Hyundai Motor Group",
+    "entity_type": "company",
+    "supply_chain_category": "vehicle_manufacturing",
+    "facts": [
+      "Hyundai Motor Group plans to break ground on a new electric vehicle factory near the Georgia coast.",
+      "The proposed plant site is located in Bryan County, Georgia.",
+      "The total investment for the new EV facility is $5.5 billion.",
+      "President Joe Biden signed the Inflation Reduction Act (IRA) into law last month, complicating Hyundai's manufacturing plans.",
+      "Prior to the IRA's signing, electric vehicles from Hyundai, Kia, and Genesis qualified for federal tax credits of up to $7,500.",
+      "In May, President Biden publicly praised Hyundai executives for selecting the Bryan County site for the future plant.",
+      "Under the newly signed IRA, EVs assembled overseas no longer qualify for the $7,500 tax credit.",
+      "The Hyundai Ioniq5 and Kia EV6 are currently assembled in South Korea and thus lose eligibility for the price reduction under the new law.",
+      "To qualify for the $7,500 tax credit, pickups, SUVs, and vans must be priced at less than $80,000.",
+      "All other vehicle types must cost less than $55,000 to qualify for the tax credit.",
+      "Buyers must have an annual income of less than $150,000 to be eligible for the tax credit.",
+      "Final assembly of qualifying vehicles must take place in the United States, Canada, or Mexico.",
+      "Battery minerals and other components cannot be sourced from \"foreign entities of concern,\" which explicitly include China and Russia.",
+      "The IRA is designed to discourage overseas production and force automakers to build domestic supply chains for the North American market.",
+      "The law aims to spur more domestic production of EVs while shifting supply chains away from foreign adversaries like China and Russia.",
+      "Hyundai's reliance on overseas assembly for models like the Ioniq5 and EV6 conflicts with the IRA's domestic assembly requirement.",
+      "The article notes that the tax credit structure is intended to compel automakers to establish domestic manufacturing and supply chain operations."
+    ],
+    "links": [],
+    "source_url": "https://www.ajc.com/news/inflation-reduction-act-throws-a-wrench-in-hyundais-plans-for-55-billion-ev-plant/Z5CVM676BZCRLDNT2CPMBQIQ7U/",
+    "source_title": "Inflation Reduction Act a wrench in Hyundai plans for Georgia electric vehicle plant",
+    "source_domain": "ajc.com",
+    "publication_date": "",
+    "date_precision": "none",
+    "page_id": "page_009207",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

@@ -1,0 +1,42 @@
+v15 test: 40 assigned, 0 already done, 40 to run | model=qwen3.6:35b-a3b | base_url=http://127.0.0.1:11430/v1 | out=data/wiki/_extract_v15_qwen35b_cleanup/w4
+  page_000891: Georgia Automotive Manufacturing Sector [pub ?] -> 100 facts, 19 links
+  page_001310: The Big Green Machine Search Database [pub ?] -> 5 facts, 1 links
+  page_001420: Georgia EV Battery & Supply Chain Ecosystem [pub ?] -> 101 facts, 1 links
+  page_002243: [] (no relevant record)
+  page_002590: [] (no relevant record)
+  page_002648: Eastman Chemical Company [pub ?] -> 10 facts, 0 links
+  page_002835: [] (no relevant record)
+  page_003033: [] (no relevant record)
+  page_004450: Foreign Entity of Concern Interpretive Guidance [pub 2026-06-30] -> 35 facts, 0 links
+  page_004498: Qualifying Advanced Energy Project Credit (48C) Program [pub 2025-07-04] -> 40 facts, 5 links
+  page_007981: Top 21 Industrial Construction Companies in Georgia [pub ?] -> 57 facts, 42 links
+  page_008086: E2 Manufacturing Feed [pub ?] -> 28 facts, 0 links
+  page_008361: Automotive Stamping Companies Directory [pub ?] -> 93 facts, 0 links
+  page_009716: HL-GA Battery Company joint venture [pub 2025-09-04] -> 93 facts, 0 links
+  page_010880: Kia Corporation [pub ?] -> 21 facts, 0 links
+  page_011223: Plastic Manufacturing Companies in Georgia [pub ?] -> 19 facts, 21 links
+  page_013358: [] (no relevant record)
+  page_014005: [] (no relevant record)
+  page_015570: Carroll County Chamber of Commerce [pub ?] -> 38 facts, 0 links
+  page_015887: Yazaki North America [pub ?] -> 2 facts, 0 links
+  page_018012: Toccoa, Georgia [pub 2010-03-30] -> 13 facts, 0 links
+  page_018146: Bridgestone Americas Tire Operations [pub ?] -> 78 facts, 0 links
+  page_018650: Continental AG [pub 1871-10-08] -> 31 facts, 0 links
+  page_021207: [] (no relevant record)
+  page_028382: [] (no relevant record)
+  page_028764: ServisFirst Bancshares Inc. [pub ?] -> 9 facts, 0 links
+  page_029458: DOE CMEI eXCHANGE Teaming Partners [pub ?] -> 73 facts, 2 links
+  page_045307: JTEKT Corporation [pub ?] -> 36 facts, 0 links
+  page_046151: [] (no relevant record)
+  page_047522: Novelis Inc. [pub 2018-03-31] -> 24 facts, 0 links
+  page_049987: SK Group [pub 1953-04-08] -> 5 facts, 0 links
+  page_050420: Top 21 Energy Storage Companies in Georgia [pub ?] -> 93 facts, 21 links
+  page_050460: Stryten Energy LLC [pub 2021-04-08] -> 110 facts, 0 links
+  page_055015: FREYR [pub ?] -> 147 facts, 0 links
+  page_055071: Goodyear Tire & Rubber Company [pub 1898-08-29] -> 12 facts, 0 links
+  page_058107: Top 26 Automotive Sensor Technology Companies [pub ?] -> 132 facts, 24 links
+  page_058121: Nifco Inc. [pub 2025-03-31] -> 10 facts, 0 links
+  page_058159: Good Jobs First Georgia Subsidy Tracker [pub ?] -> 101 facts, 0 links
+  page_058827: Georgia Lean Manufacturing & Six Sigma Job Listings [pub ?] -> 14 facts, 0 links
+  page_060364: Top 19 Lithium Ion Battery Manufacturers [pub 2025-02-06] -> 29 facts, 0 links
+Done: 31 records, 1559 facts, 0 failures this run -> data/wiki/_extract_v15_qwen35b_cleanup/w4/all_records_v15.jsonl

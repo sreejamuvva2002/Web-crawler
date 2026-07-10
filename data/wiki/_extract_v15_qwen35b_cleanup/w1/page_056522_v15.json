@@ -1,0 +1,34 @@
+[
+  {
+    "entity_name": "Georgia",
+    "canonical_name": "Georgia",
+    "entity_type": "investment_announcement",
+    "supply_chain_category": "unknown",
+    "facts": [
+      "Kamtec announced in June it will open its first U.S. plant in Auburn, Ala., to make components for engine control and electric management in hybrid vehicles, with a $9.2 million investment creating 50 new jobs.",
+      "Georgia-based engineering and manufacturing company Yancey Engineered Solutions will invest $5.7 million in a new manufacturing facility in Cordele, Ga., creating 300 new jobs over the next several years in Crisp County for power generation packaging systems.",
+      "ArcelorMittal Building Solutions will establish its North American headquarters and a new manufacturing facility in Macon-Bibb County, Ga., with an initial investment bringing roughly $57 million and up to 70 new jobs, plus plans for an additional $50 million in investment and as many as 70 more jobs over the next several years.",
+      "Ford is targeting another billion-dollar-plus investment at its Louisville truck plant in Kentucky, with a rumored $2 billion expansion on 70 acres of land adjacent to the existing plant that assembles the Ford Super Duty, the Ford Expedition and Lincoln Navigator models, which already houses roughly 9,000 workers.",
+      "Faith Technologies will invest $80.5 million in a new electric components plant in Ouachita Parish, La., creating 200 jobs in a 500,000-square-foot facility that will use modular methods to produce electric assemblies for the clean energy industry.",
+      "NovaSpark Energy is investing $30 million to establish a new facility in Houma, La., scaling production of its atmospheric hydrogen generators used in defense and energy applications to meet increasing national demand for diverse energy solutions, creating 300 jobs across West Monroe and Houma.",
+      "USA Rare Earth will invest approximately $1.2 billion in Cherokee County, S.C., at Bailey Park in Blacksburg, to produce neodymium-iron-boron (NdFeB) permanent magnets and refined rare earth metals, creating about 490 new jobs in the state.",
+      "Mosdorfer is investing $44.55 million for its first U.S. operation in Oconee County, S.C., manufacturing hardware for high voltage transmission lines and energy infrastructure, creating 107 new jobs.",
+      "Tesla’s megapack battery factory going up in Brookshire, Texas, is expected to open this year to produce 50 GWh of energy storage annually, which is more than the company’s California and China plants combined, and will house 1,500 workers by 2028.",
+      "SEG Solar is building a new 4.6-gigawatt solar module plant in the Houston metro area, featuring a 1.1 million-square-foot factory and a large warehouse.",
+      "Toyo Solar is locating a $357 million solar cell manufacturing facility in the Houston metro, which will house about 400 workers.",
+      "TerraFlow Energy is building a new battery plant and headquarters in the Houston market of Katy, producing batteries that can power about 10,000 homes for one hour and have a life of 10 hours.",
+      "Blue Energy has applied for Texas incentives to build a $6.24 billion hybrid power plant near Victoria, Texas, combining natural gas turbines and small modular nuclear reactors to scale faster than a nuclear-only plant.",
+      "Florida-based NextEra Energy announced plans to acquire Virginia’s Dominion Energy in an all-stock deal to form a super energy giant amid soaring power demand from the A.I. data center build-out."
+    ],
+    "links": [],
+    "source_url": "https://sb-d.com/news/embed/2021/09",
+    "source_title": "News Inset",
+    "source_domain": "sb-d.com",
+    "publication_date": "2021-09",
+    "date_precision": "url_path_month",
+    "page_id": "page_056522",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

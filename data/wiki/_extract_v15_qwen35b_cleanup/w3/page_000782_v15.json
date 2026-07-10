@@ -1,0 +1,30 @@
+[
+  {
+    "entity_name": "Southern Economic Development Council",
+    "canonical_name": "Southern Economic Development Council",
+    "entity_type": "company",
+    "supply_chain_category": "government_support",
+    "facts": [
+      "Hybar LLC announced today that it raised $1.1 billion to expand its technologically advanced, environmentally focused operations in Osceola, Arkansas.",
+      "South Korean automotive supplier Kamtec Auto USA announced this week it will open its first U.S. facility in Montgomery, Alabama.",
+      "Georgia Governor Brian P. Kemp announced that ArcelorMittal Building Solutions will establish its North American operations in Atlanta.",
+      "Clarios, an American manufacturer of advanced, low-voltage battery technologies, announced today that it will expand its operations in St. Joseph.",
+      "Form Energy is transforming a former steel town into an advanced manufacturing hub for energy storage and battery technology.",
+      "Georgia Governor Brian P. Kemp announced that Dongwon Autopart Technology plans to invest $30 million in a new automotive parts facility in Georgia.",
+      "Texas Governor Greg Abbott delivered remarks and cut the ribbon at the Element3 Resources Permian Basin Lithium project in Midland, Texas.",
+      "Germany’s KettenWulf plans to invest $34 million in an advanced manufacturing operation in Auburn, Alabama.",
+      "River Parishes Community College (RPCC), in partnership with Hyundai Steel and state and local partners, launched workforce training programs in Donaldsonville, Louisiana.",
+      "The South Carolina Department of Commerce’s SC Nexus for Advanced Resilient Energy (SC NEXUS) division is partnering on advanced resilient energy supply chain initiatives."
+    ],
+    "links": [],
+    "source_url": "https://www.sedc.org/news/?Page=all",
+    "source_title": "SEDC News - Southern Economic Development Council",
+    "source_domain": "sedc.org",
+    "publication_date": "2026-06-25",
+    "date_precision": "body_dateline",
+    "page_id": "page_000782",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

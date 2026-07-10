@@ -1,0 +1,26 @@
+[
+  {
+    "entity_name": "Kia Sorento",
+    "canonical_name": "Kia Sorento",
+    "entity_type": "facility",
+    "supply_chain_category": "vehicle_manufacturing",
+    "facts": [
+      "The second generation Sorento was Kia's first model manufactured in the United States.",
+      "It was built at Kia's new US$1 billion West Point, Georgia factory.",
+      "The West Point, Georgia factory also builds the sister vehicle to the Sorento, the Hyundai Santa Fe.",
+      "In the US, the Sorento continues to be produced at the West Point, Georgia assembly plant.",
+      "The fourth generation Sorento is assembled at the United States: West Point, Georgia (KMMG) facility.",
+      "Kia continued to build the North American-market Sorento at its assembly plant in West Point, Georgia, United States."
+    ],
+    "links": [],
+    "source_url": "https://en.wikipedia.org/wiki/Kia_Sorento",
+    "source_title": "Kia Sorento - Wikipedia",
+    "source_domain": "wikipedia.org",
+    "publication_date": "",
+    "date_precision": "none",
+    "page_id": "page_020238",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

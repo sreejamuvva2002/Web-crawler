@@ -1,0 +1,29 @@
+[
+  {
+    "entity_name": "Rome, Georgia",
+    "canonical_name": "Rome (city), Georgia",
+    "entity_type": "facility",
+    "supply_chain_category": "automotive_components",
+    "facts": [
+      "Rome has long had the strength of economic diversity, with an economy founded in manufacturing, education, healthcare, technology, tourism, and other industries.",
+      "In 1954, General Electric established a factory to build medium transformers.",
+      "In the 1960s, Rome contributed to the American effort in the Vietnam War when the Rome Plow Company produced Rome plows, large armored vehicles used by the U.S. military to clear jungles.",
+      "Brugg Cable and Telecom is part of Rome's technology industry.",
+      "Suzuki Manufacturing of America is part of Rome's technology industry.",
+      "Neaton Rome is an automobile parts maker located in Rome.",
+      "F&P Georgia is an automobile parts maker located in Rome.",
+      "Peach State Labs is part of Rome's technology industry.",
+      "The North American headquarters of Pirelli Tire is located in Rome."
+    ],
+    "links": [],
+    "source_url": "https://en.wikipedia.org/wiki/Rome,_Georgia",
+    "source_title": "Rome, Georgia - Wikipedia",
+    "source_domain": "wikipedia.org",
+    "publication_date": "1834-12-20",
+    "date_precision": "body_dateline",
+    "page_id": "page_047248",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

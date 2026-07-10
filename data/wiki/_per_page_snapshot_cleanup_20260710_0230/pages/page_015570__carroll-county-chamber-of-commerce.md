@@ -1,0 +1,56 @@
+---
+title: "Carroll County Chamber of Commerce"
+entity_type: company
+supply_chain_category: unknown
+page_id: page_015570
+publication_date: 
+source_url: https://business.carroll-ga.org/list/ql/manufacturing-production-wholesale-16
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Carroll County Chamber of Commerce
+
+**Type:** company  ·  **Role:** unknown  ·  **Published:** ?
+
+**Source:** [Industrial & Manufacturing QuickLink Category | Carroll County Chamber of Commerce - GA](https://business.carroll-ga.org/list/ql/manufacturing-production-wholesale-16)  ·  `page_015570`
+
+## Facts
+
+- Asymmetry Technologies is located at 104 Three West Parkway Bldg 300 Villa Rica GA 30180.
+- C and C Fabrication is located at 105 Battery Street Carrollton GA 30117.
+- C.M. Tanner Grocery Company is located at 421 Maple Street Carrollton GA 30117.
+- Decostar Industries, Inc. is located at 1 Decoma Drive Carrollton GA 30117.
+- DieTech Industries, Inc. is located at 102 Automation Drive Carrollton GA 30117.
+- Division 5, Inc. is located at 2650 Strawn Rd. Winston GA 30187.
+- E & C Chemicals, Inc. is located at 211 Avenue C Carrollton GA 30117.
+- Fastenal is located at 6445 Fulton Ind. Blvd., Suite 200 Atlanta GA 30336.
+- Finishing Dynamics, LLC is located at 28 Andrew Way Villa Rica GA 30180.
+- Flowers Baking Company of Villa Rica is located at 134 Doyle McCain Drive PO Box 250 Villa Rica GA 30180.
+- Holston Gases Inc is located at 25 Brightwave Blvd. Carrollton GA 30117.
+- ICR - International Component Repair is located at 330 West Industrial Court Villa Rica GA 30180.
+- Intertex World Resources is located at 225 Maple View Drive, Suite 201 Carrollton GA 30117.
+- Janus International Group, LLC is located at 135 Janus International Boulevard Temple GA 30179.
+- Lightera is located at 10 Brightwave Blvd. Carrollton GA 30117.
+- Miniat Foods LLC is located at 62 Adamson Industrial Blvd. Carrollton GA 30117.
+- MKC Machine & Fab, Inc. is located at 102 Battey Street Carrollton GA 30117.
+- Motherson Yachiyo Automotive Tech Manufacturing of America, LLC. is located at 565 Beulah Church Rd. Carrollton GA 30117.
+- Mullins Mechanical & Welding, LLC is located at 115 Greenway Blvd Carrollton GA 30117.
+- O2 Plus, Inc. is located at 163 N. Highway 113 Carrollton GA 30117.
+- Pilgrims is located at 616 Kingsbridge Road Carrollton GA 30117.
+- Precise Janitorial Supplies & Services is located at 1683 US 27 N. Carrollton GA 30117-0000.
+- Precision Roll Grinders is located at 400 Barnes Drive Carrollton GA 30117.
+- Printer's Ale is located at 940 Columbia Dr. Carrollton GA 30117.
+- Printpack is located at 285 Andrew Way Villa Rica GA 30180.
+- Rescue Technology is located at 251 Beulah Church Rd. Carrollton GA 30117.
+- Royal Metal Products, Inc. is located at 100 Royal Way Temple GA 30179.
+- Saber Diamond Tools, Inc. is located at 101 Saber Parkway Villa Rica GA 30180.
+- Southeastern Supply LLC is located at 85 Kidspeace Dr Bowdon GA 30108.
+- Southwire Company is located at One Southwire Dr. Carrollton GA 30119.
+- Sterling Engineering & Fabrication is located at 101 Jerry Dowd Dr. Carrollton GA 30117-5266.
+- Struktol Company of America is located at 150 E Industrial Ct. Villa Rica GA 30180.
+- Superior Recreational Products & Playcore is located at 1050 Columbia Drive Carrollton GA 30117.
+- Systems and Methods, Inc. is located at 106 Wedgewood Drive Carrollton GA 30117.
+- Trident Seafoods Corporation is located at 100 Jerry Dowd Dr. Carrollton GA 30117.
+- Walker Meats Corporation is located at 821 Tyus-Carrollton Rd. Carrollton GA 30117.
+- Wal-mart.com Fulfillment Center is located at 3101 North Hwy 27 Carrollton GA 30117.
+- West Georgia Cornhole, LLC is located at 113 Conners Rd Villa Rica GA 30180.

@@ -1,0 +1,42 @@
+v15 test: 40 assigned, 0 already done, 40 to run | model=qwen3.6:35b-a3b | base_url=http://127.0.0.1:11431/v1 | out=data/wiki/_extract_v15_qwen35b_cleanup/w5
+  page_000951: Top 24 Electric Power Companies in Georgia [pub ?] -> 31 facts, 24 links
+  page_001479: Southeast US Electric Vehicle & Battery Supply Chain Projects [pub 2024-07-11] -> 28 facts, 13 links
+  page_001512: MMCG Invest, LLC [pub 2025-12-19] -> 51 facts, 0 links
+  page_002459: [] (no relevant record)
+  page_002703: [] (no relevant record)
+  page_002918: [] (no relevant record)
+  page_003029: [] (no relevant record)
+  page_005020: [] (no relevant record)
+  page_005643: U.S. Department of Energy (DOE) CMEI eXCHANGE [pub ?] -> 29 facts, 0 links
+  page_007945: Enchem America [pub ?] -> 11 facts, 0 links
+  page_008125: F & P Georgia Mfg [pub ?] -> 13 facts, 0 links
+  page_010104: Kia EV6 [pub ?] -> 7 facts, 0 links
+  page_011585: TI Fluid Systems (now TI Automotive) [pub 2025-04-15] -> 62 facts, 0 links
+  page_011622: TI Fluid Systems plc [pub ?] -> 27 facts, 0 links
+  page_012430: Northwest Georgia Joint Development Authority [pub ?] -> 37 facts, 0 links
+  page_013714: Critical Metals Corp [pub 2026-06-17] -> 33 facts, 7 links
+  page_013887: Voestalpine Bohler Welding Usa [pub ?] -> 7 facts, 0 links
+  page_014787: [] (no relevant record)
+  page_016059: Ykk Usa [pub ?] -> 9 facts, 0 links
+  page_018021: Robert Bosch GmbH [pub 1886-11-15] -> 26 facts, 0 links
+  page_018427: Club Car [pub ?] -> 23 facts, 2 links
+  page_020255: Fox Factory Holding Corp. [pub 2025-02-27] -> 60 facts, 4 links
+  page_020319: Fox Factory Holding Corp. [pub 2026-05-08] -> 60 facts, 1 links
+  page_028412: [] (no relevant record)
+  page_028488: [] (no relevant record)
+  page_045300: JTEKT Corporation [pub ?] -> 20 facts, 17 links
+  page_045752: Mack Trucks [pub ?] -> 98 facts, 0 links
+  page_047345: Novelis Inc. [pub 2025-05-12] -> 28 facts, 5 links
+  page_048034: [] (no relevant record)
+  page_049996: [] (no relevant record)
+  page_050510: Stryten Energy LLC [pub 2021-04-08] -> 131 facts, 2 links
+  page_050523: Stryten Energy LLC [pub 2026-06-23] -> 97 facts, 3 links
+  page_052583: Ascend Elements [pub 2026-03-27] -> 61 facts, 0 links
+  page_056571: [] (no relevant record)
+  page_058273: Auto Investment in America [pub ?] -> 103 facts, 0 links
+  page_058275: [] (no relevant record)
+  page_059123: [] (no relevant record)
+  page_059129: Rivian Automotive [pub 2024-03-18] -> 17 facts, 0 links
+  page_059662: Southern Business and Development April 2023 News Roundup [pub ?] -> 33 facts, 0 links
+  page_060514: United States Department of Energy [pub 1977-08-04] -> 16 facts, 0 links
+Done: 27 records, 1118 facts, 0 failures this run -> data/wiki/_extract_v15_qwen35b_cleanup/w5/all_records_v15.jsonl

@@ -1,0 +1,42 @@
+v15 test: 40 assigned, 0 already done, 40 to run | model=qwen3.6:35b-a3b | base_url=http://127.0.0.1:11432/v1 | out=data/wiki/_extract_v15_qwen35b_cleanup/w6
+  page_000436: Hyundai Motor Group Metaplant America [pub ?] -> 97 facts, 0 links
+  page_001027: Hyundai Motor Group [pub ?] -> 60 facts, 0 links
+  page_001540: [] (no relevant record)
+  page_001621: Georgia EV and Clean-Tech Supply Chain Initiatives [pub 2025-02-21] -> 29 facts, 0 links
+  page_002467: Algoma Steel Group Inc. [pub ?] -> 8 facts, 5 links
+  page_002712: Honda Motor Co., Ltd. [pub 2021-12-31] -> 26 facts, 0 links
+  page_003036: [] (no relevant record)
+  page_003038: [] (no relevant record)
+  page_006082: ARPA-E eXCHANGE [pub ?] -> 6 facts, 0 links
+  page_007783: [] (no relevant record)
+  page_010435: Superior Essex Inc. [pub ?] -> 89 facts, 1 links
+  page_011046: [] (no relevant record)
+  page_012086: [] (no relevant record)
+  page_012436: Trenton Pressing [pub ?] -> 6 facts, 9 links
+  page_012841: [] (no relevant record)
+  page_013097: Trailer Manufacturing Industry Survey 2021 [pub ?] -> 75 facts, 0 links
+  page_014309: Global Automaker EV Plans [pub 2021-07-09] -> 66 facts, 0 links
+  page_016607: Adient plc [pub 2023-09-30] -> 16 facts, 0 links
+  page_018564: Constellium SE [pub 2011-01-04] -> 86 facts, 0 links
+  page_018576: Constellium [pub ?] -> 20 facts, 0 links
+  page_018586: Constellium [pub ?] -> 83 facts, 0 links
+  page_019795: Eaton Corporation [pub ?] -> 40 facts, 0 links
+  page_028384: [] (no relevant record)
+  page_028466: [] (no relevant record)
+  page_028609: [] (no relevant record)
+  page_028692: [] (no relevant record)
+  page_045787: Mack Trucks, Inc. [pub 1900-07-26] -> 25 facts, 0 links
+  page_046048: [] (no relevant record)
+  page_047507: Novelis Inc. [pub 2022-05-11] -> 18 facts, 5 links
+  page_050096: [] (no relevant record)
+  page_050297: Georgia Manufacturing Employers [pub 2025-06-02] -> 214 facts, 0 links
+  page_051244: Gordon County, Georgia [pub ?] -> 7 facts, 0 links
+  page_052573: Ascend Elements, Inc. [pub 2025-11-12] -> 63 facts, 3 links
+  page_052692: Aspen Aerogels, Inc. [pub 2025-08-07] -> 15 facts, 5 links
+  page_057194: Linde + Wiemann US Inc. [pub ?] -> 3 facts, 0 links
+  page_058605: [] (no relevant record)
+  page_058940: Global Active Smart Glass Market [pub 2025-07-14] -> 9 facts, 0 links
+  page_059405: Automotive Parts Manufacturing Industry in Alabama [pub ?] -> 39 facts, 23 links
+  page_059614: Seoyon E-Hwa [pub ?] -> 71 facts, 1 links
+  page_060573: Rivian Georgia Electric Vehicle Plant [pub 2022-01-18] -> 14 facts, 0 links
+Done: 26 records, 1185 facts, 0 failures this run -> data/wiki/_extract_v15_qwen35b_cleanup/w6/all_records_v15.jsonl

@@ -1,0 +1,78 @@
+---
+title: "Hyundai Motor Group"
+entity_type: company
+supply_chain_category: battery_cell_manufacturing
+page_id: page_001027
+publication_date: 
+source_url: https://enkiai.com/hyundai/hyundais-2025-battery-strategy-an-energy-powerhouse
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Hyundai Motor Group
+
+**Type:** company  ·  **Role:** battery_cell_manufacturing  ·  **Published:** ?
+
+**Source:** [Hyundai’s 2025 Battery Strategy: An Energy Powerhouse - EnkiAI](https://enkiai.com/hyundai/hyundais-2025-battery-strategy-an-energy-powerhouse)  ·  `page_001027`
+
+## Facts
+
+- Hyundai Motor Group committed over $20 billion between 2021 and 2024 to establish a vertically integrated EV and battery manufacturing ecosystem in the United States.
+- Hyundai announced landmark joint venture partnerships with LG Energy Solution and SK On to build massive battery production hubs in Georgia.
+- Hyundai formed early-stage technology partnerships with Factorial Energy for solid-state batteries and IonQ for quantum computing-based battery simulation.
+- The company launched “Hyundai Home” in late 2021 to expand into the consumer energy ecosystem, complemented by pilot projects testing second-life EV batteries for grid storage with OCI Solar Power.
+- Operations at Hyundai Motor Group Metaplant America (HMGMA) began in April 2025.
+- Hyundai committed $816 million to a new battery R&D hub in Anseong, South Korea.
+- HD Hyundai Electric secured a $100.5 million commercial contract for a 200 MWh Battery Energy Storage System (BESS) in Texas.
+- Hyundai announced the rollout of Vehicle-to-Home (V2H) and Vehicle-to-Grid (V2G) services.
+- Hyundai partnered with Fermi America to develop hybrid nuclear-BESS solutions for AI data centers.
+- In November 2025, Hyundai and Kia committed 1.2 trillion won ($816 million) to build their first dedicated battery R&D campus in Anseong, South Korea, focusing on next-generation cells and internalizing core technology.
+- In November 2025, Hyundai announced a domestic investment plan of 125.2 trillion won (~$85.7 billion) for 2026-2030 targeting future mobility, EV battery technology, and hydrogen.
+- In October 2025, Hyundai committed nearly $5.1 billion in India, including a flexible battery plant for locally assembled packs to support 250,000 EV units by 2030.
+- Between September 2023 and September 2025, Hyundai confirmed a total investment of $12.6 billion in Georgia for HMGMA and associated battery JVs with LGES and SK On to create a vertically integrated EV production hub with a capacity of 500,000 vehicles.
+- In March 2025, Hyundai announced a broad $21 billion investment in the United States from 2025 to 2028 to advance electric mobility leadership, including EV and battery manufacturing facilities.
+- In March 2024, Hyundai announced a global investment of 68 trillion won (~$50 billion) through 2026, with 35.5 trillion won (~$26 billion) allocated for R&D on EV infrastructure and manufacturing.
+- In October 2023, HD Hyundai’s subsidiary invested €45 million in European solid oxide fuel cell manufacturer Elcogen for green hydrogen production and marine propulsion systems.
+- In July 2021, Hyundai Motor Group and LGES jointly invested $1.1 billion to build a 10 GWh battery cell plant in Karawang, Indonesia.
+- In December 2025, Hyundai renewed and expanded a partnership with Air Liquide to accelerate the global hydrogen ecosystem for heavy-duty mobility in Europe, the U.S., and South Korea.
+- In October 2025, HD Hyundai Electric signed an MoU with Hitachi Energy to explore joint High-Voltage Direct Current (HVDC) projects in South Korea.
+- In September 2025, Hyundai partnered with Korea Southern Power, Alpha Asset Management, and KBI Group for a $100.5 million EPC contract for the Rutile BESS project in Texas.
+- In August 2025, Hyundai and Kia agreed to enhance collaboration with Korean battery manufacturers like LGES to improve EV safety and performance.
+- In July 2025, Hyundai E&C partnered with Fermi America to co-develop a nuclear-based hybrid energy project in Texas for AI data centers.
+- In March 2025, Hyundai expanded its partnership with IonQ to leverage quantum computing for simulating battery chemistry.
+- In March 2025, Hyundai Engineering and UGT Renewables partnered with the Serbian government to develop a 1 GW solar power project integrated with a BESS.
+- In March 2025, HD Hyundai collaborated with TerraPower to scale the supply chain for Natrium next-generation nuclear reactors.
+- In February 2025, Hyundai announced a partnership with Samsung SDI to develop high-performance batteries for robotics applications.
+- In February 2025, Hyundai committed over $4.3 billion to establish the HL-GA Battery Company JV in Georgia with LGES to manufacture next-generation batteries for Hyundai, Kia, and Genesis EVs in North America.
+- In October 2024, Hyundai named Lithion Technologies its official partner in Canada for EV battery collection and recycling to recover up to 95% of components.
+- In September 2024, Hyundai signed an MOU with General Motors to explore a global alliance on EVs and clean energy technologies.
+- In August 2024, Hyundai Glovis partnered with Huayou Cobalt to establish a global recycling system for EV batteries.
+- In April 2024, Hyundai entered a Joint Development Agreement with SES AI to build one of the world’s largest Lithium-Metal battery lines.
+- In April 2024, Hyundai signed a strategic partnership with CATL to secure a stable supply of advanced batteries for Beijing Hyundai EV projects.
+- In April 2024, Hyundai partnered with Exide Energy Solutions to localize EV battery production in India focusing on LFP cells.
+- In April 2023, Hyundai established a $5 billion JV with SK On to build an EV battery cell plant in Bartow County, Georgia, with an annual capacity of 35 GWh for 300,000 EVs.
+- In November 2021, Hyundai partnered with Factorial Energy to jointly test and develop solid-state battery technology for future Hyundai EVs.
+- Georgia became the epicenter of Hyundai’s strategy, with over $12.6 billion committed to HMGMA and massive battery JVs, driven by rising EV demand and U.S. manufacturing incentives.
+- Hyundai secured a foothold in Southeast Asia via the $1.1 billion Indonesia plant and initiated its India strategy through the Exide Energy partnership for LFP localization.
+- From 2025 onwards, Hyundai broadened its geographic focus to Europe with a 1 GW solar-plus-storage project in Serbia and a planned commercial V2G launch in the Netherlands.
+- The company is doubling down on South Korea with the $816 million Anseong R&D hub and $85.7 billion domestic investment plan for 2026-2030.
+- During 2021–2024, Hyundai scaled conventional lithium-ion manufacturing through LGES and SK On JVs while piloting second-life batteries with OCI Solar Power and CPS Energy in Texas.
+- Next-generation technologies including solid-state (Factorial), Lithium-Metal (SES AI), and quantum simulation (IonQ) were in deep R&D during 2021–2024.
+- In 2025, Georgia battery JVs transitioned from construction to full commercial operation.
+- Stationary energy storage moved from pilot to commercial-scale with the $100.5M Texas BESS contract.
+- V2G technology advanced from concept to a large-scale pilot in the Netherlands with an imminent commercial launch.
+- Hyundai’s collaboration with Factorial yielded a U.S. patent for using copper in solid-state cells and established a pilot production line at its research center, with vehicle trials expected by 2027-2028.
+- The strategy shifted from financial planning to tangible operational assets, validated by the Texas BESS contract expanding Hyundai beyond automotive into broader energy provision.
+- Execution risks materialized when an immigration raid delayed the Georgia battery site, highlighting supply chain and construction vulnerabilities.
+- In-house battery production remains a 2027 target, maintaining medium-term reliance on partners despite the new Anseong R&D hub.
+- Hyundai’s opportunity scope expanded from consumer ecosystems to large-scale industrial and grid-level energy solutions.
+- Abstract execution risks became concrete events impacting timelines, with potential GM collaboration underscoring competitive pressure in the global EV/battery race.
+- The year ahead focuses on ramping up Georgia manufacturing assets (HMGMA, LGES, SK On), where delays or successes will directly impact market position and financial returns.
+- Successful completion of the $100.5M Texas BESS project by 2027 will establish HD Hyundai Electric’s credibility as a global EPC contractor.
+- Milestones on solid-state batteries from the Anseong R&D hub or Factorial will indicate Hyundai’s long-term competitive edge.
+- The success of the European V2G pilot in the Netherlands will determine the speed of global rollout and unlock recurring grid service revenue.
+- Hyundai is transforming from an automaker into an integrated energy powerhouse, expanding into utility-scale BESS, home energy solutions, and grid services alongside nuclear and hydrogen partnerships.
+- The company pursues a dual strategy: relying on LGES/SK On JVs for current mass production while aggressively internalizing core tech via the $816M R&D campus and next-gen battery partnerships.
+- HD Hyundai Electric’s Texas BESS marks its entry into the utility energy market, with commercial V2G rollout starting in Europe.
+- The Fermi America partnership demonstrates expansion into industrial-scale integrated energy systems for AI data centers.
+- Biggest challenges include execution risk from capital-intensive projects (evidenced by the Georgia raid) and medium-term reliance on JV partners for core manufacturing, which creates potential bottlenecks.
+- Hyundai is mitigating partner reliance by building in-house R&D capabilities, though medium-term success remains tied to partner performance and managing complex global projects on time and budget.

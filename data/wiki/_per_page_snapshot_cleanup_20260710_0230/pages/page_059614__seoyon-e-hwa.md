@@ -1,0 +1,93 @@
+---
+title: "Seoyon E-Hwa"
+entity_type: company
+supply_chain_category: automotive_components
+page_id: page_059614
+publication_date: 
+source_url: https://seoyoneh.com/eng/company/location
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Seoyon E-Hwa
+
+**Type:** company  ·  **Role:** automotive_components  ·  **Published:** ?
+
+**Source:** [서연이화_영문 - Workplaces](https://seoyoneh.com/eng/company/location)  ·  `page_059614`
+
+## Facts
+
+- Seoyon E-Hwa operates a global network comprising 29 production plants, 5 labs, and 1 HQ/office.
+- The Asia region hosts 15 production plants, 4 labs, and 1 HQ/office across Korea (6 plants, 1 lab, 1 HQ), China (2 plants, 2 labs), India (6 plants, 1 lab), and Indonesia (1 plant).
+- The Europe region includes 5 production plants and 1 lab located in Turkiye (1 plant), Poland (2 plants), Slovakia (2 plants), and Germany (1 plant).
+- The Americas region contains 9 production plants across the USA (5 plants), Brazil (1 plant), and Mexico (3 plants).
+- HQ and R&D Center was established on July 2, 2014, following a spin-off, with initial establishment on April 21, 1972.
+- The HQ/R&D Center occupies a building area of 13,170㎡ and is located at 41-22, Burim-ro 170beon-gil, Dongan-gu, Anyang-si, Gyeonggi-do.
+- HQ/R&D Center tasks include sales and R&D.
+- Ulsan Plant was established on April 21, 1972, covering 89,812㎡ of land and 52,817㎡ of building space at 336, Hyoam-ro, Buk-gu, Ulsan.
+- Ulsan Plant produces door trim, seat, pillar, P/tray, and related components.
+- Asan Plant was established in January 2016 (name change) with initial establishment in May 1994, covering 56,053㎡ of land and 20,645㎡ of building space at 712, Seobubuk-ro, Sinchang-myeon, Asan-si, Chungcheongnam-do.
+- Asan Plant produces door trim, P/tay, C/shelf, C/screen, and related components.
+- Duseo Plant was established on April 1, 2012, covering 37,759㎡ of land and 20,600㎡ of building space at 118, Hwalcheonsaneop-ro, Duseo-myeon, Ulju-gun, Ulsan.
+- Duseo Plant produces door trim modules, seats, and injection components.
+- Gwangju Plant was established on August 13, 2014, covering 11,272㎡ of land and 3,920㎡ of building space at 45, Woljeon-ro, Gwangsan-gu, Gwangju.
+- Gwangju Plant produces door trim components.
+- Seoyon Autovision started in 1996 as a specialized company for automotive interior parts producing door modules, crash pads, and headlamps.
+- Seoyon Autovision is located at 45 Geoseomdeul-gil, Hapdeok-eup, Dangjin-si, Chungcheongnam-do and handles business areas including door modules, crash pads, head lamps, arm rests, and interior plastics.
+- Seoyon Industry started in April 2012 as a manufacturer of A,S/CKD door panel assemblies for 14 automobile types besides the current BH.
+- Seoyon Industry is located at (KCC Hwalcheon Industrial Complex) 118, Hwalcheonsaneop-ro, Duseo-myeon, Ulju-gun, Ulsan and produces A,S/CKD main board injection goods and D/trim A’sSY.
+- Seoyon Topmetal participates in the automobile and construction equipment industry to develop and produce exterior parts including automobile body parts, stamping molds, and excavator cabins.
+- Seoyon Topmetal is located at 40, Cheongneung-daero 410beon-gil, Namdong-gu, Incheon and handles press molds, injection molds, and construction machinery/automobile components.
+- Seoyon Intech started in 1995 as a manufacturer of bus seats for Hyundai Motor and specializes in automotive interior parts like heavy equipment seats, door panels, headliners, sun visors, and cargo covers.
+- Seoyon Intech is located at 137, Seogam-ro 17-gil, Iksan-si, Jeollabuk-do.
+- Seoyon CNF is a specialized manufacturer of urethane foam that produces seat foam pads, headrests, and armrests for automobiles using polyurethane.
+- Seoyon CNF is located at 13, Jeoneumnonggong-gil, Duseo-myeon, Ulju-gun, Ulsan.
+- Beijing Seoyon E-Hwa was established on September 30, 2005, with a production capacity of 450,000 units/year, covering 55,114㎡ of land and 25,533㎡ of building space at Pingrui Street 9# Pinggu Beijing, P.R. China #101200.
+- Beijing Seoyon E-Hwa employs 150 people and produces D/trim, H/lining, F/carpet, P/tray, and consoles.
+- Jiangsu Seoyon E-Hwa was established on June 27, 2002, with a production capacity of 600,000 units/year, covering 108,512㎡ of land and 53,087㎡ of building space at NO.8, Minjiang Road, Yancheng Economic And Technological Development Zone, Jiangsu, China 224007.
+- Jiangsu Seoyon E-Hwa employs 600 people and produces bumpers, D/trim, and consoles.
+- Seoyon Summit India was established on July 29, 2000, with a production capacity of 800,000 units/year, covering 186,017㎡ of land and 86,400㎡ of building space at A-8, Sipcot Industrial Park, Irrungattukottai, Sriperumbudur Taluk, Kancheepuram District, Tamil Nadu – 602 105. India.
+- Seoyon Summit India employs 2,145 people and produces D/trim, bumpers, L/side trim, and T/gate trim.
+- Seoyon Summit Chennai was established on November 6, 2008, with a production capacity of 300,000 units/year, covering 30,278㎡ of land and 9,751㎡ of building space at Plot No: A-5/1, Sipcot Industrial Growth Centre, Mathur Village, Sriperumbudur Taluk, Kanchipuram District, Chennai 602105, India.
+- Seoyon Summit Chennai employs 195 people and produces D/trim, bumpers, and small injections.
+- Pinstar was established on June 13, 2006, with a production capacity of 600,000 units/year, covering 26,710㎡ of land and 11,900㎡ of building space at Plot No-A11, SIPCOT Industrial Growth Centre, Oragadam, Mathur-P.O., Sriperumpudur - T.K. Kanchipuram - Dist. Tamil Nadu - 602 105. India.
+- Pinstar employs 420 people and produces D/trim, pillars, L/side trim, and T/gate trim.
+- Seoyon Summit Anantapur was established on September 25, 2017, with a production capacity of 400,000 units/year, covering 102,383㎡ of land and 41,262㎡ of building space at Plot No.11B, Industrial Park, Ammavaripalli, Eramanchi Village, Penukonda Mandal, Anantarpur District, Andhra Pradesh, 515164.
+- Seoyon Summit Anantapur employs 1,502 people and produces D/trim, bumpers, cowl top covers, and roof racks.
+- Seoyon Summit Pune was established on March 28, 2023, with a production capacity of 250,000 units/year, covering 80,925㎡ of land and 38,882㎡ of building space at PLOT No. B, GATE No.636,805,808-816, Umbre Navalkh, Maval, Pune 410507, Maharashtra, India.
+- Seoyon Summit Pune employs 824 people and produces bumper assy, DR trim, spoilers, and S/sill mold'g.
+- Seoyon Summit Krishnagiri was established on August 30, 2023, with a production capacity of 800,000 units/year, covering 30,244㎡ of land and 12,505㎡ of building space at B2B6/D, Sipcot Industrial Park, Pochempalli, Krishnagiri, Tamil Nadu, 635206.
+- Seoyon Summit Krishnagiri employs 186 people and produces charger assy, vehicle inlets, and seats.
+- Summit Seoyon Indonesia was established on June 22, 2020, with a production capacity of 300,000 units/year, covering 34,937㎡ of land and 13,612㎡ of building space at Lippo Industrial Estate, JI. Kenari I, Blok G1 No.21 Delta Silicon 5, Lippo Cikarang, Bekasi 17550 Indonesia.
+- Summit Seoyon Indonesia employs 270 people and produces bumpers.
+- Assan Hanil was established on January 20, 1997, with a production capacity of 250,000 units/year, covering 119,603㎡ of land and 56,750㎡ of building space at Alikahya Beldesi Ataturk Mahallesi Vatan Caddesi No:17 41305 Izmit Kocaeli, Turkey.
+- Assan Hanil employs 1,530 people and produces D/trim, bumpers, seats, consoles, and C/pad.
+- Seoyon E-Hwa Slovakia was established on October 1, 2005, with a production capacity of 400,000 units/year, covering 39,223㎡ of land and 13,749㎡ of building space at Ui, Robotnicka 017 01 Povazska Bystrica, SLOVAKIA.
+- Seoyon E-Hwa Slovakia employs 815 people and produces pillars, C/pad, CTR box, shroud UPR/LWR, R/grille, cowl top, cowl side, DR scuff, W/house, W/guard, and RR transverse.
+- APIS PLASTIC was established on March 27, 2021, with a production capacity of 410,000 units/year, covering 55,127㎡ of land and 27,748㎡ of building space at Svrčinovec 628, 023 12 Svrčinovec, CADCA.
+- APIS PLASTIC employs 716 people and produces L/side trim and cargo screens.
+- Seoyon E-Hwa Poland was established on July 19, 2012, with a production capacity of 500,000 units/year, covering 23,729㎡ of land and 10,578㎡ of building space at Cieszynska Street 1D, 43-440 Bazanowice, Poland.
+- Seoyon E-Hwa Poland employs 500 people and produces D/trim, pillars, consoles, cowl top covers, L/side trim, W/guard, and T/gate LWR.
+- BEST AUTOTECH was established on January 20, 2020, with a production capacity of 400,000 units/year, covering 45,487㎡ of land and 23,471㎡ of building space at 1E, Cieszyńska, 43-440 Bażanowice.
+- BEST AUTOTECH employs 800 people and produces D/trim, L/side trim, T/gate trim, and consoles.
+- Seoyon E-Hwa Alabama was established on May 20, 2005, with a production capacity of 400,000 units/year, covering 163,323㎡ of land and 46,135㎡ of building space at 7851 BILL JOSEPH PARKWAY MONTGOMERY AL 36105, USA.
+- Seoyon E-Hwa Alabama employs 780 people and produces D/trim, P/tray, L/side trim, and T/gate trim.
+- Seoyon E-Hwa Auburn was established on August 10, 2006, with a production capacity of 800,000 units/year, covering 163,323㎡ of land and 46,135㎡ of building space at 216 Thweatt Industrial Blvd, Dadeville, AL 36853 USA.
+- Seoyon E-Hwa Auburn employs 438 people and produces air ducts, exterior garnish, washer tanks, etc.
+- Seoyon E-Hwa Georgia was established on April 23, 2010, with a production capacity of 400,000 units/year, covering 267,980㎡ of land and 34,714㎡ of building space at 104 Wiley Roda, LaGrange GA 30240-5811, USA.
+- Seoyon E-Hwa Georgia employs 630 people and produces D/trim, L/side trim, and back pnl mold'g.
+- Seoyon E-Hwa Savannah was established on October 3, 2022 (start date: April 14, 2023), with a production capacity of 300,000 units/year, covering 179,683㎡ of land and 70,145㎡ of building space at 450 Four Lakes Parkway, Bloomingdale, GA 31302, United States.
+- Seoyon E-Hwa Savannah employs 237 people and produces D/trim, H/lining, L/side trim, T/gate trim, and pillars.
+- Seoyon E-Hwa Brazil was established on November 27, 2009, with a production capacity of 200,000 units/year, covering 53,317㎡ of land and 21,815㎡ of building space at Av. Coréia do Sul, n° 1550–Capim Fino(Uninorte) Piracicaba - SP CEP 13413-130.
+- Seoyon E-Hwa Brazil employs 387 people and produces D/trim, H/lining, F/carpet, and consoles.
+- Seoyon E-Hwa Mexico was established on October 10, 2014, with a production capacity of 420,000 units/year, covering 68,469㎡ of land and 36,416㎡ of building space at Carr. Libre Municipal Pesqueria-Los Ramones Km. 13 Int. Nave10 La Arena, Pesqueria, N.L. Mexico C.P. 66679.
+- Seoyon E-Hwa Mexico employs 500 people and produces D/trim, consoles, pillars, W/house, transverse, W/guard, and cowl top covers.
+- M-AUTOTECH was established on November 21, 2014, with a production capacity of 420,000 units/year, covering 23,507㎡ of land and 11,001㎡ of building space at Av. Del Parque #2145 Airport Technology Park Carr. Miguel Aleman KM 34 Psequeria, N.L. Mexico C.P. 66650.
+- M-AUTOTECH employs 387 people and produces D/trim, pillars, and T/verse trim.
+- Seoyon NorthAmerica was established on March 2, 2023, with a production capacity of 500,000 units/year, covering 41,203㎡ of land and 24,314㎡ of building space at AE-INV, 06 Calle Electron 100, Parque Industrial Stiva Aeropuerto, 66600 Cdad. Apodaca, N.L., Mexico.
+- Seoyon NorthAmerica employs 250 people and produces pillars.
+- SEOYON E-HWA TEXAS was established on March 4, 2024, with a production capacity of 350,000 units, covering 70,856㎡ of land and 20,267㎡ of building space at 1501 Innovation Blvd, Hutto, TX 78634 USA.
+- SEOYON E-HWA TEXAS employs 125 people and produces H/lin'g.
+
+## Links
+
+- 031-420-3200 (HQ), 031-420-3120 (HQ Fax), 052-219-5000 (Ulsan), 052-219-5115 (Ulsan Fax), 041-539-6300 (Asan), 041-542-1755 (Asan Fax), 052-255-7800 (Duseo), 052-255-7899 (Duseo Fax), 062-940-9900 (Gwangju), 062-940-9901 (Gwangju Fax), 041-360-7200 (Autovision), 041-362-9806 (Autovision Fax), 052-255-7811 (Industry), 052-255-7899 (Industry Fax), 032-820-3200 (Topmetal), 032-816-3484 (Topmetal Fax), 063-830-4900 (Intech), 063-834-8345 (Intech Fax), 052-255-8000 (CNF), 052-255-8009 (CNF Fax) — Facility contact phone and fax numbers

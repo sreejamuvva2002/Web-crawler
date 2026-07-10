@@ -1,0 +1,27 @@
+[
+  {
+    "entity_name": "Kia EV6",
+    "canonical_name": "Kia EV6",
+    "entity_type": "company",
+    "supply_chain_category": "vehicle_manufacturing",
+    "facts": [
+      "Assembly takes place at Kia Motors Manufacturing Georgia (KMMG) in West Point, Georgia.",
+      "Manufacturing of most EV6 variants for the North American market is expected to move to Kia's West Point, Georgia assembly plant for the 2025 model year.",
+      "Production is expected to begin in early calendar year 2025.",
+      "Vehicles with the GT trim level will still be manufactured in Korea.",
+      "This is expected to make the Georgia-made EV6 models eligible for the US federal EV tax credit.",
+      "On Georgia-made vehicles, 2025 swaps the CCS charging port for the Tesla-style NACS / SAE J3400 port.",
+      "On Georgia-made vehicles, the charge port location is moved from the rear passenger (right-hand) side to the rear driver (left-hand) side of the car."
+    ],
+    "links": [],
+    "source_url": "https://en.wikipedia.org/wiki/Kia_EV6",
+    "source_title": "Kia EV6 - Wikipedia",
+    "source_domain": "wikipedia.org",
+    "publication_date": "",
+    "date_precision": "none",
+    "page_id": "page_010104",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "entity_name": "LINDE + WIEMANN US Inc.",
+    "canonical_name": "Linde + Wiemann US Inc.",
+    "entity_type": "facility",
+    "supply_chain_category": "unknown",
+    "facts": [
+      "Operates a facility located at 1720 Knox Bridge Crossing Rd, 30553, Lavonia / GA – US.",
+      "The Georgia facility has a total size of 4.100m².",
+      "Directions to the plant state: Coming from Atlanta take exit 177 on I-85 South, turn right, at the 4 way stop sign turn left – plant is visible on the left hand side; coming from Greenville take exit 177 on I-85 North, turn left, at the 4 way stop sign turn left – plant is visible on the left hand side."
+    ],
+    "links": [],
+    "source_url": "https://www.linde-wiemann.com/en/news/",
+    "source_title": "News - Linde + Wiemann",
+    "source_domain": "linde-wiemann.com",
+    "publication_date": "",
+    "date_precision": "none",
+    "page_id": "page_057194",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

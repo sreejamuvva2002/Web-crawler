@@ -1,0 +1,125 @@
+---
+title: "DOE CMEI eXCHANGE Teaming Partners Program"
+entity_type: government_program
+supply_chain_category: government_support
+page_id: page_029457
+publication_date: 
+source_url: https://eere-exchange.energy.gov/TeamingPartners.aspx?foaid=a858fbdb-761d-4644-ba6a-023de01ab14d
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# DOE CMEI eXCHANGE Teaming Partners Program
+
+**Type:** government_program  ·  **Role:** government_support  ·  **Published:** ?
+
+**Source:** [DOE: CMEI eXCHANGE: Teaming Partners](https://eere-exchange.energy.gov/TeamingPartners.aspx?foaid=a858fbdb-761d-4644-ba6a-023de01ab14d)  ·  `page_029457`
+
+## Facts
+
+- X UTILITY is a WBE/WOSB/LGBT certified consulting services firm based in Fresno, CA and Oahu, HI.
+- The firm is comprised of former PG&E utility renewable experts that have pioneered over 2.9 Gigawatts of safe and reliable retail and wholesale utility grid tie wind, solar, EVCS and energy storage battery resources.
+- X UTILITY specializes in portfolio grid integration, renewable utility interconnection requirements, energy roadmap development, utility reconciliation, utility POI feasibility assessments, grid services aggregation, value stacking income streams, workforce development, vehicle electrification, and energy resilience for critical facilities.
+- Deborah Galimba serves as Utility Interconnection Consultant at X UTILITY.
+- Ansys acquires a new technology company at the pace of per quarter and has for the last 8-10 years.
+- Ansys recently acquired a series of companies to deliver a digital engineering environment that will facilitate a more rapid transition through the RDD&D process and increase the likelihood that major multi-site, multi-lab, public-private partnership projects will deliver on time, under budget, and at large scale.
+- Ansys is the global leader in engineering simulation and helps 97% of industrial companies solve their most complex design challenges with its broad portfolio of engineering simulation software.
+- Mike Hancock serves as DOE Programs Manager at Ansys.
+- Kohler Energy is a global leader in energy resilience solutions and an integral part of Kohler Co., with solutions across Home Energy, Industrial Energy Systems, and Powertrain Technologies.
+- Kohler Energy leverages the strength of its portfolio of brands including Power Systems, Home Energy, Kohler Uninterruptible Power, Clarke Energy, Heila Technologies, Curtis Instruments, and Engines.
+- Kohler Energy has more than a century of industry leadership.
+- Ben Crawford serves as Manager - Business Development at Kohler Co.
+- SyracuseCOE at Syracuse University has a strong history in the area of commercialization.
+- Ian Shapiro is Professor of Practice and Associate Director for Building Science and Community Programs at Syracuse Center of Excellence in Environmental and Energy Systems (SyracuseCOE).
+- Shapiro has decades of experience in heat pumps of all kinds including air-to-air, air-to-water, ground source, and vertical stack water source heat pumps.
+- Shapiro has designed heat pumps for Carrier Corporation, designed heat pumps for installation, and consulted to several of the world's largest heat pump manufacturers.
+- Western Washington University is home to the Institute for Energy Studies (IES) with research focused on large scale thermal energy storage using solid particles.
+- Nipun Goel is an Assistant Professor at Western Washington University.
+- Western Washington University is currently partnered with The University of Tulsa and Boise State University in developing an improved particle flow control mechanism under DoE grant DE-EE0010251.
+- Western Washington University has previously worked on evaluation of abrasive and impact wear from solid particles at CSP relevant conditions.
+- Western Washington University is in the process of developing CFD and DEM models that can predict wear in material from particles and estimate thermal conductivity in solid particle media.
+- Western Washington University capabilities include test equipment such as calorimeters, photo spectrometers, and custom built particle flow control system.
+- SLB provides technology and subject matter expertise for both blue and green hydrogen.
+- SLB has invested in ZEG, a Norwegian start-up that has developed a new technology for efficient hydrogen production from natural gas coupled with an integrated carbon capture process with a CO2 capture rate of more than 95%.
+- SLB advanced development of a solid oxide electrolyzer that uses a thermally charged electrolysis process through public/private partnership Genvia.
+- SLB is working on pilot projects with multinational companies in petrochemicals, cement, and steel industries.
+- SLB integrated long- and short-duration energy storage solution is based on nickel-hydrogen electrochemistry for commercial, industrial, and grid-scale applications.
+- The SLB battery technology was developed by NASA and performed reliably for more than 30 years in key space missions such as Mars Rover and Hubble Telescope before being refined by Stanford University to enhance performance and reduce cost.
+- Gavin Dillingham is listed at SLB.
+- Energetics is a clean energy consulting firm with 43 years experience supporting numerous DOE projects in technology assessment, roadmapping, workshop facilitation, proposal and grant management, LCA and TEA, 3rd party data validation and verification, metric reporting, data analysis, resiliency planning and Community Benefits Plans.
+- Energetics has extensive experience managing large groups of stakeholders, collaborating with large teams from national labs and industry, and identifying potential team members from industry.
+- David Voss is listed at Energetics.
+- eSai LLC is a leading provider of clima-tech/clean energy technology and professional services including Distributed Energy Resources, energy efficiency, demand flexibility and grid-edge technologies.
+- eSai provides utility, Government, Industrial and Commercial customers with comprehensive solutions to clean energy management and carbon footprint reduction.
+- eSai employs Six Sigma stage-gated processes to lean and green manufacturing steps where energy consumption is excessive.
+- eSai staff can offer solutions using ISO 50001, Superior Energy Performance (DoE-SEP), Climate-Council’s Leadership Program (CCLP™) or Six Sigma Black Belt methodologies.
+- eSai was founded in 2011 in Maryland and has contributed to over 60 MW of greener power through design and engineering of CHP, microgrid and other distributed energy services.
+- eSai received the “Manufacturing Champion of Maryland’ award in 2022 by the Regional Manufacturing Institute.
+- eSai received the “Woman-owned Small Business of the Year” award by the MD-SBA in 2018.
+- eSai received the “Innovative Small Business of the Year” award by the Greater Baltimore Business Council in 2016.
+- eSai is an 8(a) and Woman-Owned Small Business (EDWOSB) certified by the US-SBA and a Maryland Small Business participating in the Small Business Reserve Program.
+- Dr. Nandini Mouli is listed at eSai LLC.
+- BRITE Energy Innovators is a non-profit launched in 2011 that hosts signature startup programs and supportive services to enhance energy technology viability and community understanding.
+- BRITE is headquartered in Warren, Ohio.
+- Sara Daugherty is listed at BRITE Energy Innovators.
+- Stryten Energy is a US Based developer and manufacturer of long duration (10+ hours and expandable to over 100 hours) stationary storage products based on a proprietary advanced Vanadium Redox Flow Battery system.
+- Stryten Energy's battery system has been demonstrated at an early moderately mature stage in a grid tied environment.
+- Stryten Energy is located in GA.
+- Stryten Energy is interested in working with the DOE and national labs in collaborative alignment for long duration storage across focus areas including balance of system costs, soft costs, security, and safety.
+- Stryten Energy aims to enhance current product capabilities, reduce cost, and demonstrate advancements in deployed systems at DOE existing test bed infrastructure at DOE and Department of Defense facilities/installations.
+- Brian Berland is listed at Stryten Energy.
+- Astro Technologies has extensive proficiency in advanced manufacturing with remarkable capabilities in robotics and battery.
+- Astro Technologies possesses wealth of experience in cutting-edge battery manufacturing know-how and processes, as well as conducting research and development in this area.
+- Astro Technologies has already established a 5gwh LFP battery manufacturing plant internationally.
+- Astro Technologies is currently exploring opportunities to develop, deploy redox flow battery applications and manufacturing facility in the United States.
+- Morgan Chan is listed at Astro Technologies.
+- bp is a company with deep innovation and engineering expertise across multiple energy vectors.
+- bp is working with partners to assess the feasibility of designing, building, operating and supplying a network of hydrogen refueling stations for freight transport by 2030.
+- bp's work will utilize experience from existing hydrocarbon liquid fuel to explore and understand risks and potential challenges storing and dispensing hydrogen.
+- bp expertise includes safety related to fuels and retail, reading/interpreting regulatory requirements, risk profiling/assessment, understanding available distribution options and associated site design(s), development of total cost of ownership and assessing product quality.
+- Rebecca Bennick is listed at bp.
+- Eva Gardow is a strategic grid modernization engineer with 40+ years’ experience in developing energy storage, solar photovoltaic and other distributed energy resources projects and programs for delivering more reliable and sustainable energy.
+- Eva Gardow's recent work on energy storage research activities includes technology research and review, leading an energy storage research roadmaking process using a visioning exercise, and project managing various energy storage projects and demonstrations.
+- VentureWell is a not-for-profit innovation support organization supporting researchers & early-stage science & technology innovators since 1995.
+- VentureWell's lab-to-market & commercialization curriculum has brought groundbreaking advancements in med-tech, energy and climate-tech to millions of people in 90+ countries.
+- VentureWell has supported 15,000+ innovators resulting in 4,800 ventures raising $3.8 billion.
+- Approximately half of VentureWell's accelerator startups work in energy, agriculture, and other climate-tech sectors.
+- VentureWell recently expanded its programming to include support for mobility focused innovators as part of DOE’s Energy Program for Innovation Clusters (EPIC) prize.
+- VentureWell is committed to DEI with 24% of its program participants identifying as underrepresented ethnic groups within STEM, 60% as non-white, and 42% as female on average over the past three years.
+- VentureWell supports NREL as a Power Connector for American-Made Challenges, providing recruitment and individualized I&E advisory services for participating competitors.
+- VentureWell has collaborated with the National Science Foundation since 2011 and the National Institutes of Health since 2014 as a partner in development of lean startup training.
+- VentureWell served as implementing partner for NSF and NIH I-Corps programs, managing program planning, instructors, and assessing team outcomes to grow into a large national initiative that trained 2,600+ teams from 230+ universities who collectively raised $1.2B+ in private funding and created thousands of jobs across STEM fields.
+- Fernand Gouveia is listed at VentureWell.
+- Hydrogen Technologies offers a cutting-edge solution for decarbonizing industrial operations that require steam with their 100% hydrogen fueled commercial and industrial steam boiler.
+- Hydrogen Technologies' boiler emits zero greenhouse gas emissions as it operates solely on hydrogen and oxygen without nitrogen involved in the process.
+- Hydrogen Technologies' boiler can provide steam from 1,500 kg per hour up to 8,000 kg of steam per hour.
+- Hydrogen Technologies is scaling up its existing system from 8,000 kg of steam per hour to 50,000 kg of steam per hour and will collaborate with National Labs to achieve this expansion.
+- Hydrogen Technologies' boiler can be utilized in various industrial applications such as district heat plants, food processing, chemical refining, pharmaceuticals, pulp and paper mills, and other industrial manufacturing processes.
+- Dean Moretton is listed at Hydrogen Technologies, LLC.
+- Decent Energy, Inc. has worked since 2008 in the central Midwest with an emphasis on Kansas.
+- Decent Energy's past and ongoing relationships with emerging cleantech manufacturers have led to fostering pilot projects for demonstration and validation including advanced inverters, BIPV, thermal energy storage, and advanced HVAC controls.
+- Decent Energy collaborative projects include work with municipal owned and electric cooperatives, local government, public universities and community colleges.
+- Decent Energy team possesses internal general contracting and project management capabilities.
+- Decent Energy regards the boundary of eastern and western interconnects as a fruitful opportunity for LDES demonstration and grid modernization.
+- Barry Dicker leads Decent Energy, Inc. and has experience in legal aspects of technology commercialization (15 years active legal practice) and direct experience with building energy analysis, retrofit, and renewable systems.
+- Benjamin L. Schenkman is a Principal Technical Lead in the Energy Storage Group at EPRI with over 17 years in research, development and demonstration of energy storage systems, microgrids, and critical infrastructures.
+- Schenkman leads the program for advancements of Operation and Maintenance, Cost estimation, and Reliability Metric tools for energy storage systems and deployment.
+- Schenkman's research consists of large data analysis, development of performance metrics, demonstration of traditional and emerging energy storage technologies, and energy management control theory.
+- Schenkman leads development of energy storage performance tests and metrics when systems are incorporated into a microgrid or nanogrid.
+- Schenkman serves as a researcher for the Electromagnetic Threat and Critical Power group at EPRI studying impact to bulk power system due to High-altitude Electromagnetic Pulse (HEMP) events and securing energy infrastructure from natural and man-made threats.
+- EPRI has world class test facilities located throughout the United States, ability to develop specialized software and maintain continuity, leading experts in technical consulting, platforms to disseminate information to wider public, and wide interconnected partnerships with vendors and utilities.
+- Steve Willard is listed at EPRI with 39 years energy engineering experience focusing on energy storage performance and reliability assessment including data and data system requirements.
+- Newlab is an engine for applied innovation mobilizing people and capital to solve complex problems across mobility, energy and materials.
+- Newlab's flagship location opened in the Brooklyn Navy Yard in 2016 with aim to catalyze ecosystem of deep tech entrepreneurs and stimulate technology-led economic growth in New York.
+- Newlab's second location is a 250,000 square foot facility in Detroit launched recently to support technology development and commercialization at Michigan Central Innovation District.
+- Newlab has collaborated deeply with industry and government partners to facilitate hundreds of pilots across the 300-acre campus and other sites around the world.
+- Newlab's community of more than 800 entrepreneurs extends across physical and digital platforms.
+- Newlab business is organized across two integrated functions: Studios and Investment.
+- Newlab deploys hundreds of pilots globally through its Studios every year to align industry players, government entities and startups around pilot projects generating operational data to validate technologies and de-risk models.
+- Newlab partners include Ford Motor Co., Verizon, Ørsted, BHP, LG Electronics, Mercado Libre, NYC Economic Development Corporation (NYCEDC) and Uruguay Ministry of Industry, Energy and Mining.
+- Several Newlab partners are keenly interested in clean hydrogen and long duration energy storage, and Newlab is actively aligning infrastructure assets and programming to support development of these technologies.
+- Elsa Givan is listed at Newlab.
+
+## Links
+
+- kohler.com/energy — Company website
+- https://www.linkedin.com/in/barry-dicker — LinkedIn profile

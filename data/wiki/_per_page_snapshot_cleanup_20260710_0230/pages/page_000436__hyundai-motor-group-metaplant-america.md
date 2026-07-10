@@ -1,0 +1,115 @@
+---
+title: "Hyundai Motor Group Metaplant America"
+entity_type: facility
+supply_chain_category: battery_cell_manufacturing
+page_id: page_000436
+publication_date: 
+source_url: https://www.tandfonline.com/doi/full/10.1080/0023656X.2026.2634081
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Hyundai Motor Group Metaplant America
+
+**Type:** facility  ·  **Role:** battery_cell_manufacturing  ·  **Published:** ?
+
+**Source:** [Full article: A big deal: the Hyundai battery plant raid and the deeper labor history of the foreign-owned auto sector in the U.S.](https://www.tandfonline.com/doi/full/10.1080/0023656X.2026.2634081)  ·  `page_000436`
+
+## Facts
+
+- On 4 September 2025, hundreds of federal agents stormed a Hyundai electric vehicle battery plant in Georgia.
+- 475 workers were arrested during the raid, 300 of them Korean nationals.
+- The event was the largest immigration raid at a single location in U.S. history.
+- The raid occurred at the Hyundai EV battery plant in Ellabell, Georgia.
+- The site covers 3000 acres.
+- The raid involved 500 federal, state, and local officers.
+- Most arrested workers were placed in federal detention in Folkston, Georgia.
+- Around 300 Koreans were placed on a special flight a week later and greeted by top government representatives.
+- Detainees described harsh conditions in U.S. detention, including eating near toilets, drinking foul-smelling tap water, and being crammed in cells with up to 70 people.
+- Many detainees had valid work visas.
+- A poll showed nearly 60 percent of South Koreans felt the raid was excessive.
+- South Korean president Lee Jae Myung ordered 'all-out efforts' in response and warned the action could 'jeopardize' Korean investment in the U.S.
+- The raid occurred just days after Lee met with U.S. President Donald Trump to discuss lucrative Korean investments.
+- According to the Council on Foreign Relations, the incident threatened $350 billion in planned Korean spending.
+- Foreign Minister Cho Hyun traveled to Washington for urgent talks.
+- On September 9, crowds protested outside the American Embassy in Seoul.
+- Construction of Hyundai’s 'Metaplant' was pushed back by several months due to the raid.
+- The plant is expected to create over 40,000 jobs, including at suppliers.
+- Georgia is America’s number one state for EV assembly and battery plant investment.
+- Special agent Steven Schrank described the raid as a 'criminal investigation into allegations of unlawful employment practices and serious federal crimes' at the Hyundai Motor-LG Energy Solution plant.
+- Federal officials initially claimed arrested workers were barred from working in the U.S. after overstaying visas or crossing illegally.
+- The warrant started for four Hispanic workers but escalated into a major showdown.
+- Most of the 300 Korean detainees worked for the battery plant, due to open in 2026.
+- Others were contractors at the Metaplant site.
+- Incentives, lower wages, and a union-free environment were central to Hyundai’s decision to locate in Georgia.
+- Hyundai accepted $1.8 billion in state incentives to build the Metaplant.
+- Groundbreaking for the Metaplant occurred in October 2022.
+- At the time of the raid, HMGMA and its onsite affiliates had created 2824 jobs.
+- Of 1364 positions at Hyundai, local residents held 73 percent, with only 49 expats directly employed.
+- Once complete, about 99 percent of the 8000 workers would be Americans.
+- The foreign-owned auto sector accounted for half of North American production by the time of the raid.
+- In 2023, the International Trade Administration documented this sector provided over 500,000 U.S. jobs with a total investment of $195.6 billion.
+- Most 'international automakers' were non-union, given free rein to hire, fire, and subcontract.
+- By 2025, the South was home to 13 automotive assembly plants.
+- In 2025, of all southern transplants, just one – a Volkswagen plant in Chattanooga, Tennessee – was unionized.
+- It took three elections (2014, 2019, and 2024) to secure the VW union breakthrough.
+- Between 1990 and 2007, the Big Three closed 29 North American factories.
+- Over the same period, foreign automakers largely from Japan and Korea opened 24 plants on the continent, mostly in the U.S. South.
+- From 1990 to 2006, total domestic vehicle production rose from 12.5 to 16 million a year.
+- The South had become 'America’s new auto manufacturing belt' with the lowest levels of union density in the country.
+- Labor Notes declared Hyundai has a terrible safety record, history of evading unions, racial discrimination, and employing children at factories/suppliers.
+- The United Auto Workers (UAW) cited deeper labor issues and noted militarized federal crackdowns hurt safety at Hyundai.
+- The Guardian noted three workers had died in 2 years at the Metaplant.
+- Both Hyundai and Kia established a large assembly plant in West Point, Georgia, in 2006.
+- Both firms had a history of labor problems including strained relations with Korean unions, global union avoidance, and allegations of using child/prison labor at suppliers.
+- Both firms argued subcontractors were not their employees to elide responsibility.
+- Stephen J. Silvia argued foreign manufacturers in the 1980s/1990s perfected a 'union-avoidance playbook.'
+- Tactics included captive audience meetings, calling unions third parties only interested in dues, and increasing compensation before union votes.
+- Placing plants in small towns with scattered workforces eroded solidarity.
+- Companies shared information, law firms, and managers to gain enormous control.
+- According to the UAW, Hyundai cut corners on safety precautions, refused to respect workers' right to a union, and relied on immigrant labor exploitation.
+- The three Metaplant deaths epitomized deeper problems.
+- Greg LeRoy, Good Jobs First’s director, summarized that southern states pushed for Taft-Hartley and became right-to-work states after 1947 to suppress wages.
+- Between 1985 and 2016, union density in OECD nations fell from an average of 30 percent to 17 percent.
+- In the U.S., only about 10 percent of workers belonged to unions in 2025, down from over a third in the 1950s.
+- The UAW’s membership tumbled from 1.5 million in the late 1970s to 400,000 in 2019.
+- Pioneering Honda, Nissan, and Toyota factories established in the 1980s set the path for a non-union car industry in the lower Midwest or South.
+- Honda’s plant in Marysville, Ohio, began making cars in November 1982.
+- Toyota’s non-union factory in Georgetown, Kentucky, was announced that same month.
+- By 1990, the transplants had the capacity to make 2 million vehicles a year.
+- In October 1977, Honda announced its factory in Marysville initially to make motorcycles.
+- In 1937, General Motors was the first large U.S. corporation to sign a contract with a union following sit-down strikes.
+- Big Three contracts led to annual cost-of-living increases (1948) and fully company-funded pensions (1949).
+- In 1970, U.S. autoworkers earned the right to retire with a full pension after 30 years of service.
+- UAW president Douglas Fraser wrote to Honda president Kiyoshi Kawashima in 1982 that the UAW represented virtually 100% of all car assembly workers in North America.
+- Fraser anticipated the union would organize Japanese automakers building in the U.S.
+- In the early 1980s, Honda initially pledged neutrality in Ohio but then fought the union.
+- Honda offered 'associates' benefits like subsidized meals and on-site leisure facilities to encourage company identification.
+- By 1993, UAW regional director Jack Sizemore reported internal difficulties organizing in largely non-union areas surrounding Honda plants.
+- An Automotive News retrospective called the non-union Marysville plant one of the industry’s 'watershed moments.'
+- Corporate analyst Karl Brauer admitted future costs of a unionized plant will almost assuredly be higher due to dues, payments, and benefits.
+- From 1980 to 1992, Republicans held the presidency, pushing a pro-business agenda that hurt unions.
+- Bieber cited the Reagan administration’s hostility to workers and sharp declines in union density.
+- He complained privately that Reagan and Bush administrations created a 'free-for-all economic environment' generating job losses and weakened contracts.
+- A Nissan factory in Smyrna, Tennessee (established 1980) upped the ante on union avoidance.
+- Plant manager Marvin Runyon dismissed the UAW as an unwanted 'third party.'
+- In 1989, Nissan easily beat the UAW in an NLRB election.
+- The Smyrna plant set a manufacturing blueprint favoring lower costs, business-friendly policies, and non-union labor.
+- Early factories hired hundreds of Japanese nationals, housing them in temporary on-site units due to rural locations and skilled worker shortages.
+- In 1985, 158 Japanese citizens were employed at the Marysville plant.
+- At Toyota in Kentucky, the young factory was overseen by hundreds of Japanese engineers headed by plant manager Fujio Cho.
+- Trump posted on Social Media that while immigration laws were important, foreign investments were 'welcome.'
+- Trump stated he would 'look at the whole situation' and expressed hope that foreign employees would help American workers.
+- Trump promised those arrested could stay in the U.S. if they trained Americans.
+- All but one of the 300 Koreans refused the deal to train Americans.
+- The Atlanta Journal-Constitution reported the action had 'strained international relations, exposed visa loopholes and cast a shadow over Georgia’s prized battery plant deal.'
+- The American Immigration Council referenced Trump’s anti-immigrant policies and condemned the action as discriminatory, haphazard, and economically damaging.
+- Industry website InsideEVs called the backlash a 'gigantic failure' for Trump's tough-on-immigration law enforcement policies.
+- Reports stressed record funding for U.S. Immigration and Customs Enforcement (ICE) and increased latitude to conduct raids.
+- In the first 6 months of 2025, the U.S. lost over 1.2 million immigrants due to these policies.
+- CNBC concluded the raid raised issues from an 'immigration enforcement standpoint.'
+- Jeff Wasden from State Business Executives called on the White House to focus on the workforce and fix program problems.
+- Automotive News editorialized against the raid, warning that companies should be able to count on the U.S. as a safe place to invest and work.
+- The swoop highlighted the industry’s 'visa problem,' with automakers forced to use an 'ill-fitting' system to access vital foreign staff.
+- A 2023 Good Jobs First study 'Power Outrage' questioned EV subsidies, finding factories created 'substandard jobs.'
+- The report recommended companies pay 'market-level' wages and disclose labor/safety violations.
+- Key moves by predecessor companies like Honda, Mercedes-Benz, and Nissan showed escaping organized labor was integral to the sector's history.

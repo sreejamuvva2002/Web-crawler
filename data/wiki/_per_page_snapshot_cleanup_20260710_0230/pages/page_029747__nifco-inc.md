@@ -1,0 +1,41 @@
+---
+title: "NIFCO INC."
+entity_type: company
+supply_chain_category: automotive_components
+page_id: page_029747
+publication_date: 
+source_url: https://www.trademarkia.com/owners/nifco-inc
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# NIFCO INC.
+
+**Type:** company  ·  **Role:** automotive_components  ·  **Published:** ?
+
+**Source:** [Nifco Inc.: details of the 14 owned trademarks](https://www.trademarkia.com/owners/nifco-inc)  ·  `page_029747`
+
+## Facts
+
+- Nifco Inc. owns 14 trademarks covering machinery, electrical, and vehicle products.
+- Trademark "NIFCO" (Reg. No. 98590912) was filed on 07 Jun 2024 and expires on 26 May 2032.
+- Trademark "NIFCO" (Reg. No. 76547107) was filed on 10 Sep 2003 and expires on 12 Apr 2035.
+- Trademark "NIFCO" (Reg. No. 76496950) was filed on 13 Mar 2003.
+- Trademark "NIFCO KTW" (Reg. No. 97435915) was filed on 31 May 2022 and expires on 06 Feb 2030.
+- Trademark "NIFCO" (Reg. No. 87779914) was filed on 01 Feb 2018 and expires on 05 Jan 2027.
+- Trademark "WOWING THE WORLD" (Reg. No. 88000397) was filed on 14 Jun 2018 and expires on 19 May 2026.
+- Trademark "NIFCO" (Reg. No. 73107651) was filed on 24 Nov 1976 and expires on 29 Nov 2027.
+- A correction for Reg. No. 85498670 states that "KOKOHAMA-SHI" should be deleted and "YOKOHAMA-SHI" inserted in line 3.
+- Trademark "NIFCO KTS" (Reg. No. 86186304) was filed on 06 Feb 2014.
+- Trademark "NIFCO KTW" (Reg. No. 86351066) was filed on 29 Jul 2014.
+- Products covered under Class 007 Machinery Products include non-metal automobile engine parts, fuel filters, fuel cut valves, oil-level gauges, oil filters, gasoline filters, gasoline tank valves, oil separators, engine valves, positive crankcase ventilation valves, pump control valves, hydraulic and pneumatic door closers, machine tools for riveting plastics, air powered tools, fastener setting machines, steam and oil separators, and fuel vent valves.
+- Products covered under Class 012 Vehicles include metal parts for vehicles (automotive exterior and interior decorative and protective trim), plastic parts for vehicles (extruded decorative and protective trim), structural parts for automobiles, non-metal fasteners (weather strip clips, trim clips, windshield mounting clips, fender protector clips, mat fasteners, emblem clips, front grill clips), plastic rivets, vibration dampers, rod holders, linkage bushings, shaft connectors, hood bumper rubbers, cup holders, trailer hitches, card holders, ashtrays, caddies, display hinges, fuel sub-tanks, eyeglass holders, rubber shock absorbers, vehicle seat fasteners, back and dash board trays, hole plugs, pipe clamping devices, safety assist grip bars, hooks, vehicle safety and restraint systems (seat belt buckles and guides), headrest rods, locking devices, cleaning liquid injection nozzles, dampers, windshield mounting brackets, functional and decorative plastic parts (air vent coverings), hose pipes (brake and fuel line), transmission parts (housings, clutches, shafts, gears, valve bodies), radiator fasteners, air ventilators, outlet of automotive air conditioners, caps for gas tanks, sun blinds, pedals (brake, acceleration, clutch), and non-metal tube connectors and couplings.
+- Products covered under Class 026 include slide fasteners, snap fasteners, clasps, buckles, fastening tapes, fastening cords, and window washing spray systems with nonmetal spray nozzles.
+- Products covered under Class 009 include computer and software products, electrical and scientific products, buckles for clothing, snap hooks, belt buckles, hook and pile fastening tapes and cords, hand-held battery actuated hydraulic crimp tools, and oil filters/gasoline filters.
+- Products covered under Class 020 include furniture products, non-metal parts for audio-visual and telecommunications equipment (vibration dampers, slip clutches, torque overload limiters, adjustable legs, electric wires, elastic bands), FASTENERS MADE OF PLASTICS, tube connectors and couplings, and non-metal pipe clamps.
+- Products covered under Class 021 include land vehicle engine parts, filters for motors and engines, pump control valves, hydraulic door closers, pneumatic door closers, machine tools for riveting plastics, air powered tools, fastener setting machines, steam and oil separators, fuel vent valves, window washing spray systems, and headlights washing spray systems.
+- Products covered under Class 011 include environmental control instrument products, lighting, heating, cooling, cooking equipment, and non-metal tube connectors and couplings for land vehicles (radiator and heater hose connectors).
+- Products covered under Class 017 include rubber products, non-metal pipe clamps, non-metal coat hooks, and combination vehicle climate control systems.
+- Attorneys associated with the trademarks include Mainak h mehta, Gary d krugman, Matthew l frisbee, Bassam n ibrahim, Jeffrey h greger, and Michael a grow.
+- Law firms handling correspondence include Oblon fisher spivak mcclelland maie, Leason ellis llp, Procopio cory hargreaves savitch llp, Sughrue mion pllc, and Buchanan ingersoll rooney pc.
+- Trademark status filters available on the page are All, Registered, Pending, Abandoned, and Other.
+- Category distribution across trademarks includes Class 20 (9), Class 7 (8), Class 12 (8), Class 9 (6), Class 26 (5), Class 17 (2), Class 8 (1), Class 11 (1), Class 18 (1), and Class 21 (1).

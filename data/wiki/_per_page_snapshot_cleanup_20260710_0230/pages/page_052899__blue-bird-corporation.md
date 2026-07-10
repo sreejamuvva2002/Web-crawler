@@ -1,0 +1,90 @@
+---
+title: "Blue Bird Corporation"
+entity_type: company
+supply_chain_category: vehicle_manufacturing
+page_id: page_052899
+publication_date: 2026-05-06
+source_url: https://investorshub.advfn.com/Blue-Bird-Corporation-BLBD-29853
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Blue Bird Corporation
+
+**Type:** company  ·  **Role:** vehicle_manufacturing  ·  **Published:** 2026-05-06
+
+**Source:** [Blue Bird Corporation (BLBD) Stock Message Board | InvestorsHub](https://investorshub.advfn.com/Blue-Bird-Corporation-BLBD-29853)  ·  `page_052899`
+
+## Facts
+
+- Rio Bravo-Greeley Union School District will break ground on a new electric school bus initiative supported by on-site charging infrastructure.
+- The project is being delivered in partnership with Highland Electric Fleets, North America's leading provider of Electrification-as-a-Service (EaaS).
+- Highland Electric Fleets will provide the electric buses, charging infrastructure, and ongoing support as part of a long-term electrification program.
+- The district plans to deploy eight Blue Bird Corporation electric school buses as part of this initiative.
+- A dedicated charging depot is currently under development and expected to be completed in early 2027.
+- Charging infrastructure is being designed around the district's transportation schedule, ensuring buses are ready for daily routes once complete while allowing for future expansion.
+- Electric school buses help improve the in-cabin environment for students and staff during daily rides while reducing overall emissions across the district's transportation system.
+- With fewer moving parts than traditional diesel vehicles, electric buses can reduce long-term maintenance needs and help districts avoid fuel price volatility.
+- As these buses come online, they will reduce students' exposure to air pollution by up to 16%, leading to a quieter ride and a healthier environment inside the bus.
+- Rio Bravo-Greeley Union School District will host a groundbreaking ceremony on May 6 at 10:00 a.m. at 6521 Enos Lane, Bakersfield, CA.
+- Blue Bird Corporation will release its fiscal 2026 second quarter results on May 6, 2026.
+- Blue Bird executives John Wyskiel (President and CEO) and Razvan Radulescu (CFO) will discuss results during an audio webcast at 4:30 PM ET on May 6, 2026.
+- Prince William County Public Schools unveiled its new emissions-reducing propane school buses at its Brentsville facility.
+- The 62 Blue Bird Vision Propane buses are the first from the company to come equipped with standard driver airbags.
+- The propane buses were purchased from Blue Bird Bus Sales of Virginia.
+- In collaboration with corporate headquarters in Gibsonia, Pennsylvania, the dealer provided a fully equipped 78-passenger propane school bus demonstrator for a six-week demonstration.
+- Following the successful demonstration, PWCPS placed an order of 62 buses, bringing propane buses to its fleet for the first time.
+- Each Blue Bird Vision Propane 72-passenger school bus comes equipped with an IMMI 4Front driver airbag, a 7.3L V8 Ford engine, and ROUSH CleanTech propane fuel system.
+- Ford’s 335-horsepower 7.3L engine is compact, powerful, and easy to maintain.
+- The school district’s propane buses retain equivalent horsepower, torque, and warranty coverage as its gas and diesel counterparts.
+- Near-zero emission propane vehicles reduce smog-producing emissions, eliminate particulate matter, and lower nitrogen oxides by 95% compared with diesel-powered school buses.
+- School districts have reported annual savings of up to $3,700 per propane-powered bus due to lower fuel and maintenance costs compared with a diesel-powered bus.
+- Blue Bird is the only U.S.-owned and operated school bus manufacturer in the United States.
+- The company remains the proven clean transportation leader with more than 23,500 propane school buses operating in over 1,100 districts across North America.
+- Phil Horlock, CEO of Blue Bird Corporation, stated the team completed a business turnaround over 18 months to improve operations, reduce fixed costs, and recover economics through pricing.
+- Market demand for Blue Bird’s school buses remains very strong with nearly 5,200 units in the order backlog.
+- Unit sales were 24% higher than a year ago, and revenue grew by an exceptional 43% in the third quarter.
+- Adjusted EBITDA was over 3X last year’s third quarter, with an Adjusted EBITDA margin of almost 10%.
+- Blue Bird expanded its leadership position in alternative-powered school buses, particularly zero-emission school buses where EV bookings were up nearly 150% from the previous year’s third quarter.
+- The company has more than 550 electric school bus orders in its backlog.
+- Steady growth in EV orders is seen from the EPA’s 2022 Clean School Bus Rebate Program, which awarded nearly $1 billion in funding from Phase 1 of the program.
+- This funding alone will generate orders for at least 550 Blue Bird buses.
+- Phase 2 of the program was announced, offering a $400M competitive grant program for electric school buses.
+- Razvan Radulescu, CFO, stated revenues came in at the top end of guidance and Adjusted EBITDA above guidance.
+- The company raised full year fiscal 2023 guidance to Net Revenue of just over $1.1 Billion, Adj. EBITDA of $70-76 million, and Adj. Free Cash Flow of $70-80 million.
+- Long-term outlook remains profitable growth towards $2 billion in revenues and Adjusted EBITDA margins of 12%, or $250 million.
+- Net sales were $294.3 million for the third quarter of fiscal 2023, an increase of $88.2 million (42.8%) from the prior year period.
+- Bus sales increased $83.7 million, reflecting a 17.0% increase in average sales price per unit and a 23.8% increase in units booked.
+- In Q3 FY2023, 2,137 units were booked compared to 1,726 units booked for the same period in fiscal 2022.
+- The increase in units sold was primarily due to constraints in production and delivery due to shortages of critical components in Q3 FY2022.
+- Parts sales increased $4.6 million (23.4%) for Q3 FY2023 compared to Q3 FY2022, attributed to pricing actions and increased inventory availability as supply chain constraints improved.
+- Third quarter gross profit was $45.8 million, an increase of $24.2 million from the prior year, partially offset by a $64.0 million increase in cost of goods sold.
+- Net income was $9.4 million for Q3 FY2023, a $15.8 million increase compared to the same period last year.
+- An increase of $7.2 million in other expense was primarily due to expenses paid on behalf of stockholders selling shares during Q3 FY2023.
+- Blue Bird delivers 20 electric school buses to Miami-Dade County Public Schools in Florida.
+- Blue Bird Buses Now Equipped with Electronic Stability Control and Backup Cameras as Standard Equipment.
+- Blue Bird Corporation announced preliminary results of a successful tender offer oversubscribed by approximately 12:1, which expired at 5:00 PM ET on October 15, 2018.
+- A total of 22,234,759 shares of common stock were tendered at $28.00 per share, and 93,000 shares of preferred stock were tendered at $241.69 per share.
+- Preliminary proration factor is approximately 8.01% for common stock and 0.39% for preferred stock.
+- Blue Bird expects to acquire 1,782,568 shares of Common Stock and 364 shares of Preferred Stock for an aggregate cost of approximately $50 million.
+- These shares represent approximately 6.54% of outstanding Common Stock and 0.39% of Preferred Stock.
+- ASP BB Holdings LLC beneficially owns 12,000,000 shares, controlling 44.38 percent.
+- Blue Bird Corporation commences tender offer to purchase up to $50 million in aggregate value of its shares at $28 per share for common stock and $241.69 for preferred stock.
+- Closing price on Sept 13, 2018 was $23.25; tender offer represents a 20% premium.
+- Blue Bird manufactures school buses at two facilities in Fort Valley, Georgia.
+- Micro Bird joint venture operates a manufacturing facility in Drummondville, Quebec, Canada.
+- Service and after-market parts are distributed from Blue Bird’s parts distribution center located in Delaware, Ohio.
+- Blue Bird has sold more than 550,000 buses since formation in 1927, with approximately 180,000 buses in operation today.
+- Blue Bird is the market leader in alternative fuel applications with propane-powered, electric, and compressed natural gas-powered school buses.
+
+## Links
+
+- https://www.prnewswire.com/news-releases/rio-bravo-greeley-union-school-district-to-break-ground-on-electric-school-bus-project-302764251.html — Multimedia download
+- www.blue-bird.com — Product and service portfolio
+- http://investors.blue-bird.com — Investor Relations webcast
+- https://www.businesswire.com/news/home/20260318581910/en/ — Multimedia download
+- ROUSHcleantech.com or by calling 800.59.ROUSH — Learn more about ROUSH CleanTech
+- www.sec.gov — SEC website for tender offer documents
+- https://www.businesswire.com/news/home/20181016005603/en/Blue-Bird-Corporation-Announces-Preliminary-Results-Successful — Original press release
+- https://marketwirenews.com/news-releases/blue-bird-buses-now-equipped-with-electronic-stability-control-and-backup-cameras-as-standard-equipment-7436832.html — MarketWire news link
+- https://marketwirenews.com/news-releases/blue-bird-to-report-fiscal-2019-first-quarter-results-on-february-6-2019-7431106.html — MarketWire news link
+- https://www.sec.gov/Archives/edgar/data/1589526/000114036118038697/formsc13da.htm — SEC 13D filing

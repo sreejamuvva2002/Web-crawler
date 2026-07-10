@@ -1,0 +1,56 @@
+[
+  {
+    "entity_name": "Mativ Holdings, Inc.",
+    "canonical_name": "Mativ Holdings, Inc.",
+    "entity_type": "company",
+    "supply_chain_category": "unknown",
+    "facts": [
+      "Headquartered in Alpharetta, GA.",
+      "Reported earnings results for the three months ended March 31, 2024.",
+      "Completed the sale of its Engineered Papers business on November 30, 2023.",
+      "Q1 2024 sales were $500.2 million, increasing 10.6% sequentially versus Q4 2023 and decreasing 8.9% versus the prior year.",
+      "GAAP loss was $(28.0) million with a GAAP EPS of $(0.52), including organizational realignment, integration and purchase accounting expenses.",
+      "Adjusted income was $1.1 million, Adjusted EPS was $0.02, and Adjusted EBITDA was $45.8 million.",
+      "Adjusted EBITDA was down 6% versus the prior year as impacts from lower volumes and higher production costs more than offset net benefits of input costs/selling price and synergies realization.",
+      "CEO Julie Schertell commented that meaningful sequential volume improvement occurred in Q1 and expects to deliver meaningfully improved EBITDA year-over-year for the remainder of 2024.",
+      "Initiated an organizational restructuring initiative expected to reduce non-operating costs by up to $20 million annually as they exit 2024.",
+      "Actions taken in 2023 included divesting Engineered Papers, consolidating footprint, and investing in new assets in filtration and release liners.",
+      "Filtration & Advanced Materials (FAM) segment sales were $202.7 million, up 11% sequentially versus Q4 2023 and down 8% versus the prior year period.",
+      "FAM products include filtration media and components, advanced films, coating and converting solutions, and extruded mesh products.",
+      "GAAP Operating Profit in FAM included $3.2 million of restructuring, impairment, and other expenses primarily related to organizational realignment and footprint rationalization.",
+      "Sustainable & Adhesive Solutions (SAS) segment sales were $297.5 million, up 10% sequentially versus Q4 2023 and down 9% versus the prior year period.",
+      "SAS products include tapes, labels, liners, specialty paper, packaging and healthcare solutions.",
+      "GAAP Operating Profit in SAS included $7.6 million in restructuring, impairment, and other expenses primarily related to organizational realignment and footprint rationalization.",
+      "Adjusted unallocated expenses were in line with the prior year, while GAAP operating expenses included $1.5 million of EP divestiture expenses, $3.1 million in restructuring/impairment expenses, and $4.4 million related to organizational realignment.",
+      "Interest expense was $18.3 million versus $15.6 million in the prior year period, primarily due to higher average interest rates and higher average balances on floating debt.",
+      "Tax rate was 7.9% during Q1 2024, driven by one-time tax adjustments; excluding these, the rate was 16.8%.",
+      "Year-to-date 2024 cash used in operating activities was $13.0 million, with capital spending and software costs totaling $12.6 million.",
+      "Total debt was $1,158.0 million as of March 31, 2024, with total cash of $128.9 million resulting in net debt of $1,029.1 million.",
+      "Total liquidity was approximately $409 million, consisting of $129 million of cash and $280 million of revolver availability.",
+      "Company's debt matures on a staggered basis between 2026 and 2028.",
+      "Announced next quarterly cash dividend of $0.10 per share payable on June 21, 2024 to stockholders of record as of May 24, 2024.",
+      "Did not repurchase shares during the first quarter but intends to periodically repurchase shares to offset dilution due to stock compensation.",
+      "Will hold a conference call to review Q1 2024 results at 8:30 a.m. Eastern time on Thursday, May 9, 2024.",
+      "Mativ is a global leader in specialty materials targeting premium applications across diversified end-markets from filtration to healthcare to sustainable packaging."
+    ],
+    "links": [
+      {
+        "url": "http://ir.mativ.com",
+        "context": "Conference call broadcast and registration"
+      },
+      {
+        "url": "http://www.mativ.com",
+        "context": "Company website"
+      }
+    ],
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1000623/000100062324000015/ex991q12024earningsrelease.htm",
+    "source_title": "Document",
+    "source_domain": "sec.gov",
+    "publication_date": "2024-05-08",
+    "date_precision": "body_dateline",
+    "page_id": "page_002448",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

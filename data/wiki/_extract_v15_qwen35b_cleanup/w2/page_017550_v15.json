@@ -1,0 +1,38 @@
+[
+  {
+    "entity_name": "U.S. Electricity Demand & Grid Infrastructure",
+    "canonical_name": "U.S. Electricity Market and Grid Infrastructure Trends",
+    "entity_type": "policy_or_incentive",
+    "supply_chain_category": "government_support",
+    "facts": [
+      "U.S. electricity consumption reached record levels in 2022 at approximately 4,067 billion kWh.",
+      "National electricity demand is projected to climb to 4,165 billion kWh in 2025, reflecting roughly a 13% increase from 2022 to 2025.",
+      "The electrification of transportation via more electric vehicles (EVs) on the road and a shift to electric heat pumps is accelerating grid load.",
+      "The U.S. Energy Information Administration (EIA) notes that homes and businesses are using more electricity for transportation and heating, contributing to demand growth.",
+      "Data centers could consume around 9% of total U.S. electricity by 2030, driven by hyperscalers and AI workloads.",
+      "The Biden Administration announced $1.3 billion in late 2023 to expand transmission lines nationwide, adding an estimated 3.5 GW of transfer capacity.",
+      "In 2024, the U.S. Department of Energy committed $1.5 billion for new transmission projects under its Transmission Facilitation Program.",
+      "Goldman Sachs projects that 85–90 gigawatts of new nuclear generation capacity might be required globally to meet data center-driven demand.",
+      "Two new reactors at Plant Vogtle in Georgia came online in 2023 and 2024, marking the first large-scale U.S. nuclear units in 30 years.",
+      "The Department of Energy is actively supporting advanced reactor technologies, including small modular reactors, and securing high-assay low-enriched uranium fuel for next-generation plants.",
+      "Retail electricity prices in the U.S. have increased faster than general inflation since 2022, with a projected ~13% jump in the national average from 2022 to 2025.",
+      "EV charging networks and electrified heating are contributing to new heights in grid peak demand periods.",
+      "Utilities are deploying thicker-gauge wires, higher-capacity transformers, and advanced grid control systems in high-growth corridors to handle increased loads.",
+      "Public utility commissions are permitting rate increases specifically to fund critical transmission investments needed for grid modernization.",
+      "Some utilities are exploring vehicle-to-grid (V2G) integration, where EVs or customer-sited batteries could supply power back to the grid as distributed support resources.",
+      "Tech companies including Google, Microsoft, and Meta have announced 100% renewable energy goals and are buying vast quantities of wind and solar power through long-term power purchase agreements (PPAs) spanning 10–20 years.",
+      "Utilities are adding utility-scale batteries to store excess solar or wind energy and release it during peak demand periods.",
+      "For critical new loads like hyperscale data centers, utilities often build N+1 redundancy into serving substations and feeders to ensure uninterrupted power supply."
+    ],
+    "links": [],
+    "source_url": "https://www.mmcginvest.com/post/surging-u-s-electricity-demand-amid-an-ai-data-center-boom",
+    "source_title": "Surging U.S. Electricity Demand Amid an AI Data Center Boom",
+    "source_domain": "mmcginvest.com",
+    "publication_date": "2025-11-05",
+    "date_precision": "body_dateline",
+    "page_id": "page_017550",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

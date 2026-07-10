@@ -1,0 +1,31 @@
+---
+title: "Murata Electronics North America, Inc."
+entity_type: company
+supply_chain_category: automotive_components
+page_id: page_047051
+publication_date: 
+source_url: https://archive.org/stream/Murata-ShortFomCatalogOCR/Murata-ShortFomCatalogOCR_djvu.txt
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Murata Electronics North America, Inc.
+
+**Type:** company  ·  **Role:** automotive_components  ·  **Published:** ?
+
+**Source:** [Full text of "Murata Short Fom Catalog OCR"](https://archive.org/stream/Murata-ShortFomCatalogOCR/Murata-ShortFomCatalogOCR_djvu.txt)  ·  `page_047051`
+
+## Facts
+
+- Murata Electronics North America, Inc. manufactures and distributes a vast array of electronic components.
+- The company operates manufacturing facilities in Rockmart, Georgia and State College, Pennsylvania.
+- Murata is one of the world's largest manufacturers of fixed and variable ceramic capacitors.
+- Product lines include potentiometers, piezo alarms, resistor networks, posistors, piezoelectric ceramic filters and resonators, crystal filters and oscillators, EMI/RFI filters, high voltage components, and hybrid circuits.
+- Distribution centers in Georgia and the Northeast support authorized distributors to assure fast delivery.
+- An experienced staff of application engineers is available at all facilities to provide technical support for Murata products.
+- Component reliability is verified through approvals to UL, CSA, and Military specifications.
+- The GRM series features monolithic ceramic chip capacitors in industry standard sizes including 0603, 0805, 1206, 1210, 1812, 1825, 2220, and 2225.
+- Capacitor temperature characteristics include COG (NP0), X7R (+15%), Z5U (+22%, -56%), and Y5V (+22%, -82%).
+- Automatic insertion packaging is available in 8mm and 12mm tape & reel formats.
+- Standard termination materials feature a nickel barrier layer, with palladium silver and tin plating available upon request.
+- The RPE series provides conformal coated radial lead capacitors with voltage ratings ranging from 50V to 500VDC.
+- Temperature compensating variants (N150, N220, N330, N470, N750) are available for the RPE series.

@@ -1,0 +1,44 @@
+---
+title: "Novelis Inc."
+entity_type: company
+supply_chain_category: automotive_components
+page_id: page_047507
+publication_date: 2022-05-11
+source_url: https://investors.novelis.com/sec-filings/all-sec-filings/content/0001304280-22-000027/novelisq4fy22results.htm
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Novelis Inc.
+
+**Type:** company  ·  **Role:** automotive_components  ·  **Published:** 2022-05-11
+
+**Source:** [May 11, 2022 - EX-99.1 - 8-K: Current report filing | Novelis Inc. ()](https://investors.novelis.com/sec-filings/all-sec-filings/content/0001304280-22-000027/novelisq4fy22results.htm)  ·  `page_047507`
+
+## Facts
+
+- Novelis Inc. announced an approximately $2.5 billion greenfield, fully integrated rolling and recycling plant in Bay Minette, Alabama, U.S.
+- Construction of the Bay Minette facility was planned to commence following the May 11, 2022 announcement.
+- The new rolling mill will support strong demand for sustainable beverage can and automotive aluminum sheet.
+- Novelis is considering a number of potential capital investment opportunities over the next five years spanning regions and end markets.
+- Other previously announced U.S. projects include Oswego hot mill debottlenecking and the construction of an automotive recycling center in Guthrie.
+- During fiscal year 2022, Novelis experienced constrained automotive shipments impacted by the global semiconductor chip shortage.
+- Novelis provides innovative aluminum solutions to customers in the aerospace, automotive, beverage can, and specialties industries throughout North America, Europe, Asia, and South America.
+- Novelis Inc. is a subsidiary of Hindalco Industries Limited, the metals flagship company of the Aditya Birla Group.
+- Total flat rolled product shipments reached a record 3,858 kilotonnes in fiscal year 2022.
+- Adjusted EBITDA reached a record $2.0 billion in fiscal year 2022.
+- President and CEO Steve Fisher stated the company is embarking on its next phase of strategic expansion to support customers for the long term.
+- Executive Vice President and CFO Devinder Ahuja noted that record operational performance provides a solid footing to begin the next wave of transformational investments and expand capacity.
+- Novelis ended fiscal year 2022 with strong total liquidity of $2.6 billion as of March 31, 2022.
+- The company expects first quarter fiscal year 2023 Adjusted EBITDA per ton to return to levels above $500 per ton despite continuing impacts from semiconductor shortages and global supply chain challenges.
+- Novelis reported record net income from continuing operations of $1.0 billion for the full fiscal year 2022.
+- Adjusted free cash flow from continuing operations was $649 million in fiscal year 2022, after absorbing more than $400 million of increased working capital pressure from rising aluminum prices.
+- Net sales reached $17.1 billion for the full fiscal year 2022.
+- The net leverage ratio improved to 2.2x at the end of fiscal year 2022, compared to 2.9x at the end of fiscal year 2021.
+
+## Links
+
+- https://cc.callinfo.com/r/1fxvomin9j01c&eom — Earnings conference call webcast link
+- 800-734-8507, 18002662124, +1-212-231-2920 — Earnings conference call dial-in numbers
+- novelis.com/investors — Investor relations and presentation materials website
+- julie.groover@novelis.adityabirla.com — Media contact email
+- megan.cochard@novelis.adityabirla.com — Investor contact email

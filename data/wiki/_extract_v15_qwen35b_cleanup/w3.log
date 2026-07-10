@@ -1,0 +1,42 @@
+v15 test: 40 assigned, 0 already done, 40 to run | model=qwen3.6:35b-a3b | base_url=http://127.0.0.1:11433/v1 | out=data/wiki/_extract_v15_qwen35b_cleanup/w3
+  page_000758: Rivian Automotive, Inc. [pub ?] -> 116 facts, 0 links
+  page_000782: Southern Economic Development Council [pub 2026-06-25] -> 10 facts, 0 links
+  page_000928: Stryten Energy LLC [pub 2026-06-23] -> 31 facts, 2 links
+  page_001413: Electric Vehicles | E2 [pub ?] -> 189 facts, 0 links
+  page_001543: Syensqo [pub 2023-12-11] -> 20 facts, 0 links
+  page_002448: Mativ Holdings, Inc. [pub 2024-05-08] -> 27 facts, 2 links
+  page_002460: [] (no relevant record)
+  page_002916: [] (no relevant record)
+  page_003265: [] (no relevant record)
+  page_003304: Georgia Foreign Trade Zone No. 26 [pub ?] -> 38 facts, 4 links
+  page_003398: DOE OCED eXCHANGE Teaming Partners Directory [pub ?] -> 61 facts, 6 links
+  page_007770: Noise-Damping Interior Insulation and Panel Systems Market [pub ?] -> 143 facts, 0 links
+  page_008056: SK Innovation [pub 2020-08-28] -> 68 facts, 0 links
+  page_008936: Honda Development & Manufacturing of America [pub ?] -> 19 facts, 0 links
+  page_009207: Hyundai Motor Group [pub ?] -> 17 facts, 0 links
+  page_010087: Kia K5 [pub ?] -> 10 facts, 0 links
+  page_012604: [] (no relevant record)
+  page_013308: [] (no relevant record)
+  page_014143: Volvo Cars [pub 2025-04-03] -> 9 facts, 0 links
+  page_015210: [] (no relevant record)
+  page_017269: Aurubis [pub ?] -> 24 facts, 0 links
+  page_017705: Georgia EV Incentives [pub 2025-11-21] -> 70 facts, 0 links
+  page_018136: Bridgestone Corporation [pub 1931-03-01] -> 34 facts, 0 links
+  page_020170: Georgia EV Supply Chain Project [pub ?] -> 51 facts, 0 links
+  page_028346: [] (no relevant record)
+  page_028575: [] (no relevant record)
+  page_028690: The Goodyear Tire & Rubber Company [pub 2033-04-30] -> 29 facts, 2 links
+  page_029500: [] (no relevant record)
+  page_029762: City of East Point [pub ?] -> 25 facts, 13 links
+  page_046295: [] (no relevant record)
+  page_047243: [] (no relevant record)
+  page_048682: Dr. Ing. h.c. F. Porsche AG [pub ?] -> 26 facts, 0 links
+  page_049452: Top 50 Automotive Companies in Georgia [pub ?] -> 55 facts, 43 links
+  page_053061: Tredegar Corporation [pub ?] -> 20 facts, 0 links
+  page_053086: Global Aluminum Extrusion Market [pub ?] -> 35 facts, 1 links
+  page_055041: T1 Energy Inc. [pub 2026-05-29] -> 21 facts, 7 links
+  page_057172: Linde + Wiemann US Inc. [pub ?] -> 6 facts, 1 links
+  page_057243: LINDE + WIEMANN US Inc. [pub ?] -> 6 facts, 1 links
+  page_058097: Top 19 Automotive Electronics Companies in the U.S. [pub ?] -> 47 facts, 19 links
+  page_058165: [] (no relevant record)
+Done: 28 records, 1207 facts, 0 failures this run -> data/wiki/_extract_v15_qwen35b_cleanup/w3/all_records_v15.jsonl

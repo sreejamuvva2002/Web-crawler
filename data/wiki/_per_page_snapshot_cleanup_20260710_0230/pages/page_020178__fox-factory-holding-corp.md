@@ -1,0 +1,48 @@
+---
+title: "Fox Factory Holding Corp."
+entity_type: company
+supply_chain_category: automotive_components
+page_id: page_020178
+publication_date: 2025-11-06
+source_url: https://finance.yahoo.com/news/fox-factory-holding-corp-reports-210500833.html?fr=sycsrp_catchall
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Fox Factory Holding Corp.
+
+**Type:** company  ·  **Role:** automotive_components  ·  **Published:** 2025-11-06
+
+**Source:** [Fox Factory Holding Corp. Reports Third Quarter Fiscal 2025 Financial Results](https://finance.yahoo.com/news/fox-factory-holding-corp-reports-210500833.html?fr=sycsrp_catchall)  ·  `page_020178`
+
+## Facts
+
+- The company reports from Duluth, Ga., on November 06, 2025.
+- Fox Factory Holding Corp. is a global leader in the design, engineering, and manufacturing of premium products that deliver championship-level performance for specialty sports and on- and off-road vehicles.
+- Its portfolio of brands includes FOX, Marucci, Method Race Wheels, and others.
+- Fox Factory is a direct supplier of shocks, suspension, and components to leading powered vehicle and bicycle original equipment manufacturers (OEMs).
+- The company offers premium baseball and softball gear and equipment through its global network of retailers, distributors, and direct-to-consumer channels.
+- Third Quarter Fiscal 2025 net sales increased 4.8% year-over-year to $376.4 million.
+- Year-to-date net sales for the first nine months of fiscal 2025 were up 6.3%.
+- Aftermarket Applications Group (AAG) net sales increased 17.4% to $117.8 million and rose 3.2% sequentially.
+- Powered Vehicles Group (PVG) net sales increased 15.1% to $125.9 million and rose 1.9% sequentially.
+- Gross margin improved 50 basis points year-over-year to 30.4%.
+- The company reported a net loss of $0.6 million, or $0.02 per diluted share, compared to net income of $4.8 million in the prior year quarter.
+- Adjusted EBITDA was $44.4 million, up 5.7% year-over-year, with an adjusted EBITDA margin of 11.8%.
+- Adjusted earnings per diluted share were $0.23, down from $0.35 in the prior year quarter, reflecting higher tariff costs and strategic launch investments.
+- The company extended its credit agreement maturity through October 2030 to enhance financial flexibility.
+- CEO Mike Dennison stated that PVG segment growth was driven by strategic customer program launches and market share gains in motorcycle and powersports applications, which more than offset lower industry demand in automotive original equipment (OE) product lines.
+- The company is implementing a $25 million cost reduction program on track for full delivery this year and is preparing for phase two of this initiative.
+- Fox Factory addressed tariff headwinds during the quarter and made necessary investments in innovation and products, creating near-term margin pressure that was not in initial expectations.
+- Goodwill decreased from $639.5 million to $378.9 million due to a quantitative impairment assessment triggered by adverse changes to U.S. tariff policies, new and expanded tariffs enacted by the current presidential administration, and a sustained decline in the company's stock price.
+- Inventory increased by $7.4 million to $412.1 million, driven by planned inventory builds to support anticipated demand, foreign currency translation, and the impact from higher tariffs.
+- Total debt was $687.7 million as of October 3, 2025, down from $705.1 million as of January 3, 2025.
+- Cash and cash equivalents were $65.4 million as of October 3, 2025.
+- For the fourth quarter of fiscal 2025, net sales are expected to be in the range of $340 million to $370 million.
+- For fiscal year 2025, net sales are expected to be in the range of $1.445 billion to $1.475 billion.
+- Management expects to begin phase two of its optimization initiative in fiscal 2026, focusing on operational initiatives to manage costs tightly toward margin improvement and free cash flow generation.
+- The company acquires complementary businesses to integrate engineering and manufacturing expertise beyond its core shock and suspension segment.
+
+## Links
+
+- http://www.investor.ridefox.com — Conference call webcast archive
+- https://investor.ridefox.com — Investor relations website for public disclosures

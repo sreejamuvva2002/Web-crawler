@@ -1,0 +1,58 @@
+[
+  {
+    "entity_name": "The Goodyear Tire & Rubber Company",
+    "canonical_name": "The Goodyear Tire & Rubber Company",
+    "entity_type": "company",
+    "supply_chain_category": "automotive_components",
+    "facts": [
+      "The Goodyear Tire & Rubber Company is an Ohio corporation organized in 1898 with principal offices at 200 Innovation Way, Akron, Ohio 44316-0001.",
+      "In 2023, the company reported net sales of $20,066 million and a Goodyear net loss of $689 million.",
+      "The company develops, manufactures, distributes, and sells tires for most applications and also manufactures and sells rubber-related chemicals for various applications.",
+      "Goodyear operates approximately 950 retail outlets where it offers its products for sale to consumer and commercial customers and provides repair and other services.",
+      "The company manufactures its products in 55 manufacturing facilities across 22 countries, including the United States, with marketing operations in almost every country worldwide.",
+      "Goodyear employs approximately 71,000 full-time and temporary associates worldwide.",
+      "On June 7, 2021, Goodyear completed its acquisition of Cooper Tire & Rubber Company for cash and stock consideration totaling approximately $3.1 billion.",
+      "On November 15, 2023, the company announced a transformation plan called \"Goodyear Forward\" intended to optimize its portfolio, deliver significant margin expansion, and reduce leverage.",
+      "Goodyear Forward aims to deliver gross proceeds in excess of $2 billion from portfolio optimization by pursuing strategic alternatives for its chemical business, the Dunlop brand, and its off-the-road tire business.",
+      "The transformation plan targets cost reduction actions driving an annual run-rate benefit of $1 billion by the end of 2025.",
+      "The plan also targets top-line actions driving an annual run-rate benefit of $300 million by the end of 2025.",
+      "Goodyear aims to double its segment operating income margin to 10% by the end of 2025 as part of the transformation plan.",
+      "The company operates through three regional tire business segments: Americas, Europe, Middle East and Africa (EMEA), and Asia Pacific.",
+      "Approximately 86% of Goodyear's sales in 2023 were for tire units, while sales of chemical products to unaffiliated customers accounted for 2% of consolidated sales.",
+      "Worldwide tire unit sales totaled 173.3 million in 2023, comprising 87.3 million in the Americas, 49.9 million in EMEA, and 36.1 million in Asia Pacific.",
+      "In 2023, Goodyear sold 130.2 million replacement tire units and 43.1 million original equipment (OE) tire units worldwide.",
+      "Bridgestone and Michelin are Goodyear's two major worldwide competitors in the tire industry.",
+      "Other significant tire competitors include Continental, Hankook, Kumho, Nexen, Pirelli, Sumitomo, Toyo, Yokohama, and various regional manufacturers.",
+      "The Americas segment manufactures tires in eight plants in the United States, two plants in Canada, and six plants in Brazil, Chile, Colombia, Mexico, and Peru.",
+      "Goodyear's Americas commercial business launched new tires under the Goodyear RangeMax line, providing a regional drive tire for emerging commercial electric vehicles.",
+      "The EMEA segment manufactures tires in fifteen plants located in France, Germany, Luxembourg, Poland, Serbia, Slovenia, South Africa, and Turkey.",
+      "The Asia Pacific segment manufactures tires in nine plants located in China, India, Indonesia, Japan, Malaysia, and Thailand.",
+      "Synthetic and natural rubber are the principal raw materials used by Goodyear, with synthetic rubber accounting for approximately 50% of all rubber consumed in 2023.",
+      "Goodyear's plants located in Beaumont and Houston, Texas supply a major portion of its global synthetic rubber requirements.",
+      "As of December 31, 2023, approximately 39,700 of Goodyear's associates were covered under collective bargaining agreements.",
+      "Approximately 5,300 US associates are covered by a master collective bargaining agreement with the United Steelworkers (USW) that expires in July 2026.",
+      "Approximately 2,200 associates at Goodyear's Texarkana and Findlay plants in the US are covered by separate USW agreements expiring in June 2024.",
+      "Goodyear is experiencing increased labor-related costs and manufacturing inefficiencies associated with a tight labor supply in the U.S., prompting accelerated hiring and adjusted investment plans to account for qualified worker availability.",
+      "The company owns approximately 1,700 product, process, and equipment patents issued by the USPTO and approximately 4,400 patents issued or granted in other countries worldwide."
+    ],
+    "links": [
+      {
+        "url": "http://www.goodyear.com",
+        "context": "Company website for annual reports, quarterly reports, and current filings"
+      },
+      {
+        "url": "http://www.sec.gov",
+        "context": "SEC website where company reports can be found"
+      }
+    ],
+    "source_url": "https://www.sec.gov/Archives/edgar/data/42582/000095017024014240/gt-20231231.htm",
+    "source_title": "10-K",
+    "source_domain": "sec.gov",
+    "publication_date": "2033-04-30",
+    "date_precision": "body_dateline",
+    "page_id": "page_028690",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

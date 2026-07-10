@@ -1,0 +1,27 @@
+[
+  {
+    "entity_name": "Macon, Georgia",
+    "canonical_name": "Macon–Bibb County",
+    "entity_type": "facility",
+    "supply_chain_category": "logistics",
+    "facts": [
+      "The aerospace, advanced manufacturing, food processing, healthcare, professional services, and warehouse and distribution industries drive the economy in Macon-Bibb County.",
+      "Long-standing large private employers include Mercer University, GEICO's Southeast Corporate Headquarters, YKK USA, and Norfolk Southern Railway's Brosnan Yard.",
+      "In recent years, the city has successfully landed numerous new employers to diversify the economy, such as Irving Consumer Products and Kuhmo Tire manufacturing plants.",
+      "Multiple aerospace employers operate at the Middle Georgia Regional Airport, including an Embraer aircraft maintenance facility.",
+      "Robins Air Force Base is 10 miles (16km) south of Macon on Highway 247, just east of Warner Robins.",
+      "Macon is served by I-16 (connecting to Savannah and Coastal Georgia), I-75 (connecting to Atlanta to the north and Valdosta to the south), and I-475.",
+      "Approximately 30,000 college students live in the greater Macon area."
+    ],
+    "links": [],
+    "source_url": "https://en.wikipedia.org/wiki/Macon,_Georgia",
+    "source_title": "Macon, Georgia - Wikipedia",
+    "source_domain": "wikipedia.org",
+    "publication_date": "2014-01-01",
+    "date_precision": "body_dateline",
+    "page_id": "page_053109",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

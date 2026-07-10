@@ -1,0 +1,70 @@
+[
+  {
+    "entity_name": "T1 Energy Inc.",
+    "canonical_name": "T1 Energy Inc.",
+    "entity_type": "company",
+    "supply_chain_category": "battery_cell_manufacturing",
+    "facts": [
+      "REX Shares and Tuttle Capital Management announced the launch of the T-REX 2X Long TE Daily Target ETF (Cboe: TEUP), a leveraged ETF providing 2x daily long exposure to T1 Energy Inc. (NYSE: TE).",
+      "T1 Energy is an energy solutions provider developing an integrated U.S. supply chain for solar and batteries.",
+      "As one of the leading solar manufacturing companies in the U.S., the company operates G1_Dallas, a 5GW solar module manufacturing facility.",
+      "T1 Energy is set to open a second manufacturing site, G2_Austin, in late 2026.",
+      "Scott Acheychek, COO of REX, stated that TEUP gives traders exposure to T1 Energy at the center of the U.S.’s clean energy buildout, combining solar manufacturing scale with a battery storage strategy.",
+      "Matt Tuttle, CEO and CIO of Tuttle Capital Management, described T1 Energy as advancing its mission to build a homegrown U.S. solar and storage supply chain.",
+      "The launch expands the T-REX ETF suite, which now includes over 40 leveraged and inverse single-stock ETFs.",
+      "T1 Energy shares dropped more than 4.4% in premarket trading after short seller Fuzzy Panda Research announced it had taken a short position in the company.",
+      "Fuzzy Panda published a report alleging that T1 Energy is not compliant with Foreign Entity of Concern (FEOC) regulations and may not qualify for certain U.S. tax credits.",
+      "The report claims T1’s transfer of intellectual property to Singapore-based Evervolt was intended to establish FEOC compliance, but Evervolt maintains undisclosed ties to Chinese solar manufacturer Trina Solar.",
+      "Fuzzy Panda stated that Evervolt is owned by Tan Chin Piaw, who the firm alleges has maintained business relationships with Trina Solar for more than 15 years.",
+      "Patent records reportedly indicate the intellectual property remains under the ownership of Trina Solar rather than Evervolt.",
+      "According to the short seller, 99% of T1 Energy’s first-quarter revenue was generated through Trina Solar.",
+      "Fuzzy Panda questioned the company’s eligibility for U.S. tax credits, alleging that T1 recorded $41.4 million in tax credits during the first quarter of 2026 despite not yet receiving them.",
+      "The report noted Internal Revenue Service guidance issued in February 2026 established a July 4, 2025 deadline for intellectual property licensing agreements tied to FEOC compliance, while T1’s agreement with Evervolt was reportedly dated December 29, 2025.",
+      "The report additionally alleged that construction of T1’s G2 solar cell manufacturing facility is behind schedule.",
+      "Fuzzy Panda cited drone footage taken in early May that it claims shows limited construction progress and estimated the project is running 12 to 18 months behind schedule.",
+      "T1 management has previously stated that the facility remains on track to begin operations in the fourth quarter of 2026.",
+      "The report also stated that T1 Energy has received subpoenas from both the U.S. Department of Justice and the Securities and Exchange Commission.",
+      "T1 CEO Daniel Barcelo was scheduled to discuss the future of American energy dominance live at 4 PM EST on February 5, 2026.",
+      "Freyr Battery selected Austin, Texas, for its new global headquarters."
+    ],
+    "links": [
+      {
+        "url": "rexshares.com",
+        "context": "Fund information, holdings, and risk disclosures"
+      },
+      {
+        "url": "www.tuttlecap.com",
+        "context": "Company information"
+      },
+      {
+        "url": "stockcharts.com/sc3/ui/?s=TE&p=w&b=5&g=0&id=p86431144783",
+        "context": "T1 Energy stock chart"
+      },
+      {
+        "url": "linkedin.com/posts/t1energy/it-was-quite-a-week-for-solar-energy-on-activity-7426614653268553728-x03V",
+        "context": "Solar energy record on Texas grid post"
+      },
+      {
+        "url": "t.co/ZdlXBkpmDV",
+        "context": "Live discussion tune-in link"
+      },
+      {
+        "url": "lnkd.in/g7893w9f",
+        "context": "Hiring and careers page"
+      },
+      {
+        "url": "businesswire.com/news/home/20260529941513/en/",
+        "context": "Original press release source"
+      }
+    ],
+    "source_url": "https://investorshub.advfn.com/FREYR-Battery-FREY-39893",
+    "source_title": "T1 Energy Inc (TE) Stock Message Board | InvestorsHub",
+    "source_domain": "advfn.com",
+    "publication_date": "2026-05-29",
+    "date_precision": "body_dateline",
+    "page_id": "page_055041",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

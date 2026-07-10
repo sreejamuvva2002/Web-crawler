@@ -1,0 +1,42 @@
+v15 test: 40 assigned, 0 already done, 40 to run | model=qwen3.6:35b-a3b | base_url=http://127.0.0.1:11431/v1 | out=data/wiki/_extract_v15_qwen35b_cleanup/w1
+  page_000397: Kia Sportage [pub 2019-11-26] -> 30 facts, 0 links
+  page_000706: Southeastern Battery Belt [pub ?] -> 56 facts, 0 links
+  page_000809: [] (no relevant record)
+  page_000846: [] (no relevant record)
+  page_001196: Hyundai Motor Company [pub 1967-12-29] -> 27 facts, 0 links
+  page_002443: [] (no relevant record)
+  page_002482: DOE eXCHANGE [pub ?] -> 127 facts, 0 links
+  page_002917: [] (no relevant record)
+  page_003049: [] (no relevant record)
+  page_003153: [] (no relevant record)
+  page_003261: [] (no relevant record)
+  page_003396: CMEI eXCHANGE [pub ?] -> 109 facts, 3 links
+  page_004044: U.S. Department of Energy (DOE) eXCHANGE [pub 2015-09-02] -> 9 facts, 0 links
+  page_005748: [] (no relevant record)
+  page_008642: Hollingsworth & Vose Company [pub ?] -> 65 facts, 0 links
+  page_009488: Hyundai Transys Georgia Powertrain [pub ?] -> 11 facts, 0 links
+  page_012415: Georgia Automotive Parts Manufacturers [pub ?] -> 57 facts, 19 links
+  page_012754: Alvin W. Vogtle Electric Generating Plant [pub ?] -> 91 facts, 0 links
+  page_013188: [] (no relevant record)
+  page_013668: Lithium-ion battery [pub ?] -> 20 facts, 0 links
+  page_015660: Yamaha Motor Manufacturing Corporation of America (YMMC) [pub 2021-07-27] -> 14 facts, 3 links
+  page_016673: [] (no relevant record)
+  page_017491: City of Alpharetta [pub ?] -> 15 facts, 0 links
+  page_019113: [] (no relevant record)
+  page_020178: Fox Factory Holding Corp. [pub 2025-11-06] -> 25 facts, 2 links
+  page_028345: [] (no relevant record)
+  page_028583: [] (no relevant record)
+  page_028686: [] (no relevant record)
+  page_028724: [] (no relevant record)
+  page_045921: HL MANDO AMERICA CORPORATION [pub ?] -> 63 facts, 0 links
+  page_045978: [] (no relevant record)
+  page_047491: Novelis Inc. [pub 2026-05-19] -> 20 facts, 3 links
+  page_049365: Top 24 Electronic Manufacturing Companies in Georgia [pub ?] -> 58 facts, 23 links
+  page_052885: Blue Bird Corporation [pub ?] -> 35 facts, 0 links
+  page_053837: Southern Auto Corridor - Summer 2016 [pub ?] -> 66 facts, 0 links
+  page_053851: Southern Business & Development Big Buffalo Manufacturing Announcements [pub ?] -> 17 facts, 0 links
+  page_054148: [] (no relevant record)
+  page_055011: FREYR Battery [pub 2023-12-31] -> 36 facts, 1 links
+  page_056522: Georgia [pub 2021-09] -> 14 facts, 0 links
+  page_057707: [] (no relevant record)
+Done: 22 records, 965 facts, 0 failures this run -> data/wiki/_extract_v15_qwen35b_cleanup/w1/all_records_v15.jsonl

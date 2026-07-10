@@ -1,0 +1,145 @@
+---
+title: "DOE eXCHANGE"
+entity_type: government_program
+supply_chain_category: government_support
+page_id: page_002482
+publication_date: 
+source_url: https://eere-exchange.energy.gov/
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# DOE eXCHANGE
+
+**Type:** government_program  ·  **Role:** government_support  ·  **Published:** ?
+
+**Source:** [DOE: CMEI eXCHANGE: Funding Opportunities](https://eere-exchange.energy.gov/)  ·  `page_002482`
+
+## Facts
+
+- DE-FOA-0003573: Request for Information (RFI) Industrial Technology Capital Connector from IEDO, deadline 7/10/2026 05:00 PM ET.
+- DE-TA3-0003589: Critical Minerals & Materials Accelerator (CMMA) - Topic Area 3 NOFO from AMMTO, deadline 4/24/2026 05:00 PM ET, closes 7/23/2026 05:00 PM ET.
+- DE-TA2-0003589: CMMA - Topic Area 2 NOFO from AMMTO, deadline 4/24/2026 05:00 PM ET, closes 6/25/2026 05:00 PM ET.
+- DE-TA1-0003589: CMMA - Topic Area 1 NOFO from AMMTO, deadline 4/24/2026 05:00 PM ET, closes 5/29/2026 05:00 PM ET.
+- TPL-0000072: Teaming Partner List for DE-FOA-0003472: Next-Generation Geothermal Field Tests and Geothermal Resource Characterization and Confirmation.
+- DE-LC-0000121: Streamlining Hydropower Permitting Lab Call from WPTO, deadline 5/29/2026 05:00 PM ET.
+- DE-LC-1000121: Building a National Laboratory Consortium to Address Regional Energy and Water Resource Challenges RFI from WPTO, deadline 5/11/2026 11:59 PM ET.
+- DE-FOA-0003472: Next-Generation Geothermal Field Tests and Geothermal Resource Characterization and Confirmation NOFO from GTO, deadline 3/27/2026 05:00 PM ET, closes 5/14/2026 05:00 PM ET.
+- TPL-0000071: Teaming Partner List for the FY26 TCF Base CLIMR: Commercialization Enabling Lab Call.
+- DE-LC-000L129: FY26 Technology Commercialization Fund Base Annual Appropriations Core Laboratory Infrastructure for Market Readiness: Commercialization Enabling Topic Lab Call from OTT, deadline 4/1/2026 03:00 PM ET, closes 6/16/2026 03:00 PM ET.
+- DE-LC-000L127: FY26 Spring Energy I-Corps Lab Call from OTT, deadline 10/17/2025 03:00 PM ET.
+- TPL-0000069: Critical Minerals and Materials Accelerator: Teaming Partner List.
+- DE-FOA-0003588: Notice of Intent to issue Critical Minerals and Materials Accelerator NOFO from AMMTO, deadline TBD.
+- DE-FOA-0003568: Request for Information: Energy Critical Materials Assessment RFI from AMMTO, deadline 7/25/2025 05:00 PM ET.
+- DE-LC-000L126: FY25 Fall Energy I-Corps Lab Call from OTT, deadline 4/11/2025 03:00 PM ET.
+- TPL-0000068: Teaming Partner List for FY25 Vehicle Technology Office (VTO) Program Wide NOFO; DE-FOA-0003514.
+- DE-FOA-0003514: Fiscal Year 2025 Vehicle Technologies Office (VTO) Program Wide Funding Opportunity Announcement NOFO from VTO, deadline 4/1/2025 05:00 PM ET, closes 6/18/2025 05:00 PM ET.
+- TPL-0000066: Circular Supply Chains Accelerator: Teaming Partner List.
+- DE-FOA-0003527: Request for Information on Public Feedback on AMMTO Wide Bandgap Power Electronics Strategic Framework RFI from AMMTO, deadline 4/11/2025 05:00 PM ET.
+- DE-FOA-0003507: Draft National Landscape of High-Impact Crosscutting Opportunities for Next Generation Harsh Environment Materials and Manufacturing Process Research, Development, and Demonstration RFI from AMMTO, deadline 3/15/2025 05:00 PM ET.
+- DE-FOA-0003512: The Circular Supply Chains Accelerator NOFO from AMMTO, deadline 3/31/2025 05:00 PM ET, closes 7/18/2025 05:00 PM ET.
+- DE-FOA-0003520: Maximizing Algal System Yield (MASY) NOFO from BETO, deadline 2/21/2025 05:00 PM ET, closes 5/15/2025 05:00 PM ET.
+- DE-FOA-0003518: Sustainable Propane and Renewable Chemicals (SPARC) NOFO from BETO, deadline 3/14/2025 05:00 PM ET, closes 5/30/2025 05:00 PM ET.
+- TPL-0000067: SMASH Incubator Teaming Partner List.
+- DE-FOA-0003460: Solar Module and Solar Hardware (SMASH) Incubator NOFO from SETO, deadline 3/21/2025 05:00 PM ET, closes 5/30/2025 05:00 PM ET.
+- DE-LC-0000122: ITO FY25-FY27 Lab Call from IEDO, deadline 2/5/2025 05:00 PM ET, closes 6/3/2025 05:00 PM ET.
+- TPL-0000065: Teaming Partner List for DE-FOA-0003492: Solar with Wildlife and Ecosystem Benefits 2 (SolWEB2).
+- DE-FOA-0003492: Solar with Wildlife and Ecosystem Benefits 2 (SolWEB2) NOFO from SETO, deadline 2/14/2025 11:59 PM ET, closes 5/2/2025 05:00 PM ET.
+- DE-FOA-0003535: DE-FOA-0003535 Request for Information (RFI): Defining Sustainable Maritime Fuels in the United States from BETO, deadline 2/28/2025 05:00 PM ET.
+- DE-FOA-0003517: DE-FOA-0003517 Notice of Intent to Publish Notice of Funding Opportunity No. DE-FOA-0003518 AND Notice of Funding Opportunity No. DE-FOA-0003520 from BETO, deadline TBD.
+- DE-FOA-0003373: Bipartisan Infrastructure Law (BIL), Provision 41007(b)(2), Wind Turbine Technology Recycling NOFO from WETO, deadline 2/11/2025 05:00 PM ET.
+- DE-FOA-0003439: Advanced Hydrogen and Fuel Cell Technologies to Drive National Goals NOFO from HFTO, deadline 11/20/2024 05:00 PM ET, closes 1/31/2025 05:00 PM ET.
+- DE-LC-000L124: FY25 Technology Commercialization Fund Base Annual Appropriations Core Laboratory Infrastructure for Market Readiness Lab Call from OTT, deadline 12/12/2024 03:00 PM ET, closes 3/27/2025 03:00 PM ET.
+- DE-FOA-0003455: Circularity for Secure and Sustainable Products and Materials: A Draft Strategic Framework RFI from AMMTO, deadline 12/16/2024 05:00 PM ET.
+- DE-FOA-0003443: Notice of Intent to Issue Notice of Funding Opportunity DE-FOA-0003373: Bipartisan Infrastructure Law (BIL), Provision 41007(b)(2), Wind Turbine Technology Recycling from WETO, deadline TBD.
+- TPL-0000062: Teaming Partner List - DE-FOA-0003362: U.S.-Danish Floating Offshore Wind Energy Mooring and Anchoring.
+- DE-FOA-0003362: U.S.-Danish Floating Offshore Wind Energy Mooring and Anchoring Research and Development FOA from WETO, deadline 1/17/2025 05:00 PM ET.
+- DE-FOA-0003433: Notice of Intent to Issue Funding Opportunity Announcement DE-FOA-3434: Bipartisan Infrastructure Law (BIL) Electric Drive Vehicle Battery Improving Economics, Recovery and Reuse, and State of Health. from VTO, deadline TBD.
+- DE-FOA-0003465: Technology and Market Potential of Photovoltaic-Thermal (PVT) Systems in the United States RFI from SETO, deadline 12/31/2024 05:00 PM ET.
+- TPL-0000061: Teaming Partner List for SuperTruck Charge FOA.
+- DE-FOA-0003344: SuperTruck Charge FOA from VTO, deadline 10/8/2024 05:00 PM ET, closes 11/20/2024 05:00 PM ET.
+- TPL-0000060: TPL-0000060 - Teaming Partner List for DE-FOA-0003371 FY24 Scale-Up of Integrated Biorefineries.
+- DE-FOA-0003371: FY24 Scale-Up of Integrated Biorefineries FOA from BETO, deadline 11/7/2024 05:00 PM ET, closes 1/31/2025 05:00 PM ET.
+- TPL-0000058: Teaming Partner List for DE-FOA-0003439: Advanced Hydrogen and Fuel Cell Technologies to Drive National Goals.
+- TPL-0000059: Teaming Partner List for the FY25 TCF Base CLIMR Lab Call.
+- DE-FOA-0003438: Notice of Intent (NOI) to Issue Notice of Funding Opportunity (NOFO) Advanced Hydrogen and Fuel Cell Technologies to Drive National Decarbonization DE-FOA-0003439 from HFTO, deadline TBD.
+- DE-FOA-0003459: Notice of Intent to Issue Fiscal Year 2025 Solar Module and Solar Hardware (SMASH) Incubator Notice of Funding Opportunity from SETO, deadline TBD.
+- DE-LC-0000124: Notice of Intent to Publish the FY25 Technology Commercialization Fund Base Annual Appropriations Core Laboratory Infrastructure for Market Readiness Lab Call from OTT, deadline TBD.
+- DE-FOA-0003463: Distributed Energy Resource Interconnection Roadmap Draft RFI from SETO, deadline 10/10/2024 11:59 PM ET.
+- DE-FOA-0003426: Microelectronics Energy Efficiency Scaling for 2 Decades (EES2) RD&D Roadmap RFI from AMMTO, deadline 12/16/2024 05:00 PM ET.
+- TPL-0000057: Teaming Partner List for DE-FOA-0003383: Fiscal Year 2024 Vehicle Technologies Office Batteries Funding Opportunity Announcement.
+- DE-FOA-0003383: Fiscal Year 2024 Vehicle Technologies Office Batteries Funding Opportunity Announcement FOA from VTO, deadline 9/9/2024 05:00 PM ET, closes 10/30/2024 05:00 PM ET.
+- DE-FOA-0003427: Notice of Intent to Issue Funding Opportunity Announcement DE-FOA-0003415 Oceans of Opportunity: U.S. Wave Energy Open Water Testing from WPTO, deadline TBD.
+- DE-FOA-0003416: Residential Wood Heater In-Situ Testing RFI from BETO, deadline 9/30/2024 05:00 PM ET.
+- DE-FOA-0003334: Offshore Wind National and Regional Research and Development FOA from WETO, deadline 9/3/2024 05:00 PM ET, closes 11/7/2024 05:00 PM ET.
+- DE-FOA-0003435: Request for Information (RFI) on Enhancing Coordination of the Lab Embedded Entrepreneurship Program (LEEP) from AMMTO, deadline 9/26/2024 05:00 PM ET.
+- TPL-0000052: Teaming Partner List for DE-FOA-0003136 Connected Communities 2.0 FOA.
+- DE-FOA-0003136: Connected Communities 2.0: Innovations to Manage Growing Transportation, Building, and Industrial Loads to the Grid FOA from BTO, deadline 8/20/2024 05:00 PM ET, closes 10/16/2024 05:00 PM ET.
+- DE-FOA-0003329: Smart Manufacturing Technologies for Material and Process Innovation FOA from AMMTO, deadline 8/22/2024 05:00 PM ET, closes 11/18/2024 05:00 PM ET.
+- TPL-0000056: WPIN: Teaming Partner List.
+- DE-FOA-0003389: DE-FOA-0003389 Request for Information (RFI) on Renewable Propane Production Technologies and Uses from BETO, deadline 8/5/2024 05:00 PM ET.
+- DE-FOA-0003323: Water Power Innovation Network FOA from WPTO, deadline 8/28/2024 05:00 PM ET, closes 10/23/2024 05:00 PM ET.
+- DE-FOA-0002826: Bipartisan Infrastructure Law Enhanced Geothermal Systems (EGS) Pilot Demonstrations FOA from GTO, deadline 7/18/2024 05:00 PM ET, closes 9/25/2024 05:00 PM ET.
+- DE-FOA-0003248: FY2024 Vehicle Technologies Office Research & Development Funding Opportunity Announcement FOA from VTO, deadline 5/2/2024 05:00 PM ET, closes 6/24/2024 05:00 PM ET.
+- TPL-0000054: Teaming Partner List for DE-FOA-0003289: Fiscal Year 2024 Solar Energy Supply Chain Incubator FOA.
+- TPL-0000055: Geothermal Technologies Office Geothermal Resources’ Value in Implementing Decarbonization (GTO GRID) FOA Teaming Partner List.
+- DE-FOA-0003346: GTO GRID FOA from GTO, deadline 7/24/2024 05:00 PM ET, closes 9/9/2024 05:00 PM ET.
+- DE-FOA-0003289: Fiscal Year 2024 Solar Energy Supply Chain Incubator FOA FOA from SETO, deadline 7/19/2024 05:00 PM ET, closes 10/7/2024 05:00 PM ET.
+- TPL-0000053: Topic Information for Teaming Partners List Associated with Funding Opportunity DE-FOA-0003331.
+- DE-FOA-0003382: Notice of Intent to Issue FY24 Vehicle Technologies Office Batteries & Electrification Funding Opportunity Announcement DE-FOA-0003383 from VTO, deadline TBD.
+- DE-FOA-0003331: Solar Technologies’ Rapid Integration and Validation for Energy Systems (STRIVES) FOA from SETO, deadline 7/25/2024 05:00 PM ET, closes 10/25/2024 05:00 PM ET.
+- DE-FOA-0003363: Notice of Request for Information (RFI) on Transforming Industry: Strategies for Decarbonization from IEDO, deadline 6/24/2024 05:00 PM ET.
+- DE-LC-0000119: FY24 VTO Lab Call from VTO, deadline 6/12/2024 05:00 PM ET.
+- DE-FOA-0003353: Progression of Net-Zero Emission Propulsion Technologies for the Off-Road Sector RFI from BETO, deadline 6/7/2024 05:00 PM ET.
+- TPL-0000051: Photovoltaics Research and Development (PVRD) FOA 2024 Teaming Partner List.
+- DE-FOA-0003337: Photovoltaics Research and Development (PVRD) FOA 2024 FOA from SETO, deadline 6/12/2024 05:00 PM ET, closes 7/1/2024 05:00 PM ET and 9/16/2024 05:00 PM ET.
+- DE-FOA-0003072: WASTE: Waste Analysis and Strategies for Transportation End-uses FOA from BETO, deadline 6/20/2024 05:00 PM ET, closes 9/9/2024 05:00 PM ET.
+- DE-FOA-0003372: EERE Wide Joint NOI for Field Validation FOAs from SETO, deadline TBD.
+- DE-FOA-0003352: Notice of Intent to Issue SuperTruck Charge FOA from VTO, deadline TBD.
+- TPL-0000050: Offshore Wind National and Regional Research and Development Teaming Partner List.
+- DE-FOA-0003345: Notice of Intent to Issue Funding Opportunity Announcement No. DE-FOA-0003334 Offshore Wind National and Regional Research and Development from WETO, deadline TBD.
+- DE-FOA-0003315: Request For Information: U.S. Domestic Wind Turbine Blade Manufacturing Innovation RFI from WETO, deadline TBD.
+- TPL-0000047: Teaming Partner List for Joint Office of Energy and Transportation: Communities Taking Charge Accelerator FOA DE-FOA-0003214.
+- DE-FOA-0003214: Bipartisan Infrastructure Law (BIL) – Joint Office of Energy and Transportation: Communities Taking Charge Accelerator, Fiscal Year 2024 Funding Opportunity Announcement FOA from JOET, deadline 5/20/2024 05:00 PM ET, closes 7/16/2024 05:00 PM ET.
+- DE-FOA-0003328: Notice of Intent to Issue Funding Opportunity Announcement No. DE-FOA-0003329 Smart Manufacturing from AMMTO, deadline TBD.
+- DE-LC-000L120: DATA, ANALYSIS, AND MODELING TOOLS LAB CALL from AMMTO, deadline 6/11/2024 05:00 PM ET.
+- DE-FOA-0003274: MACRO - Mixed Algae Conversion Research Opportunity FOA from BETO, deadline 5/10/2024 05:00 PM ET, closes 7/18/2024 05:00 PM ET.
+- TPL-0000048: Teaming partner list for DE-FOA-0003269, "Concentrating Solar Flux to Heat and Power".
+- DE-FOA-0003269: Concentrating Solar Flux to Heat and Power FOA from SETO, deadline 5/16/2024 05:00 PM ET, closes 8/16/2024 05:00 PM ET.
+- TPL-0000049: Teaming Partner List for DE-FOA-0003246 Solar and Wind Interconnection for Future Transmission (SWIFTR).
+- DE-FOA-0003327: Notice of Intent to Issue Funding Opportunity Announcement No. DE-FOA-0003323 - Water Power Innovation Network from WPTO, deadline TBD.
+- DE-FOA-0003318: Notice of Intent to Issue Funding Opportunity Announcement DE-FOA-0003183 Bipartisan Infrastructure Law (BIL), Provision 41007(b)(1), Aerodynamics for Offshore Wind Performance and Reliability from WETO, deadline TBD.
+- DE-FOA-0003246: Solar and Wind Interconnection for Future Transmission (SWIFTR) FOA from SETO, deadline 4/17/2024 05:00 PM ET, closes 7/11/2024 05:00 PM ET.
+- DE-LC-0000112: FY24 WPTO Hydropower Lab Call from WPTO, deadline 4/2/2024 03:00 AM ET, closes 6/6/2024 05:00 PM ET.
+- DE-LC-0000118: NATIONAL LABORATORY CALL FOR TECHNICAL ASSISTANCE WITH HYDROPOWER HYBRIDS AND PUMPED STORAGE HYDROPOWER from WPTO, deadline 6/6/2024 05:00 PM ET.
+- DE-FOA-0003338: NOI: Concentrating Solar Flux to Heat and Power from SETO, deadline TBD.
+- TPL-0000038: Teaming Partner List for DE-FOA-0003178 Inflation Reduction Act Funding for Advanced Biofuels.
+- DE-FOA-0003178: Inflation Reduction Act Funding for Advanced Biofuels FOA from BETO, deadline 3/22/2024 05:00 PM ET, closes 6/14/2024 05:00 PM ET.
+- TPL-0000043: Teaming Partner List for DE-FOA-0003250 FY24 VTO TI FOA.
+- DE-FOA-0003250: Fiscal Year 2024 VTO Technology Integration (TI) Funding Opportunity Announcement FOA from VTO, deadline 3/12/2024 05:00 PM ET, closes 4/30/2024 05:00 PM ET.
+- DE-FOA-0003209: Regional Resource Hubs for Purpose-Grown Energy Crops FOA from BETO, deadline 3/14/2024 05:00 PM ET, closes 6/13/2024 05:00 PM ET.
+- TPL-0000042: Combined Wellbore Construction High Temperature Tools and Reservoir Thermal Energy Storage (RTES) Teaming Partner List.
+- DE-FOA-0003296: Combined Wellbore Construction High Temperature Tools and Reservoir Thermal Energy Storage (RTES) FOA from GTO, deadline 3/1/2024 05:00 PM ET, closes 4/1/2024 05:00 PM ET.
+- DE-FOA-0003219: FY24 Energy and Emissions Intensive Industries FOA from IEDO, deadline 3/19/2024 05:00 PM ET, closes 7/2/2024 05:00 PM ET.
+- DE-FOA-0003236: Platform Technologies for Transformative Battery Manufacturing FOA from AMMTO, deadline 3/4/2024 05:00 PM ET, closes 5/7/2024 05:00 PM ET.
+- DE-FOA-0003304: RFI on Supporting Success for Low-Income and Disadvantaged Community Solar Program Design, Implementation, and Adoption from SETO, deadline 2/23/2024 05:00 PM ET.
+- DE-FOA-0003275: Receivers and Reactors for Concentrating Solar-Thermal Power Plants and Solar Industrial Process Heat RFI from SETO, deadline 2/20/2024 05:00 PM ET.
+- TPL-0000039: Teaming Partner List for DE-FOA-0003097 Marine Energy University Foundational R&D.
+- DE-FOA-0003308: Small Innovative Projects in Solar: Concentrating Solar Power and Photovoltaics (SIPS: CSP & PV) – Annual FOA from SETO, deadline 3/6/2024 05:00 PM ET.
+- DE-FOA-0003302: Offshore Wind National and Regional Research and Development Priorities RFI from WETO, deadline TBD.
+- DE-FOA-0003097: Marine Energy Foundational R&D FOA from WPTO, deadline 2/20/2024 05:00 PM ET, closes 5/6/2024 05:00 PM ET.
+- DE-FOA-0003247: Notice of Intent to Issue FY24 VTO R&D FOA DE-FOA-0003248 from VTO, deadline TBD.
+- DE-FOA-0003249: Notice of Intent to Issue FY24 VTO Technology Integration FOA DE-FOA-0003250 from VTO, deadline TBD.
+- DE-FOA-0003270: Supercritical Carbon Dioxide based Turbomachinery for Concentrating Solar Power Plants RFI from SETO, deadline 2/20/2024 05:00 PM ET.
+- DE-FOA-0003120: Bipartisan Infrastructure Law (BIL) FY23 BIL Electric Drive Vehicle Battery Recycling and Second Life Applications FOA from VTO, deadline 2/7/2024 05:00 PM ET, closes 4/19/2024 05:00 PM ET.
+- TPL-0000037: Teaming Partner List For FOA DE-FOA-0003209 Regional Resource Hubs for Purpose-Grown Energy Crops.
+- DE-FOA-0003233: Notice of Intent to Publish Regional Resource Hubs for Purpose-Grown Energy Crops from BETO, deadline TBD.
+- DE-FOA-0003213: Hydrogen and Fuel Cell Technologies Office FOA to Advance the National Clean Hydrogen Strategy FOA from HFTO, deadline 1/26/2024 05:00 PM ET, closes 3/22/2024 05:00 PM ET.
+- TPL-0000036: Teaming Partner List for DE-FOA-0003226, Solar Energy Evolution and Diffusion Studies 4 (SEEDS 4) FOA.
+- DE-FOA-0003226: Solar Energy Evolution and Diffusion Studies 4 (SEEDS 4) FOA from SETO, deadline 1/30/2024 05:00 PM ET, closes 3/15/2024 05:00 PM ET.
+- DE-FOA-0003155: Critical Materials Accelerator FOA from AMMTO, deadline 1/5/2024 05:00 PM ET, closes 3/22/2024 05:00 PM ET.
+- TPL-0000034: Teaming Partner List for DE-FOA-0003103.
+- TPL-0000030: Teaming Partner List for DE-FOA-0003219: FY24 Energy and Emissions Intensive Industries.
+- DE-FOA-0003218: Notice of Intent to Issue FOA - DE-FOA-0003219: FY24 Energy and Emissions Intensive Industries from IEDO, deadline TBD.
+- DE-FOA-0003206: Industrial Efficiency and Decarbonization Office (IEDO) Fiscal Year 2024 Cross-Sector Technologies FOA from IEDO, deadline 12/18/2023 05:00 PM ET, closes 3/26/2024 05:00 PM ET.
+- DE-FOA-0003103: Strategies to Increase Hydropower Flexibility FOA from WPTO, deadline 2/9/2024 05:00 PM ET, closes 5/17/2024 05:00 PM ET.
+- DE-LC-000L110: FY24 Technology Commercialization Fund Base Annual Appropriations Core Laboratory Infr (content cuts off).

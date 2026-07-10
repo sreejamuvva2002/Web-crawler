@@ -1,0 +1,113 @@
+---
+title: "Utah Alternative Fuels Laws and Incentives Program"
+entity_type: policy_or_incentive
+supply_chain_category: government_support
+page_id: page_005025
+publication_date: 
+source_url: https://afdc.energy.gov/laws/all?state=UT
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Utah Alternative Fuels Laws and Incentives Program
+
+**Type:** policy_or_incentive  ·  **Role:** government_support  ·  **Published:** ?
+
+**Source:** [Alternative Fuels Data Center: Utah Laws and Incentives](https://afdc.energy.gov/laws/all?state=UT)  ·  `page_005025`
+
+## Facts
+
+- The page lists summaries of current Utah laws, incentives, regulations, funding opportunities, and initiatives related to alternative fuels/vehicles, advanced technologies, or air quality.
+- The Utah Department of Environmental Quality (DEQ) administers the Clean Fleet Program.
+- The Clean Fleet Program provides reimbursement grants up to a certain percentage to fleets to replace existing fleet vehicles and non-road diesel equipment with all-electric (up to 45% reimbursement, including charging equipment and installation), low-NOx (up to 35%), or new diesel (up to 25%) vehicles.
+- Replacement vehicles that are low-NOx can be compressed natural gas or diesel engines pursuant to California Air Resources Board Optional Low-NOx Standards.
+- Grants must be used to replace vehicles and equipment that meet age and operational requirements.
+- Replaced vehicles and equipment must be permanently disabled within 90 days of putting the replacement vehicle or equipment into service.
+- The U.S. Department of Transportation’s (DOT) NEVI Formula Program required the Utah Department of Transportation (UDOT) to submit an annually updated EV Infrastructure Deployment Plan for fiscal years 2022 through 2026.
+- The plan must describe how the state intends to distribute NEVI funds and their physical and cybersecurity strategies, and include a Community Engagement Outcomes Report.
+- Taxpayers may be eligible for a tax credit for the purchase of a qualified heavy-duty AFV through July 1, 2029.
+- Qualifying fuels for the heavy-duty AFV tax credit include natural gas, electricity, and hydrogen.
+- The tax credit amounts are: $12,000 in 2023; $10,500 in 2024; $9,000 in 2025; $7,500 in 2026; $6,000 in 2027; $4,500 in 2028; $3,000 in 2029; and $1,500 in 2030.
+- At least 50% of the qualified vehicle’s miles must be driven in Utah.
+- A single taxpayer may claim credits for up to 10 AFVs annually.
+- If more than 30% of total available tax credits in a single year are unclaimed by May 1, a taxpayer may apply for credits for an additional eight AFVs.
+- Up to 25% of the tax credits are reserved for taxpayers with small fleets of less than 40 vehicles.
+- The Utah DEQ Conversion to Alternate Fuel Grant Program provides grants to businesses and government entities that install conversion equipment on eligible vehicles to operate on alternative fuel.
+- Award recipients must pass savings along to the individual who purchases the converted vehicle.
+- Grants may cover 50% of conversion costs, up to $2,500.
+- Eligible vehicles must operate solely on alternative fuel and may include on-road vehicles and off-road equipment.
+- Eligible alternative fuels include propane, natural gas, and electricity.
+- The alternative fuel vehicle conversion grant may be available through July 1, 2029.
+- Propane and electricity used to operate motor vehicles are exempt from state motor fuel taxes in Utah.
+- Businesses that convert natural gas to hydrogen fuel, or produce natural gas solely for use in producing hydrogen fuel for zero emission vehicles (ZEVs), may be eligible for an oil and gas severance tax credit.
+- Each eligible applicant may receive a tax credit equal to the amount of severance tax owed, up to $5 million per year.
+- A vehicle primarily powered by natural gas or electric battery power may exceed Utah’s gross vehicle weight limits by a weight equal to the difference between its weight and a comparable diesel vehicle's weight.
+- The maximum gross weight for these vehicles may not exceed 82,000 pounds.
+- Propane, natural gas, all-electric, plug-in hybrid electric, and hydrogen vehicles are permitted to use HOV lanes regardless of passenger count in Utah.
+- Qualified vehicles must display a special decal issued by UDOT.
+- The HOV lane exemption program expired September 30, 2025.
+- Vehicles powered exclusively by electricity are exempt from state motor vehicle emissions inspections in Utah.
+- City of Murray operates as a municipal utility in Utah and provides incentives related to alternative fuels and vehicles.
+- Lehi City Corporation operates as a municipal utility in Utah and provides incentives related to alternative fuels and vehicles.
+- Morgan City operates as a municipal utility in Utah and provides incentives related to alternative fuels and vehicles.
+- Rocky Mountain Power is an investor-owned utility operating in multiple states that provides EV incentives.
+- Rocky Mountain Power offers residential EV Time-of-Use (TOU) rates, Level 2 charging station purchase rebates, and Level 2 charging station installation rebates.
+- Rocky Mountain Power offers non-residential EV Level 2 charging station purchase and installation rebates, DC fast charging station purchase and installation rebates, and make-ready/pre-wiring rebates for EV chargers.
+- EV, PHEV, and HEV owners in Utah must pay an additional annual registration fee.
+- A six-month registration option with lower fees is available.
+- As of April 1, 2025, annual registration fees are: $143.25 for EVs, $62.25 for PHEVs, and $24.25 for HEVs.
+- EV drivers can choose to pay the flat fee or enroll in Utah’s Road Usage Charge Program to pay based on miles driven, up to the flat fee amount.
+- The Road Usage Charge Program allows owners of all-electric, PHEV, and HEV vehicles to enroll in a mileage-based roadway operations and maintenance fee program administered by UDOT.
+- Road use fees are adjusted annually for inflation based on the CPI.
+- Fee schedules for the Road Usage Charge Program range from $0.0100/mile ($130.25 max in 2023) to $0.015/mile ($240 max in 2032 and later), with CPI adjustments applied through 2033 and later.
+- A six-month option with a lower maximum road use fee is available for the Road Usage Charge Program.
+- Utah joined Arizona, Colorado, Idaho, Montana, Nevada, New Mexico, and Wyoming in signing the REV West memorandum of understanding (MOU) in 2017 to create an Intermountain West EV Corridor.
+- In 2019, Signatory States signed a revised REV West MOU to update EV corridor goals based on progress.
+- Signatory States are committed to educating consumers/fleet owners, coordinating charging station locations, promoting voluntary minimum standards for EV chargers, incorporating chargers into planning/building codes, encouraging EV manufacturers to stock/markets EVs, identifying funding opportunities, and supporting DC fast charging build-out.
+- The Signatory States maintain a coordination group of senior leadership meeting quarterly, now convened as ChargeWestTM.
+- In 2021, ChargeWest published an EV Charging needs Assessment for the region.
+- Effective January 1, 2025, CNG, hydrogen, LNG, electricity, and propane are taxed at rates listed in gasoline or diesel gallon equivalent (GGE/DGE).
+- One GGE equals 5.660 lbs of CNG or 2.198 lbs of hydrogen; one DGE equals 6.06 lbs of LNG.
+- The tax rate for natural gas and hydrogen is annually adjusted by the State Tax Commission, published no later than 60 days prior to the effective date.
+- As of 2025, CNG, Hydrogen, and LNG are taxed at $0.207 with a maximum of $0.225/GGE or DGE, while electricity and propane are exempt.
+- Vehicles converted to operate on CNG must be inspected and certified by a CSA America-certified CNG Fuel System Inspector.
+- Converted vehicles must be tested to meet emissions standards in the applicable county.
+- A person performing a conversion must certify that it does not tamper with the vehicle’s on-board diagnostic system.
+- A CSA America-certified inspector must inspect the vehicle every three years, or every 36,000 miles, and after collisions over 5 mph.
+- The Utah Division of Air Quality may develop programs to coordinate emissions/anti-tampering compliance testing, vehicle safety, and air quality improvements.
+- The Utah Public Service Commission may allow a gas corporation to set a natural gas vehicle fuel rate less than full cost if reasonable and in the public interest.
+- Remaining costs from discounted rates may be spread to other customers of the gas corporation.
+- The Commission may allow recovery of expenditures for natural gas fueling stations through an incremental surcharge, capped at $5 million annually, if it finds expenditures reasonable, in the public interest, and results in >50% annual revenue increase for the stations/facilities.
+- The Commission may allow a gas corporation to establish a natural gas incentive program for renewable natural gas if reasonable and in the public interest.
+- The Utah State Tax Commission may require clean fuel vehicles to be inspected for safe operation.
+- Clean fuel vehicles with a gross vehicle weight rating over 26,000 pounds or more than three axles must obtain a special fuel user permit from the Commission.
+- Clean fuels are defined as propane, natural gas, electricity, and hydrogen.
+- All local agencies in Utah must facilitate the proper operation of Automated Vehicles (AVs).
+- AVs are motor vehicles with automated driving systems that perform the entire driving task on a sustained basis.
+- Low-speed vehicles are only allowed on roadways with speed limits up to 35 mph and must comply with all federal/state regulations.
+- Low-speed vehicles must display a slow-moving vehicle identification emblem on the rear.
+- Low-speed vehicles are defined as four-wheel electric vehicles (not golf carts/off-road) operating at speeds up to 25 mph, carrying up to six passengers.
+- An entity providing EV battery charging services is not defined as a public utility in Utah unless it conducts another regulated activity.
+- Entities providing EV charging must obtain electricity from a regulated utility at established rates.
+- At least 50% of new or replacement light-duty state agency vehicles in Utah must meet Bin 2 emissions standards or be propelled significantly by electricity, natural gas, propane, hydrogen, or biodiesel.
+- Interlocal entities like counties, local districts, and military installations are authorized to issue bonds for EV charging infrastructure facilities or improvements.
+- EV charging infrastructure is defined as any permanent equipment on commercial/industrial property that charges or stores energy for delivery to EVs.
+- Idling of any unattended vehicle is prohibited in Utah, with violators facing up to $750 penalty and/or 90 days imprisonment.
+- Drivers on state roads are encouraged to avoid excessive idling (more than 10-15 seconds for passenger vehicles).
+- School bus drivers must turn off engines at loading/unloading areas and limit warm-up time per manufacturer recommendations.
+- All Utah school bus drivers receive a minimum of 30 minutes of idling reduction instruction during annual service training.
+- School districts must revise bus schedules to maximize efficiency and assign cleanest buses to longest routes.
+- A local highway authority may not enact an ordinance prohibiting vehicle idling unless it is primarily educational, requires one warning before a fine, matches parking violation fines, ensures law enforcement safety, and applies to public/open property.
+- The Utah Public Service Commission is authorized to establish a large-scale utility EV charging station program with a maximum cost of $50,000,000.
+- The program may include utility-owned stations, a new rate structure, and a public education plan.
+- Utilities implementing EV charging programs must submit annual progress reports by June 1 for the previous calendar year.
+- Individuals filing Utah state income tax returns may designate contributions to the Clean Air Fund.
+- The Utah Department of Air Quality will distribute Clean Air Fund funds annually for programs educating the public on air quality and alternative fuel vehicles.
+- UDOT must lead state agencies in creating a statewide EV plan to provide charging stations along certain state highways at distances no greater than every 50 miles.
+- EV charging station locations must be installed by December 31, 2025.
+- In August 2021, UDOT published the Utah Statewide Electric Vehicle Charging Network Plan.
+- The Utah Department of Workforce Services Community Impact Fund provides grants and loans to state subdivisions for infrastructure storing, distributing, or producing hydrogen for zero emission motor vehicles, or plants for producing zero emission hydrogen fueled trucks.
+- The retail sale of electricity for EV charging in Utah is subject to a 12.5% tax.
+- The EV charging electricity tax may be based on kilowatt hours sold, cost to charge per hour, or a subscription fee.
+
+## Links
+

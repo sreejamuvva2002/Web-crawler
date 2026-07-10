@@ -1,0 +1,109 @@
+[
+  {
+    "entity_name": "JTEKT Corporation",
+    "canonical_name": "JTEKT Corporation",
+    "entity_type": "company",
+    "supply_chain_category": "automotive_components",
+    "facts": [
+      "JTEKT North America Corporation operates a Regional Headquarters at 7 Research Drive, Greenville, SC 29607, USA.",
+      "JTEKT North America Corporation maintains a Plymouth Office at 47771 Halyard Drive, Plymouth, MI 48170, USA for automotive component sales.",
+      "JTEKT North America Corporation maintains a Chicago Office at 316 West University Drive, Arlington Heights, IL 60004, USA for automotive component sales.",
+      "JTEKT Automotive North America, Inc. maintains its Main Office at 7 Research Drive, Greenville, SC 29607, USA for automotive component manufacturing and sales.",
+      "JTEKT Automotive North America, Inc. operates a Technical Center at 47771 Halyard Drive, Plymouth, MI 48170, USA.",
+      "JTEKT Automotive North America, Inc. operates the Vonore Plant at 55 Excellence Way, Vonore, TN 37885, USA for automotive component manufacturing.",
+      "JTEKT Automotive North America, Inc. operates the Morristown Plant at 5932 Commerce Boulevard, Morristown, TN 37814, USA for automotive component manufacturing.",
+      "JTEKT Automotive North America, Inc. operates the Piedmont Plant at 1866 Old Grove Road, Piedmont, SC 29673, USA for automotive component manufacturing.",
+      "JTEKT Torsen North America, Inc. maintains an Office & Plant at Two Jetview Drive, Rochester, NY 14624, USA for automotive component sales.",
+      "JTEKT Bearings North America LLC maintains its Main Office at 7 Research Drive, Greenville, SC 29607, USA for bearing manufacturing and sales.",
+      "JTEKT Bearings North America LLC operates the Richland Plant at 1006 Northpoint Blvd., Blythewood, SC 29016, USA for bearing manufacturing.",
+      "JTEKT Bearings North America LLC operates the Washington Plant at 146 Cutting Edge Court, Telford, TN 37690, USA for bearing manufacturing.",
+      "JTEKT Bearings North America LLC operates the Walhalla Plant at 430 Torrington Road, Po Box 100, Walhalla, SC 29691, USA for bearing manufacturing.",
+      "JTEKT Bearings North America LLC operates the Dahlonega Plant at 615 Torrington Drive, Dahlonega, GA 30533, USA for bearing manufacturing.",
+      "JTEKT Bearings North America LLC operates the Cairo Plant at 2525 Torrington Drive, Cairo, GA 39828, USA for bearing manufacturing.",
+      "JTEKT Bearings North America LLC operates the Sylvania Plant at 400 Friendship Road, Sylvania, GA 30467, USA for bearing manufacturing.",
+      "JTEKT Bearings North America LLC operates a Greenville Technical Center at 7 Research Drive, Greenville, SC 29607, USA.",
+      "JTEKT Bearings North America LLC operates a Plymouth Technical Center at 47771 Halyard Drive, Plymouth, MI 48170, USA.",
+      "JTEKT Machinery Americas Corporation maintains its Headquarters at 316 West University Drive, Arlington Heights, IL 60004, USA for machinetool sales and customer service.",
+      "JTEKT Machinery Americas Corporation operates a Rebuild Product Division at 51300 West Pontiac Trail, Wixom, MI 48393-1003, USA for machinetool sales and customer service."
+    ],
+    "links": [
+      {
+        "url": "https://www.jtekt-na.com/",
+        "context": "Career information"
+      },
+      {
+        "url": "https://www.torsen.com/",
+        "context": "Torsen North America website"
+      },
+      {
+        "url": "https://jtektmachinery.com/",
+        "context": "Machinery Americas website"
+      },
+      {
+        "url": "https://www.jtektventas.com.mx/",
+        "context": "JTEKT Ventas Mexico website"
+      },
+      {
+        "url": "http://koyola.com.pa/",
+        "context": "JTEKT Latin America website"
+      },
+      {
+        "url": "http://www.jtekt.com.br/",
+        "context": "JTEKT Brasil website"
+      },
+      {
+        "url": "http://toyoda.com.br",
+        "context": "Brazil service & sales office website"
+      },
+      {
+        "url": "https://jtekt-bearings.eu/en/",
+        "context": "Europe sales offices website"
+      },
+      {
+        "url": "http://www.toyoda-europe.com/",
+        "context": "Germany machinery office website"
+      },
+      {
+        "url": "https://www.toyoda-europe.com",
+        "context": "France machinery office website"
+      },
+      {
+        "url": "https://jtekt.ae/",
+        "context": "UAE sales website"
+      },
+      {
+        "url": "https://www.jtekt.com.au/",
+        "context": "Australia sales website"
+      },
+      {
+        "url": "https://www.jtekt-asia-pacific.com/",
+        "context": "Singapore sales website"
+      },
+      {
+        "url": "https://www.jtekt-machinery.co.th/",
+        "context": "Thailand machinery website"
+      },
+      {
+        "url": "http://www.jtekt.com.cn/",
+        "context": "China sales website"
+      },
+      {
+        "url": "http://www.jtekt-machinery.com.cn",
+        "context": "China machinery website"
+      },
+      {
+        "url": "http://www.jtekt.co.kr/",
+        "context": "Korea sales website"
+      }
+    ],
+    "source_url": "https://www.jtekt.co.jp/e/company/global.html",
+    "source_title": "Overseas hubs｜Company guide｜JTEKT CORPORATION",
+    "source_domain": "jtekt.co.jp",
+    "publication_date": "",
+    "date_precision": "none",
+    "page_id": "page_045300",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

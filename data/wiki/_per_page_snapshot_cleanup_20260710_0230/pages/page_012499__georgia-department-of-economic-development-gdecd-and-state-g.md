@@ -1,0 +1,48 @@
+---
+title: "Georgia Department of Economic Development (GDEcD) and State Grant Programs"
+entity_type: government_program
+supply_chain_category: government_support
+page_id: page_012499
+publication_date: 
+source_url: https://grantsights.com/blog/georgia-small-business-grants
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Georgia Department of Economic Development (GDEcD) and State Grant Programs
+
+**Type:** government_program  ·  **Role:** government_support  ·  **Published:** ?
+
+**Source:** [Georgia Small Business Grants 2026 | Funding Guide](https://grantsights.com/blog/georgia-small-business-grants)  ·  `page_012499`
+
+## Facts
+
+- Georgia has over 1 million small businesses employing approximately 1.8 million workers, with a $700+ billion economy ranked eighth nationally, driven by logistics, manufacturing, and a growing technology sector.
+- The state's economic development strategy is coordinated through the Georgia Department of Economic Development (GDEcD), emphasizing low costs, a trained workforce, and a business-friendly regulatory environment.
+- Quick Start provides completely free customized job training for qualifying companies, prioritizing manufacturing, distribution, headquarters operations, and technology companies.
+- Quick Start has served over 6,000 companies since 1967 and trained over 1 million workers, with typical value per worker ranging from $500 to $5,000+ depending on training complexity.
+- Quick Start was rated the best customized workforce training program in the U.S. for the fifteenth consecutive year in September 2024 by Area Development magazine.
+- The OneGeorgia Authority targets economic development in Georgia's rural and economically distressed counties, offering an EDGE Fund that provides grants up to $500,000 for job creation in rural counties at a rate of $2,500 to $5,000 per job.
+- OneGeorgia's Equity Fund offers loans up to $250,000 for small projects in Tier 1 and Tier 2 economically distressed counties with below-market interest rates.
+- GDEcD coordinates a portfolio of tax credits and incentives rather than direct cash grants, including a Job Tax Credit worth $1,250 to $4,000 per job per year for five years.
+- The Investment Tax Credit ranges from 1% to 8% of capital investment for new or expanding operations.
+- The Quality Jobs Tax Credit provides $2,500 to $5,000 per job per year for five years for jobs paying at least 110% of the county average wage.
+- A Port Tax Credit Bonus offers an additional $1,250 per job for businesses increasing port traffic.
+- The Retraining Tax Credit provides up to $500 per employee per year for approved retraining programs.
+- Georgia ranks all 159 counties into tiers based on economic indicators, with Tier 1 (most economically distressed) counties receiving the highest tax credit rates.
+- Georgia operates six Centers of Innovation providing free technical assistance in sectors including Energy (renewable energy, utilities, and energy technology), Logistics (supply chain, distribution, transportation), and Manufacturing (advanced manufacturing processes).
+- The Georgia Research Alliance's Venture Development program provides early-stage funding of $25,000 to $100,000 for companies commercializing university research, requiring intellectual property owned by a Georgia university.
+- Federal SBIR/STTR programs offer Phase I awards of $275,000 and Phase II awards ranging from $850,000 to $1.15 million across agencies like the Department of Defense, NIH, NSF, DOE, and NASA.
+- USDA Rural Business Grants include the Rural Energy for America Program (REAP), which provides grants up to $500,000 for renewable energy and energy efficiency projects.
+- Georgia's economic development model relies heavily on tax credits more than direct grants, which benefits profitable businesses with tax liability but offers limited options for pre-revenue startups or nonprofits seeking cash.
+- During periods of heavy recruiting, Quick Start resources can be stretched, and the program prioritizes companies creating 25 or more new jobs and adopting new technology.
+
+## Links
+
+- georgia.org — Georgia Department of Economic Development
+- tcsg.edu/quick-start — Quick Start, Technical College System of Georgia
+- onegeorgia.org — OneGeorgia Authority
+- georgiasbdc.org — Georgia SBDC
+- sbir.gov — SBIR/STTR Programs
+- gra.org — Georgia Research Alliance
+- rd.usda.gov/ga — USDA Rural Development Georgia
+- investatlanta.com — Invest Atlanta

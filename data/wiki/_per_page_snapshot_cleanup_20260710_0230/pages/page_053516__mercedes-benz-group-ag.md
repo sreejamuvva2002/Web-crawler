@@ -1,0 +1,66 @@
+---
+title: "Mercedes-Benz Group AG"
+entity_type: company
+supply_chain_category: vehicle_manufacturing
+page_id: page_053516
+publication_date: 1926-06-28
+source_url: https://en.wikipedia.org/wiki/Mercedes-Benz_Group
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Mercedes-Benz Group AG
+
+**Type:** company  ·  **Role:** vehicle_manufacturing  ·  **Published:** 1926-06-28
+
+**Source:** [Mercedes-Benz Group - Wikipedia](https://en.wikipedia.org/wiki/Mercedes-Benz_Group)  ·  `page_053516`
+
+## Facts
+
+- Mercedes-Benz Group AG (formerly Daimler-Benz, DaimlerChrysler, and Daimler) is a German multinational automotive company headquartered in Stuttgart, Baden-Württemberg, Germany.
+- It is one of the world's leading car manufacturers.
+- The company was founded on 28 June 1926 (original foundation of Daimler-Benz) and 3 August 2007 (foundation of Daimler AG).
+- Founders include Carl Benz, Wilhelm Kissel, and Emil Georg von Stauß.
+- It operates as a public company with ISIN DE0007100000 in the Automotive industry.
+- Products include automobiles and commercial vehicles under brands Mercedes-Benz, Mercedes-AMG, Mercedes-Maybach, Smart, and Mercedes-Benz Vans.
+- Production output reached 2.389 million units for 2024 sales.
+- Revenue was €145.6 billion in 2024, with net income of €13.60 billion and operating profit of €10.41 billion.
+- Total assets stood at €265.0 billion and total equity at €93.63 billion in 2024.
+- The company employed 175,264 people as of 2024.
+- In 2021, Daimler was the second-largest German automaker and the sixth-largest worldwide by production.
+- By unit sales, it is the tenth-largest car manufacturer globally, shipping two million passenger vehicles in 2021.
+- By revenue, it ranks as the seventh-largest car manufacturer worldwide in 2023.
+- The company was ranked 42nd in the Forbes Global 2000 in 2023.
+- It provides financial services through its Mercedes-Benz Mobility arm and is a component of the Euro Stoxx 50 stock market index.
+- In February 2022, Daimler was renamed Mercedes-Benz Group as part of a transaction that spun off its commercial vehicle segment as an independent company, Daimler Truck.
+- On 28 January 2022, CEO Ola Källenius announced the name change to pursue a higher valuation as the company shifts deeper into high-tech electric vehicles.
+- In September 2019, Daimler announced it would stop internal combustion engine development initiatives as part of its efforts to embrace electric vehicles.
+- Fully electric Mercedes-Benz passenger car sales rose by 73% during 2023.
+- Since 2019, fully electric cars have been released through the Mercedes-EQ brand.
+- Daimler's Research and Development department developed a compostable battery using graphene-based organic cell chemistry that requires no rare, toxic metals and is 100% recyclable.
+- In 2016, Daimler subsidiary ACCUMOTIVE announced stationary batteries capable of storing up to 20 kWh of solar power for later use.
+- Daimler plans to invest €1.5 billion in battery technology.
+- Daimler is building a production Smart electric drive car using Tesla's battery technology and temporarily invested in Tesla, saving it from bankruptcy.
+- In February 2020, Daimler partnered with Twelve to create the world's first C-pillar made with polycarbonate from CO2 electrolysis for a fully carbon neutral fleet.
+- Mercedes-Benz U.S. International Inc. in Vance, Alabama produces GLE, GLS, EQE SUV, and EQS SUV vehicles with 6,100 employees since 1995.
+- On 5 March 2015, Daimler AG announced a 1,200-job package to the North Charleston region for its van plant to start manufacturing Mercedes-Benz Sprinter vans from scratch for North America.
+- From 2010, Sprinter vans were set up in Germany and shipped to the United States partially disassembled for reassembly to avoid import tariffs until the North Charleston expansion.
+- The North Charleston plant previously employed only 100 workers before the expansion.
+- Mercedes-Benz Vans LLC operates a Sprinter production facility in Charleston, South Carolina with 1,700 employees since 2006.
+- It holds shares in vehicle manufacturers Daimler Truck, BAIC Motor, and Aston Martin.
+- Since 2019, Smart became a 50/50 joint venture with Geely.
+- In May 2010, Shenzhen BYD Daimler New Technology Co., Ltd. (trading as Denza) was established between BYD and Daimler to produce luxury electric vehicles.
+- In September 2018, Daimler invested $155 million in US-based electric bus and battery management technology manufacturer Proterra.
+- Li Shufu of Geely took a 9.69% stake through Tenaciou3 Prospect Investment Limited in February 2018, becoming the largest single shareholder.
+- In July 2019, BAIC Group purchased a 5% stake in Daimler as a reciprocal shareholder arrangement.
+- On 3 August 2015, Nokia sold its Here digital maps division to a consortium of BMW, Daimler AG, and Volkswagen Group for €2.8 billion, indicating automaker interest in automated cars.
+- In April 2017, Daimler announced a partnership with Via to launch a ride-sharing service across Europe and led a fundraising round for car-sharing startup Turo.
+- Daimler acquired Flinc, invested in Storedot, Careem, Blacklane, and FlixBus, and acquired car2go and mytaxi (now Free Now).
+- Daimler AG and utility company RWE AG launched a joint electric car and charging station test project in Berlin called 'E-Mobility Berlin' in 2009.
+- Following trials with Tesla in 2009, Daimler built a production Smart electric drive car using Tesla's battery technology.
+- In 2013, the Renault-Nissan/Daimler alliance joined by Ford aimed to develop fuel cell technology for production by 2017.
+- Ola Källenius became Chairman of Mercedes-Benz Group and Head of Mercedes-Benz Cars on 22 May 2019.
+- Key management includes Jörg Burzer (Production and Supply Chain Management), Sabine Kohleisen (Human Resources and Director of Labor Relations), Markus Schäfer (Chief Technology Officer), Britta Seeger (Marketing and Sales), Hubertus Troska (Greater China), and Harald Wilhelm (Finance and Controlling).
+- The 2025 shareholder structure includes BAIC Group (9.98%), Li Shufu/Tenaciou3 Prospect Investment Limited (9.69%), Morgan Stanley (7.87%), Kuwait Investment Authority (5.57%), BlackRock (5.35%), Retail investors (32.23%), and Institutional investors (29.31%).
+- Daimler also owns Mercedes AMG High Performance Powertrains, which supplied engines to Aston Martin, Williams, and McLaren as of 2024.
+- In January 2026, the company was reported among the top 30 global investors in research and development in 2025.
+- Sales declined by 2% in the Core segment to 1,096,800 units due to supplier bottlenecks and the transition to the new E-Class.

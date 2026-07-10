@@ -1,0 +1,124 @@
+[
+  {
+    "entity_name": "Plastic Manufacturing Companies in Georgia",
+    "canonical_name": "Plastic Manufacturing Companies in Georgia",
+    "entity_type": "company",
+    "supply_chain_category": "automotive_components",
+    "facts": [
+      "Georgia's plastic manufacturing sector produces a wide range of plastic products for various industries, from automotive to consumer goods.",
+      "The industry increasingly prioritizes sustainability and recycling, responding to global demand for eco-friendly solutions and reducing waste.",
+      "Altium Packaging supplies plastic packaging solutions to the automotive industry from its Atlanta, Georgia headquarters.",
+      "ES-Indorama Ventures aims to recycle 50 billion plastic bottles annually by 2025 while supplying sustainable chemical manufacturing and recycled PET/polymer solutions for the automotive industry from Duluth, Georgia.",
+      "CKS Packaging Inc operates 27 plants across the United States employing over 1,100 individuals, providing blow-molded plastic containers for the automotive sector from Atlanta, Georgia.",
+      "Sumitomo (SHI) Demag North America manufactures plastic injection molding machinery for the automotive sector from its Suwanee, Georgia headquarters, with a headcount of 1001-5000.",
+      "Silon Us manufactures technical compounds tailored for the automotive sector from Dunwoody, Georgia, employing 11 to 50 people.",
+      "Ecoplastic America Corporation is an automotive parts manufacturer and tier-1 supplier for Hyundai Motor Group, producing bumpers, consoles, trims, and plastic molds from Register, Georgia, with a workforce of approximately 501-1000 employees.",
+      "Ecoplastic America is actively building a manufacturing team in Bulloch County, Georgia.",
+      "Southern Polymer distributes polypropylene, polyethylene, and polystyrene for the automotive industry from Atlanta, Georgia, as part of the Audia Group.",
+      "Custom Profiles, Inc. manufactures custom thermoplastic products for the automotive industry from Fitzgerald, Georgia, employing 29 people.",
+      "KTX America Corporation is an automotive parts manufacturer producing plastic components for vehicle interiors and exteriors in Toccoa, Georgia, with approximately 91 employees.",
+      "KTX America serves as a tier 1 supplier to BMW and Daimler.",
+      "KTX America utilizes advanced technologies including multi-component injection molding and high-gloss painting.",
+      "Elitech manufactures plastic components and molds for batteries from its Atlanta, Georgia location, employing over 150 people.",
+      "Nexus Circular transforms hard-to-recycle plastics into renewable plastic products in Atlanta, Georgia, securing $150 million in funding in January 2023.",
+      "Thomson Plastics, Inc. provides plastic injection molding and assembly services for the automotive market from facilities in Thomson, Georgia, Lexington, North Carolina, and Howell, Michigan, employing approximately 173 people.",
+      "Thomson Plastics operates machines capable of exerting up to 3700 tons of clamping force.",
+      "OECHSLER Motion, Inc. provides plastic injection molding and additive manufacturing for the automotive sector from Acworth, Georgia."
+    ],
+    "links": [
+      {
+        "url": "altiumpkg.com",
+        "context": "Altium Packaging website"
+      },
+      {
+        "url": "es-fibervisions.com",
+        "context": "ES-Indorama Ventures website"
+      },
+      {
+        "url": "rwdc-industries.com",
+        "context": "RWDC Industries website"
+      },
+      {
+        "url": "bakelite.com",
+        "context": "Bakelite Synthetics website"
+      },
+      {
+        "url": "ckspackaging.com",
+        "context": "CKS Packaging Inc website"
+      },
+      {
+        "url": "amcorplastics.com",
+        "context": "Amcor website"
+      },
+      {
+        "url": "sumitomo-shi-demag.us",
+        "context": "Sumitomo (SHI) Demag North America website"
+      },
+      {
+        "url": "silollc.com",
+        "context": "Silon Us website"
+      },
+      {
+        "url": "ecoplasticamerica.com",
+        "context": "Ecoplastic America Corporation website"
+      },
+      {
+        "url": "amcorinc.com",
+        "context": "Amcor, Inc. website"
+      },
+      {
+        "url": "southernpolymer.com",
+        "context": "Southern Polymer website"
+      },
+      {
+        "url": "standridgecolor.com",
+        "context": "Standridge Color Corp. website"
+      },
+      {
+        "url": "customprofiles.com",
+        "context": "Custom Profiles, Inc. website"
+      },
+      {
+        "url": "us.nifcoktw.com",
+        "context": "KTX America Corporation website"
+      },
+      {
+        "url": "elitech-tools.com",
+        "context": "Elitech website"
+      },
+      {
+        "url": "nexuscircular.com",
+        "context": "Nexus Circular website"
+      },
+      {
+        "url": "thomsonplastics.com",
+        "context": "Thomson Plastics, Inc. website"
+      },
+      {
+        "url": "peliton.com",
+        "context": "Peliton, Inc. website"
+      },
+      {
+        "url": "pexco.com",
+        "context": "Pexco website"
+      },
+      {
+        "url": "oechsler-motion.com",
+        "context": "OECHSLER Motion, Inc. website"
+      },
+      {
+        "url": "marglen.us",
+        "context": "Marglen Industries website"
+      }
+    ],
+    "source_url": "https://www.inven.ai/company-lists/top-21-plastic-manufacturing-companies-in-georgia",
+    "source_title": "Inven 2026",
+    "source_domain": "inven.ai",
+    "publication_date": "",
+    "date_precision": "none",
+    "page_id": "page_011223",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

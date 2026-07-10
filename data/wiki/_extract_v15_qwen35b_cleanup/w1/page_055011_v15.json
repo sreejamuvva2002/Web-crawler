@@ -1,0 +1,61 @@
+[
+  {
+    "entity_name": "FREYR Battery",
+    "canonical_name": "FREYR Battery",
+    "entity_type": "company",
+    "supply_chain_category": "battery_cell_manufacturing",
+    "facts": [
+      "FREYR Battery is a developer of clean battery solutions that provided insights into its strategic progress and financial standing during its Fourth Quarter and Full Year 2023 Conference Call.",
+      "The company underscored robust demand for batteries driven by a surge in electric vehicle (EV) sales and energy storage requirements.",
+      "FREYR reported a net loss of $24 million or $0.17 per share for the quarter ended December 31, 2023.",
+      "The company is preparing for fully automated battery production for customer testing in the first half of 2024.",
+      "The FREYR 2.0 growth initiative targets over 100 gigawatt hours of installed capacity across five distinct project opportunities.",
+      "FREYR is pursuing an ongoing Department of Energy (DoE) Title 17 loan application process, aiming for a conditional commitment by the end of 2024.",
+      "The company reported significant year-over-year growth in EV sales and an expanding energy storage system market.",
+      "FREYR is focused on industrializing its U.S.-based technology at the Giga America project in Georgia.",
+      "The company maintains a two-year cash runway with $276 million in reserves following December 2023 restructuring efforts.",
+      "FREYR is capitalizing on Inflation Reduction Act benefits for its Giga America project.",
+      "EV sales showed 69% growth year-over-year from January 2023 to January 2024, surpassing 1 million cars in January for the first time ever.",
+      "The energy storage system market in 2023 closed above 100 gigawatt hours per year for the first time, twice as high as initial estimates.",
+      "FREYR has proven its capability to produce electrochemically active electrodes through fully automated production of anodes and cathodes using next-generation 24M technology.",
+      "The Commercial Qualification Pilot (CQP) facility is 94% complete.",
+      "In February, the CQP was brought into operating mode on dry room conditions and began producing automated electrodes with active electrolyte slurry.",
+      "Production of sample battery cells for key customers at the CQP is FREYR’s number one priority for the first half of 2024.",
+      "The CQP serves as the means to achieve technical validation and broad customer acceptance of the 24M semi-solid product family.",
+      "Following customer testing, FREYR will move on to off-tech conversions with key customers to trigger the next wave of capital formation.",
+      "The company is focusing on five distinct project opportunities across the U.S. and Europe for semi-solid and conventional technology applications, encompassing more than 100 gigawatt hours of potential capacity.",
+      "FREYR currently owns 368 acres in Coweta County, Georgia, for its Giga America project.",
+      "The Georgia site is positioned to develop hundreds of jobs while attracting multiple billions of dollars of capital investment in the state.",
+      "FREYR is advancing its Title 17 application in deep coordination with the DoE Loans Program Office and re-energizing project level equity conversations for the second half of the year.",
+      "The conventional technology track is expected to be the first opportunity for production on the Coweta County site, with FREYR nearing a decision on which technology provider to select.",
+      "Technology selection for the Georgia site will be shared in the coming weeks, followed quickly by project finance and equity funding.",
+      "Project level equity is likely to be secured during the second half of the year, targeting start-up production in 2026 utilizing conventional technology.",
+      "FREYR successfully re-domiciled from Luxembourg to the United States as of December 31, 2023, with its main U.S. office located in Newnan, Georgia, near the Coweta County site.",
+      "The re-domicile aims to expand equity index inclusion potential, historically holding only ~3% of shares by index funds compared to a peer average over 20%, with potential to drive incremental holdings up to 45% of market capitalization.",
+      "For the full year ended December 31, 2023, FREYR reported a net loss of $72 million or $0.51 per share, compared to a loss of $99 million in the prior year.",
+      "The company incurred a $6 million one-time severance charge during the December restructuring, with most payouts expected in the first quarter.",
+      "By the end of the first quarter, employee headcount is expected to be reduced by 22% compared to November 2023, and consultants and project support personnel will be reduced by 26%.",
+      "FREYR ended 2023 with total assets of $732 million, net PP&E of $366 million, total liabilities of $97 million, no debt, and total shareholders’ equity of $635 million.",
+      "Total cash spending during 2023 was $287 million, coming in under budget due to a reduced scope of Giga Arctic spending plans.",
+      "The company is not forecasting significant capital expenditures for Giga Arctic in 2024 while working with the Norwegian Government on incentive programs to compete with the U.S. IRA and EU's TCTF programs.",
+      "Primary areas of focus for 2024 include fully automated battery cell production at the CQP using 24M technology, delivering testable cells to customers, continued development of Giga America, and pursuing a conventional partnership.",
+      "H1 2024 priorities include demonstrating semi-solid technology at Giga scale at the CQP and finalizing an agreement for the conventional technology track.",
+      "FREYR targets customer validation of its semi-solid process and product performance characteristics in the second half of the year to trigger offtake conversions."
+    ],
+    "links": [
+      {
+        "url": "https://www.investing.com/pro/FREY",
+        "context": "InvestingPro platform for additional analysis and tips"
+      }
+    ],
+    "source_url": "https://in.investing.com/news/earnings-call-freyr-battery-eyes-growth-amid-energy-transition-93CH-4045936",
+    "source_title": "Earnings call: FREYR Battery eyes growth amid energy transition By Investing.com",
+    "source_domain": "investing.com",
+    "publication_date": "2023-12-31",
+    "date_precision": "body_dateline",
+    "page_id": "page_055011",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

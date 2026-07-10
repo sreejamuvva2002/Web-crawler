@@ -1,0 +1,33 @@
+---
+title: "Forsyth County, Georgia"
+entity_type: facility
+supply_chain_category: unknown
+page_id: page_012102
+publication_date: 
+source_url: https://en.wikipedia.org/wiki/Forsyth_County,_Georgia
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Forsyth County, Georgia
+
+**Type:** facility  ·  **Role:** unknown  ·  **Published:** ?
+
+**Source:** [Forsyth County, Georgia - Wikipedia](https://en.wikipedia.org/wiki/Forsyth_County,_Georgia)  ·  `page_012102`
+
+## Facts
+
+- Forsyth County is located in the Northeast region of Georgia within the Atlanta metropolitan area.
+- The county seat and only incorporated city is Cumming.
+- At the 2020 census, the population was 251,283.
+- Forsyth County was the fastest-growing county in Georgia and the 15th fastest-growing county in the United States between 2010 and 2019.
+- The median annual household income was $112,834 as of the 2020 census estimates, making it the wealthiest in Georgia and the 16th-wealthiest in the United States.
+- Among the largest employers in the county are Northside Hospital, Koch Foods, Tyson Foods, Siemens, Scientific Games Corporation, Arris International, Baran Telecom, America BOA, Automation Direct, and L-3 Communications Display Systems.
+- A mixed-use development named Halcyon with residential, office, dining, and entertainment facilities opened in the southern part of the county near Alpharetta in summer 2019.
+- Forsyth County is governed by a five-member board of commissioners and a county manager.
+- David McKee assumed the post of county manager on December 16, 2022.
+- Commissioners include Kerry Hill (District 1), Alfred John (District 2), Todd Levent (District 3), Mendy Moore (District 4), and Laura Semanson (District 5).
+- Forsyth County Schools is the largest employer in the county with over 8,000 full-time employees and substitutes, serving over 51,000 students across 41 schools.
+
+## Links
+
+- forsythco.com — County government website

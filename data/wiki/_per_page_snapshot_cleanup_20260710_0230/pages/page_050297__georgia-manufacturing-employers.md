@@ -1,0 +1,232 @@
+---
+title: "Georgia Manufacturing Employers"
+entity_type: workforce_training
+supply_chain_category: workforce_training
+page_id: page_050297
+publication_date: 2025-06-02
+source_url: https://businessdailynetwork.com/employers-classified-under-the-manufacturing-industry-file-594-h-1b-petitions-in-georgia-throughout-2024
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Georgia Manufacturing Employers
+
+**Type:** workforce_training  ·  **Role:** workforce_training  ·  **Published:** 2025-06-02
+
+**Source:** [Employers classified under the Manufacturing industry file 594 H-1B petitions in Georgia throughout 2024 - Business Daily](https://businessdailynetwork.com/employers-classified-under-the-manufacturing-industry-file-594-h-1b-petitions-in-georgia-throughout-2024)  ·  `page_050297`
+
+## Facts
+
+- Georgia manufacturing employers submitted 594 H-1B petitions during 2024.
+- Of these, 581 were approved (97.8%) and 13 were denied (2.2%).
+- The H-1B visa program allows U.S. employers to temporarily hire foreign workers in specialty occupations requiring specialized knowledge and at least a bachelor’s degree or equivalent.
+- The program is designed to address skill gaps in the U.S. workforce while ensuring wage standards to protect both U.S. and H-1B workers.
+- Employers must certify that they will pay H-1B workers wages equal to or greater than those of similarly qualified U.S. employees or the prevailing local wage.
+- The average approval rate for H-1B petitions across the United States in 2024 stood at 98%, higher than 2023's 97.3%.
+- Georgia employers across all industries submitted 11,933 petitions during 2024 with a 96.3% approval rate.
+- The Professional, Scientific, and Technical Services industry led H-1B filings in Georgia with 6,763 petitions, representing 56.7% of all submissions.
+- The Educational Services industry was the next largest contributor with 1,114 petitions (9.3%), of which 6,512 were approved and 251 were denied.
+- Gulfstream Aerospace Corporation filed the most manufacturing sector petitions in Georgia during 2024 with 37.
+- Mohawk Industries, Inc. filed 30 manufacturing sector petitions in Georgia during 2024.
+- Georgia Pacific, LLC filed 25 manufacturing sector petitions in Georgia during 2024.
+- The Manufacturing sector in Georgia saw a 16.2% increase in H-1B petitions compared to 2023.
+- The United States admits around 1 million legal immigrants annually, most through family sponsorship or employment-based visas.
+- In 2023, about 1.2 million immigrants were granted green cards, returning to pre-pandemic levels.
+- Temporary visa programs like H-1B for highly skilled workers and H-2A for seasonal agricultural workers play a critical role in filling workforce needs.
+- A 2024 Pew Research Center survey found 46% of Americans favor maintaining current legal immigration levels.
+- According to the same survey, 42% believe highly skilled workers should be prioritized for legal immigration, compared to 25% prioritizing labor shortage workers and 19% emphasizing family sponsorship.
+- Family sponsorship remains the most common path to permanent residency, accounting for 63% of green cards issued in 2023.
+- Data comes from the H-1B Employer Data Hub provided by USCIS, though manual entry errors may cause discrepancies in employer names, tax IDs, or locations.
+- Hanwha Q Cells USA, Inc. filed 16 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- SK Battery America, Inc. filed 12 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Kia Georgia, Inc. filed 4 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Hyundai Transys Georgia Seating Sy filed 4 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Mobis North America Electrified Po filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Kumho Tire USA, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Kumho Tire Georgia, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Pirelli Tire, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Novelis, Inc. filed 13 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Novelis Corporation filed 12 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Southwire Company, LLC filed 7 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- ZF Gainesville, LLC filed 3 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Seohan Auto Georgia Corporation filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Rheem Manufacturing Company filed 23 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Agco Corporation filed 18 H-1B petitions in Georgia manufacturing in 2024 with a 94.4% approval rate.
+- Blue Bird Body Company filed 15 H-1B petitions in Georgia manufacturing in 2024 with an 86.7% approval rate.
+- Fortna, Inc. filed 9 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Primetals Technologies USA, LLC filed 12 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Valmet, Inc. filed 4 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Solvay Specialty Polymers USA, LLC filed 3 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Voestalpine Automotive Components filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Sonnen, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Novelis ALR Rolled Products, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Novelis ALR Aluminum, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Gulfstream Services Corporation filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Gulfstream Aerospace Services Corporation filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- The Coca-Cola Company filed 21 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Acuity Brands Lighting, Inc. filed 21 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Acuity Brands Technology, Inc. filed 6 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Hanwha Q Cells Georgia, Inc. filed 5 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- UCB, Inc. filed 5 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Sidel, Inc. filed 5 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Havix Group D B a Aavis Pharma, Inc. filed 5 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Vantiva USA, LLC filed 5 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Flowers Bakeries, LLC filed 4 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Serta Simmons Bedding, LLC filed 4 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Showa Best Glove, Inc. filed 3 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Caravels, LLC filed 3 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Georgia-Pacific Consumer Products filed 3 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Strength of Nature, LLC filed 3 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Shaw Industries Group, Inc. filed 3 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Sewon America, Inc. filed 3 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Oldcastle Infrastructure, Inc. filed 3 H-1B petitions in Georgia manufacturing in 2024 with a 66.7% approval rate.
+- Newell Brands Distribution, LLC filed 3 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Deutz Corporation filed 3 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- PBR, Inc. filed 3 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- LX Hausys America, Inc. filed 3 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Immucor, Inc. filed 3 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Alpla, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- DDM Systems, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- The Coca-Cola Company filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Mueller Company, LLC filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Mimedx Group, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Allnex USA, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Georgia Green Power, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Enchem America, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Omnimax International, LLC filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Arglass Yamamura Se, LLC filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Newell Brands, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 50% approval rate.
+- Bway Corporation filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Motrex, LLC filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Purafil, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- SNF Holding Company filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Georgia-Pacific Cedar Springs, LLC filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Novelis ALR Rolled Products, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Brasseler USA Dental filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Hailo Wind Systems USA, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Arauco North America, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Hill Phoenix, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- FPL Foods, LLC filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 0% approval rate.
+- Voestalpine Automotive Components filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- CRH Americas Materials, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- OFS Fitel, LLC filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Georgia Pacific Gypsum, LLC filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Sandvik Mining and Construction US filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Sonnen, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Augusta Sportswear, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Georgia-Pacific Toledo, LLC filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Fox Factory, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Price Industries, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- ALT America, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Pai Industries, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Cooper Machine Company, Inc. filed 2 H-1B petitions in Georgia manufacturing in 2024 with a 100% approval rate.
+- Mirus, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Pratt Paper KY, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Birla Carbon U S a F K a Colum, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- NSI MI Technologies, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Georgia Pacific Consumer Operations, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- X-Treme Coating Technologies, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Ereztech Labs, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Haver and Boecker USA, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Linde Wiemann US, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Oneup Innovations, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Softwear Automation, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Argos USA, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Doehler USA, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Sejong Alabama, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Company Manager of GA, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Nicolon Corporation filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Gri-Alleset, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Posco Aapc, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Big Boy Headgear, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Wika Instrument LP filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Dal Tile a Subsidiary of Mohawk Industries Inc., LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Kamstrup Water Metering, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Caire, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Movius Interactive Corporation filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Resilux America filed 1 H-1B petition in Georgia manufacturing in 2024 with a 0% approval rate.
+- Label Technologies, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Societal Cdmo Gainesville, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Diversitech Corporation filed 1 H-1B petition in Georgia manufacturing in 2024 with a 0% approval rate.
+- Seasons-4, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Flock Group, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- University of Georgia Oge filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Clyde Industries, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Huxley Medical, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Mikart, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Plae Vertical, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Beyond Signs, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Ais Holding Company, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Freudenberg Texbond LP filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Wellmade Industries MFR LLC, NA filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Dacha America, Corp. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Johnson Matthey Process Technologies, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Techlong International, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Arclin USA, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Dinex Emission, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Savannah Global Solutions, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- ACM Georgia, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Fieldturf USA, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- CKS Packaging, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Hitachi Construction Machinery Americas, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Building Products Services LLC, GP filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- MGM Products, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Southsuite, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Bekaert Corporation filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Airsept, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Francois & Company, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Wam USA, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Cygnus Jewelry Designs, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Jenka Lab, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Synaptics Incorporated filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Printpack, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Kubota Manufacturing of America Corporation filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Og Chemical, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Smart Gladiator, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Devgiri Exports, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Sany America, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Aci Holding, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Falcomm, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- UCB Biosciences, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Chesnuff, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Neenah Technical Materials, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Gerresheimer Peachtree City USA L P filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Marriott International, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Piana Nonwovens, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Southern States, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Board and K Foods, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Aiper Intelligent, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- International Life Sciences, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 0% approval rate.
+- Super Lumber Limited filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Boxlight Corporation filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Anue Water Technologies, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Zalkin Americas, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Koning Corporation filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- ABV Electronics, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Evermark, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Trio Vision, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Chemence Medical, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Havix Group, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Murrelektronik, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Sage Millimeter, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Marionette Company, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Senor Metals USA, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- VDL Industries Gainesville, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Copeland Cold Chain LP filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Ingenico, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Nile Automotive Group GA, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Summit Hill Foods, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Oakploy, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Georgia Pacific Consumer Products LP filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Yamaha Motor Corporation USA filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Kids2, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Ericsons, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Tintoria Piana US, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Char-Broil, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Mueller Systems, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Rotary Corporation filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Argus Elevator, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Georgia-Pacific Corrugated, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Ecoplastic America, Corp. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Sejong Georgia, LLC filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Adtran, Inc. filed 1 H-1B petition in Georgia manufacturing in 2024 with a 100% approval rate.
+- Nifco KTW America Corporation filed 1 H-1B petition in Georgia manufacturing in 2024 with a 0% approval rate.

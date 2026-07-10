@@ -1,0 +1,44 @@
+[
+  {
+    "entity_name": "Yazaki North America",
+    "canonical_name": "Yazaki North America",
+    "entity_type": "company",
+    "supply_chain_category": "automotive_components",
+    "facts": [
+      "Yazaki North America is a supplier of automotive wiring harnesses and related components.",
+      "Last month's total sea shipments for Yazaki North America were 327, representing a 4.22% decrease over one year.",
+      "The company imports under 161 names and 192 addresses.",
+      "Top imported product categories include electric motors, automotive iron/steel products, plastics, and other materials.",
+      "Asian import origins account for 74.8% of shipments, with the Philippines at 12,650, Vietnam at 8,799, Indonesia at 6,138, China at 5,811, and Japan at 3,470.",
+      "North American import origins account for 16.5% of shipments, with Nicaragua at 6,433, Mexico at 2,239, El Salvador at 345, Canada at 4, and Jamaica at 2.",
+      "Top HTS codes include 8544.30.12, 8544.30.10, 8544.30.19, 8544.30.14, and 8544.30.2090, all classified as ignition wiring sets and other wiring sets used in vehicles, aircraft, or ships.",
+      "Other HTS codes pulled from product descriptions include 8536.90.11 (other apparatus), 3926.90.8536 (fasteners/clips for mechanical attaching devices), 8544.49.19, 3926.90.10 (buckets and pails), and 3926.90.40 (imitation gemstones).",
+      "Product descriptions frequently reference \"Automotive Wiring Harness For Original Production Assembly\" shipped in cartons, slip sheets, or pallets.",
+      "Recent shipments dated June 25-28, 2026, include raw auto parts, electric wires, shield shells, and automotive wiring harnesses originating from Asia to the US Pacific route.",
+      "Estimated freight costs for recent Asia-to-US Pacific shipments range from approximately $1,611.50 to $6,843.36 per shipment, with rates provided by Xeneta based on estimated booking.",
+      "One invoice references an address at 6700 Haggerty Road, Canton, Michigan 48187 U.S.A.",
+      "Another contact address listed is 2820 B Street NW 101, Auburn, WA 98001.",
+      "Yazaki North America imports raw materials for auto parts including covers, fuse bracket assemblies, terminals, rubber stoppers, and copper wire.",
+      "The company also imports production equipment such as unit crimping machine hopper devices.",
+      "Shipment weights for recent automotive wiring harness orders range from 251 kg to 26,428 kg per container or pallet load.",
+      "Quantities shipped per order vary widely, from 16 pieces to over 1,045 cartons or boxes.",
+      "The page notes that Yazaki North America's suppliers require premium access.",
+      "Freight cost data is based on total estimated freight cost per shipment on supported shipping routes."
+    ],
+    "links": [
+      {
+        "url": "https://data.importyeti.com/v1.0/company/wal-mart",
+        "context": "ImportYeti API documentation example"
+      }
+    ],
+    "source_url": "https://www.importyeti.com/company/yazaki-north-america",
+    "source_title": "Yazaki North America -\n            7 Leigh Fisher Blvd, # 16-20, El Paso, Tx 79906, Us - company Report -\n              Import Yeti",
+    "source_domain": "importyeti.com",
+    "publication_date": "",
+    "date_precision": "none",
+    "page_id": "page_015885",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "entity_name": "Trenton Pressing",
+    "canonical_name": "Trenton Pressing",
+    "entity_type": "company",
+    "supply_chain_category": "unknown",
+    "facts": [
+      "Trenton Pressing operates a facility located at 505 N. Industrial Boulevard, Trenton, GA 30752.",
+      "The company is actively hiring for Production Operator positions.",
+      "A Production Operator job posting was published on July 18, 2025, by Mandy Whitehead.",
+      "Career application and employee resources are accessible through the company's dedicated Employee Portal.",
+      "The company maintains a Supplier Quality Manual for its vendors.",
+      "The company enforces a Code of Conduct & Corporate Responsibility Policy."
+    ],
+    "links": [
+      {
+        "url": "https://www.trentonpressing.com/careers/production-operator",
+        "context": "Production Operator job posting"
+      },
+      {
+        "url": "https://www.trentonpressing.com/employee-portal",
+        "context": "Employee Portal"
+      },
+      {
+        "url": "https://www.trentonpressing.com/contact",
+        "context": "Contact Us page"
+      },
+      {
+        "url": "https://www.trentonpressing.com/about",
+        "context": "About page"
+      },
+      {
+        "url": "https://www.trentonpressing.com/products-services",
+        "context": "Products + Services page"
+      },
+      {
+        "url": "https://www.facebook.com/trentonpressing/",
+        "context": "Facebook page"
+      },
+      {
+        "url": "https://www.trentonpressing.com/s/Trenton-Pressing-LLC-Code-of-Conduct-Corporate-Responsibility-Policy_12-31-21.pdf",
+        "context": "Code of Conduct & Corporate Responsibility Policy"
+      },
+      {
+        "url": "https://www.trentonpressing.com/s/Supplier-Quality-Manual.docx",
+        "context": "Supplier Quality Manual"
+      },
+      {
+        "url": "https://www.trentonpressing.com/s/TRENTON-PRESSING-TERMS-AND-CONDITIONS.pdf",
+        "context": "Terms and Conditions"
+      }
+    ],
+    "source_url": "https://www.trentonpressing.com/careers",
+    "source_title": "Careers — Trenton Pressing",
+    "source_domain": "trentonpressing.com",
+    "publication_date": "",
+    "date_precision": "none",
+    "page_id": "page_012436",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]

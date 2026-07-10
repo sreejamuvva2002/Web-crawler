@@ -1,0 +1,49 @@
+---
+title: "Mobis Alabama, LLC"
+entity_type: company
+supply_chain_category: automotive_components
+page_id: page_046790
+publication_date: 
+source_url: https://thsevents.com/xnvde/hyundai-mobis-alabama
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Mobis Alabama, LLC
+
+**Type:** company  ·  **Role:** automotive_components  ·  **Published:** ?
+
+**Source:** [hyundai mobis alabama](https://thsevents.com/xnvde/hyundai-mobis-alabama)  ·  `page_046790`
+
+## Facts
+
+- Mobis Alabama, LLC is located at 1395 Mitchell Young Rd, Montgomery, AL, 36108.
+- Established in 2002 and operates on nearly 83 acres in Montgomery, Alabama.
+- MOBIS Alabama, LLC is the largest Tier 1 supplier to both Hyundai Motor Manufacturing Alabama (HMMA) and KIA Motor Manufacturing Georgia (KMMG).
+- The Company established Mobis Georgia, LLC of the U.S.A. in March [date unspecified].
+- It generates $373.11 million in sales (USD) with 1,655 total employees across all locations.
+- The Montgomery location has 247 employees.
+- Hyundai Mobis forms the parts and service arm for South Korean automakers Hyundai Motor Company, Genesis Motors, and Kia Motors.
+- Headquartered in Seoul, South Korea, it was founded on June 25, 1977 as Hyundai Precision & Industries Corporation.
+- In 2000, the company changed its name to Hyundai Mobis.
+- The Montgomery plant is Mobis' first in North America, opened in 2005.
+- It supplies chassis and cockpit modules and bumpers to Hyundai Motor Manufacturing Alabama LLC.
+- Auto supplier Mobis US Alabama, a subsidiary of Seoul, South Korea's Hyundai Mobis, will invest $15.8 million to open a new facility at the Jefferson County Metropolitan Industrial Park in McCalla, Alabama.
+- The new McCalla facility is expected to create 120 jobs within three years.
+- Hyundai Mobis is preparing to expand its plant in Montgomery, Ala., while simultaneously embarking on a $60 million project in West Point, Ga., to support Kia Motor Corp.'s future auto plant there.
+- Kia Motors is building a US$1 billion (€702.5 million) plant in West Point, Georgia.
+- The Hyundai Mobis Georgia Plant uses cutting-edge vehicle modularization technology to manufacture and supply chassis modules, cockpit modules, and front-end modules to the KIA Georgia factory.
+- Hyundai Mobis will supply 300,000 units a year of front-end, chassis, and cockpit modules to Kia's automobile plant, according to a regulatory filing.
+- The company offers complete cockpit modules and front and rear chassis modules.
+- Team Members assemble front and rear bumpers in a just-in-sequence manufacturing environment.
+- Hyundai Mobis provides state-of-the-art Modules, Assemblies, and genuine Hyundai and Kia Service Parts nationwide from its Redistribution Center.
+- Nov. 2008: The Company acquired the hybrid vehicle components business from Hyundai Rotem.
+- Jan. 2009: Mobis Alabama LLC absorbed Mobis Alabama Instrument Panel, LLC.
+- Hyundai Mobis will hold a job fair in Opelika to find workers from Opelika and Auburn to fill about 140 assembly positions.
+- Hyundai Motor Manufacturing Alabama (HMMA), Hyundai's first US manufacturing plant headquartered in Montgomery, provides employment for more than 3,000 people.
+- The all-new Hyundai Mobis plant in Montgomery has completed pilot runs and stands ready to supply Hyundai Motor Co. Ltd.'s nearby new plant with parts and modules.
+- Hyundai Mobis Global is a $15 billion USD company and the worldwide strategic business partner of Hyundai Motor Company (HMC) & Kia Motor Company for Advanced Module supply.
+
+## Links
+
+- https://us.jobrapido.com/Hyundai-jobs-in-Alabama — Job search application link
+- https://montgomery-al.findstorenearme.us/hyundai-mobis-alabama-llc/ — Store locator page

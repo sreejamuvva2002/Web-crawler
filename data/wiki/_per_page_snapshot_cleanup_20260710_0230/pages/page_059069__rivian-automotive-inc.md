@@ -1,0 +1,117 @@
+---
+title: "Rivian Automotive, Inc."
+entity_type: company
+supply_chain_category: vehicle_manufacturing
+page_id: page_059069
+publication_date: 
+source_url: https://en.m.wikipedia.org/wiki/Rivian
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Rivian Automotive, Inc.
+
+**Type:** company  ·  **Role:** vehicle_manufacturing  ·  **Published:** ?
+
+**Source:** [Rivian - Wikipedia](https://en.m.wikipedia.org/wiki/Rivian)  ·  `page_059069`
+
+## Facts
+
+- Rivian Automotive, Inc. is an American electric vehicle manufacturer and automotive technology company founded in 2009.
+- It produces an electric sport utility vehicle (SUV) and a pickup truck on a skateboard platform that can support future vehicles and be adopted by other companies.
+- The company produces an electric delivery van, the Rivian EDV, which is sold to Amazon for its deliveries.
+- Rivian started deliveries of its R1T pickup truck in late 2021.
+- The company planned to build an exclusive charging network in the United States and Canada by the end of 2023.
+- Rivian is based in Irvine, California, with its manufacturing plant in Normal, Illinois.
+- Other facilities are located in Palo Alto, California; Carson, California; Plymouth, Michigan; Burnaby, British Columbia; Wittmann, Arizona; Woking, England; and Belgrade, Serbia.
+- The company has plans to build another US$5 billion factory in Social Circle, Georgia.
+- Rivian raised over US$13.5 billion in financing following its initial public offering in November 2021.
+- The company was founded in Rockledge, Florida in 2009 as Mainstream Motors by RJ Scaringe.
+- After being renamed Avera Automotive or Avera Motors, the company became Rivian Automotive in 2011.
+- Rivian's first car model was intended to be a sports car dubbed the R1, which was shelved in late 2011.
+- In 2015, Rivian received a large investment and opened research facilities in Michigan and the San Francisco Bay Area.
+- The company began working exclusively on electric autonomous vehicles and geared prototypes toward ride-sharing and driverless car markets.
+- By September 2016, Rivian was negotiating to buy a manufacturing plant formerly owned by Mitsubishi Motors in Normal, Illinois.
+- In January 2017, Rivian acquired the plant and its manufacturing machinery for $16 million to become its primary North American manufacturing facility.
+- In December 2017, Rivian revealed its first two products: an electric five-passenger pickup truck and an electric seven-passenger SUV, provisionally named the A1T and A1C.
+- In November 2018, the truck and SUV were renamed the R1T and R1S and unveiled at the LA Auto Show.
+- Production was scheduled to begin in 2020.
+- Rivian had 250 employees at the start of 2018.
+- By February 2019, Rivian was employing 750 people across facilities in Michigan, Illinois, California, and the United Kingdom.
+- In November 2020, Rivian employed 3,000-plus workers.
+- In November 2021, Rivian had 9,000-plus employees.
+- In late 2020, Rivian planned to begin shipments of the R1T in June 2021, which slipped to August and was later delayed due to a global microchip shortage.
+- In September 2021, Rivian became the first automaker to bring a fully electric pickup to the consumer market.
+- In October 2021, Rivian began delivering the R1T truck to customers.
+- On November 10, 2021, Rivian became a public company through an IPO with 153 million shares sold at $78.00, valuing the company at $66.5 billion.
+- On its first trading day, Rivian's stock closed at $100.73 per share, valuing the company at just under $100 billion.
+- On November 19, 2021, Ford and Rivian announced they no longer planned to co-develop an electric vehicle, with Ford retaining a 12 percent stake valued at more than $10 billion after the IPO.
+- Ford sold around 90 percent of its stake in Rivian for $3 billion by the end of 2022.
+- In December 2021, Rivian's chief operations officer Rod Copes stepped down and retired as the company began ramping up R1S SUV production.
+- On March 1, 2022, Rivian announced price increases of 17 percent for the R1T and 20 percent for the R1S due to semiconductor shortages and higher component costs, later apologizing and honoring original configured prices for preorders.
+- On March 14, 2022, Rivian hired Frank Klein as its COO, who began on June 1, 2022.
+- In March 2022, Rivian made it to TIME's List of 100 Most Influential Companies of the year 2022.
+- On July 27, 2022, Rivian announced it would reduce its workforce by 6 percent in response to high inflation, rising interest rates, and increased parts prices.
+- In September 2022, Rivian signed an MoU with Mercedes-Benz Group to establish a joint venture for a European factory producing large commercial electric vans, which was cancelled in December 2022.
+- In October 2022, Rivian issued a voluntary recall of 13,000 vehicles after seven reports of loose torque bolts.
+- In January 2023, reports indicated the departure of multiple top executives during a challenging period for the company.
+- On June 20, 2023, Rivian announced it would incorporate Tesla's North American Charging System (NACS) into its R1T trucks and R1S SUVs in 2025, as well as in its upcoming R2 platform.
+- As early as the second quarter of 2024, Rivian owners may be able to use adapters to connect to Tesla's Supercharger network.
+- On June 21, 2023, Rivian announced the acquisition of Iternio, a Swedish mapping company known for the A Better Route Planner app, and integrated it into its in-car navigation system.
+- In late 2023, Amazon's total fleet size of the EDV reached 10,000 units.
+- In October 2023, Rivian ended its exclusivity deal with Amazon, allowing it to supply other commercial customers with electric delivery vehicles.
+- In December 2023, telecommunications company AT&T announced it would take delivery of the trucks from Rivian as part of a trial process for its fleet.
+- In October 2023, Rivian announced plans to open a new Georgia manufacturing facility with an annual production capacity of 400,000 units in early 2024.
+- In March 2026, plans for vertical construction to begin by the end of 2026 were announced for the Georgia facility at a meeting of the Joint Development Authority of Jasper, Morgan, Newton and Walton Counties.
+- On February 21, 2024, Rivian announced it would lay off 10 percent of its salaried workers beginning on February 23, 2024.
+- In March 2024, the project to open a factory in Georgia was put on hold for financial reasons.
+- The Georgia factory project was restarted in November 2024 when the Biden Administration announced a $6 billion loan for the factory.
+- On March 7, 2024, Rivian unveiled the R2 SUV starting from $45,000 and the R3, which will cost even less.
+- On June 25, 2024, Volkswagen Group announced its intention to invest up to $5 billion in Rivian, commencing with an initial $1 billion and an additional $4 billion anticipated by 2026.
+- The Volkswagen investment commitment includes a prospective joint venture aimed at developing electrical architecture and software technology.
+- On July 29, 2024, Germany's competition authority gave green light to the form of the joint venture between Rivian and Volkswagen Group.
+- In February 2025, Rivian opened orders for its Electric Commercial Van (ECV) to businesses managing fleets.
+- In July 2025, Rivian announced plans to establish an East Coast headquarters at the Junction Krog District building in Atlanta, Georgia, with a 45,000 ft2 office set to open in late 2025 and accommodate 500 employees by the end of 2026.
+- For the first quarter of 2026, Rivian produced 10,236 vehicles and delivered 10,365, reaffirming annual delivery guidance of between 62,000 and 67,000 vehicles for the 2026 fiscal year.
+- In December 2025, Rivian announced it would host its first Autonomy and AI Day to showcase autonomous capabilities with an end-to-end AI-centric approach.
+- On December 9, 2025, CEO RJ Scaringe announced his goal of creating an autonomous vehicle capable of running and coordinating tasks and errands for people.
+- Designed to be capable off-road, Rivian's R1 models have 14 inches of ground clearance and can accelerate from 0-60 mph in under 3 seconds.
+- The R1T truck features four electric motors, with battery sizes of 105 kWh, 135 kWh, or 180 kWh, offering a projected range of 230 to over 400 miles.
+- In December 2021, the R1T was named Motor Trend Truck of the Year.
+- In August 2022, Rivian eliminated the base Explore package model of the R1T due to low customer demand to streamline supply chain issues.
+- The R1S SUV shares 91 percent components with the R1T as of 2018 and utilizes a skateboard platform chassis.
+- In February 2019, Rivian entered a commercial agreement with Amazon to design, produce, and purchase 100,000 electric delivery vehicles (EDVs) by 2030.
+- In November 2022, Rivian announced it had delivered 1,000 EDVs to Amazon.
+- In 2026, Amazon reached half of its goal with over 50,000 EV delivery vans in its fleet as part of a plan to convert its delivery fleet to 100 percent renewable energy by 2030.
+- The EDV is built on the same platform as R1 models, sharing electrical and network architecture, ECUs, and battery-pack design, but uses a steel chassis and a low-feature-content assembly line to keep costs down.
+- A 150-mile prototype for the Amazon electric delivery van was tested in Los Angeles, San Francisco, Colorado, Oklahoma, and Michigan by July 2021.
+- Deployment of the electric delivery vans began in nine U.S. cities in July 2022.
+- In early 2023, Amazon notified Rivian it wanted to buy about 10,000 vans during the year, prompting Rivian to seek removal of exclusivity terms, which Amazon agreed to end by January 2024.
+- The R2 is a smaller, less-expensive SUV on a new platform launched in mid-year 2026 with initial production at the Normal, IL facility.
+- In May 2023, a shrouded clay model of the R2 was shown, with launch costs expected between $40,000 to $60,000 and a potential pickup truck version alongside the SUV.
+- Rivian announced plans in March 2021 for a public charging network across the United States and Canada by the end of 2023, initially restricted to owners but open to any EV with a CCS port as of 2026.
+- The charging network target includes 600 Rivian-exclusive Adventure Network sites with 3,500 DC fast chargers at an initial speed of 200 kW targeting 300 kW, plus 10,000 destination chargers called Rivian Waypoints.
+- In July 2021, Rivian and Tennessee announced plans to install Waypoint chargers at all 56 state parks, with the first site unveiled on October 1, 2021.
+- As of 2026, Rivian had more than 50,000 CCS DC fast chargers across the United States, all powered by renewable energy.
+- Rivian's Normal factory is a 2.6-million-square-foot plant manufacturing vehicle components like battery packs, featuring a paint shop, robotics, stamping machines, and injection molding equipment.
+- In July 2020, plans for 576,000 ft2 additions to the Normal production facility were approved by the town council.
+- In October 2021, Rivian planned a 623,000 ft2 addition on the west side of the Normal facility, bringing the total size to 3,900,000 ft2.
+- In December 2021, Rivian announced plans for a $5 billion battery and assembly plant east of Atlanta with construction planned for summer 2022 and production beginning in 2024 for up to 400,000 vehicles a year.
+- The Georgia plant was projected to employ 7,500 workers with possible growth to 10,000 workers.
+- Some locals opposed the Rivian plant due to environmental concerns and government costs, including Georgia proposing to allocate $125 million for associated factory costs.
+- In early 2024, Rivian announced it was putting construction of the Georgia plant on hold, with the land at least 90 percent graded, while all vehicles continued to be made in Normal.
+- As of December 2021, Rivian is a public company trading under the symbol RIVN on the Nasdaq stock exchange.
+- In January 2017, Rivian received a $1 million grant and a five-year tax abatement from Normal, Illinois, contingent on meeting employment targets and investing $40.5 million over five years.
+- Rivian also received $49.5 million in tax credits from the Illinois state government, contingent upon meeting employment targets and investing at least $175 million into the site by 2024.
+- In December 2017, Sumitomo Corporation made a large strategic investment in Rivian, though the amount was not disclosed.
+- On May 23, 2018, Rivian closed on $200 million in debt financing from Standard Chartered Bank.
+- On February 15, 2019, Amazon led an investment round of $700 million into Rivian.
+- On April 24, 2019, Ford Motor Company invested $500 million at a pre-money valuation of $4.5 billion.
+- On September 10, 2019, Cox Automotive invested $350 million into Rivian and planned to add a representative to its board.
+- In December 2019, Rivian raised US$1.3 billion in a round led by T Rowe Price with Ford, Amazon, Pario Ventures, and BlackRock-managed funds.
+- On January 19, 2021, Rivian raised $2.65 billion led by T. Rowe Price alongside Soros Fund Management, Fidelity, Coatue Management, BlackRock, Abdul Latif Jameel, Amazon's Climate Pledge Fund, and D1 Capital Partners.
+- On July 23, 2021, Rivian raised $2.5 billion in a round led by Amazon's Climate Pledge Fund, D1 Capital Partners, and Ford Motor Company, with new investors Third Point Ventures and Dragoneer Investment Group.
+- In August 2021, Rivian filed for an IPO seeking a valuation as high as $80 billion after raising approximately $11 billion total.
+- Amazon purchased $200 million of stock in the IPO, raising its total stake in Rivian to 22 percent.
+- Rivian's stock peaked at $146.07 on November 13, 2021, before falling to an all-time low of $22.78 on May 9, 2022.
+- The stock recovered to a period high of $28.06 on July 27, 2023, but declined to a daily low of $15.88 on October 26, 2023 following a poorly received $1.5 billion convertible green note.
+- Around 28 percent of Rivian's shares are held by insiders.

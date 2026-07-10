@@ -1,0 +1,54 @@
+---
+title: "JTEKT Corporation"
+entity_type: company
+supply_chain_category: automotive_components
+page_id: page_045307
+publication_date: 
+source_url: https://grokipedia.com/page/JTEKT
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# JTEKT Corporation
+
+**Type:** company  ·  **Role:** automotive_components  ·  **Published:** ?
+
+**Source:** [JTEKT — Grokipedia](https://grokipedia.com/page/JTEKT)  ·  `page_045307`
+
+## Facts
+
+- JTEKT Corporation is a Japanese multinational corporation specializing in the manufacture and sale of automotive components, bearings, and machine tools.
+- The company was formed on January 1, 2006, through the merger of Koyo Seiko Co., Ltd. and Toyoda Machine Works, Ltd.
+- JTEKT is headquartered in Kariya, Aichi Prefecture, Japan.
+- As of March 2025, consolidated operations employ 45,018 people globally.
+- The company generated net sales of 1,884,397 million yen for the fiscal year ended March 2025.
+- Core product lines include electric power steering (EPS) systems, constant velocity joints, precision bearings, high-performance machine tools, and electronic control devices.
+- JTEKT emphasizes innovation in sustainable mobility solutions to support advancements in electric vehicles and automated driving technologies.
+- In January 2010, JTEKT acquired the needle bearing business from The Timken Company in the United States.
+- In July 2011, JTEKT merged and acquired GKN JTEKT Ltd., integrating advanced driveline component technologies.
+- In October 2012, JTEKT merged Toyoda Machine Works Torsen Co., Ltd., enhancing expertise in torque-vectoring differentials and driveline systems.
+- In March 2014, JTEKT Automotiva Brasil Ltda. began manufacturing electric power steering systems in Brazil.
+- In September 2015, JTEKT Automotive Mexico, S.A. de C.V. commenced production of electric power steering in Mexico.
+- In June 2024, JTEKT opened the Carbon Neutrality (CN) Laboratory at its Kariya Plant in Japan for researching energy-saving technologies and low-carbon production methods.
+- In October 2025, JTEKT announced the integration of its steer-by-wire system and Libuddy® backup power supply into the Lexus RZ electric vehicle, marking the first such adoption in a Lexus model.
+- In October 2025, JTEKT formulated its "2030 Environmental Action Plan," aiming for carbon neutrality across Scopes 1, 2, and 3 by reducing CO2 emissions 60% from FY2013 levels by FY2030.
+- In August 2025, JTEKT completed the sale of its European needle roller bearing business to AEQUITA SE & Co. KGaA to streamline operations and enhance profitability.
+- In December 2023, JTEKT announced a $48.4 million investment in its Greenville, South Carolina, facility to add capacity for automotive components.
+- Operations at the Greenville, South Carolina, facility are planned to come online in the third quarter of 2025, creating 87 jobs.
+- JTEKT North America Corporation serves as the regional headquarters for JTEKT's operations in the Americas and is located in Greenville, South Carolina.
+- As of March 2025, North American operations employ 6,758 people across 23 facilities in the United States, Canada, and Mexico.
+- The company announced a $48.4 million expansion of its Greenville, South Carolina, manufacturing facility in 2023, adding seven new machining lines and two assembly lines focused on components for electric vehicles.
+- Operations at the expanded Greenville facility began in the third quarter of 2025, creating 87 new jobs.
+- JTEKT North America supplies components to major automakers including Ford, General Motors, and Toyota.
+- JTEKT's driveline components and steering products are adapted for electric vehicles, prioritizing noise reduction and lightweight materials to align with electrification trends.
+- The automotive division accounts for approximately 71% of the company's total revenue in fiscal year 2024 (ended March 31, 2025), with net sales of ¥1,333.1 billion.
+- JTEKT's electric power steering systems hold the world's top market share since their introduction in 1988.
+- The company produces steer-by-wire technologies like J-EPICS™ and Pairdriver™ that simulate mechanical steering feedback while incorporating redundant safety systems for autonomous driving.
+- JTEKT's machine tools division holds the global No. 1 market share of 55% in cylindrical grinders.
+- Research and development efforts prioritize sustainable machining processes, targeting carbon neutrality by 2035 and a 60% reduction in CO2 emissions by 2030 compared to 2013 levels.
+- JTEKT operates over 50 subsidiaries in Asia, including 22 in China, supporting high-volume production for the region's automotive sector while integrating EV and hybrid technologies.
+- In October 2024, JTEKT India announced its eighth facility in Gujarat to produce automotive parts, with completion targeted for 2027.
+- JTEKT maintains a European headquarters in Almere, Netherlands, overseeing sales and technical centers across the region.
+- As of March 2025, European operations employ 5,528 people across 21 companies.
+- In 2025, JTEKT completed the transfer of its European needle roller bearing business to AEQUITA SE & Co. KGaA, allowing consolidation on core automotive lines like electric power steering and driveline components.
+- JTEKT Automotive Morocco S.A.S., established in 2017, produces electric power steering with production starting in 2020 at an annual capacity of 230,000 units.
+- JTEKT operates a global network of 115 subsidiaries across multiple countries.

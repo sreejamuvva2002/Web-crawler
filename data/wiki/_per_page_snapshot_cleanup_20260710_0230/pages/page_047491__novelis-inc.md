@@ -1,0 +1,44 @@
+---
+title: "Novelis Inc."
+entity_type: company
+supply_chain_category: battery_material
+page_id: page_047491
+publication_date: 2026-05-19
+source_url: https://www.morningstar.com/news/pr-newswire/20260519cl62396/novelis-reports-fourth-quarter-and-full-fiscal-year-2026-results
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# Novelis Inc.
+
+**Type:** company  ·  **Role:** battery_material  ·  **Published:** 2026-05-19
+
+**Source:** [Novelis Reports Fourth Quarter and Full Fiscal Year 2026 Results | Morningstar](https://www.morningstar.com/news/pr-newswire/20260519cl62396/novelis-reports-fourth-quarter-and-full-fiscal-year-2026-results)  ·  `page_047491`
+
+## Facts
+
+- Novelis Inc. is a leading sustainable aluminum solutions provider and the world leader in aluminum rolling and recycling.
+- Novelis reported fourth quarter and full fiscal year 2026 financial results on May 19, 2026.
+- Full fiscal year 2026 net sales increased 7% versus the prior year to $18.4 billion.
+- Fiscal 2026 net income attributable to common shareholders decreased 98% versus the prior year to $15 million.
+- Full fiscal year 2026 Adjusted EBITDA was $1.6 billion, down 9% YoY.
+- Rolled product shipments for full FY2026 totaled 3,557 kilotonnes, down 5% YoY.
+- Novelis began commissioning the cold mill at its new U.S. greenfield plant in Bay Minette in March.
+- Total capital expenditures reached $2.3 billion in fiscal year 2026, mainly related to the Company's U.S. greenfield rolling and recycling plant in Bay Minette, Alabama.
+- The Bay Minette facility is expected to commission in the second half of calendar year 2026.
+- Novelis is focused on capturing strong market demand for high-recycled-content, low carbon aluminum.
+- Novelis serves customers in the aerospace, automotive, beverage packaging and specialties industries throughout North America, Europe, Asia and South America.
+- Steve Fisher serves as president and CEO of Novelis Inc.
+- Dev Ahuja serves as executive vice president and CFO of Novelis Inc.
+- Novelis expects to return to positive free cash flow by the end of fiscal 2027.
+- Novelis had a net leverage ratio of 4.1x at the end of fiscal year 2026.
+- Total liquidity stood at $2.8 billion as of March 31, 2026, consisting of $1.3 billion in cash and cash equivalents and $1.5 billion in availability under committed credit facilities.
+- Novelis is a subsidiary of Hindalco Industries Limited, the metals flagship company of the Aditya Birla Group.
+- Oswego production interruptions caused rolled product shipments to be an estimated 145 kilotonnes lower than expected for full FY2026.
+- Novelis recorded $925 million in pre-tax losses related to fires at its Oswego, New York plant, net of insurance recoveries, for full FY2026.
+- Adjusted EBITDA for full FY2026 was impacted by an estimated negative $143 million from tariffs.
+
+## Links
+
+- novelis.com/investors — Investor relations and presentation materials
+- https://event.choruscall.com/mediaframe/webcast.html?webcastid=y7K8wuPV — Live webcast for earnings call
+- http://services.incommconferencing.com/DiamondPassRegistration/register?confirmationNumber=13760092&linkSecurityString=1eea9897f8 — Telephone registration for earnings call

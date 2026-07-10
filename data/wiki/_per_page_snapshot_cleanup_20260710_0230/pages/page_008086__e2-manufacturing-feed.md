@@ -1,0 +1,46 @@
+---
+title: "E2 Manufacturing Feed"
+entity_type: investment_announcement
+supply_chain_category: government_support
+page_id: page_008086
+publication_date: 
+source_url: https://e2.org/announcements/sectors/manufacturing/
+generated_from: v15 single-page extraction (cleanup, 48k ctx; pre Stage-6 merge)
+---
+
+# E2 Manufacturing Feed
+
+**Type:** investment_announcement  ·  **Role:** government_support  ·  **Published:** ?
+
+**Source:** [Manufacturing | E2](https://e2.org/announcements/sectors/manufacturing/)  ·  `page_008086`
+
+## Facts
+
+- Nov 14: Toyota Industries expands Georgia presence in Pendergrass, creating 250 new jobs with a $69 million investment.
+- Aug 31: Hyundai Motor Group and LG Energy Solution invest an additional $2 billion in Bryan County, Georgia, creating 400 jobs.
+- Aug 29: Automotive supplier Daesol Ausys Georgia invests $72 million in Harris County (West Point), creating 140 jobs.
+- Jun 07: Woory Industrial Co. opens an EV parts manufacturing and R&D facility in Laurens County (Dublin), creating 130 jobs with an $18 million investment.
+- May 23: Gov. Kemp announces automotive supplier Hanon Systems will create 160 new jobs in Bulloch County (Statesboro) with a $40 million investment.
+- May 18: Anovion Technologies opens an $800 million Georgia plant in Bainbridge aimed at securing U.S. graphite supply, creating 400 jobs.
+- Feb 01: Gov. Kemp announces Seoyon E-HWA joins the list of Hyundai suppliers, nearly doubling Georgia employment in Bloomingdale with 740 jobs and a $76 million investment.
+- Jan 26: SK Battery America opens a U.S. IT center in Roswell, creating 200 high-tech jobs with a $19 million investment.
+- Jan 11: Qcells brings 2,000 jobs and a solar manufacturing campus to Bartow County (Cartersville) as part of a $2.5 billion expansion, with 3.3 GW capacity.
+- Jan 11: Qcells expands to Dalton, Georgia, creating 510 jobs.
+- Jan 05: Gov. Kemp announces longtime Kia and HMG supplier Ecoplastics Corporation will build a manufacturing facility in Bulloch County (Register), creating 456 jobs with a $205 million investment.
+- Dec 08: Hyundai Motor Group and SK On announce plans to build an EV battery facility in Bartow County, Georgia, creating 3,500 jobs with a $4 billion investment.
+- Nov 14: FREYR Battery plans a manufacturing center in Coweta County, Georgia, creating 723 jobs with a $2.57 billion investment.
+- Nov 09: Auto parts manufacturer Joon Georgia, Inc. plans a $317 million investment in Statesboro to supply the Hyundai EV plant, creating 630 jobs.
+- Mar 22: Gov. Kemp announces Qcells supplier Hanwha Advanced Materials Georgia will invest $147 million in a Cartersville manufacturing facility, creating 160 jobs.
+- Dec 14: Redwood Materials joins the electric vehicle and battery trek to South Carolina, establishing operations in Ridgefield with 1,500 jobs and a $3.5 billion investment for 100 GWh capacity.
+- Mar 22: Cirba Solutions builds a world-class EV battery materials facility in Columbia, South Carolina, creating 300 jobs with a $300 million investment to produce metals powering 500,000 EVs per year.
+- Mar 22: Albemarle Corporation invests $1.3 billion in a South Carolina lithium processing facility in Chester County, creating 300 jobs with 50,000 MT/Y capacity.
+- Dec 08: Kontrolmatik Technologies establishes operations in Colleton County (Walterboro), South Carolina, creating 575 jobs with a $279 million investment for 3 GWh capacity.
+- Sep 14: A new factory in Columbia, South Carolina will make up to 10,000 EV chargers a year as part of an ABB E-Mobility expansion with a $4 million investment.
+- Sep 09: Governor Cooper announces Wolfspeed selects Siler City, North Carolina for a 445-acre manufacturing campus, creating 1,800 jobs with a $5 billion investment.
+- Jun 26: Enchem America Inc. locates U.S. manufacturing operations in Brownsville, Tennessee, creating 190 jobs with a $152.2 million investment.
+- May 23: Italian tech company alpitronic Americas LLC creates 300 jobs in Mecklenburg County (Charlotte), North Carolina as its new U.S. headquarters for EV charging operations, with an $18.3 million investment.
+- Feb 27: EV battery supplier Dongwha Electrolyte opens a $70 million plant in Clarksville, Tennessee, creating 68 jobs.
+- Feb 07: EV charger manufacturer Kempower, Inc. doubles its jobs commitment in Durham County, North Carolina to 601 jobs with a $41.2 million investment.
+- Nov 28: Lithium-ion battery pouch manufacturer Dai Nippon Printing Co selects Davidson County (Linwood), North Carolina for its first U.S. operation, creating 350 jobs with a $233 million investment.
+- Oct 26: Governor Cooper announces global battery component supplier Epsilon Advanced Materials selects Brunswick County, North Carolina for its first U.S. plant, creating 500 jobs with $650 million capacity/investment.
+- Sep 19: Canada's Silfab sets up a solar cell factory in Fort Mill, South Carolina, creating 800 jobs with a $150 million investment and capacity for 2GW of cells + 1.2GW of modules per year.

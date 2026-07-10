@@ -1,0 +1,272 @@
+[
+  {
+    "entity_name": "State of Georgia",
+    "canonical_name": "State of Georgia",
+    "entity_type": "policy_or_incentive",
+    "supply_chain_category": "government_support",
+    "facts": [
+      "Bulk sales of propane by licensed distributors are exempt from the Georgia state motor fuel excise tax.",
+      "Beginning Jan. 1, 2027, the sale of electricity dispensed from electric vehicle chargers owned by nonprofit organizations, located on federal interstates, and providing electricity without payment is exempt from the state motor fuel excise tax.",
+      "The Georgia Environmental Protection Division (EPD) provides U.S. EPA Diesel Emission Reduction Act funding for eligible projects that replace existing school buses with alternative fuel or zero-emission school buses.",
+      "Eligible alternative fuels for the EPD diesel emission reduction grants include electricity, natural gas, and propane.",
+      "The U.S. DOT’s NEVI Formula Program required the Georgia Department of Transportation (GDOT) to submit an annually updated EV Infrastructure Deployment Plan for fiscal years 2022 through 2026 to their FHWA Division Office.",
+      "Georgia’s submitted NEVI plans must describe how the state intends to distribute NEVI funds, outline physical and cybersecurity strategies, and include a Community Engagement Outcomes Report.",
+      "The submitted NEVI plans must address updated NEVI Guidance.",
+      "A business that manufactures alternative energy products for use in battery, biofuel, and electric vehicle enterprises may claim an annual tax credit for five years under the Alternative Fuel and Advanced Vehicle Job Creation Tax Credit.",
+      "The amount of the job creation tax credit is based on the number of eligible new full-time employee jobs and the county where the business is located.",
+      "Qualified entities for the job creation tax credit must be defined as business enterprises and cannot include retail businesses.",
+      "Credit amounts for the job creation tax credit differ depending on how the county ranks based on unemployment rates and income levels.",
+      "An eligible business enterprise may claim an income tax credit for the purchase, lease, and installation of a qualified EV charging station located in Georgia under the EV Charging Station Tax Credit.",
+      "The EV charging station tax credit equals 10% of the cost of the station, up to $2,500.",
+      "Unused portions of the EV charging station tax credit may be carried forward for up to three years.",
+      "Any motor vehicle equipped with idle reduction technology may exceed Georgia state gross, axle, and tandem weight limits by up to 550 pounds.",
+      "To qualify for the idle reduction weight exemption, operators must present written certification of the technology's weight and demonstrate it is fully functional at all times.",
+      "Businesses can claim an income tax credit for 10% of the cost to convert a vehicle to natural gas, electricity, propane, or hydrogen, up to $2,500 per vehicle under the AFV Conversion Tax Credit.",
+      "Converted vehicles under the AFV Conversion Tax Credit must be fueled solely by an alternative fuel and meet low-emission or zero emission standards defined by the Board of Natural Resources.",
+      "Unused portions of the AFV conversion tax credit may be carried forward for up to three years.",
+      "The Georgia Electric Mobility and Innovation Alliance (EMIA) is a statewide initiative to grow the electric mobility industry through a partnership between government, industries, electric utilities, nonprofits, and other stakeholders.",
+      "EMIA has a long-term goal to bring new investments to Georgia while supporting the ongoing transition of the state’s existing automotive industry.",
+      "The Georgia Department of Education provides grants to local educational agencies for the purchase of new electric, compressed natural gas, or propane school buses under the Alternative Fuel School Bus Grants program.",
+      "School districts applying for alternative fuel school bus grants must coordinate with a transportation field consultant from the Georgia Department of Education.",
+      "Alternative fuel school bus grant amounts vary and are available on a first-come, first-served basis.",
+      "Amicalola Electric Membership Corporation is a cooperative operating in Georgia that provides incentives related to alternative fuels and vehicles.",
+      "Carroll Electric Member Corporation offers an EV Level 2 Charging Station Purchase Rebate for residential customers.",
+      "Central Georgia Electric Membership Corporation currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Acworth municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Barnesville municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Buford municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Calhoun municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Cartersville municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Covington municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of East Point municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Fairburn municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Grantville municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Griffin municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Hampton municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Jackson municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Lawrenceville municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Mansfield municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Marietta municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Monroe municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Monticello municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Norcross municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Oxford municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The City of Palmetto municipal utility currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "Cobb Electric Membership Corporation offers an EV Level 2 Charging Station Purchase Rebate and a New EV Rebate.",
+      "Coweta-Fayette EMC offers an EV Level 2 Charging Station Purchase Rebate for both residential and non-residential customers.",
+      "Diverse Power Incorporated offers an EV Level 2 Charging Station Purchase Rebate.",
+      "Georgia Power offers an EV Time-of-Use (TOU) Rate and an EV Level 2 Charging Station Purchase Rebate for residential customers.",
+      "Georgia Power offers an EV Level 2 Charging Station Purchase Rebate and a Make-Ready or Pre-Wiring Rebate for EV Chargers for non-residential customers.",
+      "Greystone Power Corporation offers an EV Time-of-Use (TOU) Rate and an EV Level 2 Charging Station Purchase Rebate for residential customers.",
+      "Jackson Electric Membership Corporation offers an EV Time-of-Use (TOU) Rate and an EV Level 2 Charging Station Purchase Rebate for residential customers.",
+      "Liberty Utilities offers an EV Time-of-Use (TOU) Rate for both residential and non-residential customers.",
+      "Newnan Utilities currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "Sawnee Electric Membership Corporation offers an EV Time-of-Use (TOU) Rate and an EV Level 2 Charging Station Installation Rebate for residential customers.",
+      "Sawnee Electric Membership Corporation offers a Make-Ready or Pre-Wiring Rebate for EV Chargers for non-residential customers.",
+      "Snapping Shoals EMC offers an EV Level 2 Charging Station Purchase Rebate and a New EV Rebate for residential customers.",
+      "Southern Rivers Energy currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "The Tennessee Valley Authority (TVA) offers an EV Direct Current (DC) Fast Charging Station Purchase Rebate, an EV DC Fast Charging Station Installation Rebate, and EV Charger Deployment Pilot Programs for non-residential customers.",
+      "Upson Electric Membership Corporation currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "Walton Electric Member Corporation currently offers no residential or non-residential incentives for alternative fuels and vehicles.",
+      "Under Georgia law, a person or entity that provides EV charging services and is not subject to the jurisdiction of the Georgia Public Service Commission is not defined as a public utility.",
+      "A person can operate a fully autonomous vehicle with the automated driving system engaged without a driver present if the vehicle complies with federal motor vehicle safety standards and is registered as fully autonomous.",
+      "Gasoline suppliers providing fuel to distributors in Georgia must offer gasoline suitable for blending with fuel alcohol and cannot prevent distributors from qualifying for tax credits.",
+      "Effective January 1, 2027, all public EV charging stations in Georgia must accurately measure and display electricity dispensed to actively charging EVs on a per kilowatt-hour (kWh) basis.",
+      "The Georgia Department of Revenue has authority to conduct EV charging station inspections for accurate delivery and display of electricity per kWh, with violators subject to fines up to $1,000.",
+      "All-electric vehicles are subject to an annual licensing fee in 2025 of $352.56 for commercial vehicles and $234.97 for non-commercial vehicles.",
+      "Plug-in hybrid electric vehicles and flexible fuel vehicles are subject to the AFV annual licensing fee only if they have an AFV license plate.",
+      "AFV license plates include a one-time manufacturing fee of $25, an annual $20 registration fee, and a $35 special tag fee.",
+      "Electric, natural gas, propane, bi-fuel, and dual-fuel vehicles are eligible for an AFV license plate.",
+      "Biodiesel produced or sold in Georgia, including for blending with petroleum diesel, must meet ASTM Standard D6751.",
+      "Distributors selling or using motor fuel in Georgia are subject to an excise tax of $0.26 per gallon, adjustable based on vehicle efficiencies and the consumer price index.",
+      "Effective January 1, 2027, the gasoline gallon equivalent (GGE) for electricity may not exceed 11 kilowatt-hours, hydrogen must be at least 2.2 pounds, compressed natural gas must be at least 110,000 BTU, and liquefied natural gas must be at least 6.06 pounds.",
+      "Compressed natural gas (CNG) is defined as a mixture of hydrocarbon gases and vapors consisting principally of methane in gaseous form compressed for use as motor fuel.",
+      "Liquefied natural gas (LNG) is defined as methane or natural gas in cryogenic or refrigerated liquid form for use as motor fuel.",
+      "Propane and special fuels sold in bulk to a licensed consumer distributor are exempt from the alternative fuel excise tax.",
+      "The excise tax for electricity begins Jan."
+    ],
+    "links": [
+      {
+        "url": "",
+        "context": "EPD School Bus Grants website"
+      },
+      {
+        "url": "",
+        "context": "GDOT Electric Vehicle Infrastructure Deployment website"
+      },
+      {
+        "url": "",
+        "context": "Georgia EMIA website"
+      },
+      {
+        "url": "",
+        "context": "Georgia Department of Natural Resources Clean Vehicle Tax Credits website"
+      },
+      {
+        "url": "",
+        "context": "Georgia Environmental Protection Division Clean Vehicle Related Tax Credits website"
+      },
+      {
+        "url": "",
+        "context": "Amicalola Electric Membership Corporation website"
+      },
+      {
+        "url": "",
+        "context": "Carroll Electric Member Corporation - (GA) website"
+      },
+      {
+        "url": "",
+        "context": "Central Georgia Electric Membership Corporation website"
+      },
+      {
+        "url": "",
+        "context": "City of Acworth- (GA) website"
+      },
+      {
+        "url": "",
+        "context": "City of Barnesville - (GA) website"
+      },
+      {
+        "url": "",
+        "context": "City of Buford website"
+      },
+      {
+        "url": "",
+        "context": "City of Calhoun- (GA) website"
+      },
+      {
+        "url": "",
+        "context": "City of Cartersville- (GA) website"
+      },
+      {
+        "url": "",
+        "context": "City of Covington - (GA) website"
+      },
+      {
+        "url": "",
+        "context": "City of East Point- (GA) website"
+      },
+      {
+        "url": "",
+        "context": "City of Fairburn - (GA) website"
+      },
+      {
+        "url": "",
+        "context": "City of Grantville - (GA) website"
+      },
+      {
+        "url": "",
+        "context": "City of Griffin - (GA) website"
+      },
+      {
+        "url": "",
+        "context": "City of Hampton - (GA) website"
+      },
+      {
+        "url": "",
+        "context": "City of Jackson - (GA) website"
+      },
+      {
+        "url": "",
+        "context": "City of Lawrenceville - (GA) website"
+      },
+      {
+        "url": "",
+        "context": "City of Mansfield - (GA) website"
+      },
+      {
+        "url": "",
+        "context": "City of Marietta - (GA) website"
+      },
+      {
+        "url": "",
+        "context": "City of Monroe - (GA) website"
+      },
+      {
+        "url": "",
+        "context": "City of Monticello - (GA) website"
+      },
+      {
+        "url": "",
+        "context": "City of Norcross- (GA) website"
+      },
+      {
+        "url": "",
+        "context": "City of Oxford - (GA) website"
+      },
+      {
+        "url": "",
+        "context": "City of Palmetto - (GA) website"
+      },
+      {
+        "url": "",
+        "context": "Cobb Electric Membership Corporation website"
+      },
+      {
+        "url": "",
+        "context": "Coweta-Fayette EMC website"
+      },
+      {
+        "url": "",
+        "context": "Diverse Power Incorporated website"
+      },
+      {
+        "url": "",
+        "context": "Georgia Power website"
+      },
+      {
+        "url": "",
+        "context": "Greystone Power Corporation website"
+      },
+      {
+        "url": "",
+        "context": "Jackson Electric Membership Corporation - (GA) website"
+      },
+      {
+        "url": "",
+        "context": "Liberty Utilities website"
+      },
+      {
+        "url": "",
+        "context": "Newnan Utilities website"
+      },
+      {
+        "url": "",
+        "context": "Sawnee Electric Membership Corporation website"
+      },
+      {
+        "url": "",
+        "context": "Snapping Shoals EMC website"
+      },
+      {
+        "url": "",
+        "context": "Southern Rivers Energy website"
+      },
+      {
+        "url": "",
+        "context": "Tennessee Valley Authority (TVA) website"
+      },
+      {
+        "url": "",
+        "context": "Upson Electric Membership Corporation (Upson EMC) website"
+      },
+      {
+        "url": "",
+        "context": "Walton Electric Member Corporation website"
+      },
+      {
+        "url": "",
+        "context": "Georgia Department of Revenue AFV Annual Licensing Fees Policy Bulletin and the Annual AFV Fees websites"
+      }
+    ],
+    "source_url": "https://afdc.energy.gov/laws/all?state=GA",
+    "source_title": "Alternative Fuels Data Center: Georgia Laws and Incentives",
+    "source_domain": "energy.gov",
+    "publication_date": "2027-01-01",
+    "date_precision": "body_dateline",
+    "page_id": "page_005459",
+    "generated_by_model": "qwen3.6:35b-a3b",
+    "generation_date": "2026-07-09",
+    "prompt_version": "v15"
+  }
+]
